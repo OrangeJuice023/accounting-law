@@ -1,0 +1,74 @@
+{
+  "id": "les.sales.study-toolkit",
+  "kind": "appendix",
+  "moduleId": "ba166.sales",
+  "title": "Study toolkit: doctrine drill and exam attack plan",
+  "description": "Reviewer study aids: the quick-recall drill, the six-step exam plan, and the primary-source list. Not a syllabus topic.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "about-toolkit",
+      "kind": "note",
+      "severity": "info",
+      "markdown": "This page collects the reviewer's own study aids (Secs. 12–13 and the source list). It is **not a syllabus topic** — use it for recall and exam method after studying the thirteen lessons.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 12–13", "section": "Secs. 12–13" }]
+    },
+    {
+      "anchorId": "doctrine-drill",
+      "kind": "heading",
+      "markdown": "## Case doctrine drill — quick recall",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 12", "section": "Sec. 12" }]
+    },
+    {
+      "anchorId": "drill-bullets",
+      "kind": "explanation",
+      "markdown": "- **Cheng v. Genato.** Art. 1544 applies only where the competing transactions are valid sales of the same thing, the buyers' interests conflict, and both buy from the same seller. Do not forget good faith.\n- **Sale vs. contract to sell.** Determine whether the seller already has a present duty to convey title or has reserved title until full payment; that classification controls breach, cancellation, and double-sale analysis.\n- **Vices of consent (Arts. 1330, 1331, 1338).** Identify mistake, fraud, or another legally recognized vice and explain materiality and causation. Mere regret or a bad bargain is not enough.\n- **False or simulated price.** Distinguish a merely low price from a non-real or simulated price, and determine whether the true transaction is lawful.\n- **Non-owner sale.** Begin with Art. 1459 / *nemo dat*, then test each claimed statutory exception rather than assuming good faith always cures lack of ownership.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 12", "section": "Sec. 12", "excerptHint": "Drill bullets" }]
+    },
+    {
+      "anchorId": "attack-plan",
+      "kind": "heading",
+      "markdown": "## Exam attack plan",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 12", "section": "Sec. 13" }]
+    },
+    {
+      "anchorId": "attack-steps",
+      "kind": "explanation",
+      "markdown": "1. **Classify the transaction**: sale, contract to sell, option, right of first refusal, barter, agency, lease, dacion en pago, or equitable mortgage.\n2. **State the applicable article** and exact legal test.\n3. **Check all requisites one by one**: capacity, definite object, price or cause, consent, form, condition, delivery, title, registration, good faith.\n4. **Identify the event date**: perfection, delivery, default, notice, registration, judgment, or expiration of a period.\n5. **State the legally available remedy** and any bar on cumulative remedies or deficiency recovery.\n6. **Apply special statutes** (Recto, Maceda, PD 957) only after confirming statutory coverage.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 12", "section": "Sec. 13", "excerptHint": "Six steps" }]
+    },
+    {
+      "anchorId": "precision",
+      "kind": "note",
+      "severity": "info",
+      "markdown": "**Precision checkpoint.** This reviewer follows the syllabus headings and statutory anchors. A case name listed without full factual text in the syllabus should be read in its complete assigned decision before memorizing a verbatim quotation. **The case summaries here are paraphrases, not quotations.**",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 12", "section": "Sec. 13", "excerptHint": "Precision checkpoint" }]
+    },
+    {
+      "anchorId": "primary-sources",
+      "kind": "heading",
+      "markdown": "## Primary sources and assigned-case links",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 13", "section": "Source list" }]
+    },
+    {
+      "anchorId": "source-links",
+      "kind": "explanation",
+      "markdown": "Use the statutory text for the exact element, exception, deadline, and consequence. Links below are transcribed from the reviewer's own source list:\n\n- [1] Civil Code of the Philippines, RA 386 (especially Arts. 1156–1358, 1458–1637)\n- [2] Sanchez v. Rigos, G.R. No. L-25494 (June 14, 1972)\n- [3] Villonco Realty Co. v. Bormaheco, Inc., G.R. No. L-26872 (July 25, 1975)\n- [4] UMCPAB v. BRYC-V Development Corp., G.R. No. 179653 (July 31, 2009)\n- [5] Tanay Recreation Center v. Fausto, G.R. No. 140182 (April 12, 2005) — case metadata; locate the full decision through Lawphil or the Supreme Court\n- [6] Cheng v. Genato, cited for Art. 1544 requisites (see G.R. No. 222530, 2019)\n- [7] Paylago v. Jarabe, G.R. No. 38152 (September 20, 1990)\n- [8] Maceda Law, RA 6552 (1972)\n- [9] Consumer Act, RA 7394 (cross-reference to warranties)\n- [10] Lemon Law, RA 10642",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 13", "section": "Source list", "excerptHint": "Links [1]–[10]" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 12–13", "section": "Secs. 12–13; source list" }]
+    }
+  ]
+}

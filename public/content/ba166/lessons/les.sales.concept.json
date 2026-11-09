@@ -1,0 +1,123 @@
+{
+  "id": "les.sales.concept",
+  "kind": "lesson",
+  "topicId": "ba166.sales.concept",
+  "title": "The contract of sale: concept, elements, stages",
+  "description": "What a sale is, its requisites and characteristics, its three stages, and how it differs from related contracts.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "plain-english",
+      "kind": "definition",
+      "markdown": "A sale is an agreement where the **seller undertakes to transfer ownership and deliver a specific or determinable thing**, while the **buyer undertakes to pay a definite price** in money or its equivalent. The agreement is generally **perfected by consent** — but perfection does not mean the buyer already owns the thing: ownership ordinarily passes by delivery.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Plain-English version" }]
+    },
+    {
+      "anchorId": "technical-rule",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1458",
+      "markdown": "Articles 1318 and 1350 add the general contract frame: a valid contract requires **consent, object, and cause** — cause in an onerous contract being the prestation or promise of the other party.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Technical rule and controlling provisions" }]
+    },
+    {
+      "anchorId": "requisites",
+      "kind": "explanation",
+      "markdown": "**Essential requisites:**\n\n- **Consent** — the meeting of minds.\n- **Object** — determinate or determinable, licit, possible, and within commerce.\n- **Cause** — for the seller, the price; for the buyer, the thing or service promised.\n\n**Natural elements** arise from law unless validly excluded. **Accidental elements** are terms the parties add, such as a condition, term, or penalty clause.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Essential requisites" }]
+    },
+    {
+      "anchorId": "consensual",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1475",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Consensual perfection" }]
+    },
+    {
+      "anchorId": "stages-table",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "The three stages of a sale",
+        "columns": ["Stage", "What happens", "Legal significance"],
+        "rows": [
+          ["Negotiation", "Offers, counteroffers, due diligence, draft terms.", "Usually no sale yet; an offer must be certain and acceptance absolute."],
+          ["Perfection", "Meeting of minds on object and price.", "Reciprocal obligations arise; either party may demand performance, subject to legal formalities."],
+          ["Consummation", "Performance: delivery, payment, transfer of title and documents.", "The obligations are carried out; ownership normally passes by delivery."]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Stages table" }]
+    },
+    {
+      "anchorId": "title-not-mode",
+      "kind": "explanation",
+      "markdown": "**Sale is title, not a mode of acquiring ownership.** A sale creates the legal basis (title) for transfer; the mode that ordinarily transfers ownership is **delivery (tradition)**. The buyer may therefore hold a perfected sale and a right to demand delivery even before becoming owner. Registration of land titles has a separate role in land registration and in resolving competing claims — it does not turn an unperfected negotiation into a sale.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Sale is title, not a mode" }]
+    },
+    {
+      "anchorId": "characteristics",
+      "kind": "explanation",
+      "markdown": "**Characteristics often asked in recitation:**\n\n- **Consensual** — perfected by consent, ordinarily on thing and price.\n- **Principal** — it can stand on its own.\n- **Onerous** — each party gives something of value.\n- **Commutative** in the usual case — prestations are regarded as equivalent at formation, though adequacy of price is generally not the test of validity by itself.\n- **Bilateral / synallagmatic** — both seller and buyer have obligations.\n- **Nominate** — specifically governed by the Civil Code provisions on sale.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 2–3", "section": "Sec. 1", "excerptHint": "Characteristics" }]
+    },
+    {
+      "anchorId": "sale-vs-contract-to-sell",
+      "kind": "definition",
+      "markdown": "In a **contract of sale**, the seller has already undertaken to transfer ownership; nonpayment is ordinarily a breach that may support remedies. In a **contract to sell**, the seller **reserves ownership** and promises to execute the absolute sale only after a suspensive condition — typically full payment — is fulfilled. Until that condition is met, the seller has not yet become bound to convey title.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 3", "section": "Sec. 1", "excerptHint": "Plain-English distinction" }]
+    },
+    {
+      "anchorId": "sale-vs-tosell-table",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Contract of sale vs. contract to sell",
+        "columns": ["Feature", "Contract of sale", "Contract to sell"],
+        "rows": [
+          ["Ownership / title", "Ordinarily transfers by delivery; seller has a present duty to transfer.", "Expressly reserved by seller until the condition is fulfilled."],
+          ["Nonpayment", "Generally breach of a perfected sale; remedies may include fulfillment or resolution.", "Failure of suspensive condition; seller generally not yet obliged to convey title."],
+          ["After full payment", "Buyer can demand delivery or title under the existing sale.", "Seller must still execute or convey the absolute sale if terms and condition are satisfied."],
+          ["Double-sale rule", "Art. 1544 may apply if there are two valid sales by the same seller.", "Art. 1544 generally does not apply to an unconsummated contract to sell as though it were a prior sale."]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 3", "section": "Sec. 1", "excerptHint": "Sale vs. contract to sell table" }]
+    },
+    {
+      "anchorId": "conditional-sale",
+      "kind": "note",
+      "severity": "exam",
+      "markdown": "A **conditional sale** has consent to a sale, but its effects or performance depend on a condition. A **contract to sell** reserves title and makes the seller's later duty to convey dependent on the agreed condition. **Do not classify a document only by its title**: read the stipulations and ask whether title was reserved and whether the seller promised a present transfer or a future conveyance after full payment.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 3", "section": "Sec. 1", "excerptHint": "Conditional sale vs. contract to sell" }]
+    },
+    {
+      "anchorId": "related-contracts-table",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Sale distinguished from related contracts",
+        "columns": ["Transaction", "Core distinction / exam marker"],
+        "rows": [
+          ["Donation (Arts. 725, 1471)", "Gratuitous transfer motivated by liberality; a simulated sale may conceal a donation, but donation formalities then matter."],
+          ["Barter (Art. 1468)", "Thing exchanged for another thing; if both money and thing are involved, compare values to see whether sale or barter predominates."],
+          ["Piece of work (Arts. 1467, 1713–1715)", "The principal object may be the contractor's labor or skill and the desired result; use the relative value of materials and labor and the parties' intent."],
+          ["Agency to buy or sell (Arts. 1466, 1868)", "The agent acts for and is accountable to a principal; a buyer under sale buys for himself."],
+          ["Dacion en pago (Art. 1245)", "A pre-existing debt is extinguished by transfer of property accepted by the creditor — not an ordinary cash sale."],
+          ["Lease (Arts. 1643–1645)", "Grants use and enjoyment for a period in return for rent; it does not by itself transfer ownership."]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 3", "section": "Sec. 1", "excerptHint": "Distinguish sale from related contracts" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 2–3", "section": "Sec. 1" }]
+    }
+  ]
+}

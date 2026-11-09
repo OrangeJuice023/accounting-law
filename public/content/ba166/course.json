@@ -1,0 +1,22 @@
+{
+  "id": "ba166",
+  "code": "BA 166 WFZ",
+  "title": "Sales, Agency, and Other Business Transactions",
+  "institution": "University of the Philippines Diliman",
+  "school": "Cesar E.A. Virata School of Business",
+  "academicYear": "2026–2027",
+  "lecturer": "Carmille Addi Urzula B. Romero-Aratea",
+  "description": "Overview of the legal framework for special business contracts and laws governing other business-related transactions.",
+  "grading": [
+    { "component": "Recitation and activities", "weight": "10%" },
+    { "component": "First examination", "weight": "30%" },
+    { "component": "Second examination", "weight": "30%" },
+    { "component": "Departmental final examination", "weight": "30%" }
+  ],
+  "examCoverage": [
+    { "exam": "First examination", "coverage": "Start of the semester up to the session before the first examination." },
+    { "exam": "Second examination", "coverage": "Topics taken up after the first examination onward." },
+    { "exam": "Departmental final", "coverage": "Comprehensive standard examination for both BA 166 sections covering all topics." }
+  ],
+  "blockIds": ["ba166.block-a", "ba166.block-b", "ba166.block-c", "ba166.block-d", "ba166.block-e", "ba166.block-f"]
+}

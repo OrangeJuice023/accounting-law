@@ -1,0 +1,37 @@
+{
+  "id": "les.sales.price-cause",
+  "kind": "lesson",
+  "topicId": "ba166.sales.price-cause",
+  "title": "Cause and price",
+  "description": "Certain or ascertainable price, adequacy, simulation, and money or its equivalent.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "certain-price",
+      "kind": "explanation",
+      "markdown": "Arts. 1469–1474 require a price that is **certain or ascertainable** under the contract or a mechanism the parties selected. A price may be fixed by reference to a specified thing or market standard; the parties cannot simply leave it entirely to the uncontrolled will of one party. When no price is agreed and no workable mechanism exists, **Art. 1474 may treat the sale as inefficacious** unless the buyer has accepted and paid in accordance with the provision.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Price requirements" }]
+    },
+    {
+      "anchorId": "adequacy-simulation",
+      "kind": "explanation",
+      "markdown": "**Adequacy and simulation:**\n\n- **Adequacy (Arts. 1355, 1470).** A low price alone generally does not invalidate a sale if the price is real and consent is valid. Gross inadequacy may be evidence of fraud, mistake, undue influence, simulation, or another vitiating fact.\n- **Simulated price (Arts. 1345–1346, 1471).** Absolute simulation may mean no real contract; relative simulation may permit the parties' true agreement to be given effect if lawful and not prejudicial to third persons.\n- **False price.** Determine whether price was actually agreed and whether the discrepancy reflects fraud, simulation, or a separate legal defect. **Do not equate every undervalued transaction with simulation.**",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Adequacy and simulation" }]
+    },
+    {
+      "anchorId": "money-or-equivalent",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1468",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Money or equivalent" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4" }]
+    }
+  ]
+}

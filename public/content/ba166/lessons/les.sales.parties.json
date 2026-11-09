@@ -1,0 +1,60 @@
+{
+  "id": "les.sales.parties",
+  "kind": "lesson",
+  "topicId": "ba166.sales.parties",
+  "title": "Parties: capacity and disqualifications",
+  "description": "Who may buy and sell: capacity to consent, minors, spouses, disqualified buyers, and age or sickness.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "general-rule",
+      "kind": "explanation",
+      "markdown": "As a general rule, **persons with capacity to contract may buy and sell**. Analyze both (1) capacity to give consent and (2) special statutory disqualification — and do not treat them as identical: **incapacity may make a contract voidable**, while a transaction prohibited by Art. 1491 **can be void** under Art. 1492 and the applicable rules.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 3", "section": "Sec. 2", "excerptHint": "General rule" }]
+    },
+    {
+      "anchorId": "minors",
+      "kind": "explanation",
+      "markdown": "**Minors (Arts. 1327, 1390, 1399, 1403(3), 1489).** An ordinary contract entered into by a minor acting without proper legal capacity is generally **voidable rather than automatically void**, subject to statutory exceptions and the Code rules on who may invoke or ratify it. A minor's purchase of necessaries is subject to specific rules.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 2", "excerptHint": "Minors" }]
+    },
+    {
+      "anchorId": "family-code-194-flag",
+      "kind": "note",
+      "severity": "info",
+      "markdown": "The syllabus also lists **Family Code Art. 194** in connection with minors. The reviewer directs the student to **verify the exact family-law context assigned in class** rather than assuming its application here.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 2", "excerptHint": "Family Code Art. 194 caveat" }]
+    },
+    {
+      "anchorId": "spouses",
+      "kind": "explanation",
+      "markdown": "**Husband and wife (Arts. 1490–1492; Family Code Arts. 96, 124, 133, 147–148).** Test the matrimonial property regime, whether the transaction is between spouses or with a third party, and whether an exception or judicial authority applies. **Art. 1490 generally prohibits spouses from selling property to each other**, subject to the legal exceptions; Art. 1492 extends specified prohibitions to persons covered by Art. 1491.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 2", "excerptHint": "Husband and wife" }]
+    },
+    {
+      "anchorId": "disqualified-1491",
+      "kind": "explanation",
+      "markdown": "**Art. 1491 disqualified buyers:** guardians as to property of persons under guardianship; agents as to property entrusted to them for administration or sale, unless consented to by the principal; executors and administrators as to estate property; public officers, judicial officers, and others in the statutory classes as to property connected with their functions; and lawyers as to property or rights in litigation in the circumstances stated in the article. **Read the exact list rather than memorizing a shortened slogan.**",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 2", "excerptHint": "Art. 1491 list" }]
+    },
+    {
+      "anchorId": "old-age-sickness",
+      "kind": "note",
+      "severity": "exam",
+      "markdown": "**Old age or sickness (Art. 24).** Age alone does not automatically establish incapacity; examine discernment, actual capacity at the time of consent, and the evidence. The legal question is not whether the person is old, but whether valid consent existed.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 2", "excerptHint": "Old age or sickness" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 3–4", "section": "Sec. 2" }]
+    }
+  ]
+}

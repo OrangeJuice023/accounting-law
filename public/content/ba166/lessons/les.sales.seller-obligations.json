@@ -1,0 +1,85 @@
+{
+  "id": "les.sales.seller-obligations",
+  "kind": "lesson",
+  "topicId": "ba166.sales.seller-obligations",
+  "title": "Seller obligations: care, ownership, delivery",
+  "description": "Custody, transfer of ownership, non-owner sales, delivery kinds, and incidents of delivery.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "care-and-ownership",
+      "kind": "explanation",
+      "markdown": "Before delivery, the seller must **take care of the thing with the diligence required by Art. 1163** and the contract. Under Arts. 1477, 1496, and 1497, **ownership ordinarily transfers upon actual or legally recognized constructive delivery** — not at the bare moment of perfection.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 5", "excerptHint": "Take care and transfer ownership" }]
+    },
+    {
+      "anchorId": "delayed-transfer",
+      "kind": "explanation",
+      "markdown": "**Sales where ownership transfer is delayed or special:**\n\n- **Express reservation (Art. 1478).** The parties may reserve ownership until full payment or another condition. Analyze the actual clause.\n- **Implied reservation in shipment (Art. 1503).** Certain shipping and payment-document arrangements may show the seller reserved the right of disposal. Do not assume that physical possession of goods by a carrier equals transfer of title in every case.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 7", "section": "Sec. 5", "excerptHint": "Reservation rules" }]
+    },
+    {
+      "anchorId": "return-approval",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1502",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 6–7", "section": "Sec. 5", "excerptHint": "Sale on return / approval" }]
+    },
+    {
+      "anchorId": "non-owner",
+      "kind": "note",
+      "severity": "exam",
+      "markdown": "**Sale by a non-owner; voidable title.** Art. 1459 says the vendor must have the right to transfer ownership at the time ownership is to pass. The basic rule is ***nemo dat quod non habet***: a person generally cannot transfer a better title than he has. **Art. 1505 carries exceptions**, including circumstances involving estoppel, statutory sales, merchant stores, markets or fairs, and other exceptions recognized by law. Art. 1434 deals with a seller who later acquires title; **Art. 1506 protects a good-faith purchaser for value** from a person with voidable title before the title is avoided, subject to the article's conditions.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 7", "section": "Sec. 5", "excerptHint": "Sale by a non-owner" }]
+    },
+    {
+      "anchorId": "delivery-kinds",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1497-delivery",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 7", "section": "Sec. 5", "excerptHint": "Delivery rule" }]
+    },
+    {
+      "anchorId": "delivery-table",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Kinds of delivery",
+        "columns": ["Delivery type", "Meaning / exam cue"],
+        "rows": [
+          ["Actual (Art. 1497)", "Physical transfer of possession."],
+          ["Public instrument (Art. 1498)", "Execution of a public instrument may operate as constructive delivery, unless the deed or circumstances show the contrary or the seller cannot transfer control."],
+          ["Traditio longa manu", "Delivery by pointing out or placing the thing at the buyer's disposal where legally sufficient."],
+          ["Traditio brevi manu", "The buyer already possesses the thing in another capacity and begins possessing it as owner."],
+          ["Constitutum possessorium (Art. 1500)", "The seller transfers ownership but remains in physical possession under a different legal title, such as lessee."],
+          ["Carrier (Arts. 1523, 1503)", "Delivery to a carrier can count as delivery under the Code and contract, but risk and title must still be assessed under the applicable rules and shipping terms."]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 7", "section": "Sec. 5", "excerptHint": "Delivery table" }]
+    },
+    {
+      "anchorId": "delivery-checklist",
+      "kind": "note",
+      "severity": "exam",
+      "markdown": "**Always ask:** what was the thing, who had possession, what document or act occurred, did the seller retain control, what did the contract say, and was delivery complete under the relevant article? Commercial shipment terms such as **FOB, CIF, and FAS** allocate transport-related duties and risks according to their agreed meaning — do not substitute a generic rule for the actual trade term.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 7", "section": "Sec. 5", "excerptHint": "Delivery checklist" }]
+    },
+    {
+      "anchorId": "incidents",
+      "kind": "explanation",
+      "markdown": "**Incidents of delivery:**\n\n- The seller must deliver the thing agreed upon, including its accessions and accessories as required by law and contract (Arts. 1164, 1537).\n- **Place, time, and delivery expenses** are governed by Art. 1521 and the contract. If no time is specified, use the statutory reasonable-time approach. Whether time is of the essence is a matter of construction and circumstances, not a magic phrase alone.\n- **Arts. 1522 and 1583** govern short or extra quantities and installment deliveries: analyze whether the buyer may reject all, accept the conforming part, or reject excess, and whether installments are severable under the contract.\n- Under **Arts. 1584–1588**, the buyer's opportunity to inspect, acceptance, notice of rejection, and wrongful rejection have separate consequences. Acceptance is not always a precondition to the fact of delivery, but it affects remedies and proof.\n- A vendor may have a **right to withhold delivery** in the cases stated in Arts. 1524, 1536, and 1198 — apply the statutory preconditions precisely.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 7", "section": "Sec. 5", "excerptHint": "Incidents of delivery" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 6–7", "section": "Sec. 5" }]
+    }
+  ]
+}

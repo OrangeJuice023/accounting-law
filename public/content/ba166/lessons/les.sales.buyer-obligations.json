@@ -1,0 +1,45 @@
+{
+  "id": "les.sales.buyer-obligations",
+  "kind": "lesson",
+  "topicId": "ba166.sales.buyer-obligations",
+  "title": "Buyer obligations",
+  "description": "Payment, acceptance, interest, suspension of payment, and expenses.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "pay-and-accept",
+      "kind": "explanation",
+      "markdown": "The buyer's central obligation is to **pay the agreed price at the time and place fixed by the contract or law (Art. 1582)** and to **accept delivery** when the seller properly tenders conforming goods. Under Art. 1589, interest may be due in the circumstances stated there — including a stipulation, fruits or revenues received, or delay after the thing has been delivered.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 6", "excerptHint": "Payment and acceptance" }]
+    },
+    {
+      "anchorId": "suspension",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1590",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 6", "excerptHint": "Suspension of payment" }]
+    },
+    {
+      "anchorId": "acceptance-rejection-expenses",
+      "kind": "explanation",
+      "markdown": "**Acceptance, rejection, and expenses:**\n\n- Acceptance can be express or inferred from conduct that adopts the transaction (Art. 1585).\n- A buyer can reject nonconforming goods when the legal conditions are met (Arts. 1587–1588); wrongful refusal may expose the buyer to damages or other remedies.\n- The buyer generally bears expenses assigned by contract or the last paragraph of Art. 1521; the seller's expense obligation under Art. 1487 should also be checked.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 6", "excerptHint": "Acceptance, rejection, expenses" }]
+    },
+    {
+      "anchorId": "distinct-events",
+      "kind": "note",
+      "severity": "exam",
+      "markdown": "**Do not conflate payment, acceptance, delivery, transfer of title, and registration**: they are related but legally distinct events.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 6", "excerptHint": "Distinct events" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 6" }]
+    }
+  ]
+}

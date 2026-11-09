@@ -1,0 +1,99 @@
+{
+  "id": "les.sales.breach-remedies",
+  "kind": "lesson",
+  "topicId": "ba166.sales.breach-remedies",
+  "title": "Breach, actions and remedies",
+  "description": "Seller and buyer remedies, the Recto Law, the Maceda Law, and condominium sales.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "seller-remedies",
+      "kind": "explanation",
+      "markdown": "**Seller remedies:**\n\n- **Action for price (Art. 1595).** Generally available when the buyer wrongfully neglects or refuses to pay in circumstances where the seller may maintain that action.\n- **Damages (Art. 1596).** Available for nonacceptance or repudiation under the statutory conditions.\n- **Rescission (Art. 1597).** Available in the circumstances stated for the buyer's repudiation, wrongful refusal to accept, or failure to pay, subject to the Code.\n- **Unpaid seller's rights in goods (Arts. 1525–1535).** Lien while in possession, stoppage in transitu when the buyer is insolvent, resale in authorized cases, and rescission where the statutory conditions are met. Each has distinct triggers and consequences.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 10", "section": "Sec. 10", "excerptHint": "Seller remedies" }]
+    },
+    {
+      "anchorId": "buyer-remedies",
+      "kind": "explanation",
+      "markdown": "**Buyer remedies:**\n\n- **Specific performance (Art. 1598).** Available where damages are inadequate or the statutory requirements are met.\n- **Damages (Art. 1599).** Available for breach of warranty and other seller defaults, using the statutory measure and the facts.\n- **Short or excess quantity, mixed goods, installments, land by unit or lump sum.** Use the specific rules in Arts. 1522, 1539–1543, and related provisions — do not jump directly to general contract damages.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 10", "section": "Sec. 10", "excerptHint": "Buyer remedies" }]
+    },
+    {
+      "anchorId": "suspension-redux",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1590",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 10", "section": "Sec. 10", "excerptHint": "Suspension of payment" }]
+    },
+    {
+      "anchorId": "recto",
+      "kind": "heading",
+      "markdown": "## The Recto Law (Arts. 1484–1486)",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 10", "section": "Sec. 10", "excerptHint": "Recto Law" }]
+    },
+    {
+      "anchorId": "recto-rule",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1484",
+      "markdown": "The seller cannot evade the deficiency prohibition by taking a different label for the same transaction. Confirm the transaction is within the law's coverage before applying it.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 10", "section": "Sec. 10", "excerptHint": "Recto fast rule" }]
+    },
+    {
+      "anchorId": "maceda",
+      "kind": "heading",
+      "markdown": "## The Maceda Law (RA 6552)",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 10", "section": "Sec. 10", "excerptHint": "Maceda Law" }]
+    },
+    {
+      "anchorId": "maceda-rule",
+      "kind": "provision",
+      "provisionId": "prov.ra-6552",
+      "markdown": "RA 6552 is a special statute and should be read directly for the required thresholds, grace periods, notices, and cancellation consequences.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 10–11", "section": "Sec. 10", "excerptHint": "Maceda protections" }]
+    },
+    {
+      "anchorId": "maceda-table",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Maceda Law protections by payment history",
+        "columns": ["Payment history", "Statutory protection to memorize"],
+        "rows": [
+          ["At least 2 years of installments (Sec. 3)", "Grace period generally equal to one month for every year of installment payments; cancellation only after the required 30-day period from receipt of notice of cancellation or demand for rescission by notarial act, plus payment of the cash surrender value."],
+          ["Cash surrender value (Sec. 3)", "Generally 50% of total payments made; after five years of installments, the law adds 5% for every year of payments beyond five years, capped at 90% of total payments. Check the statutory wording and calculation in the current official text."],
+          ["Less than 2 years of installments (Sec. 4)", "At least a 60-day grace period from the date the installment became due; cancellation only after the further 30-day notice / deed-of-rescission requirement by notarial act."],
+          ["Other buyer rights (Secs. 5–6)", "Rights may include prepayment, assignment or transfer, and reinstatement subject to the exact statutory conditions. Stipulations contrary to the Act are addressed in Sec. 7."]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 10", "excerptHint": "Maceda table" }]
+    },
+    {
+      "anchorId": "maceda-trap",
+      "kind": "note",
+      "severity": "trap",
+      "markdown": "**Exam trap.** The basic error is using the two-year threshold incorrectly: first determine the total installment-payment history, then select the correct section and calculate notice, grace, and cash-surrender consequences. Also verify whether the transaction is for **residential real estate within coverage** — do not automatically apply the Maceda Law to all land or commercial-property deals.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 10", "excerptHint": "Maceda exam trap" }]
+    },
+    {
+      "anchorId": "pd957",
+      "kind": "provision",
+      "provisionId": "prov.pd-957",
+      "markdown": "Contract clauses cannot automatically override mandatory statutory protections.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 10", "excerptHint": "PD 957" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 10–11", "section": "Sec. 10" }]
+    }
+  ]
+}

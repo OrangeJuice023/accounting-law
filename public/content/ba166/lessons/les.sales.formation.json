@@ -1,0 +1,110 @@
+{
+  "id": "les.sales.formation",
+  "kind": "lesson",
+  "topicId": "ba166.sales.formation",
+  "title": "Formation: offers, options, formalities",
+  "description": "Consent, preparatory contracts, special perfection settings, and statutory formalities — with four case digests.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "offer-acceptance",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1319",
+      "markdown": "Silence or conduct is not automatically acceptance; its legal effect depends on law, prior dealings, the nature of the offer, and the facts.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 3", "excerptHint": "Offer and acceptance" }]
+    },
+    {
+      "anchorId": "preparatory-table",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Preparatory contracts and priority rights",
+        "columns": ["Concept", "Technical distinction", "Exam trigger"],
+        "rows": [
+          ["Option contract (Arts. 1324, 1479)", "A separate preparatory contract keeping an offer open for a period. Requires consideration distinct from the price to bind the offeror during the option period.", "Was separate option consideration paid or promised? Was revocation communicated before acceptance?"],
+          ["Right of first refusal", "A contractual priority right to be offered the property first if the owner decides to sell. Not automatically a completed sale or an option at a fixed price.", "Did the owner trigger the clause by deciding to sell? Were the terms actually offered first to the right-holder?"],
+          ["Mutual promise to buy and sell (Art. 1479, first paragraph)", "Bilateral reciprocal promise involving a determinate thing and certain price; once binding, both sides may demand performance.", "Is there a true reciprocal commitment or only an expression of future intention?"],
+          ["Letter of intent", "Often records preliminary understanding; binding effect depends on definite terms and clear intention to be bound, not its label.", "Does it impose enforceable obligations or merely express intent subject to future agreement or funding?"]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 3", "excerptHint": "Option / ROFR / mutual promise table" }]
+    },
+    {
+      "anchorId": "option-rule",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1479-option",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Sanchez doctrine" }]
+    },
+    {
+      "anchorId": "perfection-settings",
+      "kind": "explanation",
+      "markdown": "**Perfection in special settings:**\n\n- **Auction (Art. 1476).** The sale is generally complete when the auctioneer announces completion by fall of hammer or other customary manner. Each separate lot is a separate sale. A reserved seller's right to bid must be disclosed; undisclosed seller bidding can implicate statutory remedies.\n- **Earnest money (Art. 1482)** is ordinarily part of the price and proof that the sale has been perfected. **Option money** is consideration for keeping an offer open, and is not automatically part of the price unless the agreement provides it. The document and the parties' intent control.\n- **Place of perfection.** Follow the general rules for consent and any applicable special rule. Distinguish the place of perfection from the place of performance or delivery.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 3", "excerptHint": "Perfection: special settings" }]
+    },
+    {
+      "anchorId": "expropriation",
+      "kind": "explanation",
+      "markdown": "**Expropriation (Art. 1488).** A sale by the State through eminent domain is governed by expropriation law and constitutional just-compensation requirements — not simply ordinary consensual-sale rules.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Expropriation" }]
+    },
+    {
+      "anchorId": "formalities-general",
+      "kind": "explanation",
+      "markdown": "**Formalities: validity, enforceability, convenience.** Articles 1356–1358 state the general rule that contracts are obligatory in whatever form, provided the essential requisites are present, unless the law requires a form for validity, enforceability, or proof. For land sales, keep three questions separate: (1) perfection, (2) Statute of Frauds / enforceability, and (3) public-document and registration consequences.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Formalities" }]
+    },
+    {
+      "anchorId": "statute-of-frauds",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1403-sf",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Statute of Frauds" }]
+    },
+    {
+      "anchorId": "special-forms",
+      "kind": "explanation",
+      "markdown": "**Special form rules:**\n\n- **Sale of land through an agent (Art. 1874).** The agent's authority to sell land or an interest therein must be in writing; otherwise the sale through that agent is void under the article.\n- **Sale of large cattle (Art. 1581).** Comply with the special statutory form and registration requirements.\n- **Public document (Art. 1358).** May be required for convenience, registration, or binding third parties; its absence does not automatically mean the underlying consensual contract was never perfected.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Special form rules" }]
+    },
+    {
+      "anchorId": "case-villonco",
+      "kind": "caseDigest",
+      "caseId": "case.villonco",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3" }]
+    },
+    {
+      "anchorId": "case-sanchez",
+      "kind": "caseDigest",
+      "caseId": "case.sanchez-rigos",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3" }]
+    },
+    {
+      "anchorId": "case-tanay",
+      "kind": "caseDigest",
+      "caseId": "case.tanay",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3" }]
+    },
+    {
+      "anchorId": "case-umcpab",
+      "kind": "caseDigest",
+      "caseId": "case.umcpab",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 5–6", "section": "Sec. 3" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 4–6", "section": "Sec. 3" }]
+    }
+  ]
+}

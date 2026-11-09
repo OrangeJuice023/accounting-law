@@ -1,0 +1,38 @@
+{
+  "id": "les.sales.introduction",
+  "kind": "lesson",
+  "topicId": "ba166.sales.introduction",
+  "title": "Introduction: how to study this volume",
+  "description": "The doctrine-first study method, the four-step reading sequence, and source discipline.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "study-sequence",
+      "kind": "explanation",
+      "markdown": "This volume follows the syllabus sequence for Law on Sales. Study each issue in four steps:\n\n1. **Read the plain-language box** so you understand the problem.\n2. **Memorize the technical rule**, article or section, and elements.\n3. **Drill the case facts and doctrine separately.**\n4. **Practice issue-spotting**: classification → rule → elements → application → remedy.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 1", "section": "How to study this volume" }]
+    },
+    {
+      "anchorId": "doctrine-first-rule",
+      "kind": "definition",
+      "markdown": "**Doctrine-first study rule.** For recitation, state the governing rule before narrating the facts. A strong answer identifies the article, lists each element or condition, applies each one to the facts, and ends with the legal effect or remedy.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "How to use this reviewer" }]
+    },
+    {
+      "anchorId": "source-discipline",
+      "kind": "note",
+      "severity": "info",
+      "markdown": "**Source discipline.** The syllabus is the organizing map. Statutes and decisions in the source notes are the primary anchors. Case summaries here are educational paraphrases — not legal advice and not verbatim quotations. Always use the version and assigned case text required by the professor.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 1–2", "section": "How to study; How to use" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 1–2" }]
+    }
+  ]
+}

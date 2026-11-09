@@ -1,0 +1,222 @@
+[
+  {
+    "id": "prov.ncc-1458",
+    "citation": "Civil Code, Art. 1458",
+    "instrument": "Civil Code",
+    "articleOrSection": "1458",
+    "explanation": "The seller obligates himself to transfer ownership and deliver a determinate thing; the buyer pays a price certain in money or its equivalent. The sale may be absolute or conditional.",
+    "topicIds": ["ba166.sales.concept"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Technical rule and controlling provisions" }]
+  },
+  {
+    "id": "prov.ncc-1475",
+    "citation": "Civil Code, Art. 1475",
+    "instrument": "Civil Code",
+    "articleOrSection": "1475",
+    "explanation": "A sale is consensual: agreement on the thing and price ordinarily perfects it. Delivery, payment, notarization, or registration generally go to performance, proof, enforceability, or third-party effect — not to perfection itself.",
+    "topicIds": ["ba166.sales.concept"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 2", "section": "Sec. 1", "excerptHint": "Consensual perfection" }]
+  },
+  {
+    "id": "prov.ncc-1319",
+    "citation": "Civil Code, Art. 1319",
+    "instrument": "Civil Code",
+    "articleOrSection": "1319",
+    "explanation": "Consent is manifested by the meeting of offer and acceptance on the object and cause. The offer must be certain and the acceptance absolute; a qualified acceptance is a counteroffer.",
+    "topicIds": ["ba166.sales.formation"],
+    "caseIds": ["case.villonco"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 4", "section": "Sec. 3", "excerptHint": "Offer and acceptance" }]
+  },
+  {
+    "id": "prov.ncc-1479-option",
+    "citation": "Civil Code, Arts. 1324 and 1479",
+    "instrument": "Civil Code",
+    "articleOrSection": "1324; 1479",
+    "explanation": "An option contract is a separate preparatory contract keeping an offer open for a period; it requires consideration distinct from the price to bind the offeror. A unilateral promise without distinct consideration may be withdrawn before acceptance is communicated — but while unwithdrawn it can operate as an offer, and timely acceptance before communicated withdrawal can produce a binding sale.",
+    "topicIds": ["ba166.sales.formation"],
+    "caseIds": ["case.sanchez-rigos"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 4–5", "section": "Sec. 3", "excerptHint": "Option contract; Sanchez v. Rigos" }]
+  },
+  {
+    "id": "prov.ncc-1403-sf",
+    "citation": "Civil Code, Arts. 1403(2), 1405–1406",
+    "instrument": "Civil Code",
+    "articleOrSection": "1403(2); 1405–1406",
+    "explanation": "The Statute of Frauds requires a sufficient written memorandum for certain executory agreements — including specified sales of goods and interests in real property — to be enforceable by action. Partial performance or failure to timely object to oral evidence can take a case outside the bar. It does not make every oral land sale void.",
+    "topicIds": ["ba166.sales.formation"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Formalities: Statute of Frauds" }]
+  },
+  {
+    "id": "prov.ncc-1461",
+    "citation": "Civil Code, Art. 1461",
+    "instrument": "Civil Code",
+    "articleOrSection": "1461",
+    "explanation": "Emptio rei speratae: sale of an expected thing; efficacy depends on the thing coming into existence. Emptio spei: purchase of the hope or chance itself; the buyer may bear the risk even if the expected thing never materializes, if that is what the parties truly contracted for.",
+    "topicIds": ["ba166.sales.subject-matter"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Emptio rei speratae / emptio spei" }]
+  },
+  {
+    "id": "prov.ncc-1468",
+    "citation": "Civil Code, Art. 1468",
+    "instrument": "Civil Code",
+    "articleOrSection": "1468",
+    "explanation": "If the consideration is primarily another thing, analyze barter; if money predominates, sale rules generally govern. Compare values where both money and thing are involved.",
+    "topicIds": ["ba166.sales.concept", "ba166.sales.price-cause"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 3, 6", "section": "Sec. 1; Sec. 4", "excerptHint": "Barter distinction; money or equivalent" }]
+  },
+  {
+    "id": "prov.ncc-1478",
+    "citation": "Civil Code, Art. 1478",
+    "instrument": "Civil Code",
+    "articleOrSection": "1478",
+    "explanation": "The parties may expressly reserve ownership until full payment or another condition. Analyze the actual clause.",
+    "topicIds": ["ba166.sales.seller-obligations"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 7", "section": "Sec. 5", "excerptHint": "Express reservation" }]
+  },
+  {
+    "id": "prov.ncc-1497-delivery",
+    "citation": "Civil Code, Arts. 1497–1500",
+    "instrument": "Civil Code",
+    "articleOrSection": "1497–1500",
+    "explanation": "Ownership ordinarily transfers upon actual or legally recognized constructive delivery — including execution of a public instrument (Art. 1498), traditio longa manu, traditio brevi manu, and constitutum possessorium (Art. 1500) — not at the bare moment of perfection.",
+    "topicIds": ["ba166.sales.seller-obligations"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 6–7", "section": "Sec. 5", "excerptHint": "Actual and constructive delivery" }]
+  },
+  {
+    "id": "prov.ncc-1502",
+    "citation": "Civil Code, Art. 1502",
+    "instrument": "Civil Code",
+    "articleOrSection": "1502",
+    "explanation": "Sale on return: the buyer may return the goods; title and risk generally remain with the seller until approval or expiry of the return period. Sale on approval, trial, or satisfaction: title generally passes on signified approval, adoption of the transaction, or retention beyond the stated or reasonable time without rejection.",
+    "topicIds": ["ba166.sales.seller-obligations", "ba166.sales.risk-of-loss"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 6–7, 10", "section": "Sec. 5; Sec. 9", "excerptHint": "Sale on return / approval" }]
+  },
+  {
+    "id": "prov.ncc-1590",
+    "citation": "Civil Code, Art. 1590",
+    "instrument": "Civil Code",
+    "articleOrSection": "1590",
+    "explanation": "The buyer may suspend payment where disturbed in possession or ownership, or with well-founded fear of disturbance — subject to the statutory exception and the seller's provision of security. It is a defense under prescribed conditions, not a general license to stop paying.",
+    "topicIds": ["ba166.sales.buyer-obligations", "ba166.sales.breach-remedies"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 8, 10", "section": "Sec. 6; Sec. 10", "excerptHint": "Suspension of payment" }]
+  },
+  {
+    "id": "prov.ncc-1544",
+    "citation": "Civil Code, Art. 1544",
+    "instrument": "Civil Code",
+    "articleOrSection": "1544",
+    "explanation": "Double sale of the same thing to different buyers: movables go to the buyer who first takes possession in good faith; immovables to the buyer who in good faith first records in the Registry (absent inscription, first in possession in good faith; absent both, the oldest title in good faith). Applies only where the same seller made two or more valid sales of exactly the same property.",
+    "topicIds": ["ba166.sales.double-sale"],
+    "caseIds": ["case.cheng-genato", "case.paylago"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7", "excerptHint": "Priority ladder" }]
+  },
+  {
+    "id": "prov.ncc-1546",
+    "citation": "Civil Code, Arts. 1545–1546",
+    "instrument": "Civil Code",
+    "articleOrSection": "1545–1546",
+    "explanation": "Art. 1545 addresses conditions and their relation to breach. Art. 1546 covers express warranties: an affirmation of fact or promise relating to the thing can be a warranty if it naturally tends to induce purchase and the buyer relies on it. Mere opinion or dealer's talk is generally not a warranty unless the statutory facts apply.",
+    "topicIds": ["ba166.sales.warranties"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Representations, conditions, opinions, warranties" }]
+  },
+  {
+    "id": "prov.ncc-1548",
+    "citation": "Civil Code, Arts. 1547–1560",
+    "instrument": "Civil Code",
+    "articleOrSection": "1547–1560",
+    "explanation": "Implied warranty of title and eviction. Eviction (Art. 1548) occurs when, by final judgment based on a right prior to the sale or an act imputable to the seller, the buyer is deprived of all or part of the thing — learned as a five-element checklist, with remedies under Arts. 1555–1556.",
+    "topicIds": ["ba166.sales.warranties"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Implied warranty of title and eviction" }]
+  },
+  {
+    "id": "prov.ncc-1561",
+    "citation": "Civil Code, Arts. 1560–1571",
+    "instrument": "Civil Code",
+    "articleOrSection": "1560–1571",
+    "explanation": "Hidden defects (Arts. 1561–1571) and non-apparent burdens on immovables (Art. 1560). Remedies: accion redhibitoria (withdraw/rescind) or accion quanti minoris (proportional price reduction). The seller's knowledge can affect damages (Arts. 1568–1569).",
+    "topicIds": ["ba166.sales.warranties"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Hidden defects and hidden encumbrances" }]
+  },
+  {
+    "id": "prov.ncc-1571",
+    "citation": "Civil Code, Art. 1571",
+    "instrument": "Civil Code",
+    "articleOrSection": "1571",
+    "explanation": "Six-month period for actions for hidden defects, counted from delivery. Special laws and contractual warranties can alter the analysis — do not assume every warranty claim shares this period.",
+    "topicIds": ["ba166.sales.warranties"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Six-month period" }]
+  },
+  {
+    "id": "prov.ncc-1504",
+    "citation": "Civil Code, Art. 1504",
+    "instrument": "Civil Code",
+    "articleOrSection": "1504",
+    "explanation": "Risk is generally allocated by reference to whether property in the goods has passed, unless the parties agree otherwise — but special rules govern seller/buyer fault, delay, shipment, sales on return or approval, hidden defects, and fungible goods priced by weight, number, or measure.",
+    "topicIds": ["ba166.sales.risk-of-loss"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 9–10", "section": "Sec. 9", "excerptHint": "Risk allocation" }]
+  },
+  {
+    "id": "prov.ncc-1484",
+    "citation": "Civil Code, Arts. 1484–1486 (Recto Law)",
+    "instrument": "Civil Code",
+    "articleOrSection": "1484–1486",
+    "explanation": "For sales of personal property payable in installments, Art. 1484 gives the seller an election: (1) exact fulfillment; (2) cancellation after failure to pay two or more installments; or (3) foreclosure of the chattel mortgage if constituted. Choosing foreclosure bars any deficiency recovery. Art. 1485 extends the rules to covered lease-with-option structures; Art. 1486 limits retention stipulations.",
+    "topicIds": ["ba166.sales.breach-remedies"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 10", "section": "Sec. 10", "excerptHint": "Recto Law fast rule" }]
+  },
+  {
+    "id": "prov.ra-6552",
+    "citation": "Republic Act No. 6552 (Maceda Law)",
+    "instrument": "RA 6552",
+    "articleOrSection": "Secs. 3–7",
+    "explanation": "Protects buyers of residential real estate on installment payments. At least two years of installments (Sec. 3): grace of one month per year of payments, cancellation only after 30-day notarial notice with cash surrender value (50% of payments, plus 5% per year beyond five, capped at 90%). Below two years (Sec. 4): at least 60 days' grace plus the 30-day notice requirement. Verify coverage and read the statute directly for thresholds and computation.",
+    "topicIds": ["ba166.sales.breach-remedies"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 10–11", "section": "Sec. 10", "excerptHint": "Maceda Law table" }]
+  },
+  {
+    "id": "prov.pd-957",
+    "citation": "Presidential Decree No. 957",
+    "instrument": "PD 957",
+    "articleOrSection": "Secs. 23–25",
+    "explanation": "Condominium sales: keep distinct the buyer's right to suspend installments on developer failure (Sec. 23) from the developer's rights when the buyer defaults without just cause (Sec. 24), plus the Sec. 25 title-delivery rule. Review covered project/developer definitions in the actual law.",
+    "topicIds": ["ba166.sales.breach-remedies"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 10", "excerptHint": "Sale of condominium units" }]
+  },
+  {
+    "id": "prov.ncc-1601",
+    "citation": "Civil Code, Arts. 1601–1603",
+    "instrument": "Civil Code",
+    "articleOrSection": "1601–1603",
+    "explanation": "Conventional redemption: the seller reserves the right to repurchase (Art. 1601), with period rules under Art. 1606 including a statutory default and maximum. Art. 1602 lists circumstances presuming an equitable mortgage; Art. 1603 construes doubtful pacto de retro contracts as equitable mortgages. Art. 2088 prohibits pactum commissorium.",
+    "topicIds": ["ba166.sales.extinguishment"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 11", "excerptHint": "Conventional redemption; equitable mortgage" }]
+  },
+  {
+    "id": "prov.ncc-1620",
+    "citation": "Civil Code, Arts. 1620–1623",
+    "instrument": "Civil Code",
+    "articleOrSection": "1620–1623",
+    "explanation": "Legal redemption by operation of law: co-owners (Art. 1620), co-heirs under Art. 1088, and adjoining rural/urban owners (Arts. 1621–1622), with notice and period rules under Art. 1623. Identify the class, triggering sale/notice, and start date before giving a deadline.",
+    "topicIds": ["ba166.sales.extinguishment"],
+    "caseIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 12", "section": "Sec. 11", "excerptHint": "Legal redemption" }]
+  }
+]

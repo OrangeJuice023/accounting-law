@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  @apply bg-ivory text-ink font-sans antialiased;
+}
+
+::selection {
+  background: #c2a878;
+  color: #23272a;
+}
+
+/* ---------- Lesson prose ---------- */
+.rr-prose {
+  @apply font-serif text-[1.0625rem] leading-[1.75] text-ink;
+}
+
+.rr-prose p {
+  @apply my-4;
+}
+
+.rr-prose ul,
+.rr-prose ol {
+  @apply my-4 pl-6 space-y-2;
+}
+
+.rr-prose ul {
+  list-style: disc;
+}
+
+.rr-prose ol {
+  list-style: decimal;
+}
+
+.rr-prose li::marker {
+  @apply text-gold-deep;
+}
+
+.rr-prose strong {
+  @apply font-semibold text-ink;
+}
+
+.rr-prose em {
+  font-style: italic;
+}
+
+.rr-prose blockquote {
+  @apply my-5 border-l-2 border-gold bg-gold-soft/40 px-5 py-1;
+}
+
+.rr-prose blockquote p {
+  @apply my-3;
+}
+
+.rr-prose a {
+  @apply text-forest underline decoration-gold decoration-2 underline-offset-2 hover:text-forest-deep;
+}
+
+.rr-prose code {
+  @apply font-mono text-[0.85em] bg-stone2/60 px-1.5 py-0.5 rounded;
+}
+
+.rr-prose h2,
+.rr-prose h3,
+.rr-prose h4 {
+  @apply font-serif font-semibold text-ink mt-8 mb-3;
+}
+
+.rr-prose h2 {
+  @apply text-2xl;
+}
+
+.rr-prose h3 {
+  @apply text-xl;
+}
+
+.rr-prose table {
+  @apply w-full text-left text-[0.95rem] my-5 border-collapse font-sans;
+}
+
+.rr-prose thead th {
+  @apply border-b-2 border-forest/70 py-2 pr-4 font-semibold text-ink align-top;
+}
+
+.rr-prose tbody td {
+  @apply border-b border-line py-2.5 pr-4 align-top leading-relaxed;
+}
+
+.rr-prose tbody tr:last-child td {
+  @apply border-b-0;
+}
+
+/* ---------- Focus visibility ---------- */
+:focus-visible {
+  outline: 2px solid #8a6f3e;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ---------- Thin scrollbars for rails ---------- */
+.rr-rail {
+  scrollbar-width: thin;
+  scrollbar-color: #c2a878 transparent;
+}

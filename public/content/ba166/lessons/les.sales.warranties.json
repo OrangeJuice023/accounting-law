@@ -1,0 +1,60 @@
+{
+  "id": "les.sales.warranties",
+  "kind": "lesson",
+  "topicId": "ba166.sales.warranties",
+  "title": "Representations and warranties",
+  "description": "Express and implied warranties: title and eviction, hidden defects, and quality.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "representations",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1546",
+      "markdown": "A **representation** is a factual assertion made in negotiation; a **warranty** is a contractual assurance whose breach can give rise to contract remedies.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Representations and warranties" }]
+    },
+    {
+      "anchorId": "eviction",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1548",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Title warranty and eviction" }]
+    },
+    {
+      "anchorId": "eviction-checklist",
+      "kind": "explanation",
+      "markdown": "**Eviction checklist — learn the elements, not one vague definition:**\n\n1. Total or partial deprivation of the thing purchased.\n2. Deprivation by final judgment (subject to the Code's detailed rules).\n3. Judgment based on a right existing before the sale or an act imputable to the vendor.\n4. Seller was summoned and made a co-defendant in the eviction suit as required by Arts. 1558–1559, unless an exception applies.\n5. Buyer did not waive the warranty.\n\n**Remedies (Arts. 1555–1556).** Depending on the case, recovery may include the value of the thing at eviction, fruits, costs, expenses, damages, and other statutory items. Match the remedy to total or partial eviction and to good or bad faith where relevant.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Eviction elements and remedies" }]
+    },
+    {
+      "anchorId": "hidden-defects",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1561",
+      "markdown": "Focus on whether the defect was **hidden**, sufficiently serious, existing at the time of sale, not known or waived by the buyer, and raised within the relevant period.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Hidden defects" }]
+    },
+    {
+      "anchorId": "six-months",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1571",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Six-month period" }]
+    },
+    {
+      "anchorId": "quality",
+      "kind": "explanation",
+      "markdown": "**Implied warranty as to quality.** Arts. 1562–1567 deal with fitness for a particular purpose and merchantable or acceptable quality concepts. The buyer's purpose must be made known where required, and reliance on the seller's skill or judgment matters. **Art. 1563** has a special rule on sale under a patent or trade name; **Art. 1565** addresses sale by sample. The remedy is generally the redhibitory or price-reduction action, subject to the statute and the special rules in the Code.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8", "excerptHint": "Quality warranty" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 8" }]
+    }
+  ]
+}

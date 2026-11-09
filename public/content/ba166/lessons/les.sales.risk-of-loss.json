@@ -1,0 +1,31 @@
+{
+  "id": "les.sales.risk-of-loss",
+  "kind": "lesson",
+  "topicId": "ba166.sales.risk-of-loss",
+  "title": "Risk of loss or deterioration",
+  "description": "How risk is allocated across perfection, delivery, fault, and special transactions.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "general-rule",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1504",
+      "markdown": "Do not answer “risk always follows ownership” without identifying the applicable provision and transaction type.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 9", "section": "Sec. 9", "excerptHint": "Risk rule" }]
+    },
+    {
+      "anchorId": "timeline",
+      "kind": "explanation",
+      "markdown": "**Risk across the timeline:**\n\n- **Before perfection.** There is generally no completed-sale allocation under ordinary sale rules; analyze the actual obligation and any prior risk arrangement.\n- **At perfection but before delivery.** Separate ownership transfer from risk allocation. Arts. 1480, 1504, 1163–1165, and 1262–1269 may all be relevant depending on the goods and event.\n- **After delivery.** The buyer ordinarily bears the risk once the relevant rule transfers it — but warranty rights for hidden defects and seller-caused loss remain separate.\n- **Loss due to a party's acts** is not a neutral fortuitous event. Analyze negligence, delay, and contractual fault before applying fortuitous-event rules.\n- **Sale on return or approval/trial.** Art. 1502 contains tailored rules. Do not transfer the ordinary risk rule mechanically into these transactions.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 9–10", "section": "Sec. 9", "excerptHint": "Risk timeline" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 9–10", "section": "Sec. 9" }]
+    }
+  ]
+}

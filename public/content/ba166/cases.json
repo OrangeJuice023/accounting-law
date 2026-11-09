@@ -1,0 +1,80 @@
+[
+  {
+    "id": "case.villonco",
+    "name": "Villonco Realty Co. v. Bormaheco, Inc.",
+    "citation": "G.R. No. L-26872, July 25, 1975",
+    "facts": "During negotiations for land, the parties exchanged written proposals, discussed terms, and part of the price was paid. The seller argued no sale was perfected because the acceptance allegedly qualified the offer.",
+    "issue": "Was there a meeting of minds on the thing and price, or was the acceptance a counteroffer?",
+    "doctrine": "The Court examined the substance of the exchange and found the essential terms agreed upon. Under Arts. 1319 and 1475, acceptance must be absolute; a clarification or non-material request does not necessarily destroy acceptance if the response remains positive and unequivocal.",
+    "examUse": "Identify the alleged deviation and decide whether it changes an essential term. Cite the rule first, then compare the actual offer and acceptance.",
+    "topicIds": ["ba166.sales.formation"],
+    "provisionIds": ["prov.ncc-1319"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+  },
+  {
+    "id": "case.sanchez-rigos",
+    "name": "Sanchez v. Rigos",
+    "citation": "G.R. No. L-25494, June 14, 1972",
+    "facts": "Rigos signed an instrument entitled Option to Purchase land for a fixed price within a stated period. Sanchez attempted to exercise it by tendering the price; Rigos refused.",
+    "issue": "Can an accepted unilateral promise be kept irrevocable even without consideration distinct from the price?",
+    "doctrine": "Under Art. 1479 read with Art. 1324, a unilateral promise unsupported by distinct option consideration may be withdrawn before acceptance is communicated. But while it remains unwithdrawn, it can operate as an offer; timely acceptance before communicated withdrawal can result in a binding sale.",
+    "examUse": "Separate the validity of the option as a preparatory contract from the offer's ability to become a sale when accepted before withdrawal.",
+    "topicIds": ["ba166.sales.formation"],
+    "provisionIds": ["prov.ncc-1479-option"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+  },
+  {
+    "id": "case.tanay",
+    "name": "Tanay Recreation Center v. Fausto",
+    "citation": "G.R. No. 140182, April 12, 2005",
+    "facts": "A lease included a priority right to purchase if the lessor decided to sell. The property was transferred without first giving the lessee the promised priority.",
+    "issue": "What is the effect of a right of first refusal incorporated into another contract?",
+    "doctrine": "The right of first refusal is a contractual right obliging the owner, upon deciding to sell, to make the first offer to the holder on the terms contemplated by the clause. Where integrated into a lease, it may be an indivisible term supported by the lease consideration.",
+    "examUse": "Ask whether the owner had decided to sell, whether the right-holder received a genuine first offer, and whether the terms were sufficiently ascertainable.",
+    "topicIds": ["ba166.sales.formation"],
+    "provisionIds": [],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+  },
+  {
+    "id": "case.umcpab",
+    "name": "United Muslim and Christian Urban Poor Association v. BRYC-V Development Corp.",
+    "citation": "G.R. No. 179653, July 31, 2009",
+    "facts": "A landowner issued a letter stating an intention to sell a parcel to an association that needed financing. The acquisition depended on raising funds; the association failed to acquire another portion within an extension, and the owner sold to a third party.",
+    "issue": "Did the letters of intent create a reciprocal, enforceable promise to sell and buy under Art. 1479?",
+    "doctrine": "The Court treated the letters as expressions of intention — not a sale, option, or binding bilateral promise. They lacked a definite commitment to sell exclusively to the association and were part of preliminary financing steps. The case also explains why Art. 1544 does not simply apply to an unconsummated contract to sell.",
+    "examUse": "Read the whole instrument, not just the heading. Look for definite object and price, a present promise to be bound, exclusivity or title reservation, and a condition triggering conveyance.",
+    "topicIds": ["ba166.sales.formation", "ba166.sales.concept"],
+    "provisionIds": ["prov.ncc-1479-option"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 5–6", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+  },
+  {
+    "id": "case.cheng-genato",
+    "name": "Cheng v. Genato",
+    "citation": "G.R. No. 222530 (2019), citing the Art. 1544 discussion",
+    "facts": "Cited in the reviewer for the requisites of the double-sale rule rather than through a full fact pattern.",
+    "issue": "When does the Art. 1544 priority ladder apply?",
+    "doctrine": "Art. 1544 applies only where: (1) at least two valid sales cover exactly the same subject matter; (2) the buyers' interests conflict; and (3) both acquired from the same seller. Good faith is a separate and decisive inquiry at the relevant point.",
+    "examUse": "For immovables, write the ladder in order — good-faith registration first; only absent inscription do possession and then oldest title matter.",
+    "topicIds": ["ba166.sales.double-sale"],
+    "provisionIds": ["prov.ncc-1544"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 8, 12", "section": "Sec. 7; Sec. 12", "excerptHint": "Cheng requisites; drill" }],
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+  },
+  {
+    "id": "case.paylago",
+    "name": "Paylago v. Jarabe",
+    "citation": "G.R. No. 38152, September 20, 1990",
+    "facts": "Competing land claims arose from dealings involving hereditary and co-owner interests and a parcel with a history of earlier transfers.",
+    "issue": "Can a party rely on a priority rule without proving the legally relevant title, authority, and good-faith facts?",
+    "doctrine": "Resolving competing claims first requires determining what share the transferor could convey, the operative title, and the relevant facts concerning possession or registration. Do not jump directly to Art. 1544 without establishing its requisites.",
+    "examUse": "Check whether every buyer bought from the same seller and whether that seller had authority over the exact interest sold.",
+    "topicIds": ["ba166.sales.double-sale"],
+    "provisionIds": ["prov.ncc-1544"],
+    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7", "excerptHint": "Case digest" }],
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+  }
+]

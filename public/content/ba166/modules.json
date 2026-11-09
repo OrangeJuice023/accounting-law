@@ -1,0 +1,231 @@
+[
+  {
+    "id": "ba166.sales",
+    "blockId": "ba166.block-a",
+    "title": "Law on Sales",
+    "description": "The contract of sale under the Civil Code: concept, parties, formation, obligations, warranties, risk, remedies, and redemption.",
+    "syllabusPages": "pp. 2–9",
+    "topicIds": [
+      "ba166.sales.introduction",
+      "ba166.sales.concept",
+      "ba166.sales.parties",
+      "ba166.sales.formation",
+      "ba166.sales.subject-matter",
+      "ba166.sales.price-cause",
+      "ba166.sales.seller-obligations",
+      "ba166.sales.buyer-obligations",
+      "ba166.sales.double-sale",
+      "ba166.sales.warranties",
+      "ba166.sales.risk-of-loss",
+      "ba166.sales.breach-remedies",
+      "ba166.sales.extinguishment"
+    ],
+    "primarySourceIds": ["src.r01"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.consumer",
+    "blockId": "ba166.block-a",
+    "title": "Consumer Protection",
+    "description": "The Consumer Act (RA 7394), the Price Act (RA 7581), and the Lemon Law (RA 10642).",
+    "syllabusPages": "pp. 9–11",
+    "topicIds": [
+      "ba166.consumer.coverage",
+      "ba166.consumer.quality-safety",
+      "ba166.consumer.deceptive-acts",
+      "ba166.consumer.labeling",
+      "ba166.consumer.warranties",
+      "ba166.consumer.price-act",
+      "ba166.consumer.lemon-law"
+    ],
+    "primarySourceIds": ["src.r02"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.procurement",
+    "blockId": "ba166.block-a",
+    "title": "Government Procurement",
+    "description": "Procurement reform under RA 12009: modes, procedure, and accountability.",
+    "syllabusPages": "pp. 11–12",
+    "topicIds": [
+      "ba166.procurement.policy-scope",
+      "ba166.procurement.modes",
+      "ba166.procurement.procedure",
+      "ba166.procurement.disclosure-sanctions"
+    ],
+    "primarySourceIds": ["src.r03"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.ecommerce",
+    "blockId": "ba166.block-a",
+    "title": "E-Commerce",
+    "description": "Electronic documents, signatures, and transactions under RA 8792.",
+    "syllabusPages": "p. 12",
+    "topicIds": ["ba166.ecommerce.e-documents", "ba166.ecommerce.communication-carriage-penalties"],
+    "primarySourceIds": ["src.r04"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.eodb",
+    "blockId": "ba166.block-a",
+    "title": "Ease of Doing Business",
+    "description": "Anti-red tape reform under RA 11032: charters, processing times, and accountability.",
+    "syllabusPages": "pp. 12–13",
+    "topicIds": ["ba166.eodb.policy-charter", "ba166.eodb.access-procedure", "ba166.eodb.licensing-oversight-violations"],
+    "primarySourceIds": ["src.r05"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.credit",
+    "blockId": "ba166.block-b",
+    "title": "Credit Transactions",
+    "description": "Pledge, real estate mortgage, and chattel mortgage: constitution, effects, and foreclosure.",
+    "syllabusPages": "pp. 13–15",
+    "topicIds": ["ba166.credit.general", "ba166.credit.rem", "ba166.credit.pledge", "ba166.credit.chattel"],
+    "primarySourceIds": ["src.r06"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.secrecy",
+    "blockId": "ba166.block-c",
+    "title": "Secrecy of Bank Deposits (RA 1405)",
+    "description": "Deposit confidentiality: coverage, prohibited acts, exceptions, and penalties.",
+    "syllabusPages": "pp. 15–16",
+    "topicIds": ["ba166.secrecy.coverage", "ba166.secrecy.exceptions", "ba166.secrecy.foreign-currency"],
+    "primarySourceIds": [],
+    "coverage": "SYLLABUS_ONLY"
+  },
+  {
+    "id": "ba166.truth-in-lending",
+    "blockId": "ba166.block-c",
+    "title": "Truth in Lending (RA 3765)",
+    "description": "Creditor disclosure duties, covered transactions, and non-compliance.",
+    "syllabusPages": "pp. 15–16",
+    "topicIds": ["ba166.til.purpose", "ba166.til.obligations", "ba166.til.non-compliance"],
+    "primarySourceIds": [],
+    "coverage": "SYLLABUS_ONLY"
+  },
+  {
+    "id": "ba166.pdic",
+    "blockId": "ba166.block-c",
+    "title": "PDIC Act (RA 3591, as amended)",
+    "description": "Deposit insurance: insured deposits, PDIC powers, liquidation, and payment.",
+    "syllabusPages": "pp. 15–16",
+    "topicIds": ["ba166.pdic.policy", "ba166.pdic.insured-deposits", "ba166.pdic.powers"],
+    "primarySourceIds": [],
+    "coverage": "SYLLABUS_ONLY"
+  },
+  {
+    "id": "ba166.bp22",
+    "blockId": "ba166.block-c",
+    "title": "Bouncing Checks Law (BP 22)",
+    "description": "BP 22 constitutionality, elements, penalties, and its relation to estafa.",
+    "syllabusPages": "pp. 16–17",
+    "topicIds": [
+      "ba166.bp22.constitutionality",
+      "ba166.bp22.issuance",
+      "ba166.bp22.knowledge",
+      "ba166.bp22.dishonor",
+      "ba166.bp22.penalties"
+    ],
+    "primarySourceIds": ["src.bp22"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.amla",
+    "blockId": "ba166.block-c",
+    "title": "Anti-Money Laundering Act",
+    "description": "RA 9160 as amended: covered persons and transactions, AMLC powers, and terrorism financing.",
+    "syllabusPages": "pp. 17–18",
+    "topicIds": [
+      "ba166.amla.policy",
+      "ba166.amla.covered-persons",
+      "ba166.amla.covered-transactions",
+      "ba166.amla.suspicious",
+      "ba166.amla.beneficial-ownership",
+      "ba166.amla.preventive",
+      "ba166.amla.ml-predicates",
+      "ba166.amla.amlc",
+      "ba166.amla.safe-harbor",
+      "ba166.amla.penalties",
+      "ba166.amla.tf"
+    ],
+    "primarySourceIds": ["src.amla"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.insurance-1",
+    "blockId": "ba166.block-d",
+    "title": "Insurance: Foundations",
+    "description": "Definitions, classification, insurable interest, perfection, and the policy.",
+    "syllabusPages": "p. 18",
+    "topicIds": [
+      "ba166.insurance.definitions",
+      "ba166.insurance.classification",
+      "ba166.insurance.interest",
+      "ba166.insurance.perfection",
+      "ba166.insurance.policy"
+    ],
+    "primarySourceIds": ["src.ins1"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.insurance-2",
+    "blockId": "ba166.block-d",
+    "title": "Insurance: Rescission and Claims",
+    "description": "Rescission grounds, variable contracts, claims procedure, and subrogation.",
+    "syllabusPages": "p. 19",
+    "topicIds": ["ba166.insurance.rescission", "ba166.insurance.variable", "ba166.insurance.claims"],
+    "primarySourceIds": ["src.ins2"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.data-privacy",
+    "blockId": "ba166.block-e",
+    "title": "Data Privacy (RA 10173)",
+    "description": "The NPC, processing rules, data-subject rights, security, and penalties.",
+    "syllabusPages": "pp. 19–20",
+    "topicIds": [
+      "ba166.dpa.npc",
+      "ba166.dpa.coverage",
+      "ba166.dpa.processing",
+      "ba166.dpa.rights",
+      "ba166.dpa.security",
+      "ba166.dpa.govt-info",
+      "ba166.dpa.penalties"
+    ],
+    "primarySourceIds": ["src.rev"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.ip-code",
+    "blockId": "ba166.block-e",
+    "title": "Intellectual Property Code (RA 8293)",
+    "description": "Trademark, tradename, patent, and copyright: acquisition, rights, and infringement.",
+    "syllabusPages": "pp. 20–23",
+    "topicIds": ["ba166.ip.trademark", "ba166.ip.tradename", "ba166.ip.patent", "ba166.ip.copyright"],
+    "primarySourceIds": ["src.rev"],
+    "coverage": "COVERED"
+  },
+  {
+    "id": "ba166.labor",
+    "blockId": "ba166.block-f",
+    "title": "Labor Code",
+    "description": "Conditions of employment, wages, leaves, and special workers.",
+    "syllabusPages": "pp. 23–25",
+    "topicIds": ["ba166.labor.conditions", "ba166.labor.wages", "ba166.labor.leaves", "ba166.labor.special-workers"],
+    "primarySourceIds": [],
+    "coverage": "SYLLABUS_ONLY"
+  },
+  {
+    "id": "ba166.sss",
+    "blockId": "ba166.block-f",
+    "title": "Social Security (RA 11199)",
+    "description": "SSS coverage, benefits, contributions, and penalties.",
+    "syllabusPages": "pp. 25–26",
+    "topicIds": ["ba166.sss.coverage", "ba166.sss.benefits", "ba166.sss.contributions"],
+    "primarySourceIds": [],
+    "coverage": "SYLLABUS_ONLY"
+  }
+]

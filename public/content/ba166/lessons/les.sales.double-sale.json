@@ -1,0 +1,68 @@
+{
+  "id": "les.sales.double-sale",
+  "kind": "lesson",
+  "topicId": "ba166.sales.double-sale",
+  "title": "Double sale: Article 1544",
+  "description": "Requisites, the priority ladder, good faith, and competing-claims warnings.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "first-question",
+      "kind": "note",
+      "severity": "exam",
+      "markdown": "**The indispensable first question.** Article 1544 applies only when **the same seller makes two or more valid sales of exactly the same property** to different buyers whose claims conflict. If one transaction is only a contract to sell, or if the purported sales come from different vendors without authority linking them, the double-sale rule may not apply.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7", "excerptHint": "Requisites" }]
+    },
+    {
+      "anchorId": "ladder",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1544",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7", "excerptHint": "Priority ladder" }]
+    },
+    {
+      "anchorId": "ladder-table",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "The Art. 1544 priority ladder",
+        "columns": ["Property", "Priority rule", "Critical qualification"],
+        "rows": [
+          ["Movable", "The buyer who first takes possession in good faith.", "Prove possession and good faith; possession must be the legally relevant possession."],
+          ["Immovable", "The buyer who in good faith first records the acquisition in the Registry of Property.", "Registration must be in good faith; a buyer aware of the prior sale cannot win simply by registering first."],
+          ["Immovable, no inscription", "The buyer who in good faith is first in possession.", "Possession and good faith must be established."],
+          ["Neither registered nor possessed", "The buyer who presents the oldest title, provided there is good faith.", "Oldest title is the last fallback, not the first rule."]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7", "excerptHint": "Priority table" }]
+    },
+    {
+      "anchorId": "cheng-note",
+      "kind": "explanation",
+      "markdown": "The familiar phrase “first in time, first in right” is **not** the actual sequence in Art. 1544. For immovables, **good-faith registration is first**; only if there is no inscription do possession and then oldest title matter.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7", "excerptHint": "Sequence warning" }]
+    },
+    {
+      "anchorId": "case-cheng",
+      "kind": "caseDigest",
+      "caseId": "case.cheng-genato",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7" }]
+    },
+    {
+      "anchorId": "case-paylago",
+      "kind": "caseDigest",
+      "caseId": "case.paylago",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7" }]
+    }
+  ]
+}

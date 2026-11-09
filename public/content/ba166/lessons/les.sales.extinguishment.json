@@ -1,0 +1,53 @@
+{
+  "id": "les.sales.extinguishment",
+  "kind": "lesson",
+  "topicId": "ba166.sales.extinguishment",
+  "title": "Extinguishment of sale and redemption",
+  "description": "Conventional redemption, equitable mortgage, and legal redemption.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "conventional",
+      "kind": "explanation",
+      "markdown": "**Conventional redemption.** Under Art. 1601, conventional redemption exists when the seller reserves the right to repurchase the thing sold, subject to the law. Art. 1606 provides the period rules: if no period is agreed, the statutory default applies; a period longer than the statutory maximum is restricted; and the article has a separate rule related to a final judgment. **State the fact pattern and compute the applicable deadline instead of memorizing only “ten years.”**",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 11", "excerptHint": "Conventional redemption" }]
+    },
+    {
+      "anchorId": "equitable-mortgage",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1601",
+      "markdown": "Art. 1602 circumstances include an unusually inadequate price, the seller remaining in possession as lessee or otherwise, extension or repetition of the redemption period, the buyer retaining part of the price, the seller's payment of taxes, and other circumstances showing the real intention was security for a loan.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 11", "excerptHint": "Equitable mortgage" }]
+    },
+    {
+      "anchorId": "redemption-vs-option",
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Conventional redemption vs. option to buy",
+        "columns": ["Conventional redemption", "Option to buy"],
+        "rows": [
+          ["A completed sale exists now; the seller reserves a statutory or contractual right to repurchase.", "An option is a separate preparatory right to enter into a future sale if properly exercised."],
+          ["The right is exercised by the original vendor or other persons authorized by law, against the vendee or persons legally subject to redemption.", "The option holder exercises within the option period and on the option's terms."],
+          ["The Civil Code controls the redemption period, price, and effects.", "Distinct consideration is necessary to bind a unilateral option under Art. 1479 / Art. 1324."]
+        ]
+      },
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 11", "section": "Sec. 11", "excerptHint": "Redemption vs. option table" }]
+    },
+    {
+      "anchorId": "legal-redemption",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1620",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 12", "section": "Sec. 11", "excerptHint": "Legal redemption" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 11–12", "section": "Sec. 11" }]
+    }
+  ]
+}

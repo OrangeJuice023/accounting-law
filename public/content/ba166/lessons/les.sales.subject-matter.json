@@ -1,0 +1,44 @@
+{
+  "id": "les.sales.subject-matter",
+  "kind": "lesson",
+  "topicId": "ba166.sales.subject-matter",
+  "title": "Subject matter",
+  "description": "Determinate, licit, and possible objects; future goods; undivided interests and fungible masses.",
+  "coverage": "COVERED",
+  "blocks": [
+    {
+      "anchorId": "requirements",
+      "kind": "explanation",
+      "markdown": "Arts. 1347–1349 and 1459–1464 require a **lawful and possible object that is determinate or capable of being made determinate** without a new agreement. Present goods, future goods, and things with potential existence can be sold within the Code's rules. A contract cannot validly sell something outside commerce or an object prohibited by law.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Subject-matter requirements" }]
+    },
+    {
+      "anchorId": "future-goods",
+      "kind": "definition",
+      "markdown": "**Present and future goods (Art. 1462).** Future goods may be the subject of sale; the arrangement may be an executory contract.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Future goods" }]
+    },
+    {
+      "anchorId": "emptio",
+      "kind": "provision",
+      "provisionId": "prov.ncc-1461",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Emptio rei speratae / emptio spei" }]
+    },
+    {
+      "anchorId": "specific-things",
+      "kind": "explanation",
+      "markdown": "**Specific things:**\n\n- **Undivided interest (Art. 1463).** The sale passes only the seller's own share or right.\n- **Share in a specific mass of fungible goods (Art. 1464).** Examine whether the goods are sufficiently identified and how the seller's share is allocated.\n- **Litigated property.** Check Arts. 1381(4) and 1385 and special limits; a sale of a thing in litigation may be rescissible in the circumstances stated by law.",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4", "excerptHint": "Specific things" }]
+    },
+    {
+      "anchorId": "sources",
+      "kind": "sourceList",
+      "keyed": false,
+      "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 6", "section": "Sec. 4" }]
+    }
+  ]
+}

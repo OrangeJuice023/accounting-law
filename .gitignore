@@ -1,0 +1,8 @@
+# deps / build
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+
+# generated extraction scratch (never source-adjacent output)
+scripts/ingest/.extract-*
