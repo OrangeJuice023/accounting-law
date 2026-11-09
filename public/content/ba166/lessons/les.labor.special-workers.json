@@ -1,0 +1,296 @@
+{
+  "id": "les.labor.special-workers",
+  "topicId": "ba166.labor.special-workers",
+  "title": "Special Workers: Apprentices, Learners, and PWDs",
+  "description": "Book II training and employment of special workers in syllabus order: apprentices (Arts. 58-61, 72), learners (Arts. 73-76), and persons with disabilities (Arts. 78-81, RA 7277) — with the apprentice-vs-learner table and the 75% wage-floor cross-links to the wages lesson.",
+  "coverage": "COVERED",
+  "provenance": "research-backed",
+  "kind": "lesson",
+  "blocks": [
+    {
+      "anchorId": "objectives",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Special workers — objectives: qualify apprentices and learners, enforce agreement contents and wage floors, apply the learner conversion rule, and employ PWDs under Arts. 78-81 and RA 7277.",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 58-81" }]
+    },
+    {
+      "anchorId": "scope-design",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Book II creates **three lawful training/employment tracks** that temper general labor standards: **apprentices** (long technical training + theory), **learners** (short semi-skilled training), and **PWD workers** (impaired earning capacity). The design logic is identical across all three: **open opportunities without cheapening labor** — written agreements, wage floors (the uniform **75%**), time caps, and anti-undercutting gates. Every 75% floor here cross-links to the wages lesson (Art. 124 auto-modifies training wage clauses on each increase), and terminology has modernized: the Code's 'handicapped workers' are today's **persons with disabilities (PWDs)** under RA 7277.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 58-81" },
+        { "sourceId": "src.law.ra7277", "section": "Sec. 5" }
+      ]
+    },
+    {
+      "anchorId": "apprentices",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Apprentices (Arts. 58-61, 72)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 58-61, 72" }]
+    },
+    {
+      "anchorId": "art58",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Four interlocking definitions: **apprenticeship = OJT + theory**; apprentice status needs a **written agreement**; apprenticeable = **>3 months** training; and the agreement is itself an **employment contract**.",
+      "provisionId": "prov.lc-art58-apprentice-def",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 58" },
+        { "sourceId": "src.law.pd442", "section": "Article 58" }
+      ]
+    },
+    {
+      "anchorId": "art59",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Three qualifications: **age 14+, vocational aptitude, ability to follow instructions** — with the currency note that RA 9231 now sets the operative child-labor floor at 15.",
+      "provisionId": "prov.lc-art59-qualifications",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 59" },
+        { "sourceId": "src.law.pd442", "section": "Article 59" }
+      ]
+    },
+    {
+      "anchorId": "art60",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The double gate: **highly-technical-industry employers only**, in **Secretary-approved occupations only**. Outside these gates the 'apprentice' label collapses into regular employment analysis.",
+      "provisionId": "prov.lc-art60-employment",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 60" },
+        { "sourceId": "src.law.pd442", "section": "Article 60" }
+      ]
+    },
+    {
+      "anchorId": "art61",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Three controls: Secretary-conforming agreement, **period <= 6 months**, and sub-minimum wages **only in approved programs, never below 75%** of the applicable minimum. The syllabus's '61' under minimum wage.",
+      "provisionId": "prov.lc-art61-contents",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 61" },
+        { "sourceId": "src.law.pd442", "section": "Article 61" }
+      ]
+    },
+    {
+      "anchorId": "art72",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **only** unpaid apprenticeship: **school/curriculum-required OJT individually authorized by the Secretary**. Both conditions, every time — employer say-so never suffices.",
+      "provisionId": "prov.lc-art72-no-compensation",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 72" },
+        { "sourceId": "src.law.pd442", "section": "Article 72" }
+      ]
+    },
+    {
+      "anchorId": "apprentice-application",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Compliance checklist** for apprentice hiring: (1) confirm highly-technical industry + approved occupation (Art. 60); (2) execute the **written** agreement conforming to Secretary rules (Arts. 58(d), 61); (3) cap the period at **6 months** and calendar expiry (work beyond converts toward regular status); (4) pay **>=75% of the CURRENT minimum** (re-verify after each wage order; Art. 124 auto-modifies the clause); (5) for unpaid OJT, secure **both** the school requirement and the Secretary authorization (Art. 72). **Exam move**: any 'apprentice' fact pattern missing the writing, the gates, or the program fails into regular-employment analysis.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 58-61, 72, 124" },
+        { "sourceId": "src.law.pd442", "section": "Articles 58-61" }
+      ]
+    },
+    {
+      "anchorId": "learners",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Learners (Arts. 73-76)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 73-76" }]
+    },
+    {
+      "anchorId": "art73",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The learner in one sentence: trainee in a **semi-skilled, non-apprenticeable** occupation, OJT-learnable in **<=3 months**. The 3-month ceiling is the bright line against apprentices.",
+      "provisionId": "prov.lc-art73-learner-def",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 73" },
+        { "sourceId": "src.law.pd442", "section": "Article 73" }
+      ]
+    },
+    {
+      "anchorId": "art74",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Three cumulative justifications: **no experienced workers available + necessary to prevent curtailment + no labor-cost undercutting or standards impairment**. The anti-abuse gate against rotating 'learners' to save 25%.",
+      "provisionId": "prov.lc-art74-when-learners",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 74" },
+        { "sourceId": "src.law.pd442", "section": "Article 74" }
+      ]
+    },
+    {
+      "anchorId": "art75",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Four mandatory contents — names, **<=3-month duration**, **>=75% wage**, and the **commitment to hire as regulars** — plus the sting: **2-month work + early no-fault termination = automatic regular status**.",
+      "provisionId": "prov.lc-art75-learnership",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 75" },
+        { "sourceId": "src.law.pd442", "section": "Article 75" }
+      ]
+    },
+    {
+      "anchorId": "art76",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "One line with bite: **piece-rate learners are paid in full** — no 75% training discount. Time-learners 75%, piece-learners 100%.",
+      "provisionId": "prov.lc-art76-piecework",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 76" },
+        { "sourceId": "src.law.pd442", "section": "Article 76" }
+      ]
+    },
+    {
+      "anchorId": "apprentice-vs-learner",
+      "keyed": false,
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Apprentice vs learner: the examined distinctions",
+        "columns": ["Point", "Apprentice (Arts. 58-72)", "Learner (Arts. 73-76)"],
+        "rows": [
+          ["Occupation", "Apprenticeable: >3 months + theoretical instruction; highly-technical industry + approved occupation", "Semi-skilled, non-apprenticeable; learnable by OJT quickly"],
+          ["Training period", "At most 6 months (Art. 61)", "At most 3 months (Arts. 73, 75(b))"],
+          ["Wage floor", ">=75% of minimum, approved programs only (Art. 61); unpaid only if school-required + Secretary-authorized (Art. 72)", ">=75% for time work (Art. 75(c)); 100% for piecework (Art. 76)"],
+          ["Hiring gate", "Industry + occupation gates (Art. 60); aptitude qualifications (Art. 59)", "Unavailability + necessity + no-undercutting (Art. 74)"],
+          ["Post-training rule", "Regularization follows general principles (no auto-conversion sentence)", "Hire-commitment if desired + auto-regular on early no-fault cut after 2 months (Art. 75)"]
+        ]
+      },
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 58-61, 72-76" }]
+    },
+    {
+      "anchorId": "pwds",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Persons with disabilities (Arts. 78-81, RA 7277)",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 78-81" },
+        { "sourceId": "src.law.ra7277", "section": "Sec. 5" }
+      ]
+    },
+    {
+      "anchorId": "art78",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The gateway: **earning capacity impaired** by age, physical/mental deficiency, or injury. 'Handicapped workers' in the Code = **PWDs** in current usage (and in the syllabus).",
+      "provisionId": "prov.lc-art78-handicapped-def",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 78" },
+        { "sourceId": "src.law.pd442", "section": "Article 78" }
+      ]
+    },
+    {
+      "anchorId": "art79",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The PWD twin of Art. 74: **necessity + no-undercutting** — with NO unavailability requirement. PWD hiring is encouraged even where experienced workers exist.",
+      "provisionId": "prov.lc-art79-when-employable",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 79" },
+        { "sourceId": "src.law.pd442", "section": "Article 79" }
+      ]
+    },
+    {
+      "anchorId": "art80",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Four contents mirroring learnership — names, **>=75% rate**, duration, work to be performed — in a **DOLE-inspectable** agreement. The syllabus's '80 par. 2' under minimum wage.",
+      "provisionId": "prov.lc-art80-employment-agreement",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 80" },
+        { "sourceId": "src.law.pd442", "section": "Article 80" }
+      ]
+    },
+    {
+      "anchorId": "art81",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The bridge: PWDs may train as **apprentices or learners** whenever the handicap does not effectively impede the **particular** occupation's operations. Art. 81 routes trainees; Arts. 78-80 govern workers.",
+      "provisionId": "prov.lc-art81-eligibility",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 81" },
+        { "sourceId": "src.law.pd442", "section": "Article 81" }
+      ]
+    },
+    {
+      "anchorId": "ra7277-sec5",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The modern rule alongside Arts. 78-81: **no denial of suitable employment**, and qualified PWD employees get **identical terms, compensation, and benefits** as able-bodied counterparts. Later amendments touched only privileges.",
+      "provisionId": "prov.ra7277-sec5-equal",
+      "sourceRefs": [{ "sourceId": "src.law.ra7277", "section": "Sec. 5" }]
+    },
+    {
+      "anchorId": "pwd-synthesis",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Resolve the apparent 75%-vs-equality tension by scope: **Art. 80's 75%** governs the covered employment-agreement period (the training-rate permission); **RA 7277 Sec. 5** governs qualified PWD employees generally (equal pay for equal work — the same 'work of equal value' logic as Art. 133(a)). **Routing drill**: PWD hired to train -> test Art. 81 (does the handicap impede THIS occupation?) -> apprentice track (Arts. 58-72) or learner track (Arts. 73-76) as the occupation fits; PWD hired to work -> Art. 79 gate + Art. 80 agreement. RA 7277 adds a 5% casual/emergency/contractual-post reserve in listed social-development agencies (Sec. 6) and confirms apprenticeship eligibility (Sec. 7). **Remember**: 'handicapped' is Code vocabulary; answer in PWD terms and cite both regimes.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 78-81" },
+        { "sourceId": "src.law.ra7277", "section": "Secs. 5-7" }
+      ]
+    },
+    {
+      "anchorId": "floor-table",
+      "keyed": false,
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "The uniform 75%: training and PWD wage floors",
+        "columns": ["Worker", "Floor", "Source", "Ceiling/condition"],
+        "rows": [
+          ["Apprentice (time)", ">=75% of applicable minimum", "Art. 61", "Approved program; <=6 months"],
+          ["Apprentice (school OJT)", "Unpaid allowed", "Art. 72", "School-required + Secretary-authorized"],
+          ["Learner (time)", ">=75% of applicable minimum", "Art. 75(c)", "<=3 months; hire commitment"],
+          ["Learner (piece)", "100% of work done", "Art. 76", "No training discount"],
+          ["PWD worker", ">=75% of legal minimum", "Art. 80 par. 2", "Written agreement; DOLE-inspectable"],
+          ["All training wage clauses", "Auto-modified upward", "Art. 124 last par.", "On every wage increase"]
+        ]
+      },
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 61, 72, 75-76, 80, 124" }]
+    },
+    {
+      "anchorId": "exam-traps",
+      "keyed": false,
+      "kind": "note",
+      "markdown": "**Top traps for this topic**: (1) calling any trainee an 'apprentice' outside highly-technical industries/approved occupations; (2) exceeding the 6-month apprentice or 3-month learner caps; (3) paying piece-learners 75% (Art. 76: full pay); (4) terminating a learnership before month 3 without learner fault (Art. 75: auto-regular); (5) unpaid OJT without BOTH school requirement and Secretary authorization; (6) applying Art. 80's 75% as a permanent PWD discount (RA 7277 Sec. 5: qualified PWDs get equality).",
+      "severity": "exam",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 60-61, 72, 75-76, 80" },
+        { "sourceId": "src.law.ra7277", "section": "Sec. 5" }
+      ]
+    },
+    {
+      "anchorId": "selfcheck-tracks",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I recite the apprentice-vs-learner table from memory (occupation, period, floor, gate, post-training rule) and route a PWD trainee vs PWD worker correctly?",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 58-81" }]
+    },
+    {
+      "anchorId": "selfcheck-floors",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I state every 75% floor with its article and condition, the Art. 72 unpaid exception, and the Art. 75 auto-regularization tripwire?",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 61, 72, 75-76, 80" },
+        { "sourceId": "src.law.ra7277", "section": "Sec. 5" }
+      ]
+    },
+    {
+      "anchorId": "takeaways",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Takeaways**: (1) Three tracks, one logic — **open opportunities, never cheapen labor**: writing + floors + caps + gates. (2) **Apprentice = >3 months + theory + 6-month cap**; **learner = semi-skilled + 3-month cap + hire commitment**; piece-learners always full pay. (3) The **75% is uniform but conditional** — approved programs, current minimums, auto-modification — and RA 7277 Sec. 5 overlays **equality for qualified PWDs**. (4) The two tripwires: **Art. 72** (unpaid needs school + Secretary) and **Art. 75** (early no-fault cut = regular). This closes the labor module: hours set the time, wages price it, leaves excuse absence from it, and special-workers rules temper all three during training.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 58-81" },
+        { "sourceId": "src.law.ra7277", "section": "Sec. 5" }
+      ]
+    }
+  ]
+}

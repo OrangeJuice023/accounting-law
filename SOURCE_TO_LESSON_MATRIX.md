@@ -158,3 +158,118 @@ passages share one provision with dual citations plus duplication notes.
   ba166.labor, ba166.sss — outline + honest notice only; zero fabricated lessons.
 - 9 JPG syllabus captures — verbatim duplicates of the syllabus PDF; compared,
   not duplicated; transcription backlog.
+
+---
+
+# Phase 2D: Research-Backed Modules (appended 2026-11-09; 2B history above untouched)
+
+The 5 formerly syllabus-only modules are now COVERED from official legal
+sources (no course reviewer exists for them). All 74 source ids below were
+verified present in `public/content/catalog.json` (95 entries: 21 course
+files + 74 legal). Lesson mapping is derived per source from the fragments'
+provisions/cases `sourceRefs` joined through `topicPatches`, plus direct
+lesson-block citations. Full per-section maps live in
+`fragments/{ra1405,ra3765,pdic,labor,sss}.json` (`coverage[]`).
+
+## 12. Secrecy of Bank Deposits → ba166.secrecy (Block C, 18 sources)
+
+| Legal source id | Lessons | Status |
+|---|---|---|
+| src.law.ra1405 (RA 1405) | les.secrecy.coverage, les.secrecy.exceptions, les.secrecy.foreign-currency | Converted |
+| src.law.pd1792 (PD 1792, repealed) | les.secrecy.coverage, les.secrecy.exceptions | Converted (history only) |
+| src.law.ra7653 (RA 7653 Secs. 25–26, 135) | les.secrecy.coverage, les.secrecy.exceptions | Converted |
+| src.law.ra11211 (RA 11211, Sec. 25 amdt) | les.secrecy.exceptions | Converted |
+| src.law.ra6426 (RA 6426 FCDU) | les.secrecy.foreign-currency | Converted (Sec. 4, 11–13 unconverted; Sec. 7 partial) |
+| src.law.pd1035 (intermediate Sec. 8) | les.secrecy.foreign-currency | Converted (history only) |
+| src.law.pd1246 (current Secs. 6, 8, 12-A) | les.secrecy.coverage, les.secrecy.foreign-currency | Converted |
+| src.law.ra10021 (NIRC Sec. 6(F)) | les.secrecy.exceptions | Converted |
+| src.law.ra10167 (AMLA Sec. 11) | les.secrecy.exceptions | Converted (reuses prov.ra9160-sec11 + case.republic-eugenio) |
+| src.law.ra10365 (AMLA predicates) | les.secrecy.exceptions | Converted |
+| src.law.ra11521 (AMLA predicates) | les.secrecy.exceptions | Converted |
+| src.law.pd679 (Act 3936 unclaimed balances) | les.secrecy.exceptions | Converted (Sec. 2 quoted; Secs. 1, 3–5 in prose) |
+| src.law.gr-l34964 (Chinabank v. Ortega) | les.secrecy.exceptions, les.secrecy.foreign-currency | Converted |
+| src.law.gr-94723 (Salvacion v. Central Bank) | les.secrecy.foreign-currency | Converted |
+| src.law.gr-157294 (Ejercito v. Sandiganbayan) | les.secrecy.coverage, les.secrecy.exceptions | Converted |
+| src.law.gr-135882 (Marquez v. Desierto) | les.secrecy.coverage, les.secrecy.exceptions | Converted |
+| src.law.gr-134699 (Union Bank v. CA) | les.secrecy.coverage, les.secrecy.exceptions | Converted |
+| src.law.gr-176438 (PDIC v. Countryside RB) | les.secrecy.exceptions | Converted |
+
+## 13. Truth in Lending → ba166.truth-in-lending (Block C, 4 sources)
+
+| Legal source id | Lessons | Status |
+|---|---|---|
+| src.law.ra3765 (RA 3765) | les.truth-in-lending.purpose, les.truth-in-lending.obligations, les.truth-in-lending.non-compliance | Converted |
+| src.law.bsp-circ-730 (BSP Circ. 730) | les.truth-in-lending.obligations | Converted (App. 19 form layout partial) |
+| src.law.ucpb-beluso (UCPB v. Beluso) | les.truth-in-lending.purpose, les.truth-in-lending.obligations, les.truth-in-lending.non-compliance | Converted (TILA holdings; non-TILA issues context only) |
+| src.law.sampaguita-pnb (Sampaguita v. PNB) | les.truth-in-lending.obligations, les.truth-in-lending.non-compliance | Converted (TILA holdings; computation/Usury context only) |
+
+## 14. PDIC Act → ba166.pdic (Block C, 11 sources)
+
+| Legal source id | Lessons | Status |
+|---|---|---|
+| src.law.ra9302 (RA 9302) | les.pdic.powers | Converted |
+| src.law.ra9576 (RA 9576) | les.pdic.insured-deposits | Converted |
+| src.law.ra10846 (RA 10846) | les.pdic.policy, les.pdic.insured-deposits, les.pdic.powers | Converted |
+| src.law.ra11840 (RA 11840) | les.pdic.policy, les.pdic.insured-deposits, les.pdic.powers | Converted |
+| src.law.ra11840-irr (RA 11840 IRR) | les.pdic.insured-deposits, les.pdic.powers | Converted |
+| src.law.pdic-mdic-2025 (Memo 2025-01, P1M MDIC) | les.pdic.policy, les.pdic.insured-deposits | Converted |
+| src.law.pdic-charter-pdf (stale printing) | les.pdic.powers | Converted (cross-check only; see 2D report) |
+| src.law.pdic-ca-118917 (PDIC v. CA) | les.pdic.insured-deposits | Converted |
+| src.law.cb-ca-76118 (Central Bank v. CA) | les.pdic.powers | Converted |
+| src.law.so-pdic-230020 (So v. PDIC) | les.pdic.insured-deposits, les.pdic.powers | Converted |
+| src.law.chugani-pdic-230037 (Chugani v. PDIC) | les.pdic.insured-deposits, les.pdic.powers | Converted |
+
+Partial (summarized, not provisioned): charter Secs. 4, 7(b)–(i), 10, 15,
+16(a)–(f)/(h)–(k)/(m)–(t), 17–18, 23–25, most of 5/26. Unconverted:
+Regulatory Issuances 2011-02/2009-03 (flagged follow-up); Secs. 28–30 tail.
+
+## 15. Labor Code → ba166.labor (Block F, 31 sources)
+
+| Legal source id | Lessons | Status |
+|---|---|---|
+| src.law.labor-code (Labor Code, renumbered) | les.labor.conditions, les.labor.wages, les.labor.leaves, les.labor.special-workers | Converted |
+| src.law.labor-code-2016 (DOLE 2016 mirror) | les.labor.conditions, les.labor.wages | Converted (renumbering cross-check) |
+| src.law.pd442 (PD 442 clean text) | les.labor.conditions, les.labor.wages, les.labor.leaves, les.labor.special-workers | Converted (verbatim cross-check) |
+| src.law.omnibus-b3 (Omnibus Rules Bk III) | les.labor.conditions, les.labor.wages, les.labor.leaves | Converted |
+| src.law.ra11360 (RA 11360, Art. 96) | les.labor.conditions | Converted |
+| src.law.pd851 (PD 851, 13th month) | les.labor.wages | Converted |
+| src.law.rev13th (1987 Revised Guidelines) | les.labor.wages | Converted (item 5(a) voiding flagged) |
+| src.law.ra8972 (RA 8972, original) | les.labor.leaves | Converted (superseded Sec. 8; no-Sec.-20 flag) |
+| src.law.ra11861 (RA 11861, solo parents) | les.labor.leaves | Converted |
+| src.law.ra11210 (RA 11210, maternity) | les.labor.leaves | Converted (+ Sec. 6 allocation, beyond cited range) |
+| src.law.ra8187 (RA 8187, paternity) | les.labor.leaves | Converted (Sec. 3 + Sec. 2 grant) |
+| src.law.ra9710 (RA 9710 Sec. 18) | les.labor.leaves | Converted (Sec. 18 only) |
+| src.law.ra9262 (RA 9262 Secs. 3(c), 43) | les.labor.leaves | Converted (2 sections only) |
+| src.law.ra9492 (RA 9492, holidays) | les.labor.conditions | Converted |
+| src.law.ra9849 (RA 9849, Eidul Adha) | les.labor.conditions | Converted |
+| src.law.ra10966 (RA 10966, Dec 8) | les.labor.conditions | Converted |
+| src.law.eo292 (EO 292 Secs. 26–28) | (none direct — conveyed via RA 9492/9849 provisions) | Registered; needs direct citation (see 2D residual needs) |
+| src.law.pd1083 (PD 1083 Muslim holidays) | les.labor.conditions | Converted |
+| src.law.ra6725 (RA 6725, Art. 133) | les.labor.wages | Converted |
+| src.law.ra7277 (RA 7277, PWD employment) | les.labor.special-workers | Converted |
+| src.law.ra9178 (RA 9178 Sec. 8, BMBE) | les.labor.wages | Converted (Sec. 8 only) |
+| src.law.ncc (NCC Arts. 1705, 1708) | les.labor.wages | Converted (2 articles only) |
+| src.law.const1987 (Const. XIII pars. 2, 4) | les.labor.wages | Converted |
+| src.law.cww-2004 (DA 02-2004, CWW) | les.labor.conditions | Converted (DA 02-2009/04-2010 partial — title-only) |
+| src.law.penaranda-159577 (Peñaranda) | les.labor.conditions | Converted |
+| src.law.david-macasio-195466 (David v. Macasio) | les.labor.conditions, les.labor.wages, les.labor.leaves | Converted |
+| src.law.autobus-156367 (Auto Bus) | les.labor.conditions, les.labor.wages, les.labor.leaves | Converted |
+| src.law.boie-takeda-92174 (Boie-Takeda) | les.labor.wages | Converted |
+| src.law.arco-metal-170734 (Arco Metal) | les.labor.wages | Converted |
+| src.law.mabeza-118506 (Mabeza) | les.labor.wages | Converted |
+| src.law.prubankers-131247 (Prubankers) | les.labor.wages | Converted |
+
+## 16. Social Security → ba166.sss (Block F, 10 sources)
+
+| Legal source id | Lessons | Status |
+|---|---|---|
+| src.law.ra11199 (RA 11199) | les.sss.coverage, les.sss.benefits, les.sss.contributions | Converted |
+| src.law.sss-contrib-2025 (Circulars 2024-006–010) | les.sss.contributions | Converted |
+| src.law.sss-pay-contrib (SSS pay/contribution page) | les.sss.coverage, les.sss.contributions | Converted |
+| src.law.sss-funeral (Circular 2023-009) | les.sss.benefits | Converted |
+| src.law.sss-maternity (RA 11210 rules) | les.sss.benefits | Converted |
+| src.law.sss-unemployment (SSS/DOLE procedure) | les.sss.benefits | Converted |
+| src.law.sss-aguas (SSS v. Aguas) | les.sss.benefits | Converted |
+| src.law.ortega-ssc (Ortega v. SSC) | les.sss.benefits | Converted |
+| src.law.ambassador-sss (Ambassador Hotel v. SSS) | les.sss.contributions | Converted |
+| src.law.gapayao-fulo (Gapayao v. Fulo) | les.sss.coverage | Converted |

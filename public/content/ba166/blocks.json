@@ -5,7 +5,13 @@
     "code": "A",
     "title": "Sales and Related Laws",
     "syllabusPages": "pp. 2–13",
-    "moduleIds": ["ba166.sales", "ba166.consumer", "ba166.procurement", "ba166.ecommerce", "ba166.eodb"],
+    "moduleIds": [
+      "ba166.sales",
+      "ba166.consumer",
+      "ba166.procurement",
+      "ba166.ecommerce",
+      "ba166.eodb"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -14,7 +20,9 @@
     "code": "B",
     "title": "Credit Transactions",
     "syllabusPages": "pp. 13–15",
-    "moduleIds": ["ba166.credit"],
+    "moduleIds": [
+      "ba166.credit"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -23,8 +31,14 @@
     "code": "C",
     "title": "Banking and Banking-Related Laws",
     "syllabusPages": "pp. 15–18",
-    "moduleIds": ["ba166.secrecy", "ba166.truth-in-lending", "ba166.pdic", "ba166.bp22", "ba166.amla"],
-    "coverage": "PARTIAL"
+    "moduleIds": [
+      "ba166.secrecy",
+      "ba166.truth-in-lending",
+      "ba166.pdic",
+      "ba166.bp22",
+      "ba166.amla"
+    ],
+    "coverage": "COVERED"
   },
   {
     "id": "ba166.block-d",
@@ -32,7 +46,10 @@
     "code": "D",
     "title": "Insurance",
     "syllabusPages": "pp. 18–19",
-    "moduleIds": ["ba166.insurance-1", "ba166.insurance-2"],
+    "moduleIds": [
+      "ba166.insurance-1",
+      "ba166.insurance-2"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -41,7 +58,10 @@
     "code": "E",
     "title": "Data Privacy and Intellectual Property",
     "syllabusPages": "pp. 19–23",
-    "moduleIds": ["ba166.data-privacy", "ba166.ip-code"],
+    "moduleIds": [
+      "ba166.data-privacy",
+      "ba166.ip-code"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -50,7 +70,10 @@
     "code": "F",
     "title": "Labor and SSS",
     "syllabusPages": "pp. 23–26",
-    "moduleIds": ["ba166.labor", "ba166.sss"],
-    "coverage": "SYLLABUS_ONLY"
+    "moduleIds": [
+      "ba166.labor",
+      "ba166.sss"
+    ],
+    "coverage": "COVERED"
   }
 ]

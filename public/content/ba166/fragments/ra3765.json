@@ -1,0 +1,1220 @@
+{
+  "sources": [
+    {
+      "id": "src.law.ra3765",
+      "filename": "Republic Act No. 3765 (Truth in Lending Act)",
+      "shortName": "RA 3765",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.bsp.gov.ph/Regulations/Banking%20Laws/RA3765.pdf",
+      "publisher": "Bangko Sentral ng Pilipinas",
+      "accessedAt": "2026-11-09",
+      "notes": "BSP-hosted copy of RA 3765. Direct fetch returned HTTP 403 on the access date, so the statutory text was triple-verified against identical reproductions (Lawphil, ChanRobles, Corpus Juris) and the Supreme Court's own quotations of Secs. 4 and 6 in UCPB v. Beluso. No statute-level amendment found; implementing rules updated by BSP Circular No. 730 (2011)."
+    },
+    {
+      "id": "src.law.bsp-circ-730",
+      "filename": "BSP Circular No. 730, s. 2011 (Updated Rules Implementing the Truth in Lending Act)",
+      "shortName": "BSP Circ. 730",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/11/56725",
+      "publisher": "Bangko Sentral ng Pilipinas (text verified via Supreme Court E-Library)",
+      "accessedAt": "2026-11-09",
+      "notes": "Updated rules implementing RA 3765 to enhance loan transaction transparency; amends MORB Secs. X305 and X307 and Appendix 19. Adopted 20 July 2011, effective 1 July 2012."
+    },
+    {
+      "id": "src.law.ucpb-beluso",
+      "filename": "UCPB v. Spouses Beluso, G.R. No. 159912",
+      "shortName": "UCPB v. Beluso",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2007/aug2007/gr_159912_2007.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 159912, 17 August 2007, Third Division, Chico-Nazario, J. Lead TILA case: prior disclosure, void one-sided rate stipulation, civil/criminal liabilities under Sec. 6."
+    },
+    {
+      "id": "src.law.sampaguita-pnb",
+      "filename": "New Sampaguita Builders v. PNB, G.R. No. 148753",
+      "shortName": "Sampaguita v. PNB",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/45559",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 148753, 30 July 2004, 479 Phil. 483, Third Division, Panganiban, J. Undisclosed charges cannot be given effect under TILA even if stipulated in promissory notes."
+    }
+  ],
+  "modulePatches": [
+    {
+      "id": "ba166.truth-in-lending",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "primarySourceIds": [
+        "src.law.ra3765",
+        "src.law.bsp-circ-730"
+      ]
+    }
+  ],
+  "topicPatches": [
+    {
+      "id": "ba166.til.purpose",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from the verified text of RA 3765 (Secs. 1-3). No course reviewer exists for this module.",
+      "lessonIds": [
+        "les.truth-in-lending.purpose"
+      ],
+      "provisionIds": [
+        "prov.ra3765-sec1",
+        "prov.ra3765-sec2",
+        "prov.ra3765-sec3-board",
+        "prov.ra3765-sec3-credit",
+        "prov.ra3765-sec3-finance-charge",
+        "prov.ra3765-sec3-creditor",
+        "prov.ra3765-sec3-person"
+      ],
+      "caseIds": []
+    },
+    {
+      "id": "ba166.til.obligations",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 3765 Secs. 4-5, BSP Circular No. 730 (MORB X305/X307), and two verified Supreme Court decisions.",
+      "lessonIds": [
+        "les.truth-in-lending.obligations"
+      ],
+      "provisionIds": [
+        "prov.ra3765-sec4",
+        "prov.ra3765-sec5",
+        "prov.bsp730-x307-2",
+        "prov.bsp730-x307-1gh",
+        "prov.bsp730-x305-5",
+        "prov.bsp730-x307-4"
+      ],
+      "caseIds": [
+        "case.sampaguita-pnb",
+        "case.ucpb-beluso"
+      ]
+    },
+    {
+      "id": "ba166.til.non-compliance",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 3765 Secs. 6-7 and UCPB v. Beluso. Sec. 6(c) fine floor reads 'P1,00' [sic] in statute reproductions; the Supreme Court in Beluso quotes it as P1,000.",
+      "lessonIds": [
+        "les.truth-in-lending.non-compliance"
+      ],
+      "provisionIds": [
+        "prov.ra3765-sec6a",
+        "prov.ra3765-sec6b",
+        "prov.ra3765-sec6c",
+        "prov.ra3765-sec6d",
+        "prov.ra3765-sec6e",
+        "prov.ra3765-sec7"
+      ],
+      "caseIds": [
+        "case.ucpb-beluso",
+        "case.sampaguita-pnb"
+      ]
+    }
+  ],
+  "provisions": [
+    {
+      "id": "prov.ra3765-sec1",
+      "citation": "RA No. 3765, Sec. 1",
+      "instrument": "RA 3765",
+      "articleOrSection": "1",
+      "verbatim": "This Act shall be known as the \"Truth in Lending Act.\"",
+      "explanation": "The short title of the law. When an exam problem says 'Truth in Lending Act' or 'TILA,' it means RA 3765, the 1963 law that forces creditors to disclose the true cost of credit before the borrower commits.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 1"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec2",
+      "citation": "RA No. 3765, Sec. 2",
+      "instrument": "RA 3765",
+      "articleOrSection": "2",
+      "verbatim": "Declaration of Policy. It is hereby declared to be the policy of the State to protect its citizens from a lack of awareness of the true cost of credit to the user by assuring a full disclosure of such cost with a view of preventing the uninformed use of credit to the detriment of the national economy.",
+      "explanation": "The State's goal is borrower awareness: every user of credit must know the TRUE cost of borrowing before deciding. The Supreme Court explains that banks can conceal true cost through hidden charges, uncertainty of interest rates, and deductions from the loaned amount — disclosure lets the debtor give full consent and properly evaluate options. For accountants, this is the legal backbone of loan disclosure statements and effective-rate computations.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "caseIds": [
+        "case.ucpb-beluso",
+        "case.sampaguita-pnb"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 2"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "rationale of Sec. 4"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec3-board",
+      "citation": "RA No. 3765, Sec. 3(1)",
+      "instrument": "RA 3765",
+      "articleOrSection": "3(1)",
+      "verbatim": "(1) \"Board\" means the Monetary Board of the Central Bank of the Philippines.",
+      "explanation": "'Board' is the Monetary Board — the body that issues the implementing rules (today acting for the Bangko Sentral ng Pilipinas, e.g. BSP Circular No. 730). Remember: disclosure duties are read 'in accordance with rules and regulations prescribed by the Board,' so the statute and BSP rules work together.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(1)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec3-credit",
+      "citation": "RA No. 3765, Sec. 3(2)",
+      "instrument": "RA 3765",
+      "articleOrSection": "3(2)",
+      "verbatim": "(2) \"Credit\" means any loan, mortgage, deed of trust, advance, or discount; any conditional sales contract; any contract to sell, or sale or contract of sale of property or services, either for present or future delivery, under which part or all of the price is payable subsequent to the making of such sale or contract; any rental-purchase contract; any contract or arrangement for the hire, bailment, or leasing of property; any option, demand, lien, pledge, or other claim against, or for the delivery of, property or money; any purchase, or other acquisition of, or any credit upon the security of, any obligation of claim arising out of any of the foregoing; and any transaction or series of transactions having a similar purpose or effect.",
+      "explanation": "'Credit' is deliberately broad: any arrangement where payment comes AFTER the transaction — loans, mortgages, installment sales of goods or services, leases, pledges, and anything with a similar purpose or effect. Exam point: an installment sale of a laptop or a car lease can be 'credit' under TILA, not just bank loans. The catch-all phrase ('similar purpose or effect') prevents creditors from relabeling a credit deal to escape disclosure.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(2)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec3-finance-charge",
+      "citation": "RA No. 3765, Sec. 3(3)",
+      "instrument": "RA 3765",
+      "articleOrSection": "3(3)",
+      "verbatim": "(3) \"Finance charge\" includes interest, fees, service charges, discounts, and such other charges incident to the extension of credit as the Board may be regulation prescribe.",
+      "explanation": "'Finance charge' covers every cost of borrowing: interest, fees, service charges, discounts, plus any other charge incident to the extension of credit that the Board prescribes by regulation. Note the word 'includes' — the list is open, not closed. (The phrase 'may be regulation prescribe' is a [sic] in the statutory text, read as 'may by regulation prescribe'.) Accounting relevance: this is the population of costs that must appear in the disclosure statement and feed the effective interest rate.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "caseIds": [
+        "case.sampaguita-pnb"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(3)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec3-creditor",
+      "citation": "RA No. 3765, Sec. 3(4)",
+      "instrument": "RA 3765",
+      "articleOrSection": "3(4)",
+      "verbatim": "(4) \"Creditor\" means any person engaged in the business of extending credit (including any person who as a regular business practice make loans or sells or rents property or services on a time, credit, or installment basis, either as principal or as agent) who requires as an incident to the extension of credit, the payment of a finance charge.",
+      "explanation": "A 'creditor' has TWO requisites: (1) engaged in the BUSINESS of extending credit (lenders, installment sellers, lessors acting as principal or agent — as a regular practice), AND (2) requires payment of a finance charge as an incident of the credit. Both must concur. A neighbor who lends once for free is not a creditor; a bank, financing company, or appliance store selling on installment with interest is. (The singular verb 'make' is a [sic] in the statutory text.)",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(4)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec3-person",
+      "citation": "RA No. 3765, Sec. 3(5)",
+      "instrument": "RA 3765",
+      "articleOrSection": "3(5)",
+      "verbatim": "(5) \"Person\" means any individual, corporation, partnership, association, or other organized group of persons, or the legal successor or representative of the foregoing, and includes the Philippine Government or any agency thereof, or any other government, or of any of its political subdivisions, or any agency of the foregoing.",
+      "explanation": "'Person' covers natural and juridical persons, successors and representatives — and even the government and its agencies. So a government credit program can extend 'credit' to a 'person,' although Sec. 6(d) later exempts the government from the Act's punishments and penalties.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(5)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec4",
+      "citation": "RA No. 3765, Sec. 4",
+      "instrument": "RA 3765",
+      "articleOrSection": "4",
+      "verbatim": "Any creditor shall furnish to each person to whom credit is extended, prior to the consummation of the transaction, a clear statement in writing setting forth, to the extent applicable and in accordance with rules and regulations prescribed by the Board, the following information: (1) the cash price or delivered price of the property or service to be acquired; (2) the amounts, if any, to be credited as down payment and/or trade-in; (3) the difference between the amounts set forth under clauses (1) and (2); (4) the charges, individually itemized, which are paid or to be paid by such person in connection with the transaction but which are not incident to the extension of credit; (5) the total amount to be financed; (6) the finance charge expressed in terms of pesos and centavos; and (7) the percentage that the finance bears to the total amount to be financed expressed as a simple annual rate on the outstanding unpaid balance of the obligation.",
+      "explanation": "The heart of TILA. Every creditor must give every borrower, BEFORE the deal is consummated, a clear WRITTEN statement showing: cash price, down payment/trade-in, the difference, itemized non-credit charges, total amount financed, the finance charge in pesos and centavos, and the finance charge as a simple annual rate on the outstanding balance. 'To the extent applicable' means the creditor discloses what fits the transaction. Exam anchors from jurisprudence: disclosure AFTER execution is not substantial compliance (Beluso); charges missing from the disclosure statement cannot be collected even if the promissory note stipulates them (Sampaguita).",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "caseIds": [
+        "case.ucpb-beluso",
+        "case.sampaguita-pnb"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 4"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "prior to consummation, not substantial compliance"
+        },
+        {
+          "sourceId": "src.law.sampaguita-pnb",
+          "section": "Penalty, or Increases Thereof, Unjustified",
+          "excerptHint": "no right to collect undisclosed charges"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec5",
+      "citation": "RA No. 3765, Sec. 5",
+      "instrument": "RA 3765",
+      "articleOrSection": "5",
+      "verbatim": "The Board shall prescribe such rules and regulations as may be necessary or proper in carrying out the provisions of this Act. Any rule or regulation prescribed hereunder may contain such classifications and differentiations as in the judgment of the Board are necessary or proper to effectuate the purposes of this Act or to prevent circumvention or evasion, or to facilitate the enforcement of this Act, or any rule or regulation issued thereunder.",
+      "explanation": "Sec. 5 is the rulemaking grant: the Monetary Board fleshes out the Act and may classify or differentiate transactions to achieve its purpose, stop circumvention or evasion, and ease enforcement. This is the statutory basis of the BSP disclosure rules in the MORB (X307) and BSP Circular No. 730. For the exam, pair Sec. 5 with Sec. 4: the 'clear statement in writing' is given 'in accordance with rules and regulations prescribed by the Board.'",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 5"
+        },
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Preamble",
+          "excerptHint": "MORB amendments under MB Resolution No. 1018"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec6a",
+      "citation": "RA No. 3765, Sec. 6(a)",
+      "instrument": "RA 3765",
+      "articleOrSection": "6(a)",
+      "verbatim": "(a) Any creditor who in connection with any credit transaction fails to disclose to any person any information in violation of this Act or any regulation issued thereunder shall be liable to such person in the amount of P100 or in an amount equal to twice the finance charged required by such creditor in connection with such transaction, whichever is the greater, except that such liability shall not exceed P2,000 on any credit transaction. Action to recover such penalty may be brought by such person within one year from the date of the occurrence of the violation, in any court of competent jurisdiction. In any action under this subsection in which any person is entitled to a recovery, the creditor shall be liable for reasonable attorney's fees and court costs as determined by the court.",
+      "explanation": "The CIVIL liability for nondisclosure. Formula: the borrower recovers P100 OR twice the finance charge required — whichever is GREATER — capped at P2,000 per credit transaction, plus reasonable attorney's fees and court costs. Prescription: 1 year from the violation, filed in any court of competent jurisdiction. Beluso teaches: (1) this civil action may be brought separately and independently of any criminal case (and may be joined with other actions); (2) the cause of action accrues only when the finance charge is required — in Beluso, on the 2 September 1998 demand, so the 9 February 1999 filing was timely; (3) the Court sustained a P26,000 penalty recovery (P2,000 cap applied across the transactions).",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "caseIds": [
+        "case.ucpb-beluso"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(a)"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "civil action, accrual, P26,000 penalty"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec6b",
+      "citation": "RA No. 3765, Sec. 6(b)",
+      "instrument": "RA 3765",
+      "articleOrSection": "6(b)",
+      "verbatim": "(b) Except as specified in subsection (a) of this section, nothing contained in this Act or any regulation contained in this Act or any regulation thereunder shall affect the validity or enforceability of any contract or transactions.",
+      "explanation": "Nondisclosure does NOT void the contract. Except for the Sec. 6(a) civil penalty, the Act leaves the validity and enforceability of the contract or transaction untouched — the borrower still owes the obligation (though undisclosed charges themselves cannot be collected, per Sampaguita). Classic exam trap: TILA violation = penalty and unenforceability of hidden charges, not nullity of the whole loan. (The doubled phrase 'any regulation contained in this Act or any regulation thereunder' is a [sic] in the statutory text.)",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "caseIds": [
+        "case.sampaguita-pnb"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(b)"
+        },
+        {
+          "sourceId": "src.law.sampaguita-pnb",
+          "section": "Penalty, or Increases Thereof, Unjustified",
+          "excerptHint": "undisclosed charges not given effect"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec6c",
+      "citation": "RA No. 3765, Sec. 6(c)",
+      "instrument": "RA 3765",
+      "articleOrSection": "6(c)",
+      "verbatim": "(c) Any person who willfully violates any provision of this Act or any regulation issued thereunder shall be fined by not less than P1,00 or more than P5,000 or imprisonment for not less than 6 months, nor more than one year or both.",
+      "explanation": "The CRIMINAL liability: a WILLFUL violation is punished by fine (floor to ceiling), imprisonment of 6 months to 1 year, or both. Two exam-critical notes: (1) criminal liability requires willfulness, unlike the Sec. 6(a) civil penalty; (2) the fine floor reads 'P1,00' [sic] in every statute reproduction — the Supreme Court itself, quoting this paragraph in UCPB v. Beluso, reads it as P1,000. Quote the [sic] honestly and cite the Court's reading.",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "caseIds": [
+        "case.ucpb-beluso"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(c)"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "Court quotes floor as P1,000"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec6d",
+      "citation": "RA No. 3765, Sec. 6(d)",
+      "instrument": "RA 3765",
+      "articleOrSection": "6(d)",
+      "verbatim": "(d) No punishment or penalty provided by this Act shall apply to the Philippine Government or any agency or any political subdivision thereof.",
+      "explanation": "The government is exempt from the Act's punishments and penalties. Pair with Sec. 3(5): the government can be a 'person' extending credit, but no Sec. 6 punishment or penalty applies to it or its agencies and political subdivisions.",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(d)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec6e",
+      "citation": "RA No. 3765, Sec. 6(e)",
+      "instrument": "RA 3765",
+      "articleOrSection": "6(e)",
+      "verbatim": "(e) A final judgment hereafter rendered in any criminal proceeding under this Act to the effect that a defendant has willfully violated this Act shall be prima facie evidence against such defendant in an action or proceeding brought by any other party against such defendant under this Act as to all matters respecting which said judgment would be an estoppel as between the parties thereto.",
+      "explanation": "A final criminal conviction for willful violation becomes PRIMA FACIE evidence against the same defendant in a later action by any other party under the Act — but only as to matters where the judgment would be an estoppel between the parties. In plain terms: once willfulness is criminally established, a subsequent civil claimant starts with a presumption in their favor on the overlapping issues. 'Prima facie' means rebuttable, not conclusive.",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(e)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3765-sec7",
+      "citation": "RA No. 3765, Sec. 7",
+      "instrument": "RA 3765",
+      "articleOrSection": "7",
+      "verbatim": "This Act shall become effective upon approval.",
+      "explanation": "The Act took effect upon approval — 22 June 1963. There is no statute-level amendment on record; the disclosure regime has since been elaborated through BSP regulation, notably BSP Circular No. 730 (effective 1 July 2012).",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 7"
+        }
+      ]
+    },
+    {
+      "id": "prov.bsp730-x307-2",
+      "citation": "BSP Circular No. 730, Sec. 3 (MORB §X307.2)",
+      "instrument": "BSP Circular No. 730",
+      "articleOrSection": "3 (MORB §X307.2)",
+      "verbatim": "[Excerpt] As a general rule, loan terms shall be disclosed to all types of borrower. For small business/retail/consumer credit, the following are the minimum information to be disclosed (sample form in Appendix 19): 1. The total amount to be financed; 2. The finance charges expressed in terms of pesos and centavos; 3. The net proceeds of the loan; and 4. The percentage that the finance charge bears to the total amount to be financed expressed as a simple annual rate or an effective annual interest rate (EIR) as described in item h of Subsection X307.1. EIR may also be quoted as a monthly rate in parallel with the quotation of the contractual rate. Banks are required to furnish each borrower a copy of the disclosure statement, prior to the consummation of the transaction.",
+      "explanation": "The BSP's minimum disclosure checklist for small business, retail, and consumer credit: amount financed, finance charges in pesos and centavos, NET PROCEEDS of the loan, and the rate as a simple annual rate OR the effective interest rate (EIR). General rule: loan terms are disclosed to ALL borrower types. And the timing rule is explicit: the borrower gets a copy of the disclosure statement BEFORE consummation — the same timing the Supreme Court enforces in Beluso.",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "caseIds": [
+        "case.ucpb-beluso"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 3 (§X307.2)",
+          "excerptHint": "minimum information to be disclosed"
+        }
+      ]
+    },
+    {
+      "id": "prov.bsp730-x307-1gh",
+      "citation": "BSP Circular No. 730, Sec. 2 (MORB §X307.1[g]-[h])",
+      "instrument": "BSP Circular No. 730",
+      "articleOrSection": "2 (MORB §X307.1[g]-[h])",
+      "verbatim": "[Excerpt] g. Finance charge includes interest, fees, service charges, discounts, and such other charges incident to the extension of credit. h. Simple annual rate is the uniform percentage which represents the ratio between the finance charge and the amount to be financed under the assumption that the loan is payable in one year with single payment upon maturity and there are no up-front deductions to principal. For loans with terms different from the above assumptions, the effective annual interest (EIR) rate shall be calculated and disclosed to the borrower as the relevant true cost of the loan comparable to the concept of simple annual rate. For loans with contractual interest rates stated on monthly basis, the effective interest rate may be expressed as a monthly rate. In accordance with the Philippine Accounting Standards (PAS) definition effective interest rate is the rate that exactly discounts estimated future cash flows through the life of the loan to the net amount of loan proceeds.",
+      "explanation": "Two key BSP definitions. The 'simple annual rate' assumes a one-year, single-payment loan with no up-front deductions — a clean benchmark. For real-world loans (installments, deductions), the EIR must be computed and disclosed instead, and the EIR follows the PAS (accounting-standards) definition: the rate that exactly discounts estimated future cash flows over the loan's life to the net loan proceeds. This is where accountancy directly meets TILA: EIR is the time-value-of-money internal rate of the loan.",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 2 (§X307.1[g]-[h])",
+          "excerptHint": "finance charge, simple annual rate, EIR"
+        }
+      ]
+    },
+    {
+      "id": "prov.bsp730-x305-5",
+      "citation": "BSP Circular No. 730, Sec. 1 (MORB §X305.5)",
+      "instrument": "BSP Circular No. 730",
+      "articleOrSection": "1 (MORB §X305.5)",
+      "verbatim": "[Excerpt] Banks may only charge interest based on the outstanding balance of a loan at the beginning of an interest period. For a loan where principal is payable in installments, interest per installment period shall be calculated based on the outstanding balance of the loan at the beginning of each installment period. Towards this end, all loan-related documents shall show repayment schedules in a manner consistent with this provision. Marketing materials and presentations shall likewise be consistent with this provision.",
+      "explanation": "Banks may charge interest ONLY on the outstanding balance at the start of each interest (or installment) period — no interest on amounts already repaid. Loan documents must show repayment schedules consistent with this, and even marketing materials must match. Practical effect: this kills add-on/flat-rate presentations that understate the true cost — the exact evil Sec. 2 of RA 3765 targets.",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 1 (§X305.5)",
+          "excerptHint": "interest on outstanding balance only"
+        }
+      ]
+    },
+    {
+      "id": "prov.bsp730-x307-4",
+      "citation": "BSP Circular No. 730, Sec. 4 (MORB §X307.4)",
+      "instrument": "BSP Circular No. 730",
+      "articleOrSection": "4 (MORB §X307.4)",
+      "verbatim": "[Excerpt] Banks shall post in conspicuous places in their principal place of business and branches, the information as contained in the revised format of disclosure statement (Appendix 19), with further enhancement through the Memorandum to All Banks to be issued for the purpose. The posters shall include an explicit notification that the disclosure statement is a required attachment to the loan contract and the customer has a right to demand a copy of such disclosure.",
+      "explanation": "Beyond per-borrower disclosure, banks must POST the disclosure-statement information conspicuously in their offices and branches — with an explicit notice that the disclosure statement is a required attachment to the loan contract and that the customer has the right to demand a copy. Remember: disclosure is the borrower's RIGHT, not a bank courtesy.",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 4 (§X307.4)",
+          "excerptHint": "posters and right to demand a copy"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "case.ucpb-beluso",
+      "name": "United Coconut Planters Bank v. Spouses Samuel and Odette Beluso",
+      "citation": "G.R. No. 159912, 17 August 2007 (Third Division, Chico-Nazario, J.)",
+      "facts": "UCPB granted the Beluso spouses a credit line (up to P2.35M) secured by real-estate mortgage. The promissory notes let UCPB fix interest 'at the rate indicative of DBD retail rate or as determined by the Branch Head,' subject to increase at the lender's discretion. UCPB charged 18%-34% interest plus penalties; the Belusos paid P763,692.03, then sued to annul the interest stipulation, the accounting, and the foreclosure. The RTC and CA voided the interest rates and held UCPB liable under TILA (P26,000 penalty).",
+      "issue": "Whether the one-sided interest-rate stipulation is valid, and whether UCPB violated the Truth in Lending Act by failing to disclose the true finance charges before consummation.",
+      "ruling": "The Supreme Court AFFIRMED with modifications: (1) the interest-rate provision is void — it violates mutuality of contracts and TILA for not disclosing the true finance charges; only the 12% legal interest (compounded as stipulated) plus a reduced 12% penalty apply; (2) UCPB violated TILA — giving borrowers copies of the notes AFTER execution is not substantial compliance with the 'prior to consummation' rule; (3) the P26,000 Sec. 6(a) penalty stands and is deducted from the spouses' liability; (4) the foreclosure itself is VALID, with the recomputed amounts deducted from the foreclosure proceeds.",
+      "doctrine": "TILA requires a clear written disclosure of the finance charge (pesos and centavos) and its simple-annual-rate equivalent BEFORE consummation; belated copies after execution do not substantially comply. A stipulation letting the lender unilaterally fix or increase interest violates TILA's full-disclosure policy and the Civil Code rule on mutuality, and is void. Sec. 6 creates BOTH a civil liability (6a: P100 or twice the finance charge, whichever greater, capped at P2,000 per transaction, 1-year prescription) recoverable separately and independently of the criminal liability for willful violation (6c); the civil cause of action accrues when the finance charge is required.",
+      "keyPhrase": "Disclose before consummation; one-sided rates are void; civil and criminal liabilities are separate.",
+      "examUse": "Use for: prior-disclosure timing, void escalation/one-sided rate clauses, Sec. 6(a) penalty formula and 1-year prescription/accrual, civil-vs-criminal distinction, and the P1,000 reading of the Sec. 6(c) fine floor.",
+      "topicIds": [
+        "ba166.til.obligations",
+        "ba166.til.non-compliance"
+      ],
+      "provisionIds": [
+        "prov.ra3765-sec2",
+        "prov.ra3765-sec4",
+        "prov.ra3765-sec6a",
+        "prov.ra3765-sec6c"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "full TILA discussion and fallo"
+        }
+      ]
+    },
+    {
+      "id": "case.sampaguita-pnb",
+      "name": "New Sampaguita Builders Construction, Inc. and Spouses Eduardo R. Dee and Arcelita M. Dee v. Philippine National Bank",
+      "citation": "G.R. No. 148753, 30 July 2004, 479 Phil. 483 (Third Division, Panganiban, J.)",
+      "facts": "NSBCI obtained an P8M commercial loan from PNB (P7.7M revolving credit line + P0.3M unadvised line) via three promissory notes (P5M, P2.7M, P0.3M), secured by mortgages on the Dee spouses' properties. PNB unilaterally raised interest rates and penalties (penalty up to 36%) without the borrowers' consent; the increases appeared in statements of account but not in the disclosure statements. NSBCI sued over the bloated loan; the CA upheld PNB.",
+      "issue": "Whether PNB may collect increased interest, penalties, and other charges that were not revealed in the disclosure statements, and whether courts may strike down one-sided escalation provisions.",
+      "ruling": "The Supreme Court PARTLY GRANTED the petition: courts may strike down or modify note provisions giving lenders unrestrained power to raise rates without prior notice and consent; only the rates actually disclosed (19.5% and 21.5% effective) could be imposed; the unilaterally hiked 36% penalty was equitably reduced to zero as iniquitous; and PNB was ordered to refund P3,686,101.52 in overcollections with legal interest.",
+      "doctrine": "Excessive interests, penalties, and other charges not revealed in disclosure statements issued by banks, even if stipulated in the promissory notes, cannot be given effect under the Truth in Lending Act. The borrower not clearly informed through the disclosure statement before consummation of the availment/drawdown cannot be made to pay such charges or increases. A disclosure statement is not a contract modifiable by a later promissory note — it is the written reflection of the true and effective cost of the loan, and novation is never presumed.",
+      "keyPhrase": "Undisclosed charges cannot be collected even if the note stipulates them.",
+      "examUse": "Use for: effect of nondisclosure on collectibility of charges, disclosure-statement-vs-promissory-note hierarchy, unilateral escalation without notice/consent, and equitable reduction of iniquitous penalties.",
+      "topicIds": [
+        "ba166.til.obligations",
+        "ba166.til.non-compliance"
+      ],
+      "provisionIds": [
+        "prov.ra3765-sec4",
+        "prov.ra3765-sec6b"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.sampaguita-pnb",
+          "section": "Penalty, or Increases Thereof, Unjustified",
+          "excerptHint": "undisclosed charges cannot be given effect"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q.til.policy",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "prompt": "State the declared policy of the State under Sec. 2 of the Truth in Lending Act.",
+      "answerKey": "To protect citizens from lack of awareness of the true cost of credit by assuring full disclosure of such cost, preventing the uninformed use of credit to the detriment of the national economy.",
+      "explanation": "Sec. 2's policy sentence is the thesis of the whole Act: awareness of true cost through full disclosure. The Supreme Court in Beluso ties it to hidden charges and uncertain rates that defeat the borrower's full consent.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 2"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "rationale of disclosure"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.til.creditor-requisites",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "prompt": "A neighbor occasionally lends money to friends without interest. Is the neighbor a 'creditor' under RA 3765? Give the two requisites.",
+      "answerKey": "No. A creditor must be (1) engaged in the business of extending credit as a regular practice, AND (2) require payment of a finance charge as an incident of the extension of credit. The neighbor meets neither.",
+      "explanation": "Sec. 3(4) requires both business-regularity and a finance charge. Either one missing means no TILA creditor — and hence no Sec. 4 disclosure duty.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(4)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.til.finance-charge-scope",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "prompt": "What does 'finance charge' include under Sec. 3(3), and why does the word 'includes' matter?",
+      "answerKey": "Interest, fees, service charges, discounts, and such other charges incident to the extension of credit as the Board may by regulation prescribe. 'Includes' makes the enumeration open — other incident charges the Board prescribes also count.",
+      "explanation": "Because the list is illustrative, creditors cannot dodge disclosure by inventing a fee with a novel name. Anything incident to the extension of credit that the Board covers is part of the finance charge.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(3)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.til.seven-items",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "prompt": "Enumerate the seven items of information Sec. 4 requires in the creditor's written statement.",
+      "answerKey": "(1) Cash/delivered price; (2) down payment and/or trade-in credited; (3) the difference between (1) and (2); (4) individually itemized charges not incident to the extension of credit; (5) total amount to be financed; (6) finance charge in pesos and centavos; (7) finance charge as a percentage of the amount financed expressed as a simple annual rate on the outstanding unpaid balance.",
+      "explanation": "Memorize the sequence as price → down → difference → non-credit charges → amount financed → peso charge → annual rate. Items (6) and (7) are the two ways the same finance charge must be expressed: absolute pesos and relative annual rate.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 4"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.til.timing",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "prompt": "When must the Sec. 4 disclosure be furnished, and what did the Supreme Court say about giving the borrower copies only after execution?",
+      "answerKey": "Prior to the consummation of the transaction. In UCPB v. Beluso, the Court held that furnishing copies after execution is not substantial compliance — belated discovery of the true cost cannot reverse an already consummated business decision.",
+      "explanation": "Timing is substantive, not procedural: disclosure must come early enough to inform consent. BSP Circular No. 730 repeats the rule — each borrower gets a copy of the disclosure statement prior to consummation.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 4"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "not substantial compliance"
+        },
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 3 (§X307.2)",
+          "excerptHint": "prior to consummation"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.til.sec6-formula",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "prompt": "State the Sec. 6(a) civil penalty formula, cap, prescriptive period, and the effect of a violation on the contract's validity under Sec. 6(b).",
+      "answerKey": "P100 or twice the finance charge required, whichever is greater, capped at P2,000 per credit transaction, plus reasonable attorney's fees and court costs; action within 1 year from the violation. Under Sec. 6(b), the violation does not affect the contract's validity or enforceability (except for the Sec. 6(a) liability).",
+      "explanation": "Two halves to memorize: the money formula (100 / 2x / 2,000 cap / 1 year) and the validity rule (contract survives; only hidden charges become uncollectible per Sampaguita). Do not confuse with the Sec. 6(c) criminal penalty, which requires willfulness.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(a)"
+        },
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(b)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.til.hypo-escalation",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.til.obligations",
+        "ba166.til.non-compliance"
+      ],
+      "prompt": "**Hypo: the silent rate hike.** A bank's promissory note lets it 'increase the interest rate at its sole discretion based on prevailing market conditions.' Six months later the bank raises the rate from 21% to 33% without prior notice; the increase never appears in any disclosure statement. The borrower sues. Analyze under RA 3765 and jurisprudence.",
+      "answerKey": "Only the disclosed 21% rate is collectible. The 'sole discretion' escalation clause is void under UCPB v. Beluso: a stipulation letting the lender unilaterally fix or increase interest violates both TILA's full-disclosure policy and the Civil Code rule on mutuality of contracts. The silent hike to 33% independently fails under New Sampaguita Builders v. PNB — charges and increases not revealed in the disclosure statement cannot be given effect even if the promissory note stipulates them, since RA 3765, Sec. 4 requires the finance charge in pesos and as a simple annual rate before consummation. The borrower was never clearly informed of the 33% rate through any disclosure statement, so it cannot be imposed; the bank may collect only the disclosed rate, and any iniquitous overcollection is subject to equitable reduction and refund.",
+      "hints": {
+        "issue": "Whether a unilaterally increased rate not in the disclosure statement can be collected, and whether the escalation stipulation is valid.",
+        "rule": "Sec. 4 prior written disclosure; Sampaguita (undisclosed charges cannot be given effect; courts may strike down unrestrained escalation); Beluso (one-sided rate stipulation void for violating mutuality and TILA).",
+        "application": "Test the stipulation against mutuality and full disclosure; test the 33% rate against what the disclosure statements actually showed; consider equitable reduction of iniquitous charges.",
+        "conclusion": "Only the disclosed rate is collectible; the escalation clause and the silent hike fail."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 4"
+        },
+        {
+          "sourceId": "src.law.sampaguita-pnb",
+          "section": "Penalty, or Increases Thereof, Unjustified",
+          "excerptHint": "undisclosed charges cannot be given effect"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Validity of the Interest Rates",
+          "excerptHint": "void one-sided rate stipulation"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.til.hypo-penalty-suit",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "prompt": "**Hypo: the late penalty suit.** A borrower discovers that her 2023 appliance installment contract never disclosed any finance charge in pesos or any annual rate. In 2025, after the store demands payment of interest and fees, she sues for the Sec. 6(a) penalty. The store argues the 1-year period ran from the 2023 signing. Analyze prescription and the available relief.",
+      "answerKey": "The suit is timely if filed within one year of the 2025 demand. Under UCPB v. Beluso, the Sec. 6(a) 1-year period accrues not at signing but when the finance charge is required — in Beluso, on the demand date — so the store's 2023-signing argument fails. The borrower recovers the Sec. 6(a) civil penalty: P100 or twice the finance charge required, whichever is greater, capped at P2,000 for this single credit transaction, plus reasonable attorney's fees and court costs. The civil action stands separately and independently of any criminal case. Under Sec. 6(b), however, the installment contract itself remains valid and enforceable — only the undisclosed finance charges become uncollectible, alongside the penalty.",
+      "hints": {
+        "issue": "When the Sec. 6(a) 1-year prescriptive period begins to run, and what the borrower may recover.",
+        "rule": "Sec. 6(a) formula, cap, fees, and 1-year period; Beluso accrual rule (cause of action accrues when the finance charge is required); Sec. 6(b) validity rule.",
+        "application": "Compare signing date vs. demand date as accrual points; compute P100 vs. twice the finance charge with the P2,000 cap; note the contract itself survives.",
+        "conclusion": "Resolve timeliness under the accrual rule and state the recoverable penalty."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(a)"
+        },
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(b)"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act",
+          "excerptHint": "accrual when finance charge required"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc.til.01",
+      "kind": "term",
+      "front": "What law is the 'Truth in Lending Act' and what does it require?",
+      "back": "RA No. 3765 (1963). It requires creditors to disclose finance charges in connection with extensions of credit — a clear written statement before consummation.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "tags": [
+        "short-title",
+        "overview"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 1"
+        },
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 4"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.02",
+      "kind": "provision",
+      "front": "Sec. 2: State the policy of the Truth in Lending Act in one sentence.",
+      "back": "Protect citizens from lack of awareness of the true cost of credit by assuring full disclosure, preventing uninformed use of credit to the detriment of the national economy.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "tags": [
+        "policy",
+        "sec-2"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 2"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.03",
+      "kind": "term",
+      "front": "TILA 'credit': give three examples beyond ordinary bank loans.",
+      "back": "Any three of: mortgage, conditional sales contract, installment sale of property/services, rental-purchase, lease/hire/bailment arrangement, pledge/lien — plus any transaction with a similar purpose or effect.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "tags": [
+        "definitions",
+        "credit"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(2)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.04",
+      "kind": "term",
+      "front": "TILA 'creditor': what two requisites must concur?",
+      "back": "(1) Engaged in the business of extending credit as a regular practice (principal or agent); AND (2) requires payment of a finance charge incident to the extension of credit.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "tags": [
+        "definitions",
+        "creditor"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(4)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.05",
+      "kind": "term",
+      "front": "TILA 'finance charge': enumeration and key word.",
+      "back": "Interest, fees, service charges, discounts, and other charges incident to the extension of credit as the Board may by regulation prescribe. Key word: 'includes' — the list is open.",
+      "topicIds": [
+        "ba166.til.purpose"
+      ],
+      "tags": [
+        "definitions",
+        "finance-charge"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 3(3)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.06",
+      "kind": "provision",
+      "front": "Sec. 4: recite the seven disclosure items in order.",
+      "back": "(1) Cash/delivered price; (2) down payment/trade-in; (3) difference of (1)-(2); (4) itemized non-credit charges; (5) total amount financed; (6) finance charge in pesos and centavos; (7) finance charge as simple annual rate on the outstanding balance. Furnished in writing BEFORE consummation.",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "tags": [
+        "disclosure",
+        "sec-4"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 4"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.07",
+      "kind": "comparison",
+      "front": "BSP Circular 730: minimum disclosure for small business/retail/consumer credit vs. RA 3765 Sec. 4.",
+      "back": "BSP minimum (4): amount financed; finance charges in pesos/centavos; NET PROCEEDS; rate as simple annual rate OR EIR. Adds net proceeds and the EIR alternative, furnished before consummation — consistent with expanding, not replacing, Sec. 4.",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "tags": [
+        "bsp-730",
+        "disclosure",
+        "eir"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 3 (§X307.2)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.08",
+      "kind": "term",
+      "front": "BSP Circular 730: define EIR and state the interest-computation rule.",
+      "back": "EIR = the PAS-defined rate that exactly discounts estimated future cash flows over the loan's life to the net loan proceeds. Banks may charge interest ONLY on the outstanding balance at the beginning of each interest/installment period.",
+      "topicIds": [
+        "ba166.til.obligations"
+      ],
+      "tags": [
+        "bsp-730",
+        "eir",
+        "interest"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 2 (§X307.1[g]-[h])"
+        },
+        {
+          "sourceId": "src.law.bsp-circ-730",
+          "section": "Section 1 (§X305.5)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.09",
+      "kind": "provision",
+      "front": "Sec. 6(a): civil penalty formula, cap, prescription, and costs.",
+      "back": "P100 OR twice the finance charge required (whichever greater), max P2,000 per transaction + attorney's fees and court costs. Sue within 1 year from the violation. Accrues when the finance charge is required (Beluso).",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "tags": [
+        "penalties",
+        "sec-6a"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(a)"
+        },
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.10",
+      "kind": "comparison",
+      "front": "Compare Sec. 6 civil vs. criminal liability; effect on the contract.",
+      "back": "Civil 6(a): failure to disclose → P100/2x formula, P2,000 cap, 1 year, no willfulness needed. Criminal 6(c): WILLFUL violation → fine (floor [sic] 'P1,00,' read P1,000 by the Court) to P5,000 and/or 6 months-1 year. Sec. 6(b): the contract stays valid and enforceable. Sec. 6(d): government exempt.",
+      "topicIds": [
+        "ba166.til.non-compliance"
+      ],
+      "tags": [
+        "penalties",
+        "civil-vs-criminal",
+        "sec-6"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(a)"
+        },
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(b)"
+        },
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(c)"
+        },
+        {
+          "sourceId": "src.law.ra3765",
+          "section": "Sec. 6(d)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.11",
+      "kind": "doctrine",
+      "front": "UCPB v. Beluso: three TILA holdings for the exam.",
+      "back": "(1) Disclosure must precede consummation — post-execution copies are not substantial compliance. (2) A lender's one-sided power to fix/increase rates is void (mutuality + TILA). (3) Sec. 6(a) civil action is separate from criminal liability and accrues when the finance charge is required.",
+      "topicIds": [
+        "ba166.til.obligations",
+        "ba166.til.non-compliance"
+      ],
+      "tags": [
+        "jurisprudence",
+        "beluso"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ucpb-beluso",
+          "section": "Liability for Violation of Truth in Lending Act"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.til.12",
+      "kind": "doctrine",
+      "front": "Sampaguita v. PNB: what happens to charges missing from the disclosure statement?",
+      "back": "They cannot be given effect under TILA — even if stipulated in the promissory notes. The borrower not informed before consummation cannot be made to pay them. The disclosure statement reflects true cost; it is not a contract the note can novate.",
+      "topicIds": [
+        "ba166.til.obligations",
+        "ba166.til.non-compliance"
+      ],
+      "tags": [
+        "jurisprudence",
+        "sampaguita"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.sampaguita-pnb",
+          "section": "Penalty, or Increases Thereof, Unjustified"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    }
+  ],
+  "coverage": [
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 1 (short title)",
+      "locator": "prov.ra3765-sec1",
+      "lessonId": "les.truth-in-lending.purpose"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 2 (declaration of policy)",
+      "locator": "prov.ra3765-sec2",
+      "lessonId": "les.truth-in-lending.purpose"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 3(1) (Board)",
+      "locator": "prov.ra3765-sec3-board",
+      "lessonId": "les.truth-in-lending.purpose"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 3(2) (credit)",
+      "locator": "prov.ra3765-sec3-credit",
+      "lessonId": "les.truth-in-lending.purpose"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 3(3) (finance charge)",
+      "locator": "prov.ra3765-sec3-finance-charge",
+      "lessonId": "les.truth-in-lending.purpose",
+      "note": "Statutory [sic] 'may be regulation prescribe' preserved verbatim; read as 'may by regulation prescribe.'"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 3(4) (creditor)",
+      "locator": "prov.ra3765-sec3-creditor",
+      "lessonId": "les.truth-in-lending.purpose",
+      "note": "Statutory [sic] verb 'make' preserved verbatim."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 3(5) (person)",
+      "locator": "prov.ra3765-sec3-person",
+      "lessonId": "les.truth-in-lending.purpose"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 4 (disclosure duty and 7 items)",
+      "locator": "prov.ra3765-sec4",
+      "lessonId": "les.truth-in-lending.obligations"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 5 (Board rulemaking)",
+      "locator": "prov.ra3765-sec5",
+      "lessonId": "les.truth-in-lending.obligations"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 6(a) (civil liability)",
+      "locator": "prov.ra3765-sec6a",
+      "lessonId": "les.truth-in-lending.non-compliance"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 6(b) (validity preserved)",
+      "locator": "prov.ra3765-sec6b",
+      "lessonId": "les.truth-in-lending.non-compliance",
+      "note": "Statutory [sic] doubled phrase preserved verbatim."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 6(c) (criminal penalty)",
+      "locator": "prov.ra3765-sec6c",
+      "lessonId": "les.truth-in-lending.non-compliance",
+      "note": "Fine floor reads 'P1,00' [sic] in all statute reproductions; the Supreme Court in UCPB v. Beluso quotes it as P1,000. Both readings disclosed in the lesson."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 6(d) (government exemption)",
+      "locator": "prov.ra3765-sec6d",
+      "lessonId": "les.truth-in-lending.non-compliance"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 6(e) (prima facie evidence)",
+      "locator": "prov.ra3765-sec6e",
+      "lessonId": "les.truth-in-lending.non-compliance"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3765, Sec. 7 (effectivity) + approval date",
+      "locator": "prov.ra3765-sec7",
+      "lessonId": "les.truth-in-lending.non-compliance"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "BSP Circular No. 730, Sec. 1 (MORB §X305.5, interest method)",
+      "locator": "prov.bsp730-x305-5",
+      "lessonId": "les.truth-in-lending.obligations"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "BSP Circular No. 730, Sec. 2 (MORB §X307.1[g]-[h], EIR)",
+      "locator": "prov.bsp730-x307-1gh",
+      "lessonId": "les.truth-in-lending.obligations"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "BSP Circular No. 730, Sec. 3 (MORB §X307.2, minimum disclosure)",
+      "locator": "prov.bsp730-x307-2",
+      "lessonId": "les.truth-in-lending.obligations"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "BSP Circular No. 730, Sec. 4 (MORB §X307.4, posters)",
+      "locator": "prov.bsp730-x307-4",
+      "lessonId": "les.truth-in-lending.obligations"
+    },
+    {
+      "status": "partial",
+      "sourceSection": "BSP Circular No. 730, Sec. 5 + Appendix 19 (revised disclosure-statement format)",
+      "locator": "prov.bsp730-x307-2",
+      "lessonId": "les.truth-in-lending.obligations",
+      "note": "Required contents converted via §X307.2; the blank sample-form layout itself is not reproduced (administrative form, not examinable doctrine)."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "UCPB v. Beluso, G.R. No. 159912 (TILA liability discussion + fallo)",
+      "locator": "case.ucpb-beluso",
+      "lessonId": "les.truth-in-lending.non-compliance",
+      "note": "Non-TILA issues in the decision (foreclosure validity, forum shopping, attorney's fees setoff) are summarized only as context; TILA holdings fully converted."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Sampaguita v. PNB, G.R. No. 148753 (disclosure doctrine + fallo)",
+      "locator": "case.sampaguita-pnb",
+      "lessonId": "les.truth-in-lending.obligations",
+      "note": "Computation and Usury-Law discussions summarized only as context; TILA holdings fully converted."
+    }
+  ]
+}

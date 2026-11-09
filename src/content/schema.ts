@@ -10,6 +10,14 @@ import { z } from 'zod';
 export const coverageSchema = z.enum(['COVERED', 'PARTIAL', 'SYLLABUS_ONLY', 'NEEDS_VERIFICATION']);
 export type CoverageStatus = z.infer<typeof coverageSchema>;
 
+/**
+ * Content provenance. Course-reviewer lessons are converted from the supplied
+ * reviewers; research-backed lessons are authored from official laws,
+ * regulations, issuances, and jurisprudence because no course reviewer exists.
+ */
+export const provenanceSchema = z.enum(['course-reviewer', 'research-backed']);
+export type Provenance = z.infer<typeof provenanceSchema>;
+
 export const sourceRefSchema = z.object({
   sourceId: z.string().min(1),
   page: z.string().optional(),
@@ -21,14 +29,22 @@ export type SourceRef = z.infer<typeof sourceRefSchema>;
 
 export const sourceDocumentSchema = z.object({
   id: z.string().min(1),
+  /** Exact original filename for course files; short formal title for legal sources. */
   filename: z.string().min(1),
-  role: z.enum(['syllabus', 'reviewer', 'outlineImage']),
-  format: z.enum(['pdf', 'docx', 'jpg']),
-  bytes: z.number().int().positive(),
+  shortName: z.string().min(1),
+  role: z.enum(['syllabus', 'reviewer', 'outlineImage', 'legalSource']),
+  /** Origin distinguishes supplied course files from researched official sources. */
+  origin: z.enum(['course-file', 'legal-source']).default('course-file'),
+  format: z.enum(['pdf', 'docx', 'jpg', 'web']),
+  bytes: z.number().int().nonnegative().default(0),
   pages: z.number().int().positive().optional(),
   courseIds: z.array(z.string()),
   blockIds: z.array(z.string()),
-  downloadPath: z.string().min(1),
+  downloadPath: z.string().optional(),
+  /** Canonical official URL for legal sources (Gazette, e-Library, BSP, PDIC, SSS, DOLE). */
+  url: z.string().url().optional(),
+  publisher: z.string().optional(),
+  accessedAt: z.string().optional(),
   available: z.boolean().default(true),
   notes: z.string().optional(),
 });
@@ -79,6 +95,7 @@ export const moduleSchema = z.object({
   topicIds: z.array(z.string().min(1)),
   primarySourceIds: z.array(z.string().min(1)),
   coverage: coverageSchema,
+  provenance: provenanceSchema.default('course-reviewer'),
 });
 export type Module = z.infer<typeof moduleSchema>;
 
@@ -93,6 +110,7 @@ export const topicSchema = z.object({
   caseIds: z.array(z.string()),
   coverage: coverageSchema,
   verificationNotes: z.string().optional(),
+  provenance: provenanceSchema.default('course-reviewer'),
 });
 export type Topic = z.infer<typeof topicSchema>;
 
@@ -132,6 +150,7 @@ const lessonBase = {
   title: z.string().min(1),
   description: z.string().min(1),
   coverage: coverageSchema,
+  provenance: provenanceSchema.default('course-reviewer'),
   blocks: z.array(lessonBlockSchema).min(1),
   prevLessonId: z.string().optional(),
   nextLessonId: z.string().optional(),
@@ -190,6 +209,8 @@ export const practiceQuestionSchema = z.object({
   topicIds: z.array(z.string()),
   prompt: z.string().min(1),
   answerKey: z.string().optional(),
+  /** Authored explanation of the correct answer (researched questions only; source-backed stay verbatim-pure). */
+  explanation: z.string().optional(),
   hints: z
     .object({
       issue: z.string().optional(),
@@ -201,7 +222,7 @@ export const practiceQuestionSchema = z.object({
   modelSolution: z.string().optional(),
   choices: z.array(mcqChoiceSchema).optional(),
   sourceRefs: z.array(sourceRefSchema).min(1),
-  editorialStatus: z.enum(['source-backed', 'authored-draft', 'reviewed']),
+  editorialStatus: z.enum(['source-backed', 'authored-draft', 'researched-draft', 'reviewed']),
 });
 export type PracticeQuestion = z.infer<typeof practiceQuestionSchema>;
 

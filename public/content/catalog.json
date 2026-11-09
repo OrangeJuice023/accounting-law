@@ -24,7 +24,9 @@
       ],
       "downloadPath": "/assets/sources/0. BA 166 WFZ AY26-27 - Syllabus (Romero-Aratea) (1).pdf",
       "available": false,
-      "notes": "Canonical course outline. Browser duplicate-download suffix (1) preserved verbatim. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Canonical course outline. Browser duplicate-download suffix (1) preserved verbatim. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Syllabus",
+      "origin": "course-file"
     },
     {
       "id": "src.r01",
@@ -41,7 +43,9 @@
       ],
       "downloadPath": "/assets/sources/BA166_Reviewer_01_Sales.pdf",
       "available": false,
-      "notes": "Doctrine-first reviewer, Civil Code Arts. 1458-1637 and special laws. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Doctrine-first reviewer, Civil Code Arts. 1458-1637 and special laws. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Reviewer 01 · Sales",
+      "origin": "course-file"
     },
     {
       "id": "src.r02",
@@ -58,7 +62,9 @@
       ],
       "downloadPath": "/assets/sources/BA166_Reviewer_02_Consumer.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Reviewer 02 · Consumer",
+      "origin": "course-file"
     },
     {
       "id": "src.r03",
@@ -75,7 +81,9 @@
       ],
       "downloadPath": "/assets/sources/BA166_Reviewer_03_Procurement.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Reviewer 03 · Procurement",
+      "origin": "course-file"
     },
     {
       "id": "src.r04",
@@ -92,7 +100,9 @@
       ],
       "downloadPath": "/assets/sources/BA166_Reviewer_04_Ecommerce.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Reviewer 04 · E-commerce",
+      "origin": "course-file"
     },
     {
       "id": "src.r05",
@@ -109,7 +119,9 @@
       ],
       "downloadPath": "/assets/sources/BA166_Reviewer_05_Eodb.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Reviewer 05 · EODB",
+      "origin": "course-file"
     },
     {
       "id": "src.r06",
@@ -126,7 +138,9 @@
       ],
       "downloadPath": "/assets/sources/BA166_Reviewer_06_Credit.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Reviewer 06 · Credit",
+      "origin": "course-file"
     },
     {
       "id": "src.rev",
@@ -143,7 +157,9 @@
       ],
       "downloadPath": "/assets/sources/BA166_Revised_Statute_and_Case_Reviewer.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Revised Statute Reviewer",
+      "origin": "course-file"
     },
     {
       "id": "src.amla",
@@ -159,7 +175,9 @@
       ],
       "downloadPath": "/assets/sources/Anti_Money_Laundering_Act_Reviewer (2).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "AMLA Reviewer",
+      "origin": "course-file"
     },
     {
       "id": "src.bp22",
@@ -175,7 +193,9 @@
       ],
       "downloadPath": "/assets/sources/Bouncing_Checks_Law_Reviewer (1).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Bouncing Checks Reviewer",
+      "origin": "course-file"
     },
     {
       "id": "src.ins1",
@@ -191,7 +211,9 @@
       ],
       "downloadPath": "/assets/sources/Insurance_Law_Reviewer (1).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Insurance Reviewer 1",
+      "origin": "course-file"
     },
     {
       "id": "src.ins2",
@@ -207,7 +229,9 @@
       ],
       "downloadPath": "/assets/sources/Insurance_Law_Reviewer_Part_2 (1).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Insurance Reviewer 2",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-amla",
@@ -223,7 +247,9 @@
       ],
       "downloadPath": "/assets/sources/0fd27c79-b7e0-4a22-9962-0cdcf09f655d.jpg",
       "available": false,
-      "notes": "Syllabus p. 17 AMLA outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Syllabus p. 17 AMLA outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · AMLA",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-labor-hours",
@@ -239,7 +265,9 @@
       ],
       "downloadPath": "/assets/sources/0ff91243-5adf-4b64-97ae-b50e93844ece.jpg",
       "available": false,
-      "notes": "Labor hours-of-work outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Labor hours-of-work outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · Labor hours",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-labor-wages",
@@ -255,7 +283,9 @@
       ],
       "downloadPath": "/assets/sources/12c66c9a-284c-4a01-ac7a-b7be0423a7eb.jpg",
       "available": false,
-      "notes": "Labor holiday/wages/leaves outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Labor holiday/wages/leaves outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · Labor wages",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-labor-leaves",
@@ -271,7 +301,9 @@
       ],
       "downloadPath": "/assets/sources/25ca9d4e-d9c1-4771-becf-4841c8bf81ed.jpg",
       "available": false,
-      "notes": "Narrow strip: leaves/special workers; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Narrow strip: leaves/special workers; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · Leaves",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-ins-2",
@@ -287,7 +319,9 @@
       ],
       "downloadPath": "/assets/sources/824ae853-8c15-4f1c-a745-a52ea4dff4d5.jpg",
       "available": false,
-      "notes": "Insurance rescission/claims outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Insurance rescission/claims outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · Insurance 2",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-ins-1",
@@ -303,7 +337,9 @@
       ],
       "downloadPath": "/assets/sources/ac3d3dc8-ea2b-4f35-8b02-010796f5bccc.jpg",
       "available": false,
-      "notes": "Insurance items 1-5 outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Insurance items 1-5 outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · Insurance 1",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-dpa",
@@ -319,7 +355,9 @@
       ],
       "downloadPath": "/assets/sources/db547204-6f14-465c-83b1-1e2cb9a6ebd3.jpg",
       "available": false,
-      "notes": "Data Privacy Act outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Data Privacy Act outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · DPA",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-tm",
@@ -335,7 +373,9 @@
       ],
       "downloadPath": "/assets/sources/dc278e4f-9768-4863-9b81-a1f57f99f4e4.jpg",
       "available": false,
-      "notes": "IP trademark outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "IP trademark outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · Trademark",
+      "origin": "course-file"
     },
     {
       "id": "src.jpg-bp22",
@@ -351,7 +391,1471 @@
       ],
       "downloadPath": "/assets/sources/fb5b8313-b516-40bc-b4aa-9bb7096a18de.jpg",
       "available": false,
-      "notes": "Syllabus p. 16 Bouncing Checks outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
+      "notes": "Syllabus p. 16 Bouncing Checks outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy).",
+      "shortName": "Outline image · BP 22",
+      "origin": "course-file"
+    },
+    {
+      "available": false,
+      "id": "src.law.labor-code",
+      "filename": "Labor Code of the Philippines, 2022 Renumbered Edition (DOLE)",
+      "shortName": "Labor Code 2022",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://dole.gov.ph/labor-code-of-the-philippines-2/",
+      "publisher": "Department of Labor and Employment",
+      "accessedAt": "2026-11-09",
+      "notes": "Canonical primary source for this module (PD 442 as amended and renumbered per DA No. 01-2015). DOLE.gov.ph sits behind a Cloudflare challenge and returned HTTP 403 to direct retrieval on the access date, so article texts were extracted from the identical DOLE 2016 renumbered edition mirror (src.law.labor-code-2016) and every article cross-checked word-for-word against the Lawphil PD 442 page (src.law.pd442). Renumbering verified: Arts. 58-129 carry the same numbers as the original text; old Arts. 135/248 print as new Arts. 133/259 with bracket notes. The 2016 printing predates RA 11360, so Art. 96 is taken from RA 11360 itself. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.labor-code-2016",
+      "filename": "Labor Code of the Philippines 2016 Fulltext, DOLE Edition (renumbered)",
+      "shortName": "DOLE 2016 ed.",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://online.flipbuilder.com/awdz/onjr/",
+      "publisher": "Department of Labor and Employment (via flipbook mirror)",
+      "accessedAt": "2026-11-09",
+      "notes": "Complete copy of the DOLE renumbered edition (DA No. 01-2015 numbering; reflects amendments through RA 10741). Used to confirm renumbered article numbers, titles, bracket annotations (e.g. ART. 133 [135], ART. 259 [248]), and footnotes (e.g. flex-work advisories, RA 7277 note). OCR/page-number artifacts cleaned and every article reconciled with src.law.pd442 before quoting. Pre-RA 11360 Art. 96 superseded — current Art. 96 comes from src.law.ra11360. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pd442",
+      "filename": "Presidential Decree No. 442, as amended (Labor Code, original numbering)",
+      "shortName": "PD 442 (Lawphil)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/presdecs/pd1974/pd_442_1974.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "PD 442 text as amended (original numbering). Wording is identical to the renumbered edition for all in-scope articles except the renumbered designations of Arts. 133/259 and the RA 11360 rewrite of Art. 96. Used as the clean-text cross-check for every Labor Code verbatim; known page typos corrected against the amendatory acts (e.g. 'female employees' corrected to RA 6725's 'female employee'). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.omnibus-b3",
+      "filename": "Omnibus Rules to Implement the Labor Code, Book III (Conditions of Employment)",
+      "shortName": "Omnibus Rules III",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://chanrobles.com/implementingrulesofthelaborcode3.html",
+      "publisher": "ChanRobles Virtual Law Library",
+      "accessedAt": "2026-11-09",
+      "notes": "Full text of Book III Rules I-XIV including the RA 6727 wage rules as Rule VII. Used for Rule I (hours worked, waiting/on-call, lectures, meal periods, OT, compulsory OT), Rule IV (holiday pay, absences, holiday-work rates), Rule V (SIL coverage, one-year rule, commutation), and Rule X Secs. 6-13 (payrolls, time records, place of records, false reporting). Cross-checked against the laborlaw.ph library copy; Rule VII here is the RA 6727 version (no facilities rule — facilities doctrine comes from Art. 97(f) and Mabeza). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11360",
+      "filename": "Republic Act No. 11360 (service charges to covered employees; amends Labor Code Art. 96)",
+      "shortName": "RA 11360",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11360_2019.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 7 August 2019 (17th Congress consolidation of SB 1299/HB 8784). Current text of Labor Code Art. 96: 100% of collected service charges to covered workers except managerial employees. Verbatim verified against a copy of the Official Gazette printing (115 OG No. 37, Sept. 16, 2019); the enrolled text itself carries two typographical errors ('by law of wage order' and 'increased minimum age'), flagged [sic] in the lesson. Senate, House, and Gazette endpoints returned HTTP 403 on the access date. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pd851",
+      "filename": "Presidential Decree No. 851 (13th-month pay) with 1975 Rules and Supplementary Rules",
+      "shortName": "PD 851",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/presdecs/pd1975/pd_851_1975.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Promulgated 16 December 1975: Sec. 1 (P1,000 salary ceiling — later removed by MO 28) and Sec. 2 (already-paying exemption). Page also carries the 22 December 1975 Rules (1/12 of basic salary; basic-salary definition; Sec. 3 employer exemptions; Sec. 4 one-month service rule) and Supplementary Rules (piece-rate coverage; OT excluded from basic salary). Current operating rule is the 1987 Revised Guidelines (src.law.rev13th); the 1975 distressed-employer exemption no longer appears there. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.rev13th",
+      "filename": "Revised Guidelines on the Implementation of the 13th Month Pay Law (16 November 1987)",
+      "shortName": "13th-Month Guidelines",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://chanrobles.com/revised13thmonthpayguidelines.htm",
+      "publisher": "ChanRobles Virtual Law Library",
+      "accessedAt": "2026-11-09",
+      "notes": "Secretary Franklin Drilon issuance: MO 28 ceiling removal (all rank-and-file, >=1 month service), exempted employers, rank-and-file test, 1/12 computation and basic-salary inclusions/exclusions, piece-rate and multiple-employer rules, private-school teachers, resigned/separated proration, Dec. 24 deadline, non-credit to regular wage, non-diminution. WARNING: item 5(a) 2nd paragraph (fixed wage + commission computed on total earnings) was declared VOID in Boie-Takeda v. Dela Serna — commissions are excluded from 13th-month basic salary. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra8972",
+      "filename": "Republic Act No. 8972 (Solo Parents' Welfare Act of 2000)",
+      "shortName": "RA 8972",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8972_2000.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "11th Congress; 17 sections only (Secs. 1-17) — there is NO Sec. 20, so the syllabus citation '(RA 8972, 3, 8, 20)' appears to carry an erroneous '20'. Original Sec. 8 granted 7 working days parental leave after 1 year of service. Substantially amended by RA 11861 (2022): current parental leave is 7 days after 6 months, forfeitable/noncumulative, government + private. Lessons teach the current RA 11861 text and flag the amendment. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11861",
+      "filename": "Republic Act No. 11861 (Expanded Solo Parents Welfare Act, amending RA 8972)",
+      "shortName": "RA 11861",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11861_2022.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "18th Congress, dated 4 June 2022. Current law on solo parents: Sec. 3 (amended definitions incl. 'parental leave'), Sec. 4 (categories of solo parent, incl. OFW-family, guardians, 4th-degree relatives, pregnant women), Sec. 7 (amending RA 8972 Sec. 8: forfeitable noncumulative 7-day parental leave after 6 months service). Enrolled-text typos ('exiting laws', 'shills', 'twenty0two') flagged [sic] in the lesson. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11210",
+      "filename": "Republic Act No. 11210 (105-Day Expanded Maternity Leave Law)",
+      "shortName": "RA 11210",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11210_2019.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 20 February 2019. Sec. 3 (105 days + 30 optional unpaid + 15 solo-parent; every pregnancy; 60 days for miscarriage/emergency termination), Sec. 4 (public sector), Sec. 5 (private sector: SSS 3-contribution rule, employer advance + SSS reimbursement, salary differential + 4 exemptions), Sec. 6 (allocation of up to 7 days to father/alternate caregiver, over and above RA 8187; reversion on death/incapacity). Sec. 6 included though the syllabus cites only Secs. 3-5 because it completes the Sec. 5 benefit. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra8187",
+      "filename": "Republic Act No. 8187 (Paternity Leave Act of 1996)",
+      "shortName": "RA 8187",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8187_1996.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 11 June 1996. Sec. 2 (7 days with full pay to married male employees, private + public, first 4 deliveries of legitimate cohabiting spouse; delivery includes miscarriage; notice to employer) and Sec. 3 (statutory definition of paternity leave). Syllabus cites Sec. 3; Sec. 2 is included because it states the grant itself. Unchanged by RA 11210, whose Sec. 6 allocation is expressly 'over and above' RA 8187. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra9710",
+      "filename": "Republic Act No. 9710 (Magna Carta of Women)",
+      "shortName": "RA 9710",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9710_2009.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 14 August 2009. Only Sec. 18 (Special Leave Benefits for Women: 2 months with full pay based on gross monthly compensation following surgery caused by gynecological disorders, after 6 months aggregate service in last 12 months) is in syllabus scope; the rest of this 66-section Code is outside the module. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra9262",
+      "filename": "Republic Act No. 9262 (Anti-VAWC Act of 2004)",
+      "shortName": "RA 9262",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9262_2004.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 8 March 2004. Syllabus scope is Sec. 3(c) (Battered Woman Syndrome definition) and Sec. 43 (paid leave up to 10 days in addition to other paid leaves, extendible per protection order; anti-prejudice rule for victims and assisting co-employees). Penal and protection-order provisions are outside the module. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra9492",
+      "filename": "Republic Act No. 9492 (rationalizing celebration of national holidays; amends EO 292 Sec. 26)",
+      "shortName": "RA 9492",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9492_2007.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 25 July 2007 (holiday economics: Monday-nearest observance; Wednesday->Monday, Sunday->following Monday; movable-holiday proclamation at least 6 months prior; Eidul Adha as ARMM regional holiday). Partly superseded by RA 9849 (Eidul Adha becomes national regular holiday). Enrolled text carries a 'Bataaan' typo, flagged [sic]. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra9849",
+      "filename": "Republic Act No. 9849 (Eidul Adha national holiday; amends EO 292 Sec. 26)",
+      "shortName": "RA 9849",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9849_2009.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 11 December 2009. Sec. 1 declares the 10th day of Zhul Hijja (Eidul Adha) a national holiday; Sec. 2 restates EO 292 Sec. 26 with Eidul Adha in the regular-holiday list. The Sec. 2(c) movable-holiday proviso is grammatically garbled in the enrolled text; the lesson quotes Sec. 1 and the holiday list and cites RA 9492 for the observance mechanics. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra10966",
+      "filename": "Republic Act No. 10966 (December 8 special nonworking holiday; Feast of the Immaculate Conception)",
+      "shortName": "RA 10966",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2017/ra_10966_2017.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 28 December 2017. Sec. 1 declares December 8 of every year a special nonworking holiday nationwide. (Lawphil passage-date line shows a 'May 2, 20017' typo — immaterial to the two operative sections.) Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.eo292",
+      "filename": "Executive Order No. 292 (Administrative Code of 1987), Book I, Chapter 7",
+      "shortName": "EO 292",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/executive/execord/eo1987/eo_292_1987.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Promulgated 25 July 1987. Chapter 7 (Secs. 26-28): Sec. 26 lists regular holidays and nationwide special days 'unless otherwise modified by law, order or proclamation' (current text is as amended by RA 9492 and RA 9849); Sec. 27 (local special days by proclamation); Sec. 28 (pretermission: act due on a holiday/special day may be done the next business day). Official Gazette endpoints returned HTTP 403 on the access date. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pd1083",
+      "filename": "Presidential Decree No. 1083 (Code of Muslim Personal Laws), Book V, Title I (Muslim Holidays)",
+      "shortName": "PD 1083",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/presdecs/pd1977/pd_1083_1977.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Promulgated 4 February 1977. The syllabus's 'Muslim holidays (169-172)' refers to THESE articles (PD 1083 Book V Title I: Art. 169 five official Muslim holidays; Art. 170 provinces/cities of observance; Art. 171 Hijra dating; Art. 172 excusal of Muslim employees), not to Labor Code articles — Labor Code Arts. 169-172 concern employees' compensation and are outside this module. Eidul Fitr and Eidul Adha are now also national regular holidays under EO 292 as amended. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra6725",
+      "filename": "Republic Act No. 6725 (strengthening prohibition on discrimination against women; amends Labor Code Art. 135, now Art. 133)",
+      "shortName": "RA 6725",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra1989/ra_6725_1989.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 12 May 1989. Sec. 1 supplies the current text of Labor Code Art. 133 [135]: ban on sex discrimination plus the two enumerated acts — (a) lesser compensation for work of equal value (the equal-pay rule) and (b) favoring males in promotion/training/scholarships — plus the criminal-liability paragraph. 'Female employee' (singular) confirmed against the Lawphil PD 442 page typo. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra7277",
+      "filename": "Republic Act No. 7277 (Magna Carta for Disabled Persons), Title II, Chapter 1 (Employment)",
+      "shortName": "RA 7277",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7277_1992.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 24 March 1992. Sec. 5 (equal opportunity for employment: same terms, compensation, benefits as able-bodied; 5% reserve of casual/emergency/contractual posts in DSWD/Health/Education and social-development agencies) and Sec. 7 (PWD apprenticeship eligibility) modernize Labor Code Arts. 78-81. Later amendments RA 9442 (2007) and RA 10754 (2016) touched only privileges/discounts (Secs. 32-33), not the employment chapter — verified against both amendatory acts. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra9178",
+      "filename": "Republic Act No. 9178 (Barangay Micro Business Enterprises Act of 2002)",
+      "shortName": "RA 9178",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2002/ra_9178_2002.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "2002. Only Sec. 8 is in syllabus scope: registered BMBEs are exempt from the coverage of the Minimum Wage Law (employees keep SSS/healthcare benefits). Cited for the 'exemptions' item under minimum wage alongside Art. 122(e) wage-order exemptions. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ncc",
+      "filename": "Republic Act No. 386 (Civil Code of the Philippines), Book IV (Arts. 1705, 1708)",
+      "shortName": "NCC 1705/1708",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://chanrobles.com/civilcodeofthephilippinesbook4.htm",
+      "publisher": "ChanRobles Virtual Law Library",
+      "accessedAt": "2026-11-09",
+      "notes": "RA 386 (1949), Book IV. Only two one-sentence articles in scope: Art. 1705 (wages paid in legal currency — cited with Labor Code Art. 102) and Art. 1708 (wages exempt from execution/attachment except debts for food, shelter, clothing, medical attendance — the garnishment item). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.const1987",
+      "filename": "1987 Constitution, Article XIII, Section 3 (Labor)",
+      "shortName": "Const. XIII-3",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/consti/cons1987.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Ratified 2 February 1987. Syllabus cites pars. 2 and 4: par. 2 (workers entitled to security of tenure, humane conditions of work, and a LIVING WAGE) and par. 4 (right of labor to its just share in the fruits of production; right of enterprises to reasonable returns). Anchors the living-wage principle and Art. 124(a) ('demand for living wages'). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.cww-2004",
+      "filename": "DOLE Department Advisory No. 02, Series of 2004 (Implementation of Compressed Workweek Schemes)",
+      "shortName": "CWW Advisory",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://batas.org/library/11ce773c5a0f/pdf/",
+      "publisher": "National Administrative Register (via batas.org law library)",
+      "accessedAt": "2026-11-09",
+      "notes": "Adopted 2 December 2004 (Secretary Patricia Sto. Tomas). Full text retrieved: CWW concept (week < 6 days, 48 hours preserved, workday > 8 hours without OT premium), coverage exclusions (construction, health services, heavy manual labor, OSHS-exceeding exposures), 3 recognition conditions (majority voluntary agreement, OSHS certification where hazardous, DOLE notice), effects (no OT premium to 12 hours/day; 60-minute meals; no diminution; reversion is management prerogative with prior notice). The companion flexible-work advisories (DA 02-2009, DA 04-2010) could not be retrieved (DOLE blocked) and are cited by title only — see coverage notes. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.penaranda-159577",
+      "filename": "Penaranda v. Baganga Plywood Corp., G.R. No. 159577",
+      "shortName": "Penaranda",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2006/may2006/gr_159577_2006.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 159577, 3 May 2006, First Division, Panganiban, C.J. Syllabus-named case: shift engineer/foreman held a MEMBER OF THE MANAGERIAL STAFF (not a managerial employee) under Rule I Sec. 2(c) — still outside Title I labor standards, hence no OT or rest-day premium pay. Decision footnotes quote Labor Code Arts. 87 and 93 verbatim (used as an additional cross-check). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.david-macasio-195466",
+      "filename": "David v. Macasio, G.R. No. 195466",
+      "shortName": "David v. Macasio",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2014/jul2014/gr_195466_2014.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 195466, 2 July 2014, Second Division, Brion, J. Syllabus-named case: pakyaw butcher is an EMPLOYEE (four-fold/control test; pakyaw is a pay method, Art. 97/101), ENTITLED to holiday and SIL pay because he is not field personnel (ejusdem generis; Cebu Institute/Auto Bus/Serrano), but NOT entitled to 13th-month pay (PD 851 Sec. 3(e) task-basis exemption has no field-personnel qualifier). Footnote quotes Art. 101 in full (confirms unlettered single paragraph). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.autobus-156367",
+      "filename": "Auto Bus Transport Systems, Inc. v. Bautista, G.R. No. 156367",
+      "shortName": "Auto Bus",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2005/may2005/gr_156367_2005.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 156367, 16 May 2005, Second Division, Chico-Nazario, J. Commission-basis (7% of gross) driver-conductor is NOT field personnel (supervised via inspectors, dispatchers, fixed schedules — BWC advisory opinion quoted) hence ENTITLED to SIL; task/commission phrases read with 'field personnel' by ejusdem generis. Also holds the purely-commission worker excluded from 13th-month pay and states the SIL prescription rule (Art. 291 runs from refusal to commute/pay). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.boie-takeda-92174",
+      "filename": "Boie-Takeda Chemicals, Inc. v. Dela Serna, G.R. Nos. 92174 and 102552",
+      "shortName": "Boie-Takeda",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1993/dec1993/gr_92174_1993.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. Nos. 92174 (Boie-Takeda medical representatives) and 102552 (Phil. Fuji Xerox salesmen), consolidated, 10 December 1993, Second Division, Narvasa, C.J. Commissions are NOT part of 'basic salary' for 13th-month computation; Revised Guidelines item 5(a) 2nd paragraph (fixed wage + commission on total earnings) declared VOID for unduly expanding PD 851. Distinguishes Songco ('salary' generic includes commissions; 'basic salary' does not). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.arco-metal-170734",
+      "filename": "Arco Metal Products Co., Inc. v. SAMARM-NAFLU, G.R. No. 170734",
+      "shortName": "Arco Metal",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2008/may2008/gr_170734_2008.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 170734, 14 May 2008, Second Division, Tinga, J. Non-diminution (Art. 100): full 13th-month/bonus/leave encashment paid to 7 short-service employees over 1992-2003 ripened into voluntary company practice — proration ordered withdrawn; 'mistake' defense rejected for want of proof; no fixed minimum number of years for a practice (cites 2-, 3-, 6-year precedents). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.mabeza-118506",
+      "filename": "Mabeza v. NLRC, G.R. No. 118506",
+      "shortName": "Mabeza",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1997/apr1997/gr_118506_1997.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 118506, 18 April 1997, First Division, Kapunan, J. Facilities doctrine (Art. 97(f)): deductible only upon (1) proof customarily furnished by the trade, (2) voluntary written acceptance, (3) fair and reasonable value. Facilities vs supplements turns on PURPOSE: hotel meals/lodging required for odd-hour availability were supplements (for employer convenience), not deductible facilities (citing States Marine v. Cebu Seamen's, 7 SCRA 294). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.prubankers-131247",
+      "filename": "Prubankers Association v. Prudential Bank and Trust Co., G.R. No. 131247",
+      "shortName": "Prubankers",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1999/jan1999/gr_131247_1999.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 131247, 25 January 1999, Third Division, Panganiban, J. Wage distortion (Art. 124): four elements (existing hierarchy; significant change at lower level without concomitant higher-level increase; elimination of distinction; same region). Regional wage-order implementation does NOT itself create distortion; inter-regional disparity is RA 6727's design, not an equal-pay violation. 'Establishment' per NWPC Guideline 1-1992: single fixed location. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra9302",
+      "filename": "Republic Act No. 9302 (2004 amendments to the PDIC Charter)",
+      "shortName": "RA 9302",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9302_2004.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 27 July 2004; took effect 12 August 2004. Raised MDIC to P250,000 and supplied the claims-procedure, payment, subrogation, and TRO-ban text retained (as renumbered) in the current charter. Cross-checked against the PDIC-published consolidated charter printing. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra9576",
+      "filename": "Republic Act No. 9576 (2009 amendments to the PDIC Charter)",
+      "shortName": "RA 9576",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9576_2009.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 29 April 2009; raised MDIC to P500,000 effective June 2009. Added the Sec. 4(f) non-payment exclusions, the 120-day splitting window, and the State-policy declaration later carried into charter Sec. 2. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra10846",
+      "filename": "Republic Act No. 10846 (2016 bank resolution and liquidation framework)",
+      "shortName": "RA 10846",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10846_2016.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 23 May 2016. Inserted charter Sec. 2 (State policy) and renumbered the whole charter to the current numbering (definitions Sec. 5, liquidation Secs. 12-16, payment Sec. 19, subrogation Sec. 20, claims Sec. 21). Official Gazette and Senate endpoints returned HTTP 403 on the access date, so Lawphil is the retrievable host; text cross-checked against the RA 11840 amendatory text and the RA 11840 IRR. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11840",
+      "filename": "Republic Act No. 11840 (2022 amendments to the PDIC Charter)",
+      "shortName": "RA 11840",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11840_2022.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Lapsed into law 17 June 2022; took effect 20 July 2022 (date stated in the RA 11840 IRR). Latest amendment to RA 3591: 7-member Board chaired by the BSP Governor, Sec. 5(k) Board authority to raise MDIC with 3-year review, Sec. 11 deposit-records examination, FISTC asset sales, revised financial assistance. Official Gazette and Senate endpoints returned HTTP 403 on the access date; text cross-checked against the IRR and PDIC publications. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11840-irr",
+      "filename": "Implementing Rules and Regulations of RA No. 11840 (signed copy)",
+      "shortName": "RA 11840 IRR",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.pdic.gov.ph/files/APPROVED%20IRR%2023Sept%20(signed).pdf",
+      "publisher": "PDIC / BSP / Department of Finance",
+      "accessedAt": "2026-11-09",
+      "notes": "Joint IRR signed 30 September 2022 by the PDIC President, BSP Governor, and Finance Secretary (per PDIC announcement). Defines fictitious vs fraudulent deposits, investment indicators, AML-proceeds deferral, 60-day reconsideration, and the 180-day runoff after termination of insured status. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pdic-mdic-2025",
+      "filename": "PDIC: New Maximum Deposit Insurance Coverage (MDIC) of P1 Million",
+      "shortName": "PDIC New MDIC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.pdic.gov.ph/mdic",
+      "publisher": "Philippine Deposit Insurance Corporation",
+      "accessedAt": "2026-11-09",
+      "notes": "Current MDIC is P1,000,000.00 per depositor per bank, effective 15 March 2025, per PDIC Memorandum No. 2025-01 dated 27 February 2025 (Roberto B. Tan, President and CEO), issued under the Sec. 5(k) Board authority. Memorandum text verified via an authentic bank-published copy of the official memorandum; figure and effective date confirmed on this PDIC page. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pdic-charter-pdf",
+      "filename": "PDIC Charter (Republic Act 3591, As Amended) — PDIC consolidated printing",
+      "shortName": "PDIC Charter PDF",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.pdic.gov.ph/files/pdiccharter.pdf",
+      "publisher": "Philippine Deposit Insurance Corporation",
+      "accessedAt": "2026-11-09",
+      "notes": "WARNING: this PDIC-hosted printing is stale — it consolidates amendments only through RA 9302 (it still shows P250,000 and a 5-member Board). Used solely to cross-check the exact wording of paragraphs unchanged since RA 9302 (claims procedure, TRO ban). All coverage figures and current section numbers come from the later amendatory acts above. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pdic-ca-118917",
+      "filename": "PDIC v. Court of Appeals, G.R. No. 118917",
+      "shortName": "PDIC v. CA",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1997/dec1997/gr_118917_1997.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 118917, 22 December 1997, First Division, Kapunan, J.; 347 Phil. 741. No deposit, no insurance: PDIC liability is statutory and requires money actually received by the bank; negotiability and PDIC-insured recitals are immaterial. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.cb-ca-76118",
+      "filename": "Central Bank v. Court of Appeals (Triumph Savings Bank), G.R. No. 76118",
+      "shortName": "Central Bank v. CA",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1993/mar1993/gr_76118_1993.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 76118, 30 March 1993, En Banc, Bellosillo, J. Close-now-hear-later doctrine: no prior notice and hearing required before an MB closure/receivership resolution; annullable only for arbitrariness and bad faith. Decided under RA 265 Sec. 29, now RA 7653 Sec. 30. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.so-pdic-230020",
+      "filename": "So v. PDIC, G.R. No. 230020",
+      "shortName": "So v. PDIC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/64023",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 230020, 19 March 2018, First Division, Tijam, J. PDIC is a quasi-judicial agency; certiorari against its claim denials lies only with the Court of Appeals; splitting of deposits (mother-account case) defeats the insurance claim. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.chugani-pdic-230037",
+      "filename": "Sps. Chugani v. PDIC, G.R. No. 230037",
+      "shortName": "Chugani v. PDIC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2018/mar2018/gr_230037_2018.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 230037, 19 March 2018, First Division, Tijam, J. Replica CTDs credited to the bank president's personal account are fictitious/fraudulent deposits; no grave abuse in PDIC's denial; legitimate-deposit test stated. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra1405",
+      "filename": "Republic Act No. 1405",
+      "shortName": "RA 1405 (Secrecy of Bank Deposits)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/25583",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "Current text: original Secs. 2-3 in force (PD 1792 repealed by RA 7653, Sec. 135). S. No. 351; H. No. 3977; 51 OG No. 10, 4976; approved September 9, 1955. E-Library digitization has minor OCR slips ('cases impeachment', 'a line'); verbatim follows the corroborated reading (Lawphil; SC quotations in Ortega and Ejercito). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pd1792",
+      "filename": "Presidential Decree No. 1792",
+      "shortName": "PD 1792 (amending RA 1405; repealed)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/presdecs/pd1981/pd_1792_1981.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "Issued January 16, 1981; expressly repealed by RA 7653, Sec. 135 (1993). Consulted for amendment history only; its Secs. 2-3 text is no longer law. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra7653",
+      "filename": "Republic Act No. 7653 (New Central Bank Act)",
+      "shortName": "RA 7653 (New Central Bank Act)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra1993/ra_7653_1993.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved June 14, 1993. Consulted for Sec. 135 (PD 1792 repeal) and original Secs. 25-26; Sec. 25 later amended by RA 11211. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11211",
+      "filename": "Republic Act No. 11211 (amending RA 7653)",
+      "shortName": "RA 11211 (BSP Charter amendments)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11211_2019.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "2019. Amends RA 7653 Sec. 25 (BSP examination stays subject to secrecy laws); leaves the Sec. 26 DOSRI waiver untouched. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra6426",
+      "filename": "Republic Act No. 6426 (Foreign Currency Deposit Act)",
+      "shortName": "RA 6426 (Foreign Currency Deposit Act)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1239",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved April 4, 1972. S. No. 541; H. No. 2475; 68 OG No. 23, 4503. Secs. 6 and 8 as amended by PD 1246; Sec. 12-A added by PD 1246. Minor E-Library OCR slips ('of fender', 'Effectively', 'SEC 7') corrected per corroborated reading. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pd1035",
+      "filename": "Presidential Decree No. 1035",
+      "shortName": "PD 1035 (amending RA 6426)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://chanrobles.com/presidentialdecrees/presidentialdecreeno1035.html",
+      "publisher": "ChanRobles Virtual Law Library",
+      "accessedAt": "2026-11-09",
+      "notes": "September 30, 1976. Consulted for the intermediate Sec. 8 text (superseded by PD 1246); taught as history. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pd1246",
+      "filename": "Presidential Decree No. 1246",
+      "shortName": "PD 1246 (amending RA 6426)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/59391",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "November 21, 1977. Current Secs. 6, 8 and 12-A of RA 6426. Sec. 8 reading ('the depositor'; 'judicial or administrative or legislative or any other entity whether public or private') confirmed by the Supreme Court's quotation in Salvacion v. Central Bank, G.R. No. 94723. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra10021",
+      "filename": "Republic Act No. 10021 (Exchange of Information on Tax Matters Act of 2009)",
+      "shortName": "RA 10021 (NIRC Sec. 6(F))",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10021_2010.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "2010. Current NIRC Sec. 6(F) text (BIR bank-inquiry authority). Digitized copies uniformly read '(2) ... under Sec. 204(A)(2) reason of financial incapacity'; quoted as transcribed. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra10167",
+      "filename": "Republic Act No. 10167 (amending AMLA Secs. 10-11)",
+      "shortName": "RA 10167 (AMLA Sec. 11)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10167_2012.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "June 6, 2012. Current AMLA Sec. 11 text (AMLC bank-inquiry authority); untouched by RA 10365 and RA 11521. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra10365",
+      "filename": "Republic Act No. 10365 (strengthening the AMLA)",
+      "shortName": "RA 10365 (AMLA predicates)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10365_2013.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "2013. Consulted for the Sec. 3(i) predicate enumeration ((1) kidnapping for ransom, (2) drug offenses, (12) hijacking/destructive arson/murder) referenced by Sec. 11; does not amend Sec. 11. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11521",
+      "filename": "Republic Act No. 11521 (strengthening the AMLA)",
+      "shortName": "RA 11521 (AMLA amendments)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11521_2021.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "January 29, 2021. Appends new Sec. 3(i) predicates without renumbering (1), (2), (12); does not amend Sec. 11. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.pd679",
+      "filename": "Presidential Decree No. 679 (amending Act No. 3936)",
+      "shortName": "PD 679 (Unclaimed Balances Law)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/20640",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "April 2, 1975. Current Act No. 3936 Secs. 1-5 (unclaimed-balances report and escheat). Verbatim cross-checked against the Lawphil transcription. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.gr-l34964",
+      "filename": "China Banking Corporation v. Ortega, G.R. No. L-34964",
+      "shortName": "CBC v. Ortega (1973)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1973/jan1973/gr_34964_1973.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "January 31, 1973, En Banc. Peso-deposit garnishment to satisfy a judgment is allowed; disclosure is incidental to execution. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.gr-94723",
+      "filename": "Salvacion v. Central Bank, G.R. No. 94723",
+      "shortName": "Salvacion v. Central Bank (1997)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1997/aug1997/gr_94723_1997.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "August 21, 1997, En Banc. FCD attachment/garnishment exemption held inapplicable on peculiar equitable facts. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.gr-157294",
+      "filename": "Ejercito v. Sandiganbayan, G.R. Nos. 157294-95",
+      "shortName": "Ejercito v. Sandiganbayan (2006)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2006/nov2006/gr_157294_2006.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "November 30, 2006, En Banc. Sec. 2 exceptions in plunder prosecutions (bribery/dereliction; subject matter reaching transferee accounts). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.gr-135882",
+      "filename": "Marquez v. Desierto, G.R. No. 135882",
+      "shortName": "Marquez v. Desierto (2001)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2001/jun2001/gr_135882_2001.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "June 27, 2001, En Banc. RA 6770 does not override RA 1405; in-camera inspection requires a pending court case and safeguards. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.gr-134699",
+      "filename": "Union Bank v. CA, G.R. No. 134699",
+      "shortName": "Union Bank v. CA (1999)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1999/dec1999/gr_134699_1999.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "December 23, 1999, First Division. The money deposited itself must be the subject matter of the litigation. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.gr-176438",
+      "filename": "PDIC v. Phil. Countryside Rural Bank, G.R. No. 176438",
+      "shortName": "PDIC v. Countryside (2011)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2011/jan2011/gr_176438_2011.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "notes": "January 24, 2011, Second Division. PDIC Sec. 9(b-1) investigation is distinct from Sec. 8 examination; quotes the inquiry-into-deposits power. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra3765",
+      "filename": "Republic Act No. 3765 (Truth in Lending Act)",
+      "shortName": "RA 3765",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.bsp.gov.ph/Regulations/Banking%20Laws/RA3765.pdf",
+      "publisher": "Bangko Sentral ng Pilipinas",
+      "accessedAt": "2026-11-09",
+      "notes": "BSP-hosted copy of RA 3765. Direct fetch returned HTTP 403 on the access date, so the statutory text was triple-verified against identical reproductions (Lawphil, ChanRobles, Corpus Juris) and the Supreme Court's own quotations of Secs. 4 and 6 in UCPB v. Beluso. No statute-level amendment found; implementing rules updated by BSP Circular No. 730 (2011). Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.bsp-circ-730",
+      "filename": "BSP Circular No. 730, s. 2011 (Updated Rules Implementing the Truth in Lending Act)",
+      "shortName": "BSP Circ. 730",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/11/56725",
+      "publisher": "Bangko Sentral ng Pilipinas (text verified via Supreme Court E-Library)",
+      "accessedAt": "2026-11-09",
+      "notes": "Updated rules implementing RA 3765 to enhance loan transaction transparency; amends MORB Secs. X305 and X307 and Appendix 19. Adopted 20 July 2011, effective 1 July 2012. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ucpb-beluso",
+      "filename": "UCPB v. Spouses Beluso, G.R. No. 159912",
+      "shortName": "UCPB v. Beluso",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2007/aug2007/gr_159912_2007.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 159912, 17 August 2007, Third Division, Chico-Nazario, J. Lead TILA case: prior disclosure, void one-sided rate stipulation, civil/criminal liabilities under Sec. 6. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.sampaguita-pnb",
+      "filename": "New Sampaguita Builders v. PNB, G.R. No. 148753",
+      "shortName": "Sampaguita v. PNB",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/45559",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 148753, 30 July 2004, 479 Phil. 483, Third Division, Panganiban, J. Undisclosed charges cannot be given effect under TILA even if stipulated in promissory notes. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ra11199",
+      "filename": "Republic Act No. 11199 (Social Security Act of 2018)",
+      "shortName": "RA 11199",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11199_2019.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 7 February 2019; consolidation of Senate Bill No. 1753 and House Bill No. 2158 passed 28 November 2018. Repeals RA 1161 and RA 8282. All section verbatims in this fragment are quoted from this text (obvious encoding/OCR artifacts normalized). Official Gazette endpoint returned HTTP 403 on the access date, so Lawphil is the retrievable host. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.sss-contrib-2025",
+      "filename": "SSS Contribution Table (Effective January 2025)",
+      "shortName": "SSS Contrib Table 2025",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/sss-contribution-table/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Current tables effective January 2025, implementing the final step of the RA 11199 Sec. 4(a)(9) schedule: SSS Circulars No. 2024-006 (employer/employee), 2024-007 (household employer/kasambahay), 2024-008 (self-employed), 2024-009 (voluntary/non-working spouse), 2024-010 (land-based OFW). Still the latest table published on sss.gov.ph as of the access date; no 2026 schedule had been posted. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.sss-pay-contrib",
+      "filename": "SSS: Pay Contributions (contribution rules by member class)",
+      "shortName": "SSS Pay Contributions",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/pay-contribution",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Confirms 15% of MSC (max P35,000), employer 10.0% / employee 5.0%, effective 1 January 2025; MSC range P5,000-P35,000 with MSC above P20,000 credited to the MPF (MySSS Pension Booster); EC P10/P30 (since 1 January 2007), SE under ECP since September 2020 (ECC-SSS JMC No. 1, s. 2020); land-based OFW minimum MSC P8,000; non-working-spouse MSC from 50% of working spouse income; age-55 MSC-change limits for SE/VM/OFW. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.sss-funeral",
+      "filename": "SSS: Funeral Benefit (current amounts and conditions)",
+      "shortName": "SSS Funeral Benefit",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/funeral-benefit/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Current rule: variable P20,000-P60,000 if the member paid at least 36 contributions; fixed P12,000 if at least 1 but fewer than 36. Per SSS Circular No. 2023-009 (Revised Guidelines on the Funeral Benefit Program), effective 20 October 2023, per PIA announcement of the SSS release. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.sss-maternity",
+      "filename": "SSS: Maternity Benefit (Expanded Maternity Leave Law rules)",
+      "shortName": "SSS Maternity Benefit",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/maternity-benefit/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "RA 11210 (105-Day Expanded Maternity Leave Law) rules apply to contingencies on or after 11 March 2019: 105 days live childbirth (normal or caesarian), 60 days miscarriage/ETP including stillbirth, 120 days for solo parents (105+15); every instance regardless of frequency; 100% of ADSC; at least 3 monthly contributions in the 12-month period preceding the semester of contingency; employer advances within 30 days, SSS reimburses 100%. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.sss-unemployment",
+      "filename": "SSS: Unemployment Benefit (qualifying conditions and procedure)",
+      "shortName": "SSS Unemployment Benefit",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/unemployment-benefit/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Mirrors Sec. 14-B (not over 60; at least 36 contributions with 12 in the 18-month period before involuntary separation; once every 3 years) plus current procedure: claim within 1 year of separation, DOLE electronic Certification of Involuntary Separation (apply within 30 days of online SSS filing), just-cause separations under Labor Code Art. 297 excluded. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.sss-aguas",
+      "filename": "SSS v. Aguas, G.R. No. 165546, 27 February 2006",
+      "shortName": "SSS v. Aguas",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2006/feb2006/gr_165546_2006.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Death-benefits case: surviving-spouse primary-beneficiary test (legitimate spouse AND dependent for support); dependency is not presumed from marriage alone. Petition partially granted; only Jeylnn declared entitled. E-Library mirror: thebookshelf/showdocs/1/41086. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ortega-ssc",
+      "filename": "Ortega v. SSC, G.R. No. 176150, 25 June 2008 (578 Phil. 338)",
+      "shortName": "Ortega v. SSC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2008/jun2008/gr_176150_2008.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Disability case: SSC/CA denial of total permanent disability affirmed; SSS benefits vs Labor Code compensation are distinct in nature and purpose; SSC findings stand on substantial evidence. E-Library mirror: thebookshelf/showdocs/1/45458. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.ambassador-sss",
+      "filename": "Ambassador Hotel v. SSS, G.R. No. 194137, 21 June 2017 (811 Phil. 424)",
+      "shortName": "Ambassador Hotel v. SSS",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2017/jun2017/gr_194137_2017.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Employer-liability case: SSS remittance is mandatory; corporation liable though officers bear criminal responsibility (Sec. 28(f)); arrest of managing head gives jurisdiction over the corporation; officer acquittal does not extinguish corporate civil liability (P584,804.00 + 6% legal interest). E-Library mirror: thebookshelf/showdocs/1/63118. Originals are attributed, not publicly distributed (Phase 2B policy)."
+    },
+    {
+      "available": false,
+      "id": "src.law.gapayao-fulo",
+      "filename": "Gapayao v. Fulo, G.R. No. 193493, 13 June 2013",
+      "shortName": "Gapayao v. Fulo",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2013/jun2013/gr_193493_2013.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Coverage case: compulsory SSS coverage follows the employer-employee relationship under the control test (right to control suffices; pakyaw workers are employees); factual findings of the SSC affirmed by the CA are final on substantial evidence; unreported worker's death triggers Sec. 24(a) damages. E-Library mirror: thebookshelf/showdocs/1/56031. Originals are attributed, not publicly distributed (Phase 2B policy)."
     }
   ]
 }

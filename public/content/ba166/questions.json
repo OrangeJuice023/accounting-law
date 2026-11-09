@@ -634,5 +634,1006 @@
       }
     ],
     "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.labor.hours-exemptions",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "prompt": "A hotel hires (a) a front-office manager who directs 12 staff and whose hiring recommendations are always followed, (b) a maintenance foreman who assists the plant manager, exercises discretion over shifts, and spends 10% of his time on rank-and-file repairs, and (c) a messenger who reports daily to the office for assignments but spends most of the day delivering across the city on a fixed route with logbook entries. The hotel pays none of them overtime. Who is lawfully denied overtime pay, and under what tests?",
+    "answerKey": "(a) The manager meets all three Rule I Sec. 2(b) tests (manages a department, directs 2+ employees, hire/fire authority or weighted recommendations) — managerial employee, exempt. (b) The foreman fails 2(b) (not a department manager) but meets the Sec. 2(c) managerial-staff test (management-related work + discretion/independent judgment + assists a manager + within the 20% cap) — still exempt (Penaranda). (c) The messenger is covered: daily reporting + fixed route + logbooks make his hours determinable with reasonable certainty, so he is not field personnel (Art. 82; Rule I Sec. 2(f)) — overtime due, and job location alone never proves field-personnel status.",
+    "explanation": "Art. 82's exemptions are tested by actual duties under Rule I Sec. 2. Either the managerial-employee test (2(b): manage + direct 2+ + hire/fire weight) or the managerial-staff test (2(c): management-related + discretion + assist/specialized/special-tasks + 20% cap) removes the worker from Title I (Penaranda). Field personnel needs BOTH regular off-premises work AND hours not determinable with reasonable certainty — supervised, logged, scheduled field work fails the second test (Auto Bus).",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art82-coverage",
+      "prov.rule1-sec2-exemptions",
+      "prov.lc-art87-overtime"
+    ],
+    "caseIds": [
+      "case.penaranda-baganga-159577",
+      "case.autobus-bautista-156367"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 82"
+      },
+      {
+        "sourceId": "src.law.omnibus-b3",
+        "section": "Rule I, Sec. 2"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.ot-computation",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "prompt": "A worker (daily wage P800, 8-hour day) works 10 hours on a regular holiday that falls on his scheduled rest day. Separately, his supervisor lets him render 2 unauthorized overtime hours on an ordinary day, knowing about it. Compute/formulate the pay due for both situations and state whether the unauthorized hours are compensable.",
+    "answerKey": "Holiday-rest-day: first 8 hours at 260% (Rule IV Sec. 4: 200% + 30% of 200%) = P800 x 2.6 = P2,080; 2 OT hours at the first-8-hours rate + 30% (Art. 87 2nd sentence; Rule IV Sec. 5) = (P2,080 / 8) x 1.3 x 2 = P676; total P2,756. Unauthorized-but-known OT on an ordinary day IS compensable: 'suffered or permitted' work counts as hours worked (Art. 84(b); Rule I Sec. 4(c)) at the ordinary OT rate (hourly rate x 125%) — the remedy is discipline, not non-payment.",
+    "explanation": "Holiday-work rates compound: 200% base, 260% on a rest day, OT at the applicable first-8-hours rate x 130% (338% effective on a holiday-rest-day). Art. 84(b) makes known-but-unauthorized work compensable; Art. 88 separately bars offsetting it against other days' undertime.",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art84-hours-worked",
+      "prov.lc-art87-overtime",
+      "prov.lc-art88-undertime",
+      "prov.rule4-secs1-5"
+    ],
+    "caseIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 84, 87"
+      },
+      {
+        "sourceId": "src.law.omnibus-b3",
+        "section": "Rule IV, Secs. 4-5"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.holiday-absences",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "prompt": "Maundy Thursday and Good Friday fall on Thursday-Friday this year. (a) An employee is absent without pay on Wednesday and does not work either holiday. (b) Another is absent without pay on Wednesday but works Maundy Thursday. (c) A third works Wednesday but the employer still withholds both holidays' pay 'because the shop was closed.' State who gets holiday pay and why.",
+    "answerKey": "(a) No holiday pay for either day: absence without pay on the day immediately preceding the FIRST of two successive regular holidays forfeits both (Rule IV Sec. 10). (b) Paid for Good Friday: working the first holiday earns the second (Sec. 10), plus 200% for the Maundy Thursday work (Sec. 4). (c) Paid for both: presence (or paid leave) on the preceding day entitles the worker to unworked-holiday pay (Sec. 6(a)); closure is not a ground to withhold — only Secretary-authorized business-reverses cessation is (Sec. 7(b)).",
+    "explanation": "Unworked-holiday pay turns on the immediately preceding day (present/paid-leave = paid; unpaid absence = may withhold), with Sec. 10's successive-holiday rule (absence before the first forfeits both unless the first is worked) and Sec. 7's narrow cessation exception. Worked holidays always earn the Sec. 4 rate regardless of prior absence.",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art94-holiday-pay",
+      "prov.rule4-sec6-absences",
+      "prov.rule4-secs7-11"
+    ],
+    "caseIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.omnibus-b3",
+        "section": "Rule IV, Secs. 6-10"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.service-charge",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "prompt": "A restaurant collects a 10% service charge. Management distributes 85% to rank-and-file, keeps 15% for breakage and supervisor incentives, and counts the crew's service-charge share toward the latest wage-order increase. After a wage order raises the minimum, it also tells staff the service charge 'already covers' the increase. Identify every violation.",
+    "answerKey": "Three violations of Art. 96 as amended by RA 11360: (1) the 85/15 split is obsolete — 100% of collected service charges must go to covered workers except managerial employees; management may retain nothing; (2) service charges can never be credited toward minimum-wage compliance after an increase ('shall not be considered in determining compliance with the increased minimum wage'); (3) telling staff the charge 'covers' the increase restates violation (2). Distribution disputes go to the grievance mechanism, then DOLE conciliation.",
+    "explanation": "RA 11360 rewrote Art. 96: complete-and-equal distribution to covered workers (managerial employees excluded), a firewall between service charges and minimum-wage compliance, and a grievance-then-DOLE-conciliation dispute path. Pre-2019 85/15 materials state repealed law.",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art96-service-charge",
+      "prov.lc-art99-minimum-wage"
+    ],
+    "caseIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11360",
+        "section": "Sec. 1"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.minimum-wage",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "prompt": "After a new NCR wage order, a Manila company's Pay Grade 2 (P610) rises to the new P645 minimum while Pay Grade 3 stays at P650, obliterating a P40 gap that reflected skill and seniority. The company has no union. (a) Is there wage distortion? (b) What is the exact dispute procedure and does the P645 apply while it pends? (c) The Cebu branch pays P480 for the same grade — is that an equal-pay violation?",
+    "answerKey": "(a) Yes, prima facie: all four Prubankers elements appear (existing hierarchy; lower-level jump without higher-level match; elimination of the skill/seniority distinction; same region/establishment). (b) Without a union: negotiate, then NCMB conciliation (10 days), then the NLRC branch for compulsory arbitration — mandatory continuous hearings and decision within 20 calendar days of submission (Art. 124, 5th paragraph). The increase applies immediately: pendency never delays it (Art. 124, 6th paragraph). (c) No: regional differentiation is RA 6727's design (Arts. 99, 122); inter-regional disparity is neither distortion nor an equal-pay violation (Prubankers).",
+    "explanation": "Wage distortion = elimination/severe contraction of intentional quantitative differences based on skills, seniority, or logical differentiation. Art. 124 routes unionized disputes to grievance-then-voluntary-arbitration (10 days) and non-unionized ones to NCMB (10 days) then NLRC (20 days) — with immediate applicability throughout. Regional variation answers equal-pay objections.",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art99-minimum-wage",
+      "prov.lc-art122-rtwpb",
+      "prov.lc-art124-distortion",
+      "prov.lc-art133a-equal-pay"
+    ],
+    "caseIds": [
+      "case.prubankers-131247"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 99, 124"
+      },
+      {
+        "sourceId": "src.law.prubankers-131247",
+        "section": "Decision"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.deductions",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "prompt": "An employer deducts from wages: (a) SSS/PhilHealth/Pag-IBIG shares and withholding tax; (b) P500/month for 'cashier shortage insurance' from all cashiers' deposits without asking them; (c) union dues under a CBA check-off the employer signed; (d) meal values the company unilaterally priced, credited to meet minimum wage. Rule on each deduction.",
+    "answerKey": "(a) Lawful under Art. 113(c) (authorized by law). (b) Unlawful: deposits for loss/damage need a recognized trade practice or Secretary authority (Art. 114), and every draw-down needs prior hearing + clearly shown responsibility + actual amount only (Art. 115) — blanket advance deductions fail all three. (c) Lawful under Art. 113(b) (employer-recognized check-off). (d) Unlawful: facilities need trade-custom proof + voluntary written acceptance + fair reasonable value (Art. 97(f); Mabeza) — unilateral pricing fails conditions 2-3, and required-for-the-job meals are supplements (purpose test), not deductible at all.",
+    "explanation": "Art. 113's three exceptions (consented insurance, recognized/authorized check-off, law-or-Secretary authority) are exhaustive — unnamed deductions are illegal. Arts. 114-115 add the deposit-specific gates (recognized practice + heard + clearly shown + actual amount). Facility valuation needs the Mabeza trio, and employer-convenience benefits are non-deductible supplements.",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art97f-wage",
+      "prov.lc-art113-deduction",
+      "prov.lc-art114-deposits",
+      "prov.lc-art115-limitations"
+    ],
+    "caseIds": [
+      "case.mabeza-nlrc-118506"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 97(f), 113-115"
+      },
+      {
+        "sourceId": "src.law.mabeza-118506",
+        "section": "Decision"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.13th-month",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "prompt": "A sales supervisor (managerial employee) and a company driver (paid partly on task basis, partly fixed) each claim 13th-month pay. The company also computes rank-and-file 13th month on 'fixed salary + commissions + overtime.' A resigned clerk asks for proportionate 13th month at clearance. Rule on all four positions.",
+    "answerKey": "Supervisor: excluded — rank-and-file only (Revised Guidelines item 1). Driver: depends on classification — purely task-basis workers are exempt (item 2(d); David), but piece-rate workers are covered at 1/12 of total earnings, and mixed fixed+task workers follow the fixed component's coverage (task portion does not erase rank-and-file status for the fixed wage). Computation: commissions AND overtime must come out — commissions are not 'basic salary' (Boie-Takeda, voiding item 5(a) 2nd paragraph) and OT/premium/NSD/holiday pay/COLA are excluded unless integrated by agreement/practice. Resigned clerk: entitled proportionate (item 6), demandable upon separation.",
+    "explanation": "13th-month coverage turns on rank-and-file status + >=1 month service, with the item 2(a)-(d) exemptions; the amount is >=1/12 of total BASIC salary (narrow base, Boie-Takeda-corrected); separation of any kind triggers proportionate payment; deadline December 24.",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.pd851-13th-decree",
+      "prov.rev13th-guidelines",
+      "prov.lc-art97f-wage"
+    ],
+    "caseIds": [
+      "case.boie-takeda-92174",
+      "case.david-macasio-195466"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.rev13th",
+        "section": "Items 1, 2, 5, 6"
+      },
+      {
+        "sourceId": "src.law.boie-takeda-92174",
+        "section": "Decision"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.leaves-compare",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.labor.leaves"
+    ],
+    "prompt": "Compare the six syllabus leaves (SIL, solo-parent parental, maternity, paternity, gynecological, VAWC) on: length, service requirement, payor/funding, and carryover/commutation. Then answer: a solo-parent mother of two (employed 8 months) gives birth to her third child — which leaves can she stack, and in what amounts?",
+    "answerKey": "SIL: 5 days, 12 months, employer-paid, commutes to cash (Art. 95; Rule V). Parental: 7 working days/yearly, 6 months, employer-paid, forfeitable/noncumulative (RA 11861 Sec. 7). Maternity: 105 days +15 solo-parent (+30 optional unpaid; 60 for miscarriage), SSS 3-contribution rule; SSS grant + employer advance/differential (RA 11210). Paternity: 7 days, married male, first 4 deliveries (RA 8187) — plus up to 7 allocable maternity days over and above (RA 11210 Sec. 6). Gynecological: 2 months at gross pay after surgery, 6-in-12 months (RA 9710 Sec. 18). VAWC: up to 10 days, stacks on all others, extendible via protection order (RA 9262 Sec. 43). The mother: 105 + 15 solo-parent maternity days (every pregnancy; legitimacy/civil status irrelevant), 7-day parental leave (8 months > 6-month requirement), and SIL only after 12 months — plus any VAWC leave on its own facts. She may also allocate up to 7 maternity days to the father/caregiver.",
+    "explanation": "The leave system is cumulative across laws (each leave has its own trigger) but internally disciplined (SIL commutes; parental forfeits; maternity allocates up to 7). Solo-parent status simultaneously unlocks RA 11861 leave and RA 11210's +15 days. VAWC leave is the only one expressly 'in addition to other paid leaves.'",
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art95-sil",
+      "prov.rule5-sil",
+      "prov.ra11861-sec8-parental",
+      "prov.ra11210-secs3-6",
+      "prov.ra8187-secs2-3",
+      "prov.ra9710-sec18-gyne",
+      "prov.ra9262-secs3c-43"
+    ],
+    "caseIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11210",
+        "section": "Secs. 3-6"
+      },
+      {
+        "sourceId": "src.law.ra11861",
+        "section": "Sec. 7"
+      },
+      {
+        "sourceId": "src.law.ra9262",
+        "section": "Sec. 43"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.irac-field",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.labor.conditions",
+      "ba166.labor.wages",
+      "ba166.labor.leaves"
+    ],
+    "prompt": "Rico is hired as a delivery rider paid per parcel delivered ('pakyaw'). He reports to the depot each morning for route assignments, follows a fixed delivery sequence, logs every parcel in the company app, and returns each evening for accounting. After two years without holiday pay, SIL pay, or 13th-month pay, he files money claims. The company argues: (1) pakyaw workers are not employees; (2) riders are field personnel; (3) per-parcel workers cannot claim any of the three benefits. Resolve each argument.",
+    "answerKey": "Rico is an employee: under David v. Macasio, pakyaw is only a pay method under Arts. 97 and 101, and control — morning route assignments, a fixed delivery sequence, app logs, and evening accounting — establishes employment under the four-fold test. He is not field personnel under Art. 82, because his hours can be determined with reasonable certainty from that supervised routine; like the supervised workers in David and Auto Bus, the task-basis phrases in Rules I, IV, and V are read with 'field personnel' by ejusdem generis and do not exclude him. He is therefore entitled to holiday pay under Art. 94 and, having rendered over a year of service, to 5-day SIL pay under Art. 95, commutable to cash. But his 13th-month claim fails: PD 851, Sec. 3(e) and Revised Guidelines item 2(d) exempt workers paid on purely task basis absolutely, with no field-personnel qualifier (David). In short, company arguments (1) and (2) fail, while argument (3) is only half-right — it defeats the 13th-month claim alone.",
+    "hints": {
+      "issue": "Employment status of a pakyaw rider + entitlement to holiday pay, SIL pay, and 13th-month pay despite non-time pay and field work.",
+      "rule": "Art. 97/101 (pakyaw is a pay method); Art. 82 + Rules I/IV/V (field-personnel test; ejusdem generis reading of task-basis phrases — David, Auto Bus, Serrano); Arts. 94/95 (holiday/SIL pay); PD 851 Sec. 3(e) / Guidelines item 2(d) (absolute task-basis exemption from 13th-month pay — David).",
+      "application": "Test control first (assignments, sequence, app logs, accounting = supervision + determinable hours, so not field personnel) before applying each benefit's own rule; note the 13th-month rule cuts the opposite way from the other two.",
+      "conclusion": "Employee, entitled to holiday and SIL pay, but not 13th-month pay."
+    },
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art82-coverage",
+      "prov.lc-art94-holiday-pay",
+      "prov.lc-art95-sil",
+      "prov.lc-art97f-wage",
+      "prov.lc-art101-payment-results",
+      "prov.rev13th-guidelines"
+    ],
+    "caseIds": [
+      "case.david-macasio-195466",
+      "case.autobus-bautista-156367"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.david-macasio-195466",
+        "section": "Decision"
+      },
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 82, 94, 95"
+      }
+    ]
+  },
+  {
+    "id": "q.labor.irac-practice",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "prompt": "For six straight years, a company paid all employees — including those hired mid-year — a full December 'loyalty bonus' equal to one month's salary, on top of 13th-month pay. This year, citing losses, it prorates the bonus by months served and scraps it entirely for employees with under 6 months. Affected employees invoke Art. 100. The company counters that bonuses are gratuitous, losses justify the cut, and the prior payments were 'computation errors.' Resolve the dispute.",
+    "answerKey": "The full loyalty bonus is enforceable as company practice under Art. 100. Six years of voluntary, consistent full-month grants — even to employees hired mid-year — ripen into practice under Arco Metal, which requires no fixed minimum number of years, so the gratuity defense fails. The losses defense fails too, since business losses are not an Art. 100 exception. The 'computation error' defense fails on burden of proof: the employer must prove payment according to law, and Arco Metal rejects a bare mistake claim without corroborating payroll-procedure evidence. Because the bonus was paid on top of 13th-month pay, the PD 851, Sec. 2 and Guidelines item 2(b) 'already paying' credit does not absorb it — only payments meeting or exceeding 1/12 of basic salary count, and any shortfall must be topped up. The proration and the under-6-months cutoff are therefore void diminutions; the full bonus stands.",
+    "hints": {
+      "issue": "Whether a repeatedly paid full loyalty bonus ripened into non-diminishable company practice under Art. 100, and who bears the burden on the 'error' and 'losses' defenses.",
+      "rule": "Art. 97(f) (bonus as gratuity vs wage); Art. 100 (non-diminution); Arco Metal (voluntary consistent grants + no fixed minimum years + employer burden + corroborated-mistake requirement); PD 851 Sec. 2 / Guidelines item 2(b) ('already paying' credit rules).",
+      "application": "Test each defense: gratuity yields to ripened practice; losses are not an Art. 100 exception (distinguish authorized-cause wage-order/distressed exemptions); 'error' needs corroboration beyond allegation; check whether the bonus was already creditable against 13th-month obligations.",
+      "conclusion": "Full bonus enforceable as company practice; proration and scrapping void as diminution."
+    },
+    "editorialStatus": "researched-draft",
+    "provisionIds": [
+      "prov.lc-art97f-wage",
+      "prov.lc-art100-nondiminution",
+      "prov.pd851-13th-decree",
+      "prov.rev13th-guidelines"
+    ],
+    "caseIds": [
+      "case.arco-metal-170734",
+      "case.boie-takeda-92174"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.arco-metal-170734",
+        "section": "Decision"
+      },
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 100"
+      }
+    ]
+  },
+  {
+    "id": "q.pdic.policy",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.pdic.policy"
+    ],
+    "prompt": "State the State policy under Sec. 2 of the PDIC Charter and explain why deposit insurance is mandatory.",
+    "answerKey": "It is State policy to strengthen the mandatory deposit insurance system to generate, preserve, and maintain faith and confidence in the banking system and protect it from illegal schemes; the government must give PDIC all means to insure bank deposits and develop a sound, stable banking system. It is mandatory because confidence in banks is a public good — every deposit-taking bank must be insured (Sec. 6) so depositors are protected automatically, without applying or paying premiums.",
+    "explanation": "Sec. 2 has three testable limbs: mandatory system, faith-and-confidence purpose, and PDIC fiscal/administrative autonomy. Pair with Sec. 6 (duty to insure) for full-credit answers.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 2 (State Policy)"
+      },
+      {
+        "sourceId": "src.law.ra11840",
+        "section": "Sec. 5 (amending RA 3591, Sec. 6)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.pdic.mdic",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "prompt": "What is the current maximum deposit insurance coverage (MDIC), since when, and under what authority was it set?",
+    "answerKey": "P1,000,000.00 per depositor per bank, effective 15 March 2025, set by the PDIC Board of Directors through Memorandum No. 2025-01 (27 February 2025) under the Sec. 5(k) authority to raise the MDIC (indexed to inflation or other indicators, reviewed every 3 years). The P500,000 figure still printed in Sec. 5(k) is the statutory text, not the current payable maximum.",
+    "explanation": "The classic trap: textbooks printing P500,000 are outdated for closures on or after 15 March 2025. Cite Memo 2025-01 + Sec. 5(k) third paragraph; name the 3-year review and the P10,000-to-P1M ladder for context.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.pdic-mdic-2025",
+        "section": "Memorandum No. 2025-01 (27 Feb 2025)"
+      },
+      {
+        "sourceId": "src.law.ra11840",
+        "section": "Sec. 4 (amending RA 3591, Sec. 5(k))"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.pdic.joint",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "prompt": "Rico holds in one bank closed in 2026: a P1.2M individual savings account and a P1.6M joint 'and/or' account with his wife Mira, who has no other account there. The deposit document stipulates equal sharing. How much insured deposit is payable to each?",
+    "answerKey": "Rico: P1M on his individual account (capped at the P1M MDIC) plus P800,000 as his half of the joint account, since joint accounts are insured separately — P1.8M total. Mira: P800,000 as her half of the joint account. The joint account's P1.6M is split equally (P800,000 each) because the document stipulates equal sharing, and each co-owner's aggregate joint-account interest stays within the P1M maximum.",
+    "explanation": "Apply Sec. 5(k): same-right-and-capacity aggregation, joint insured separately from individual, equal split absent contrary stipulation, per-co-owner joint aggregate capped at the MDIC. Note the 2026 closure uses the P1M MDIC.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11840",
+        "section": "Sec. 4 (amending RA 3591, Sec. 5(k))"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.pdic.exclusions",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "prompt": "Enumerate the four accounts or transactions for which PDIC shall not pay deposit insurance, and give one example of each.",
+    "answerKey": "(1) Investment products, trust accounts, and similar instruments — e.g., bonds bought through the bank's trust unit. (2) Fictitious or fraudulent accounts as PDIC determines — e.g., an account absent from bank records or funded by nothing. (3) Unsafe/unsound-banking accounts — e.g., high-rate deposits covered by a published BSP cease-and-desist directive after due process. (4) Proceeds of unlawful activity under RA 9160 — e.g., deposits finally adjudged as money-laundering proceeds.",
+    "explanation": "Sec. 5(g) exclusions; deepen with IRR Rule III Sec. 3 (investment indicators, fictitious vs fraudulent, AML deferral pending final judgment). PDIC's exclusion rulings are final and executory, CA certiorari within 30 days.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+      },
+      {
+        "sourceId": "src.law.ra11840-irr",
+        "section": "Rule III, Sec. 3"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.pdic.splitting",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "prompt": "Define splitting of deposits and state its requisites and consequences.",
+    "answerKey": "Splitting is breaking an account above the maximum into 2+ accounts in the names of persons/entities with no beneficial ownership, within 120 days before a bank-declared holiday or an MB closure order, to avail of maximum coverage. Requisites: over-maximum source balance; break-up into 2+ accounts; transferees without beneficial ownership; inside the 120-day window; coverage-maximizing purpose. Consequences: denial of the split claims (So v. PDIC) plus criminal liability of bank directors/officers/employees/agents (6-12 years and/or P50,000-P10M fine).",
+    "explanation": "Sec. 26(f)(1)(e); the 120-day window comes from RA 9576 (the old 30-day figure is obsolete). Pair with So v. PDIC's mother-account tracing for application answers.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 44 (amending RA 3591, Sec. 26(f))"
+      },
+      {
+        "sourceId": "src.law.so-pdic-230020",
+        "section": "Decision (Tijam, J.)",
+        "excerptHint": "mother-account splitting"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.pdic.subrogation",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "prompt": "A bank closed in 2025 owes Lena P2.5M in deposits. PDIC pays her the maximum. What rights does PDIC acquire, what does Lena keep, and how are both ranked in liquidation?",
+    "answerKey": "PDIC is subrogated to Lena's rights up to P1M (the amount paid), including dividends from asset proceeds and stockholder-liability recoveries. Lena keeps her P1.5M uninsured excess with the SAME legal preference as PDIC's subrogated claim. Both are preferred credits: PDIC's payout, being public funds, ranks under Civil Code Article 2244(9), and Lena's excess shares that preference.",
+    "explanation": "Sec. 20: subrogation to extent of payment + equal preference for the uninsured excess (2016 innovation) + Art. 2244(9) preferred-credit status for public-fund payouts. Use the P1M MDIC for 2025 closures.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 33 (amending RA 3591, Sec. 20)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.pdic.irac-fictitious",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "prompt": "Dindo holds a P900,000 certificate of time deposit that states it is 'insured by PDIC.' After the bank's closure in 2026, PDIC denies his claim: the CTD serial number matches an unissued form in the bank's inventory, his name does not appear in the bank's deposit records, and the money was traced to the branch manager's personal account. Dindo sues in the RTC to compel payment, arguing the certificate's PDIC-insured recital binds PDIC. Rule on the claim and the remedy.",
+    "answerKey": "The claim fails and the RTC suit is dismissible. No deposit ever came into existence — the funds never reached the bank (diverted to the manager) and the CTD is a replica — so there is nothing to insure under Sec. 5(g) (PDIC v. CA; Chugani). The 'insured by PDIC' recital does not bind PDIC. The proper remedy was a verified reconsideration within 60 days and/or certiorari to the CA within 30 days from denial; the RTC has no jurisdiction over PDIC claim denials and cannot enjoin PDIC (Sec. 27).",
+    "hints": {
+      "issue": "Whether a replica CTD missing from bank records entitles the holder to deposit insurance, and whether the RTC can compel PDIC to pay.",
+      "rule": "Sec. 5(g) deposit definition and fictitious/fraudulent exclusion; PDIC v. CA (statutory liability, recitals immaterial); Chugani (legitimate-deposit test: received, recorded, regular); Sec. 5(g) finality + CA-exclusive certiorari in 30 days; Sec. 27 TRO ban; IRR 60-day reconsideration.",
+      "application": "No money received by the bank + name absent from records + replica form = fictitious/fraudulent; compare Chugani's facts point by point; recital argument answered by PDIC v. CA; RTC filing answered by So/Chugani jurisdiction rule.",
+      "conclusion": "Denial proper; RTC petition dismissible for lack of jurisdiction; only CA certiorari (30 days) or 60-day reconsideration on new evidence."
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+      },
+      {
+        "sourceId": "src.law.pdic-ca-118917",
+        "section": "Decision (Kapunan, J.)"
+      },
+      {
+        "sourceId": "src.law.chugani-pdic-230037",
+        "section": "Decision (Tijam, J.)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.pdic.irac-closure",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "prompt": "On BSP examination findings of insolvency, the Monetary Board orders Bank X closed without prior notice or hearing and PDIC takes over as receiver. Bank X's stockholders sue in the RTC to annul the closure for denial of due process and to enjoin PDIC's takeover. Decide.",
+    "answerKey": "The suit fails on both fronts. Closure needs no prior notice or hearing under the close-now-hear-later doctrine (Central Bank v. CA); the resolution is annullable only for arbitrariness and bad faith, which must be alleged and proved — mere lack of hearing is not arbitrariness. PDIC is the statutory receiver (Sec. 12) and no court except the CA may enjoin its takeover (Sec. 27), so the RTC injunction plea is void.",
+    "hints": {
+      "issue": "Whether lack of prior hearing voids an MB closure and whether the RTC may stop PDIC's receivership.",
+      "rule": "Central Bank v. CA (close now, hear later; police power; annulment only for arbitrariness/bad faith); RA 3591 Sec. 12 (PDIC as receiver; no rehabilitation); Sec. 27 (CA-exclusive injunctions; void RTC orders; judge penalty).",
+      "application": "Insolvency finding + MB resolution = regular closure; no bad-faith facts pleaded, only the settled hearing argument; receivership continues pendente lite; RTC TRO plea hits the Sec. 27 ban.",
+      "conclusion": "Closure stands absent proved arbitrariness/bad faith; bank stays under PDIC receivership toward liquidation."
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.cb-ca-76118",
+        "section": "Decision (Bellosillo, J.)"
+      },
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 25 (inserting RA 3591, Sec. 12)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.coverage.01",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.secrecy.coverage"
+    ],
+    "prompt": "Under RA 1405, Section 2, what deposits are considered absolutely confidential?",
+    "answerKey": "All deposits of whatever nature with banks or banking institutions in the Philippines, including investments in bonds issued by the Government of the Philippines, its political subdivisions and its instrumentalities.",
+    "explanation": "'Whatever nature' covers peso savings, checking, and time deposits; the Supreme Court has applied RA 1405 to trust/SPAN accounts (Ejercito v. Sandiganbayan). Government-bond investments are expressly included. Foreign currency deposits follow a separate regime (RA 6426, Sec. 8 as amended by PD 1246), not Sec. 2.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.coverage.02",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.secrecy.coverage"
+    ],
+    "prompt": "Who is prohibited from disclosing deposit information under RA 1405, Section 3, and to whom may disclosure lawfully be made?",
+    "answerKey": "Any official or employee of a banking institution may not disclose any information concerning deposits to any person other than those mentioned in Section 2 (the four exception pathways).",
+    "explanation": "Section 3 names the offenders (bank officials and employees) and the forbidden act (disclosure of any deposit information outside Sec. 2). Lawful disclosure happens only through a Sec. 2 exception — written permission, impeachment, court order in bribery/dereliction cases, subject matter of litigation — or a later special law (AMLA, tax, PDIC, unclaimed balances). Violation is punishable under Sec. 5 (up to five years and/or up to P20,000).",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 3"
+      },
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.exceptions.01",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "prompt": "Name the four statutory exceptions in RA 1405, Section 2.",
+    "answerKey": "(1) Written permission of the depositor; (2) cases of impeachment; (3) upon order of a competent court in cases of bribery or dereliction of duty of public officials; (4) cases where the money deposited or invested is the subject matter of the litigation.",
+    "explanation": "Memorize these four as the statute's own list. Case anchors: Ejercito applies (3) to plunder (same class as bribery/dereliction) and (4) to transferee accounts; Union Bank v. CA limits (4) to the money deposited itself; Marquez requires a pending court case for in-camera inspection. Do not add the repealed PD 1792 items (MB-authorized fraud examination; independent auditor) — PD 1792 was repealed by RA 7653, Sec. 135.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      },
+      {
+        "sourceId": "src.law.ra7653",
+        "section": "Sec. 135"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.exceptions.02",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "prompt": "The Ombudsman, citing RA 6770, orders a bank to submit a depositor's records for in-camera inspection during a fact-finding investigation. Must the bank comply?",
+    "answerKey": "No. Under Marquez v. Desierto, RA 6770 does not override RA 1405; in-camera inspection requires a pending case before a court of competent jurisdiction, a clearly identified account, scope limited to that case's subject matter, and notice to the bank and the account holder.",
+    "explanation": "Marquez granted the bank manager's petition and ordered the Ombudsman to cease and desist: a mere investigation is 'fishing for evidence' and cannot open a deposit. Contrast Ejercito, where a court (Sandiganbayan) in a pending plunder case could order inquiry. This is a favorite trap: Ombudsman subpoena power is not a secrecy exception.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-135882",
+        "section": "G.R. No. 135882, June 27, 2001"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.fcd.01",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.secrecy.foreign-currency"
+    ],
+    "prompt": "May a foreign currency deposit be garnished to satisfy a final money judgment? Explain, citing Salvacion v. Central Bank.",
+    "answerKey": "General rule: no — RA 6426, Sec. 8 expressly exempts foreign currency deposits from attachment, garnishment, or any other court, legislative, or administrative process. Salvacion held the exemption inapplicable only because of that case's peculiar equitable facts (transient alien wrongdoer vs. child victim); it is a narrow ruling, not a general license to garnish FCDs.",
+    "explanation": "Frame every FCD garnishment answer as rule-plus-narrow-exception. The Court did not void Sec. 8; it refused to apply it where it would reward wrongdoing (Civil Code Art. 10). Contrast peso deposits, which may be garnished under China Banking Corp. v. Ortega.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.pd1246",
+        "section": "Sec. 2 (RA 6426, Sec. 8)"
+      },
+      {
+        "sourceId": "src.law.gr-94723",
+        "section": "G.R. No. 94723, August 21, 1997"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.fcd.02",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.secrecy.foreign-currency"
+    ],
+    "prompt": "How do the secrecy regimes of RA 1405 and RA 6426 differ as to exceptions and garnishment?",
+    "answerKey": "RA 1405, Sec. 2 carries four statutory exceptions (written permission, impeachment, court order in bribery/dereliction cases, subject matter of litigation) plus later-law pathways, and peso deposits may be garnished (Ortega). RA 6426, Sec. 8 recognizes only the depositor's written permission internally and expressly bars attachment, garnishment, and other processes (Salvacion is a narrow inapplicability ruling).",
+    "explanation": "RA 6426 is deliberately stricter: no impeachment, bribery, or subject-matter exceptions. Both regimes are reached by later 'notwithstanding' statutes (AMLA Sec. 11; NIRC Sec. 6(F); PDIC Charter Sec. 8) through their own procedures — a point to state alongside RA 6426, Sec. 12-A's vested-rights rule, whose interplay with those statutes is unsettled.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      },
+      {
+        "sourceId": "src.law.pd1246",
+        "section": "Sec. 2 (RA 6426, Sec. 8)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.hypo.01",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "prompt": "**Hypo: garnishing a corporate peso account.** Supplier S wins a final P2,000,000 judgment against trading company T. The sheriff serves a notice of garnishment on T's peso savings account at Y Bank. The bank refuses to confirm or hold the deposit, citing the absolute confidentiality of deposits under RA 1405. S moves to cite the bank's cashier for contempt. Rule on the bank's refusal.",
+    "answerKey": "The bank's refusal is wrongful. Under China Banking Corp. v. Ortega, garnishment of a peso deposit to satisfy a final judgment is not the examination, inquiry, or looking into prohibited by RA 1405, Sec. 2 — disclosing whether T's deposit exists is purely incidental to execution. Congress never intended RA 1405 to let debtors evade just debts by converting assets into bank deposits. Here there is a final P2,000,000 judgment and a court-ordered execution process, with no fishing expedition into the account's history. The bank must therefore confirm the deposit's existence and hold it intact pending further court order, and continued refusal exposes the cashier to contempt, as in Ortega. (Had this been a foreign currency deposit, RA 6426, Sec. 8 would instead exempt it from garnishment.)",
+    "hints": {
+      "issue": "May a peso bank deposit be garnished to satisfy a final judgment despite RA 1405?",
+      "rule": "RA 1405, Sec. 2 (confidentiality rule) as construed in China Banking Corp. v. Ortega: garnishment is not a prohibited inquiry; disclosure of the deposit's existence is purely incidental to execution; Congress did not intend debtors to evade just debts via bank deposits.",
+      "application": "There is a final judgment and a court-ordered execution process; the sheriff only asks whether the deposit exists and that it be held. No fishing expedition into the account's history is involved.",
+      "conclusion": "The bank must comply — confirm the deposit's existence and hold it intact pending court order — or face contempt; RA 1405 is no defense. (Distinguish foreign currency deposits under RA 6426, Sec. 8.)"
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      },
+      {
+        "sourceId": "src.law.gr-l34964",
+        "section": "G.R. No. L-34964, January 31, 1973"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.secrecy.hypo.02",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "prompt": "**Hypo: BIR audit inquiry.** During a routine audit of living individual taxpayer D (no compromise application, no treaty request, and D vigorously objects), the Commissioner of Internal Revenue orders D's bank to open D's deposit records 'to verify reported income.' The bank asks whether it must obey. Rule.",
+    "answerKey": "The bank must refuse the order. NIRC Sec. 6(F), as amended by RA 10021, lets the Commissioner pierce RA 1405 through only three paths: (1) a decedent's deposits to determine the gross estate, (2) a compromise applicant for financial incapacity who first waives secrecy in writing, or (3) a specific taxpayer subject of a foreign tax authority's treaty-based request. D is alive, filed no compromise application, gave no written waiver, and faces no treaty request — none of the three paths is present. A routine audit alone confers no inquiry power, so the Commissioner must build any assessment from returns, invoices, and third-party data instead.",
+    "hints": {
+      "issue": "May the Commissioner inquire into a living taxpayer's deposits outside the three NIRC Sec. 6(F) paths?",
+      "rule": "NIRC Sec. 6(F), as amended by RA 10021: inquiry allowed only for (1) a decedent's deposits to determine the gross estate, (2) a compromise applicant for financial incapacity who waives secrecy in writing, or (3) a specific taxpayer subject of a foreign tax authority's treaty-based request.",
+      "application": "D is alive, filed no compromise application, gave no written waiver, and is not the subject of any treaty request — none of the three paths is present.",
+      "conclusion": "The Commissioner has no authority for this inquiry; the bank must refuse. A routine audit, by itself, does not override RA 1405."
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10021",
+        "section": "Sec. 3 (NIRC Sec. 6(F))"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.policy",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "prompt": "State the declared policy of the State under Sec. 2 of the Truth in Lending Act.",
+    "answerKey": "To protect citizens from lack of awareness of the true cost of credit by assuring full disclosure of such cost, preventing the uninformed use of credit to the detriment of the national economy.",
+    "explanation": "Sec. 2's policy sentence is the thesis of the whole Act: awareness of true cost through full disclosure. The Supreme Court in Beluso ties it to hidden charges and uncertain rates that defeat the borrower's full consent.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 2"
+      },
+      {
+        "sourceId": "src.law.ucpb-beluso",
+        "section": "Liability for Violation of Truth in Lending Act",
+        "excerptHint": "rationale of disclosure"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.creditor-requisites",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "prompt": "A neighbor occasionally lends money to friends without interest. Is the neighbor a 'creditor' under RA 3765? Give the two requisites.",
+    "answerKey": "No. A creditor must be (1) engaged in the business of extending credit as a regular practice, AND (2) require payment of a finance charge as an incident of the extension of credit. The neighbor meets neither.",
+    "explanation": "Sec. 3(4) requires both business-regularity and a finance charge. Either one missing means no TILA creditor — and hence no Sec. 4 disclosure duty.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 3(4)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.finance-charge-scope",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "prompt": "What does 'finance charge' include under Sec. 3(3), and why does the word 'includes' matter?",
+    "answerKey": "Interest, fees, service charges, discounts, and such other charges incident to the extension of credit as the Board may by regulation prescribe. 'Includes' makes the enumeration open — other incident charges the Board prescribes also count.",
+    "explanation": "Because the list is illustrative, creditors cannot dodge disclosure by inventing a fee with a novel name. Anything incident to the extension of credit that the Board covers is part of the finance charge.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 3(3)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.seven-items",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.til.obligations"
+    ],
+    "prompt": "Enumerate the seven items of information Sec. 4 requires in the creditor's written statement.",
+    "answerKey": "(1) Cash/delivered price; (2) down payment and/or trade-in credited; (3) the difference between (1) and (2); (4) individually itemized charges not incident to the extension of credit; (5) total amount to be financed; (6) finance charge in pesos and centavos; (7) finance charge as a percentage of the amount financed expressed as a simple annual rate on the outstanding unpaid balance.",
+    "explanation": "Memorize the sequence as price → down → difference → non-credit charges → amount financed → peso charge → annual rate. Items (6) and (7) are the two ways the same finance charge must be expressed: absolute pesos and relative annual rate.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 4"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.timing",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.til.obligations"
+    ],
+    "prompt": "When must the Sec. 4 disclosure be furnished, and what did the Supreme Court say about giving the borrower copies only after execution?",
+    "answerKey": "Prior to the consummation of the transaction. In UCPB v. Beluso, the Court held that furnishing copies after execution is not substantial compliance — belated discovery of the true cost cannot reverse an already consummated business decision.",
+    "explanation": "Timing is substantive, not procedural: disclosure must come early enough to inform consent. BSP Circular No. 730 repeats the rule — each borrower gets a copy of the disclosure statement prior to consummation.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 4"
+      },
+      {
+        "sourceId": "src.law.ucpb-beluso",
+        "section": "Liability for Violation of Truth in Lending Act",
+        "excerptHint": "not substantial compliance"
+      },
+      {
+        "sourceId": "src.law.bsp-circ-730",
+        "section": "Section 3 (§X307.2)",
+        "excerptHint": "prior to consummation"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.sec6-formula",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.til.non-compliance"
+    ],
+    "prompt": "State the Sec. 6(a) civil penalty formula, cap, prescriptive period, and the effect of a violation on the contract's validity under Sec. 6(b).",
+    "answerKey": "P100 or twice the finance charge required, whichever is greater, capped at P2,000 per credit transaction, plus reasonable attorney's fees and court costs; action within 1 year from the violation. Under Sec. 6(b), the violation does not affect the contract's validity or enforceability (except for the Sec. 6(a) liability).",
+    "explanation": "Two halves to memorize: the money formula (100 / 2x / 2,000 cap / 1 year) and the validity rule (contract survives; only hidden charges become uncollectible per Sampaguita). Do not confuse with the Sec. 6(c) criminal penalty, which requires willfulness.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(a)"
+      },
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(b)"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.hypo-escalation",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.til.obligations",
+      "ba166.til.non-compliance"
+    ],
+    "prompt": "**Hypo: the silent rate hike.** A bank's promissory note lets it 'increase the interest rate at its sole discretion based on prevailing market conditions.' Six months later the bank raises the rate from 21% to 33% without prior notice; the increase never appears in any disclosure statement. The borrower sues. Analyze under RA 3765 and jurisprudence.",
+    "answerKey": "Only the disclosed 21% rate is collectible. The 'sole discretion' escalation clause is void under UCPB v. Beluso: a stipulation letting the lender unilaterally fix or increase interest violates both TILA's full-disclosure policy and the Civil Code rule on mutuality of contracts. The silent hike to 33% independently fails under New Sampaguita Builders v. PNB — charges and increases not revealed in the disclosure statement cannot be given effect even if the promissory note stipulates them, since RA 3765, Sec. 4 requires the finance charge in pesos and as a simple annual rate before consummation. The borrower was never clearly informed of the 33% rate through any disclosure statement, so it cannot be imposed; the bank may collect only the disclosed rate, and any iniquitous overcollection is subject to equitable reduction and refund.",
+    "hints": {
+      "issue": "Whether a unilaterally increased rate not in the disclosure statement can be collected, and whether the escalation stipulation is valid.",
+      "rule": "Sec. 4 prior written disclosure; Sampaguita (undisclosed charges cannot be given effect; courts may strike down unrestrained escalation); Beluso (one-sided rate stipulation void for violating mutuality and TILA).",
+      "application": "Test the stipulation against mutuality and full disclosure; test the 33% rate against what the disclosure statements actually showed; consider equitable reduction of iniquitous charges.",
+      "conclusion": "Only the disclosed rate is collectible; the escalation clause and the silent hike fail."
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 4"
+      },
+      {
+        "sourceId": "src.law.sampaguita-pnb",
+        "section": "Penalty, or Increases Thereof, Unjustified",
+        "excerptHint": "undisclosed charges cannot be given effect"
+      },
+      {
+        "sourceId": "src.law.ucpb-beluso",
+        "section": "Validity of the Interest Rates",
+        "excerptHint": "void one-sided rate stipulation"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.til.hypo-penalty-suit",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.til.non-compliance"
+    ],
+    "prompt": "**Hypo: the late penalty suit.** A borrower discovers that her 2023 appliance installment contract never disclosed any finance charge in pesos or any annual rate. In 2025, after the store demands payment of interest and fees, she sues for the Sec. 6(a) penalty. The store argues the 1-year period ran from the 2023 signing. Analyze prescription and the available relief.",
+    "answerKey": "The suit is timely if filed within one year of the 2025 demand. Under UCPB v. Beluso, the Sec. 6(a) 1-year period accrues not at signing but when the finance charge is required — in Beluso, on the demand date — so the store's 2023-signing argument fails. The borrower recovers the Sec. 6(a) civil penalty: P100 or twice the finance charge required, whichever is greater, capped at P2,000 for this single credit transaction, plus reasonable attorney's fees and court costs. The civil action stands separately and independently of any criminal case. Under Sec. 6(b), however, the installment contract itself remains valid and enforceable — only the undisclosed finance charges become uncollectible, alongside the penalty.",
+    "hints": {
+      "issue": "When the Sec. 6(a) 1-year prescriptive period begins to run, and what the borrower may recover.",
+      "rule": "Sec. 6(a) formula, cap, fees, and 1-year period; Beluso accrual rule (cause of action accrues when the finance charge is required); Sec. 6(b) validity rule.",
+      "application": "Compare signing date vs. demand date as accrual points; compute P100 vs. twice the finance charge with the P2,000 cap; note the contract itself survives.",
+      "conclusion": "Resolve timeliness under the accrual rule and state the recoverable penalty."
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(a)"
+      },
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(b)"
+      },
+      {
+        "sourceId": "src.law.ucpb-beluso",
+        "section": "Liability for Violation of Truth in Lending Act",
+        "excerptHint": "accrual when finance charge required"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.coverage-compulsory",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.sss.coverage"
+    ],
+    "prompt": "Who is compulsorily covered by the SSS under Secs. 9, 9-A, and 9-B, and what is the common age ceiling?",
+    "answerKey": "Compulsory coverage extends to (1) all employees not over 60, expressly including kasambahays/domestic workers, plus their employers (Sec. 9(a)); (2) self-employed persons as determined by the Commission — professionals, partners and single proprietors, listed media workers who are not employees, athletes/coaches/trainers/jockeys, individual farmers and fishermen, the list being non-exclusive (Sec. 9-A); and (3) all sea-based and land-based OFWs not over 60 (Sec. 9-B). The common age ceiling is 'not over sixty (60) years of age' for employees and OFWs. Excluded from 'employment' are services without an employer-employee relationship, Philippine government service, foreign-government/international-organization service (unless by agreement), and Commission-excluded services (Sec. 8(j)).",
+    "explanation": "Full-credit answers name all three coverage sections with the kasambahay and OFW inclusions, quote the 'not over 60' ceiling, and show the Sec. 8(j) exclusions as the boundary.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 8(j), 9, 9-A, 9-B"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.coverage-voluntary-effective",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.sss.coverage"
+    ],
+    "prompt": "When does compulsory coverage take effect for employers, employees, and self-employed persons, and who may be covered voluntarily?",
+    "answerKey": "Effectivity (Sec. 10): employer — first day of operation; employee — day of employment; self-employed — upon registration with the SSS. Voluntary coverage: (1) spouses devoting full time to the household, unless already mandatorily covered by other work (Sec. 9(b)); (2) separated employees who continue paying total contributions (Sec. 11); (3) self-employed members with no income who keep paying (Sec. 11-A); (4) OFWs after termination of overseas employment (Sec. 9-B(f)); (5) Filipino permanent migrants, including immigrants, permanent residents, and naturalized citizens of host countries (Sec. 9-B(g)).",
+    "explanation": "The effectivity triplet (operation/employment/registration) plus the five voluntary tracks. Watch for the Sec. 9(b) qualifier — a homemaker with a covered job is compulsory, not voluntary.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 9(b), 9-B(f)-(g), 10, 11, 11-A"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.benefits-pension-qualifiers",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "prompt": "State the qualifying contributions and key conditions for the retirement pension, the death pension, and the permanent-total-disability pension.",
+    "answerKey": "Retirement (Sec. 12-B): at least 120 contributions before the semester of retirement, plus either (1) age 60 with separation from employment/cessation of self-employment, or (2) age 65. Death (Sec. 13): at least 36 contributions before the semester of death for primary beneficiaries to draw the monthly pension (otherwise lump-sum rules apply). Permanent total disability (Sec. 13-A): at least 36 contributions before the semester of disability for the monthly pension (otherwise lump sum of pension × contributions or 12× pension, higher). Both death and disability pensions carry the dependents' pension add-on (Sec. 12-A) and the 60-month guarantee structure for survivors.",
+    "explanation": "The numbers ladder is 120-36-36 for pensions; pair each with its separation/beneficiary condition. Below-threshold outcomes (lump sums) earn the second half of the credit.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 12-B, 13, 13-A"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.benefits-sickness-maternity",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "prompt": "Compare the sickness benefit and the maternity benefit: qualifier, rate, duration, and the current rules that supersede Sec. 14-A.",
+    "answerKey": "Both require at least 3 monthly contributions in the 12-month period before the semester of contingency. Sickness (Sec. 14): 90% of ADSC per day of compensable confinement (>3 days), max 120 days/year (no carryover) and 240 days per confinement, with the 5-day notice chain (excused for hospital confinement or on-premises sickness/injury) and 100% employer reimbursement on timely SSS notice. Maternity as enacted (Sec. 14-A): 100% of ADSC for 60 days (78 caesarian), first 4 deliveries only. CURRENT maternity rule under RA 11210 (eff. 11 Mar 2019): 100% of ADSC for 105 days live birth (any delivery mode), 60 days miscarriage/ETP including stillbirth, 120 days for solo parents — every instance regardless of frequency, with 7-day allocation option; the 3-contribution qualifier, 30-day employer advance, and 100% reimbursement survive.",
+    "explanation": "The shared '3 in 12 months' qualifier plus the rate/duration contrast earns base credit; naming the RA 11210 supersession (105/60/120, every instance, 11 Mar 2019) earns full credit.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 14, 14-A"
+      },
+      {
+        "sourceId": "src.law.sss-maternity",
+        "section": "RA 11210 rules; contingencies on/after 11 Mar 2019"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.contrib-schedule-remit",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.sss.contributions"
+    ],
+    "prompt": "State the current SSS contribution rate and MSC band with legal basis and effective date, plus the remittance deadline and delinquency penalty.",
+    "answerKey": "Current schedule: 15% of MSC (employer 10%, employee 5%), MSC band P5,000-P35,000 — the final row of the Sec. 4(a)(9) statutory ramp, implemented by SSS Circulars No. 2024-006 (ER/EE), 2024-007 (household/kasambahay), 2024-008 (self-employed), 2024-009 (voluntary/non-working spouse), and 2024-010 (land-based OFW), all effective 1 January 2025 and still the latest tables on sss.gov.ph as of 9 November 2026. MSC above P20,000 is credited to the MPF (MySSS Pension Booster). Remittance (Sec. 22(a)): within the first 10 days of the month following the applicable month; delinquency penalty 2% per month until paid. Self-employed remit quarterly with no retroactive payment (Sec. 22-A).",
+    "explanation": "Rate + split + band + circular numbers + effective date is the complete figure answer; the 10-day deadline and 2%/month penalty (not the pre-2019 3%) complete the remittance half.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 4(a)(9), 22(a), 22-A"
+      },
+      {
+        "sourceId": "src.law.sss-contrib-2025",
+        "section": "2025 tables; Cirs. 2024-006 to 2024-010, eff. 1 Jan 2025"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.contrib-records-penalties",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.sss.contributions"
+    ],
+    "prompt": "An employer never reported a new hire, who dies 6 months later. What is the employer's liability under Sec. 24(a), and what criminal exposure follows if the employer had deducted but never remitted contributions?",
+    "answerKey": "Under Sec. 24(a), the employer must pay the SSS damages equivalent to the benefits the employee would have received had he been timely reported — for pension benefits, the accumulated pension due at settlement or 5 years' pension, whichever is higher, including dependents' pension. The 30-day grace does not apply (death occurred beyond 30 days from hiring). Separately, unremitted contributions plus penalties remain due (Sec. 24(b) closing, Sec. 22(a)). Criminally: failure to register/deduct/remit draws fine (P5,000-P20,000) AND imprisonment (6 years 1 day-12 years) under the Sec. 28(e) proviso; and deduction without remittance within 30 days of due date creates the Sec. 28(h) presumption of misappropriation punishable under RPC Art. 315 (estafa). Per Ambassador Hotel, corporate officers answer criminally while the corporation answers civilly.",
+    "explanation": "Civil damages (lost-benefits measure + 5-year pension rule + lapsed 30-day grace) plus the criminal provisos (28(e) AND-penalty, 28(h) estafa presumption) is the complete answer structure.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 24(a), 28(e), 28(h)"
+      },
+      {
+        "sourceId": "src.law.ambassador-sss",
+        "section": "Decision"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.irac-unreported-separation",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.sss.coverage",
+      "ba166.sss.contributions"
+    ],
+    "prompt": "Dalia, a pakyaw farm worker paid irregularly, worked seasonally for a landowner for 5 years but was never SSS-reported. She turns 60 while still working seasonally. The landowner claims (1) she is not an employee because pakyaw pay and seasonal work negate employment, and (2) he owes nothing since he never deducted contributions. Assess both claims and state what the SSS can collect.",
+    "answerKey": "Both claims fail. (1) Under the control test (Gapayao v. Fulo), pakyaw pay, seasonal work, and irregular hours do not negate employment where the landowner has the right to control the work; Dalia is an employee under Sec. 8(d) and compulsorily covered under Sec. 9(a). (2) The employer cannot invoke his own omission: turning 60 is a Sec. 24(a) contingency, the 30-day grace lapsed years ago, and the employer owes damages equal to the lost benefits (pension measure: accumulated or 5-year pension, higher, including dependents' pension) plus all unremitted contributions and 2%/month penalties. The SSS may collect via tax-like remedies (Sec. 22(b)-(c)) within 20 years, aided by the Sec. 22(d) presumption, and pursue Sec. 28(e) criminal liability (fine AND imprisonment) against the responsible persons.",
+    "hints": {
+      "issue": "Is a seasonal pakyaw worker an employee for SSS purposes, and what follows from 5 years of non-reporting when she turns 60?",
+      "rule": "Secs. 8(d), 9(a), 22, 24(a), 28(e); Gapayao v. Fulo (control test; pakyaw workers are employees; Sec. 24(a) damages).",
+      "application": "Apply control test to the farm facts; test the 30-day grace against the 5-year delay; compute the damage measure; list collection modes and criminal proviso.",
+      "conclusion": "Employee status stands; employer owes Sec. 24(a) damages plus contributions and penalties, collectible tax-like within 20 years, with criminal exposure under Sec. 28(e)."
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 8(d), 9(a), 22, 24(a), 28(e)"
+      },
+      {
+        "sourceId": "src.law.gapayao-fulo",
+        "section": "Decision"
+      }
+    ],
+    "editorialStatus": "researched-draft"
+  },
+  {
+    "id": "q.sss.irac-death-beneficiaries",
+    "kind": "iracHypo",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "prompt": "Ramon, an SSS member with 80 contributions, dies. He is survived by: (1) Lena, his legal wife, from whom he had lived apart for 8 years (she ran her own store and never received support from him); (2) Mia, 19, his legitimate daughter, unmarried and unemployed; (3) Pia, 17, his illegitimate daughter, unmarried and unemployed; and (4) his dependent mother. No beneficiary was designated. Who receives what under Secs. 8(k) and 13, and what must Lena prove?",
+    "answerKey": "Ramon paid 80 contributions (above 36), so Sec. 13 gives the monthly pension to primary beneficiaries. Applying Sec. 8(k) with SSS v. Aguas: Mia (legitimate dependent child) is a primary beneficiary. Pia (illegitimate dependent child) is also primary but at 50% of a legitimate child's share since Mia concurs. Lena must prove BOTH that she is the legitimate spouse AND that she was dependent on Ramon for support at death — on these facts she likely fails the dependency test (8-year separation, self-supporting), so she is excluded; dependency is never presumed from marriage, and separation reverses the presumption. The dependent mother is secondary and takes nothing while primary beneficiaries (Mia, Pia) exist. Dependents' pensions (Sec. 12-A: 10% or P250 higher, per child, max 5) attach for Mia and Pia. Funeral benefit additionally: variable P20,000-P60,000 (80 ≥ 36 contributions) under Circular 2023-009 to whoever proves the funeral expense.",
+    "hints": {
+      "issue": "With 80 contributions and a separated self-supporting spouse, two dependent children (one legitimate, one illegitimate), and a dependent mother, who are the primary beneficiaries and in what shares?",
+      "rule": "Secs. 8(e), 8(k), 12-A, 13; SSS v. Aguas (two-factor spouse test; closed-list children); Circular 2023-009 (funeral).",
+      "application": "Count contributions (80 > 36 → pension to primaries); test Lena's dependency on the separation facts; slot Mia and Pia with the 50% rule; exclude the secondary mother; add dependents' pensions and funeral.",
+      "conclusion": "Monthly pension to Mia (full primary share) and Pia (50% of legitimate share) plus dependents' pensions; Lena excluded for want of dependency proof; mother takes nothing; funeral grant to the proven claimant."
+    },
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 8(e), 8(k), 12-A, 13"
+      },
+      {
+        "sourceId": "src.law.sss-aguas",
+        "section": "Decision"
+      },
+      {
+        "sourceId": "src.law.sss-funeral",
+        "section": "Current amounts; Circular No. 2023-009, eff. 20 Oct 2023"
+      }
+    ],
+    "editorialStatus": "researched-draft"
   }
 ]

@@ -1,0 +1,279 @@
+{
+  "id": "les.labor.leaves",
+  "topicId": "ba166.labor.leaves",
+  "title": "Leaves: Service Incentive Leave and Special Leaves",
+  "description": "Leave benefits in syllabus order: service incentive leave (Art. 95, Rule V), solo-parent parental leave (RA 11861 current text), maternity leave (RA 11210), paternity leave (RA 8187), gynecological leave (RA 9710), and VAWC leave (RA 9262) — with stacking rules and the leave comparison table.",
+  "coverage": "COVERED",
+  "provenance": "research-backed",
+  "kind": "lesson",
+  "blocks": [
+    {
+      "anchorId": "objectives",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Leaves — objectives: grant and commute SIL, qualify solo parents and grant parental leave, run maternity/paternity mechanics and allocation, and apply gynecological and VAWC leaves with stacking rules.",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Art. 95" }]
+    },
+    {
+      "anchorId": "scope-current-law",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Six leaves, one system: **SIL** (the Labor Code floor) plus **five special leaves** (solo-parent, maternity, paternity, gynecological, VAWC). **Currency policy**: each special leave is taught in its **current statutory text** — most importantly solo-parent leave under **RA 11861 (2022)**, which rewrote RA 8972's definitions and halved the service requirement. **Two syllabus flags upfront**: (1) RA 8972 contains **no Sec. 20** (only Secs. 1-17) — the '(RA 8972, 3, 8, 20)' citation carries an erroneous '20'; (2) maternity Sec. 6 (7-day allocation) and paternity Sec. 2 (the grant) are included though the syllabus cites only adjacent sections, because they complete the cited rules.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" },
+        { "sourceId": "src.law.ra11861", "section": "Secs. 3-4, 7" },
+        { "sourceId": "src.law.ra8972", "section": "Secs. 1-17 (no Sec. 20)" }
+      ]
+    },
+    {
+      "anchorId": "sil",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Service incentive leave (Art. 95, Rule V)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Art. 95" }]
+    },
+    {
+      "anchorId": "art95",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The statutory floor: **5 days with pay yearly after 1 year of service**, with three non-applicabilities (already-enjoying, >=5-day vacation, <10-employee/Secretary-exempted) — and generosity beyond 5 days stays **voluntary**.",
+      "provisionId": "prov.lc-art95-sil",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" },
+        { "sourceId": "src.law.pd442", "section": "Article 95" }
+      ]
+    },
+    {
+      "anchorId": "rule5",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The mechanics: **12 months continuous-or-broken** from hiring (absences and paid holidays count) — and unused SIL **commutes to cash**, including for resigned/separated employees prorated by service.",
+      "provisionId": "prov.rule5-sil",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule V, Secs. 1-3, 5" }]
+    },
+    {
+      "anchorId": "sil-mechanics",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Who gets SIL**: every employee past the 12-month mark — including **pakyaw/task and commission workers**, unless they are field personnel (David, Auto Bus: task/commission phrases read with 'field personnel' by ejusdem generis). **Who does not**: government personnel, domestics, managerial employees, true field personnel, workers already enjoying equivalent-or-better leave (>=5-day vacation satisfies SIL — no stacking), and <10-employee or Secretary-exempted establishments. **Commutation**: unused days convert to money equivalent at year-end; separated employees get the **prorated** balance (service-months / 12). SIL may also double as sick/emergency leave where no paid equivalent exists. **Remember**: SIL is the floor that vacation leave absorbs but never duplicates — 5-day vacation = SIL satisfied, not SIL + 5.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" },
+        { "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule V" },
+        { "sourceId": "src.law.david-macasio-195466", "section": "Decision" },
+        { "sourceId": "src.law.autobus-156367", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "case-david-sil",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.david-macasio-195466",
+      "sourceRefs": [{ "sourceId": "src.law.david-macasio-195466", "section": "Decision" }]
+    },
+    {
+      "anchorId": "case-autobus",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.autobus-bautista-156367",
+      "sourceRefs": [{ "sourceId": "src.law.autobus-156367", "section": "Decision" }]
+    },
+    {
+      "anchorId": "solo-parents",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Solo-parent parental leave (RA 8972 as amended by RA 11861)",
+      "sourceRefs": [{ "sourceId": "src.law.ra11861", "section": "Secs. 3-4, 7" }]
+    },
+    {
+      "anchorId": "solo-defs",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Who qualifies today: **children** (unmarried, unemployed, <=22 and dependent; disabled over-22s included) and the **seven solo-parent categories** — from rape-consequence birth and widowhood to OFW-family guardians, 4th-degree relatives, solo pregnant women, and the catch-all.",
+      "provisionId": "prov.ra11861-solo-defs",
+      "sourceRefs": [{ "sourceId": "src.law.ra11861", "section": "Secs. 3-4 (amending RA 8972 Secs. 3-4)" }]
+    },
+    {
+      "anchorId": "parental-leave",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The current grant: **7 working days with pay yearly, forfeitable and noncumulative, after 6 months** — public and private, any status — usable for parental obligations, with an **anti-discrimination proviso** on policy bonuses.",
+      "provisionId": "prov.ra11861-sec8-parental",
+      "sourceRefs": [{ "sourceId": "src.law.ra11861", "section": "Sec. 7 (amending RA 8972 Sec. 8)" }]
+    },
+    {
+      "anchorId": "sec20-trap",
+      "keyed": false,
+      "kind": "note",
+      "markdown": "**Syllabus citation trap**: the outline cites '(RA 8972, 3, 8, 20)' — but **RA 8972 has only 17 sections**; there is no Sec. 20 to convert. The leave substance is Sec. 8 (original: 7 days after 1 year), now Sec. 8 **as amended by RA 11861 Sec. 7** (7 days after 6 months, forfeitable/noncumulative, both sectors). If an exam cites 'RA 8972 Sec. 20,' treat it as a proofreading artifact and answer from Sec. 8 as amended.",
+      "severity": "trap",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra8972", "section": "Secs. 1-17" },
+        { "sourceId": "src.law.ra11861", "section": "Sec. 7" }
+      ]
+    },
+    {
+      "anchorId": "parental-contrast",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Contrast parental leave with SIL as a mirror pair: **SIL = 5 days / 12 months / commutable**; **parental = 7 working days / 6 months / forfeitable**. Parental leave is use-it-or-lose-it yearly — no carryover, no cash conversion — and it stacks **on top of** SIL (different triggers, different laws). Solo-parent status does double duty: it unlocks this leave **and** RA 11210's +15 maternity days. Status change (e.g., marriage ending solo status) terminates eligibility.",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra11861", "section": "Secs. 4, 7" },
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" }
+      ]
+    },
+    {
+      "anchorId": "maternity",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Maternity leave (RA 11210, Secs. 3-6)",
+      "sourceRefs": [{ "sourceId": "src.law.ra11210", "section": "Secs. 3-6" }]
+    },
+    {
+      "anchorId": "ra11210",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The flagship leave: **105 days + 15 solo-parent (+30 optional unpaid; 60 for miscarriage)**, every pregnancy, SSS-funded with employer advance and differential — plus **up to 7 days allocable** to the father or caregiver **over and above** paternity leave.",
+      "provisionId": "prov.ra11210-secs3-6",
+      "sourceRefs": [{ "sourceId": "src.law.ra11210", "section": "Secs. 3-6" }]
+    },
+    {
+      "anchorId": "maternity-mechanics",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Coverage**: all female workers — public, private, kasambahay, informal economy — regardless of civil status, legitimacy, or delivery mode; every pregnancy (the old 4-pregnancy cap is gone); continuous availment around delivery. **Private-sector funding**: SSS member + **3 contributions in the 12 months** before the semester of childbirth; employer **advances full pay within 30 days** of application; SSS **reimburses 100%**; employer pays the **differential** (full pay minus SSS grant) unless exempt — (1) distressed, (2) retail/service <=10, (3) micro <=P3M assets, (4) already-providing. Floor: **>=2/3 of regular monthly wages**. Benefits are 'in lieu of' lesser ones but yield to **better** CBA/contract terms. **Allocation (Sec. 6)**: up to 7 days to the father (married or not) or — on his death/absence/incapacity — to an alternate caregiver (partner, grandparent, parent, sibling, relative, qualified domestic caregiver), with written notice; **over and above RA 8187**; reverts to the mother if the recipient dies or is incapacitated.",
+      "sourceRefs": [{ "sourceId": "src.law.ra11210", "section": "Secs. 3-6" }]
+    },
+    {
+      "anchorId": "paternity",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Paternity leave (RA 8187, Secs. 2-3)",
+      "sourceRefs": [{ "sourceId": "src.law.ra8187", "section": "Secs. 2-3" }]
+    },
+    {
+      "anchorId": "ra8187",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**7 days with full pay** to married male employees (private + public) for the **first 4 deliveries** of the cohabiting legitimate spouse — delivery includes miscarriage/abortion; notice + physician's certification required.",
+      "provisionId": "prov.ra8187-secs2-3",
+      "sourceRefs": [{ "sourceId": "src.law.ra8187", "section": "Secs. 2-3" }]
+    },
+    {
+      "anchorId": "paternity-vs-allocation",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Never confuse the two father-side leaves. **Paternity (RA 8187)**: the father's **own** right — married, legitimate cohabiting spouse, first 4 deliveries, 7 days. **Allocation (RA 11210 Sec. 6)**: the mother's **transfer** — up to 7 of HER days to any father (married or not) or alternate caregiver, **over and above** paternity leave. A married father on his wife's second delivery can therefore take **7 paternity + up to 7 allocated = up to 14 days** (with the allocation requiring the mother's written notice). An unmarried father gets no paternity leave but **can** receive allocated days.",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra8187", "section": "Secs. 2-3" },
+        { "sourceId": "src.law.ra11210", "section": "Sec. 6" }
+      ]
+    },
+    {
+      "anchorId": "gyne-vawc",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Gynecological leave (RA 9710) and VAWC leave (RA 9262)",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra9710", "section": "Sec. 18" },
+        { "sourceId": "src.law.ra9262", "section": "Secs. 3(c), 43" }
+      ]
+    },
+    {
+      "anchorId": "ra9710",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**2 months with full pay at gross monthly compensation** after **surgery caused by gynecological disorders** — female employees with **6 months aggregate service in the last 12**. Surgery-caused only; consultation alone does not trigger it.",
+      "provisionId": "prov.ra9710-sec18-gyne",
+      "sourceRefs": [{ "sourceId": "src.law.ra9710", "section": "Sec. 18" }]
+    },
+    {
+      "anchorId": "ra9262",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**Up to 10 days paid leave IN ADDITION to all other paid leaves**, extendible via protection order — anchored on the **Battered Woman Syndrome** definition — with **assistance-protection** for co-employees who help victims.",
+      "provisionId": "prov.ra9262-secs3c-43",
+      "sourceRefs": [{ "sourceId": "src.law.ra9262", "section": "Secs. 3(c), 43" }]
+    },
+    {
+      "anchorId": "stacking",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Stacking rules**: the six leaves are cumulative across laws — each has its own trigger, and availment of one never consumes another (VAWC leave is expressly 'in addition to other paid leaves'). **Worked stacking**: a solo-parent mother (8 months service) giving birth gets **105 + 15 maternity days**, **7-day parental leave** (6-month requirement met), and **SIL after 12 months** — plus up to 7 maternity days allocable outward, plus any VAWC leave on its own facts. **Funding contrast**: SIL, parental, paternity, gynecological, and VAWC leaves are employer-paid; maternity is SSS-funded with employer advance/differential. **Expiry contrast**: SIL commutes, parental forfeits, maternity must be continuously availed (no deferment).",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" },
+        { "sourceId": "src.law.ra11861", "section": "Sec. 7" },
+        { "sourceId": "src.law.ra11210", "section": "Secs. 3-6" },
+        { "sourceId": "src.law.ra9262", "section": "Sec. 43" }
+      ]
+    },
+    {
+      "anchorId": "leave-table",
+      "keyed": false,
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "The six syllabus leaves compared",
+        "columns": ["Leave", "Length", "Service / condition", "Funding", "Carryover"],
+        "rows": [
+          ["SIL (Art. 95)", "5 days/year", "12 months (broken OK)", "Employer", "Commutes to cash"],
+          ["Solo-parent (RA 11861)", "7 working days/year", "6 months; solo-parent status", "Employer", "Forfeits (noncumulative)"],
+          ["Maternity (RA 11210)", "105 +15 solo (+30 unpaid); 60 miscarriage", "SSS 3 contributions/12 mo", "SSS + employer differential", "Continuous use; up to 7 allocable"],
+          ["Paternity (RA 8187)", "7 days", "Married; first 4 deliveries", "Employer", "Per-delivery use"],
+          ["Gynecological (RA 9710)", "2 months at gross pay", "6-in-12 months; surgery-caused", "Employer", "Per-surgery use"],
+          ["VAWC (RA 9262)", "Up to 10 days", "Victim status; extendible by PO", "Employer", "Stacks on all others"]
+        ]
+      },
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" },
+        { "sourceId": "src.law.ra11861", "section": "Sec. 7" },
+        { "sourceId": "src.law.ra11210", "section": "Secs. 3-6" },
+        { "sourceId": "src.law.ra8187", "section": "Secs. 2-3" },
+        { "sourceId": "src.law.ra9710", "section": "Sec. 18" },
+        { "sourceId": "src.law.ra9262", "section": "Sec. 43" }
+      ]
+    },
+    {
+      "anchorId": "exam-traps",
+      "keyed": false,
+      "kind": "note",
+      "markdown": "**Top traps for this topic**: (1) RA 8972 'Sec. 20' (does not exist); (2) solo-parent leave under the OLD 1-year rule (now 6 months, RA 11861); (3) commuting parental leave (it forfeits) or forfeiting SIL (it commutes); (4) capping maternity at 4 pregnancies (every pregnancy now); (5) requiring marriage/legitimacy for maternity or allocation (irrelevant); (6) equating paternity leave with the maternity allocation (own-right vs transfer, stackable); (7) triggering gynecological leave without surgery.",
+      "severity": "exam",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra11861", "section": "Sec. 7" },
+        { "sourceId": "src.law.ra11210", "section": "Secs. 3-6" },
+        { "sourceId": "src.law.ra8187", "section": "Secs. 2-3" }
+      ]
+    },
+    {
+      "anchorId": "selfcheck-sil-parental",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I state the SIL mirror pair (5/12/commutable vs 7/6/forfeitable), qualify a solo parent under RA 11861's seven categories, and explain why task/commission workers get SIL?",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" },
+        { "sourceId": "src.law.ra11861", "section": "Secs. 4, 7" }
+      ]
+    },
+    {
+      "anchorId": "selfcheck-family",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I recite the 105/60/30/15/7 maternity ladder with funding mechanics, stack paternity + allocation for a married father, and distinguish gynecological from VAWC triggers?",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra11210", "section": "Secs. 3-6" },
+        { "sourceId": "src.law.ra8187", "section": "Secs. 2-3" },
+        { "sourceId": "src.law.ra9710", "section": "Sec. 18" },
+        { "sourceId": "src.law.ra9262", "section": "Secs. 3(c), 43" }
+      ]
+    },
+    {
+      "anchorId": "takeaways",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Takeaways**: (1) **SIL is the floor** — 5 days, 12 months, commutable, and task/commission workers are in. (2) **Solo-parent law is RA 11861 now** — 7 days, 6 months, forfeitable, plus maternity +15. (3) **Maternity runs 105/60/30/15/7** with SSS funding and employer advance/differential. (4) **Paternity and allocation stack** (7 + up to 7) but have different triggers. (5) **Gynecological needs surgery; VAWC stacks on everything** and protects helpers. Next and last: special workers — apprentices, learners, and PWDs.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 95" },
+        { "sourceId": "src.law.ra11210", "section": "Secs. 3-6" }
+      ]
+    }
+  ]
+}

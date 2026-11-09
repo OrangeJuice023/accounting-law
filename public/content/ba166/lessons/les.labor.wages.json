@@ -1,0 +1,606 @@
+{
+  "id": "les.labor.wages",
+  "topicId": "ba166.labor.wages",
+  "title": "Wages: Principles, Minimum Wage, Payment, Prohibitions, 13th-Month Pay",
+  "description": "Title II wages in syllabus order: wage principles and coverage, non-diminution and equal pay, minimum wage and its RTWPB machinery, payment rules, the ten prohibitions, and 13th-month pay — with Mabeza, Boie-Takeda, Arco Metal, and Prubankers as the core jurisprudence.",
+  "coverage": "COVERED",
+  "provenance": "research-backed",
+  "kind": "lesson",
+  "blocks": [
+    {
+      "anchorId": "objectives",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Wages — objectives: define wage and its extensions, apply non-diminution and equal pay, run the RTWPB minimum-wage machinery, pay wages lawfully, police the ten prohibitions, and compute 13th-month pay.",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 97-128" }]
+    },
+    {
+      "anchorId": "scope-and-numbering",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "This lesson covers **Title II of Book III (Arts. 97-129)** as the syllabus lists it, plus the syllabus's out-of-Title cites (Constitution, NCC, the renumbered Arts. 133/259, PD 851). **Renumbering alert** — the only two syllabus cites whose numbers MOVED: **Art. 133 [135]** (discrimination/equal pay) and **Art. 259 [248]** (ULP/equal pay). The DOLE renumbered edition prints both with bracket notes, and every other article here keeps its original number. **Peso-rate policy**: this lesson states **no peso minimum-wage figure** — rates vary by region and wage order, so it teaches the fixing mechanism and where to verify instead.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 97-128" },
+        { "sourceId": "src.law.labor-code-2016", "section": "ART. 133 [135]; ART. 259 [248]" }
+      ]
+    },
+    {
+      "anchorId": "principles",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Principles: living wage, wage, bonus, and no-work-no-pay",
+      "sourceRefs": [{ "sourceId": "src.law.const1987", "section": "Art. XIII, Sec. 3" }]
+    },
+    {
+      "anchorId": "const-wages",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The constitutional anchor: paragraph 2's **living wage** and paragraph 4's **just-share/fair-return balance** — the formula every wage-fixing answer should echo.",
+      "provisionId": "prov.const-xiii-3-wages",
+      "sourceRefs": [{ "sourceId": "src.law.const1987", "section": "Art. XIII, Sec. 3, pars. 2 and 4" }]
+    },
+    {
+      "anchorId": "art97f",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The most-cited definition in the module: **wage = all remuneration however designated** (time/task/piece/commission), for work done **or to be done**, including **fair-valued facilities with no employer profit**.",
+      "provisionId": "prov.lc-art97f-wage",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 97(f)" },
+        { "sourceId": "src.law.pd442", "section": "Article 97(f)" }
+      ]
+    },
+    {
+      "anchorId": "wage-principles",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Unpack the four syllabus principles. **Wages vs salary**: a false dichotomy under the Code — 'salary' is simply wage paid monthly/periodically; Songco/Boie-Takeda add that 'salary' generically includes commissions while **'basic salary' does not**. **Commissions**: wages under Art. 97(f), hence covered by Title II protections — but excluded from the 13th-month base. **Bonus**: generally a gratuity (management prerogative), **demandable** when promised by contract/CBA or **ripened into practice** under Art. 100 (Arco Metal). **No work, no pay**: derived from 'for work done or to be done' — pay presupposes the work-for-pay exchange, with **statutory exceptions** (holiday pay, paid leaves) that prove the rule. **Living wage** (Const. XIII-3) is the aspiration implemented through Art. 124(a); **minimum wage** is the legal floor — never equate them.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 97(f)" },
+        { "sourceId": "src.law.const1987", "section": "Art. XIII, Sec. 3" },
+        { "sourceId": "src.law.boie-takeda-92174", "section": "Decision" },
+        { "sourceId": "src.law.arco-metal-170734", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "coverage",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Coverage of Title II (Arts. 97-98)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 97-98" }]
+    },
+    {
+      "anchorId": "art97bce",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The coverage trio: **employer** (anyone acting in the employer's interest, plus government and non-profits), **employee** (any individual employed), and **employ = suffer or permit to work**.",
+      "provisionId": "prov.lc-art97bce-coverage",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 97(b)(c)(e)" },
+        { "sourceId": "src.law.pd442", "section": "Article 97" }
+      ]
+    },
+    {
+      "anchorId": "art98",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Only **three** Title II exemptions: farm tenancy/leasehold, domestic service, and registered cottage-industry homework. Contrast with Art. 82's seven Title I exclusions — different lists, different titles.",
+      "provisionId": "prov.lc-art98-application",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 98" },
+        { "sourceId": "src.law.pd442", "section": "Article 98" }
+      ]
+    },
+    {
+      "anchorId": "nondiminution-equal-pay",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Non-diminution (Art. 100) and equal pay (Arts. 133(a), 259(e))",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 100, 133, 259" }]
+    },
+    {
+      "anchorId": "art100",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Book III never authorizes cutting enjoyed benefits — and jurisprudence extends the shield to **voluntarily granted benefits that ripen into company practice** (Arco Metal's test).",
+      "provisionId": "prov.lc-art100-nondiminution",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 100" },
+        { "sourceId": "src.law.pd442", "section": "Article 100" }
+      ]
+    },
+    {
+      "anchorId": "case-arco",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.arco-metal-170734",
+      "sourceRefs": [{ "sourceId": "src.law.arco-metal-170734", "section": "Decision" }]
+    },
+    {
+      "anchorId": "art100-application",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Arco Metal's practice test**, step by step: (1) was the grant **free and voluntary** (not legally or contractually compelled)? (2) was it **consistent over time** (no fixed minimum years — 2, 3, 6 years have all sufficed)? If yes to both, the benefit is **non-diminishable**. The employer bears the **burden of proving payment according to law**, and the 'honest mistake' defense needs **corroboration beyond a bare affidavit** (payroll-procedure lapses, audit trails). **Limits**: Art. 100 protects **enjoyed** benefits — it does not compel new ones, and CBA/contract interpretation still defines what the benefit is. **Compliance move**: before cutting any long-standing allowance, bonus formula, or encashment practice, assemble the involuntariness/inconsistency proof first.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 100" },
+        { "sourceId": "src.law.arco-metal-170734", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "art133a",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**Equal pay for equal work**: lesser compensation to a woman than a man — wage, salary, any remuneration or fringe benefits — for work of equal value is unlawful. Printed **ART. 133 [135]** (old Art. 135 as amended by RA 6725).",
+      "provisionId": "prov.lc-art133a-equal-pay",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra6725", "section": "Sec. 1" },
+        { "sourceId": "src.law.labor-code", "section": "Art. 133" }
+      ]
+    },
+    {
+      "anchorId": "art259e",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The union-side equal-pay rule: **wage discrimination to encourage or discourage union membership is a ULP**. Printed **ART. 259 [248]** (old Art. 248(e) as amended by BP 130). Cited here for equal pay only.",
+      "provisionId": "prov.lc-art259e-ulp",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 259(e)" },
+        { "sourceId": "src.law.pd442", "section": "Article 248(e)" }
+      ]
+    },
+    {
+      "anchorId": "equal-pay-trio",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Keep three equal-pay rules distinct. **(1) Sex-based** (Art. 133(a)): no lesser pay to women for work of equal value — the comparison is the work's value, not identical titles. **(2) Union-based** (Art. 259(e)): no wage discrimination to encourage/discourage union membership — while valid union-shop clauses and agency fees on benefited non-members survive the proviso. **(3) Region-based differences are LAWFUL**: RTWPB rates legitimately vary by region (Prubankers) — a Cebu-Manila pay inversion is RA 6727's design, not discrimination. **Renumbering traps**: old Art. 133 was maternity benefits (a different, superseded article) and old Art. 248 is now 259 — always cite the bracket form.",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra6725", "section": "Sec. 1" },
+        { "sourceId": "src.law.labor-code", "section": "Arts. 133, 259" },
+        { "sourceId": "src.law.prubankers-131247", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "minimum-wage",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Minimum wage: the floor, payment by results, facilities, and commissions",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 99, 101" }]
+    },
+    {
+      "anchorId": "art99",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "One sentence that regionalized Philippine wages: **minimum rates are set per region by the RTWPBs** — there is no single national minimum wage.",
+      "provisionId": "prov.lc-art99-minimum-wage",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 99" },
+        { "sourceId": "src.law.pd442", "section": "Article 99" }
+      ]
+    },
+    {
+      "anchorId": "art101",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The Secretary regulates **pakyaw, piecework, and non-time pay** for fair and reasonable rates — but **floors survive regardless of output**: Art. 124's 8-hour prescribed rate and the training 75% rules.",
+      "provisionId": "prov.lc-art101-payment-results",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 101" },
+        { "sourceId": "src.law.pd442", "section": "Article 101" }
+      ]
+    },
+    {
+      "anchorId": "floors-and-facilities",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Assemble the minimum-wage sub-rules. **Training floors** (cross-topic): apprentices >=75% (Art. 61, approved programs only), time-learners >=75% (Art. 75(c)), piece-learners 100% (Art. 76), PWD workers >=75% (Art. 80 par. 2) — and Art. 124 auto-modifies training wage clauses on every increase. **Facilities vs supplements** (Mabeza): board/lodging values enter wages at fair value with no employer profit (Art. 97(f)), but are **deductible only** on (1) trade-custom proof + (2) voluntary written acceptance + (3) fair reasonable value — and benefits furnished for the **employer's convenience** (required residence, odd-hour availability) are non-deductible **supplements** (purpose test). **Commissions**: wages under Art. 97(f) (David; Songco) — but excluded from 13th-month 'basic salary' (Boie-Takeda). **Exemptions**: BMBEs (RA 9178 Sec. 8, minimum wage only) and Art. 122(e) wage-order exemptions.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 61, 75-76, 80, 97(f), 101, 124" },
+        { "sourceId": "src.law.mabeza-118506", "section": "Decision" },
+        { "sourceId": "src.law.boie-takeda-92174", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "case-mabeza",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.mabeza-nlrc-118506",
+      "sourceRefs": [{ "sourceId": "src.law.mabeza-118506", "section": "Decision" }]
+    },
+    {
+      "anchorId": "determination",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Determination: NWPC, RTWPBs, wage orders, and distortion (Arts. 120-124)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 120-124" }]
+    },
+    {
+      "anchorId": "art120",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Creates the **NWPC** — national policy, guidelines, review, and wage-order appeals — attached to DOLE. It does **not** fix regional rates.",
+      "provisionId": "prov.lc-art120-nwpc",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 120" },
+        { "sourceId": "src.law.pd442", "section": "Article 120" }
+      ]
+    },
+    {
+      "anchorId": "art121",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Nine powers in four verbs — **advise, prescribe, review, supervise** — and a tripartite composition (Labor Secretary + NEDA chief + 2 labor + 2 management + Executive Director).",
+      "provisionId": "prov.lc-art121-nwpc-powers",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 121" },
+        { "sourceId": "src.law.pd442", "section": "Article 121" }
+      ]
+    },
+    {
+      "anchorId": "art122",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **rate-fixers**: one RTWPB per region with six powers — crown jewel (b) **fixing rates and issuing wage orders**, plus (e) **exemption applications**. Multi-branch payrolls track each region's order.",
+      "provisionId": "prov.lc-art122-rtwpb",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 122" },
+        { "sourceId": "src.law.pd442", "section": "Article 122" }
+      ]
+    },
+    {
+      "anchorId": "art123",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **15-10-60 sequence**: effectivity 15 days after complete regional publication; appeal to NWPC within 10 calendar days; NWPC decides within 60 — and **appeal does not stay** unless bonded.",
+      "provisionId": "prov.lc-art123-wage-order",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 123" },
+        { "sourceId": "src.law.pd442", "section": "Article 123" }
+      ]
+    },
+    {
+      "anchorId": "art124",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Four doctrines in one article: the **ten wage-fixing criteria**, the **distortion machinery** (negotiate -> grievance/arbitration or NCMB/NLRC; increases apply while pending), the **non-time-worker floor**, and **auto-modification of training wage clauses**.",
+      "provisionId": "prov.lc-art124-distortion",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 124" },
+        { "sourceId": "src.law.pd442", "section": "Article 124" }
+      ]
+    },
+    {
+      "anchorId": "case-prubankers",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.prubankers-131247",
+      "sourceRefs": [{ "sourceId": "src.law.prubankers-131247", "section": "Decision" }]
+    },
+    {
+      "anchorId": "ra9178",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Registered **BMBEs are exempt from minimum-wage rates only** — all other benefits (SSS, healthcare, OT, holiday pay, SIL, 13th month) survive. Registration is the gate.",
+      "provisionId": "prov.ra9178-sec8-bmbe",
+      "sourceRefs": [{ "sourceId": "src.law.ra9178", "section": "Sec. 8" }]
+    },
+    {
+      "anchorId": "wage-machinery",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**How to answer any minimum-wage problem**: (1) identify the **region of work** and its current wage order (verify on **NWPC/RTWPB official postings** — never quote a peso figure as national or current without issuance + effective date); (2) check **exemptions** (BMBE registration? wage-order exemption categories?); (3) test **distortion** with Prubankers' four elements (hierarchy; lower-level jump without higher match; elimination of distinction; **same region**) and route disputes correctly (union: grievance -> voluntary arbitration in 10 days; non-union: NCMB 10 days -> NLRC 20 days; **increases apply throughout**); (4) enforce the **non-time-worker floor** (prescribed rate per 8 hours, proportionate below) and **auto-modified training floors**; (5) answer equal-pay objections with regional design (Arts. 99/122) and the 133(a)/259(e) pair for real discrimination.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 99, 122-124" },
+        { "sourceId": "src.law.prubankers-131247", "section": "Decision" },
+        { "sourceId": "src.law.ra9178", "section": "Sec. 8" }
+      ]
+    },
+    {
+      "anchorId": "payment",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Payment of wages: form, time, place, and person (Arts. 102-105, NCC 1705)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 102-105" }]
+    },
+    {
+      "anchorId": "art102",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**Legal tender only** — scrip, tokens, and chits are banned even with the worker's written consent. Checks/money orders only when customary, CBA-stipulated, or Secretary-justified. Doubles as prohibition #1.",
+      "provisionId": "prov.lc-art102-forms-payment",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 102" },
+        { "sourceId": "src.law.pd442", "section": "Article 102" }
+      ]
+    },
+    {
+      "anchorId": "ncc1705",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The one-sentence Civil Code twin of Art. 102 — open any wage-form exam answer with it, then detail Art. 102's prohibitions and check exceptions.",
+      "provisionId": "prov.ncc-1705-legal-currency",
+      "sourceRefs": [{ "sourceId": "src.law.ncc", "section": "Art. 1705" }]
+    },
+    {
+      "anchorId": "art103",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Payday discipline: **at least every 2 weeks, never more than 16 days apart, never less often than monthly**. Force majeure only defers. Long-task workers get **progress payments** every <=16 days.",
+      "provisionId": "prov.lc-art103-time-payment",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 103" },
+        { "sourceId": "src.law.pd442", "section": "Article 103" }
+      ]
+    },
+    {
+      "anchorId": "art104",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**At or near the workplace** — defeating far-off pay points and company-store traps. Exceptions only through protective Secretary regulations.",
+      "provisionId": "prov.lc-art104-place-payment",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 104" },
+        { "sourceId": "src.law.pd442", "section": "Article 104" }
+      ]
+    },
+    {
+      "anchorId": "art105",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**Directly to the worker** — through an agent only on written authority; to heirs only via the **affidavit-and-DOLE channel**, which absolves the employer. Verbal 'pakisuyo' never discharges.",
+      "provisionId": "prov.lc-art105-direct-payment",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 105" },
+        { "sourceId": "src.law.pd442", "section": "Article 105" }
+      ]
+    },
+    {
+      "anchorId": "prohibitions",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Prohibitions (Arts. 102, 112-119, 128(f); Rule X; NCC 1708)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 112-119" }]
+    },
+    {
+      "anchorId": "art112",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #2: **no interference with wage disposal** — forced company-store purchases or compulsory employer services, direct or indirect, are unlawful.",
+      "provisionId": "prov.lc-art112-noninterference",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 112" },
+        { "sourceId": "src.law.pd442", "section": "Article 112" }
+      ]
+    },
+    {
+      "anchorId": "art113",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #3, the most-cited wage rule in practice: **no deductions except** (a) consented insurance, (b) recognized/authorized check-off, (c) law-or-Secretary authority. **When in doubt, the deduction is illegal.**",
+      "provisionId": "prov.lc-art113-deduction",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 113" },
+        { "sourceId": "src.law.pd442", "section": "Article 113" }
+      ]
+    },
+    {
+      "anchorId": "deduction-tree",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Deduction decision tree** for any payslip item: (1) Name its Art. 113 authority — consented insurance (a)? recognized/written check-off (b)? law or Secretary regulation (c)? None named = unlawful. (2) If it is a **deposit draw-down**, add Arts. 114-115: recognized trade practice or Secretary authority for the deposit itself, **plus** prior hearing, clearly shown responsibility, and actual amount only. (3) If it is a **facility value**, add Mabeza: trade custom + voluntary written acceptance + fair value — and test purpose (employer-convenience = supplement = never deductible). (4) If **consent** is claimed, test it under Art. 116: coerced consent (threat of dismissal) is no consent. Run cash shortages, breakage, unreturned tools, and 'voluntary' contributions through this tree — most fail at step 1.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 113-116" },
+        { "sourceId": "src.law.mabeza-118506", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "art114",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #4a: **no breakage deposits** as wage insurance — except in recognized-practice trades or as the Secretary allows. Bans the REQUIREMENT.",
+      "provisionId": "prov.lc-art114-deposits",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 114" },
+        { "sourceId": "src.law.pd442", "section": "Article 114" }
+      ]
+    },
+    {
+      "anchorId": "art115",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #4b: no draw-down unless the worker was **heard**, responsibility was **clearly shown**, and only for the **actual amount**. Polices the DRAW-DOWN.",
+      "provisionId": "prov.lc-art115-limitations",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 115" },
+        { "sourceId": "src.law.pd442", "section": "Article 115" }
+      ]
+    },
+    {
+      "anchorId": "art116",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #5: **no withholding or kickbacks** by force, stealth, intimidation, threat, or any means without consent — directly or indirectly, against any person.",
+      "provisionId": "prov.lc-art116-withholding",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 116" },
+        { "sourceId": "src.law.pd442", "section": "Article 116" }
+      ]
+    },
+    {
+      "anchorId": "art117",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #6: **no pay-to-be-hired or pay-to-stay deductions** — placement fees and retention kickbacks taken from wages are unlawful whatever the payslip calls them.",
+      "provisionId": "prov.lc-art117-ensure-employment",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 117" },
+        { "sourceId": "src.law.pd442", "section": "Article 117" }
+      ]
+    },
+    {
+      "anchorId": "art118",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #7: **no retaliation** — wage cuts, dismissal, or any discrimination against workers who complain, sue, testify, or are about to testify in wage proceedings.",
+      "provisionId": "prov.lc-art118-retaliation",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 118" },
+        { "sourceId": "src.law.pd442", "section": "Article 118" }
+      ]
+    },
+    {
+      "anchorId": "art119",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #8: **no knowingly false** statements, reports, or records under the Code. 'Knowing' and 'material' are both required — honest errors are not crimes; sanitized records are.",
+      "provisionId": "prov.lc-art119-false-reporting",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 119" },
+        { "sourceId": "src.law.pd442", "section": "Article 119" }
+      ]
+    },
+    {
+      "anchorId": "art128",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The enforcement backbone: **(a) visitorial access** to records and premises day or night during work, with rights to copy, question, and investigate; **(f) power to require employment records** — implemented by Rule X.",
+      "provisionId": "prov.lc-art128-visitorial",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 128(a)(f)" },
+        { "sourceId": "src.law.pd442", "section": "Article 128" }
+      ]
+    },
+    {
+      "anchorId": "rulex-sec11",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #9 (the syllabus gives no citation — this is it): **employment records stay in or about the workplace**. Off-site-only records violate this section.",
+      "provisionId": "prov.rulex-sec11-place-records",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule X, Sec. 11" }]
+    },
+    {
+      "anchorId": "rulex-sec13",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The regulatory twin of Art. 119, completing the **119 + 128(f) + Rule X Sec. 13** chain: falsifying required payrolls, time records, or production records is unlawful.",
+      "provisionId": "prov.rulex-sec13-false-reporting",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule X, Sec. 13" }]
+    },
+    {
+      "anchorId": "ncc1708",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Prohibition #10 (garnishment): wages are **exempt from execution/attachment** except for debts for **food, shelter, clothing, and medical attendance**. Binds creditors and sheriffs.",
+      "provisionId": "prov.ncc-1708-garnishment",
+      "sourceRefs": [{ "sourceId": "src.law.ncc", "section": "Art. 1708" }]
+    },
+    {
+      "anchorId": "enforcement-chain",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Memorize the enforcement chain as one sentence: **inspect (Art. 128(a)) -> require records (Art. 128(f)) -> keep them at the workplace (Rule X Sec. 11) with full payroll/time-record detail (Rule X Secs. 6-10) for 3 years (Sec. 12) -> falsification punished (Art. 119 + Rule X Sec. 13)**. Mabeza's moral closes the loop: after-the-fact summaries without payrolls and receipts prove nothing. Compliance checklist: on-site records, ink-and-chronological filing, production records for non-time workers, and a paper trail (incident + explanation + quantified loss) for every Art. 115 draw-down.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 119, 128" },
+        { "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule X, Secs. 6-13" },
+        { "sourceId": "src.law.mabeza-118506", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "thirteenth-month",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "13th-month pay (PD 851 and the 1987 Revised Guidelines)",
+      "sourceRefs": [{ "sourceId": "src.law.pd851", "section": "Secs. 1-2" }]
+    },
+    {
+      "anchorId": "pd851",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The 1975 mandate: **13th-month pay by December 24**, with the P1,000 ceiling **removed by MO 28** (all rank-and-file regardless of salary) and the **already-paying exemption** surviving in revised form.",
+      "provisionId": "prov.pd851-13th-decree",
+      "sourceRefs": [{ "sourceId": "src.law.pd851", "section": "Secs. 1-2" }]
+    },
+    {
+      "anchorId": "rev13th",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The current mechanics: **rank-and-file + >=1 month**; four exemptions; **>=1/12 of total basic salary**; piece-rate covered; multiple employers each pay; **any separation triggers proportionate pay**; deadline December 24.",
+      "provisionId": "prov.rev13th-guidelines",
+      "sourceRefs": [{ "sourceId": "src.law.rev13th", "section": "Items 1, 2, 3(b), 5, 6" }]
+    },
+    {
+      "anchorId": "case-boie-takeda",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.boie-takeda-92174",
+      "sourceRefs": [{ "sourceId": "src.law.boie-takeda-92174", "section": "Decision" }]
+    },
+    {
+      "anchorId": "thirteenth-computation",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Computation drill**: sum the year's BASIC salary only — strip out commissions (Boie-Takeda: void Guidelines paragraph), OT, premium, NSD, holiday pay, COLA, and unused-leave cash, **unless integrated** as basic salary by agreement or practice — then divide by 12. **Worked example**: P20,000/month x 12 = P240,000 basic + P60,000 commissions + P15,000 OT -> 13th month = P240,000 / 12 = **P20,000** (commissions and OT excluded). **Coverage drill**: managerial supervisor excluded; purely task-basis driver excluded (David) but piece-rate sibling covered at 1/12 of total earnings; resigned clerk gets **(months worked / 12) x 1/12 of basic earned**, demandable at clearance. 'Already paying' credits (Christmas/mid-year bonuses) offset only to the extent they meet the 1/12 floor — shortfalls are topped up. **Dead law flags**: the P1,000 ceiling and the 1975 distressed-employer exemption are gone.",
+      "sourceRefs": [
+        { "sourceId": "src.law.rev13th", "section": "Items 1, 2, 3(b), 5, 6" },
+        { "sourceId": "src.law.boie-takeda-92174", "section": "Decision" },
+        { "sourceId": "src.law.david-macasio-195466", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "wage-concepts",
+      "keyed": false,
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Three wage bases that exams deliberately confuse",
+        "columns": ["Concept", "Definition", "Includes commissions?", "Used for"],
+        "rows": [
+          ["Wage (Art. 97(f))", "All remuneration however designated + fair-valued facilities", "Yes (David; Songco)", "Title II coverage, minimum wage, facilities"],
+          ["Regular wage (Art. 90)", "Cash wage only, no facility deduction", "Cash commissions if paid as wage", "OT and premium computations"],
+          ["Basic salary (PD 851/Boie-Takeda)", "Remuneration for services MINUS non-integrated extras", "No — void to include", "13th-month pay (1/12 rule)"]
+        ]
+      },
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 90, 97(f)" },
+        { "sourceId": "src.law.boie-takeda-92174", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "exam-traps",
+      "keyed": false,
+      "kind": "note",
+      "markdown": "**Top traps for this topic**: (1) quoting any peso minimum-wage figure as national/current (verify the RTWPB order instead); (2) calling inter-regional disparity distortion or discrimination (Prubankers: it is neither); (3) folding commissions into 13th-month basic salary (Boie-Takeda: void); (4) allowing unnamed deductions (Art. 113 is exhaustive); (5) deducting facilities without the Mabeza trio; (6) citing old Art. 135/248 numbers where the renumbered 133/259 apply; (7) forgetting that wage-order appeals and distortion disputes never stay the increase.",
+      "severity": "exam",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 99, 113, 124, 133, 259" },
+        { "sourceId": "src.law.boie-takeda-92174", "section": "Decision" },
+        { "sourceId": "src.law.prubankers-131247", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "selfcheck-machinery",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I run the full minimum-wage answer (region -> exemptions -> distortion elements and tracks -> floors -> equal-pay response) and recite the 15-10-60 wage-order sequence?",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 99, 122-124" }]
+    },
+    {
+      "anchorId": "selfcheck-pay",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I rule on any deduction through the Art. 113 tree, recite all ten prohibitions with their articles, and compute a Boie-Takeda-clean 13th-month with a separation proration?",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 102-119" },
+        { "sourceId": "src.law.rev13th", "section": "Items 1, 2, 5, 6" }
+      ]
+    },
+    {
+      "anchorId": "takeaways",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Takeaways**: (1) **Wage is everything for work** — then narrow it per doctrine (regular wage for OT, basic salary for 13th month). (2) **Practice ripens**: consistent voluntary grants become Art. 100 property. (3) **Minimum wage is regional machinery**, not a number — NWPC policy, RTWPB orders, 15-10-60, distortion tracks, and immediate applicability. (4) **Deductions need named authority**; records need presence and truth. (5) **13th month = rank-and-file x 1/12 basic x (months/12 if separated)**, commissions always out. Next: the leaves lesson — SIL plus the five special leaves and their stacking rules.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 97-124" },
+        { "sourceId": "src.law.rev13th", "section": "Items 1, 2, 5, 6" }
+      ]
+    }
+  ]
+}

@@ -22,11 +22,15 @@ function HypoCard({ question, number }: { question: PracticeQuestion; number: nu
   const attempts = attemptStore.useValue();
   const revealed = attempts[question.id]?.revealedHints ?? [];
   const available = HINT_SECTIONS.filter((s) => question.hints?.[s.key]);
+  const researched = question.editorialStatus === 'researched-draft';
+  const allHintsRevealed = available.length > 0 && available.every((s) => revealed.includes(s.key));
+  const answerRevealed = Boolean(attempts[question.id]?.revealedKey);
 
   return (
     <article id={question.id} className="scroll-mt-24 rounded-xl border border-line bg-paper p-5">
       <p className="font-mono text-xs text-ink-faint">
         Hypothetical {number} · {topicTitles(index, question)}
+        {question.editorialStatus === 'researched-draft' ? ' · research-backed draft (not a professor question)' : ''}
       </p>
       <div className="rr-prose mt-2">
         <Markdown text={question.prompt} />
@@ -35,8 +39,9 @@ function HypoCard({ question, number }: { question: PracticeQuestion; number: nu
         <CitationRow refs={question.sourceRefs} />
       </div>
       <div className="mt-4 rounded-lg bg-gold-soft/50 px-4 py-2.5 text-[13px] text-ink-soft">
-        No model solution exists in the sources — draft your own IRAC answer, then reveal the source hints below to
-        check your direction.
+        {question.editorialStatus === 'researched-draft'
+          ? 'Research-backed draft: draft your own IRAC answer, then reveal the hints below to check your direction.'
+          : 'No model solution exists in the sources — draft your own IRAC answer, then reveal the source hints below to check your direction.'}
       </div>
       <div className="mt-3 space-y-2">
         {available.map((section, i) => {
@@ -68,6 +73,30 @@ function HypoCard({ question, number }: { question: PracticeQuestion; number: nu
           );
         })}
       </div>
+      {researched && question.answerKey ? (
+        <div className="mt-3">
+          {!answerRevealed ? (
+            <button
+              type="button"
+              disabled={!allHintsRevealed}
+              onClick={() => attemptStore.revealKey(question.id)}
+              className="inline-flex items-center gap-1.5 rounded-lg bg-forest px-4 py-2 text-sm font-medium text-white hover:bg-forest-deep disabled:cursor-not-allowed disabled:opacity-50"
+            >
+              {allHintsRevealed ? 'Reveal reference analysis' : 'Reveal all hints first'}
+            </button>
+          ) : (
+            <div className="rounded-lg border-l-4 border-gold bg-gold-soft/50 px-4 py-3">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-ink">Reference analysis</p>
+              <div className="rr-prose mt-1">
+                <Markdown text={question.answerKey} />
+              </div>
+              <p className="mt-2 text-xs text-ink-faint">
+                Researched draft prepared from the cited legal sources — not an official solution.
+              </p>
+            </div>
+          )}
+        </div>
+      ) : null}
     </article>
   );
 }

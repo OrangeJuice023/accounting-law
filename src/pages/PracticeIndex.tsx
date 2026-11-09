@@ -20,19 +20,19 @@ export function PracticeIndex() {
     {
       to: '/practice/self-tests',
       icon: FileQuestion,
-      title: 'Source-backed self-tests',
+      title: 'Self-tests',
       stock: `${selfTests.length} questions · answer keys included`,
       detail:
-        'The Insurance self-tests with their original short answer keys. Read, answer from memory, then reveal the key.',
+        'Source-backed self-tests with original keys, plus research-backed drafts with answers and explanations. Read, answer from memory, then reveal the key.',
       progress: selfTests.length > 0 ? `${reviewedSelf} of ${selfTests.length} reviewed` : 'No questions',
     },
     {
       to: '/practice/case-analysis',
       icon: Scale,
       title: 'Case analysis (IRAC)',
-      stock: `${hypos.length} hypotheticals · hints only, no model solutions`,
+      stock: `${hypos.length} hypotheticals · hints included`,
       detail:
-        'Procurement, e-commerce, EODB, and credit hypotheticals. Draft your own IRAC answer, then reveal hints section by section.',
+        'Source-backed hypotheticals plus research-backed drafts. Draft your own IRAC answer, then reveal hints section by section.',
       progress: hypos.length > 0 ? `${attemptedHypos} of ${hypos.length} attempted` : 'No hypotheticals',
     },
     {
@@ -52,8 +52,8 @@ export function PracticeIndex() {
         <Breadcrumbs items={[{ label: 'Dashboard', to: '/' }, { label: 'Practice Center' }]} />
         <h1 className="mt-2 font-serif text-3xl font-semibold text-ink">Practice Center</h1>
         <p className="mt-1 max-w-2xl text-[15px] leading-relaxed text-ink-soft">
-          Practice with exactly what the sources contain. Keys are original, hints are hints, and nothing invented is
-          presented as otherwise.
+          Practice with source-backed questions and clearly labeled research-backed drafts. Keys are original, hints
+          are hints, and nothing invented is presented as otherwise.
         </p>
       </div>
       <ul className="space-y-3">

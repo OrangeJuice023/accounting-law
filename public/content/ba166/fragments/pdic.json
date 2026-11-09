@@ -1,0 +1,1571 @@
+{
+  "sources": [
+    {
+      "id": "src.law.ra9302",
+      "filename": "Republic Act No. 9302 (2004 amendments to the PDIC Charter)",
+      "shortName": "RA 9302",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9302_2004.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 27 July 2004; took effect 12 August 2004. Raised MDIC to P250,000 and supplied the claims-procedure, payment, subrogation, and TRO-ban text retained (as renumbered) in the current charter. Cross-checked against the PDIC-published consolidated charter printing."
+    },
+    {
+      "id": "src.law.ra9576",
+      "filename": "Republic Act No. 9576 (2009 amendments to the PDIC Charter)",
+      "shortName": "RA 9576",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9576_2009.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 29 April 2009; raised MDIC to P500,000 effective June 2009. Added the Sec. 4(f) non-payment exclusions, the 120-day splitting window, and the State-policy declaration later carried into charter Sec. 2."
+    },
+    {
+      "id": "src.law.ra10846",
+      "filename": "Republic Act No. 10846 (2016 bank resolution and liquidation framework)",
+      "shortName": "RA 10846",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10846_2016.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 23 May 2016. Inserted charter Sec. 2 (State policy) and renumbered the whole charter to the current numbering (definitions Sec. 5, liquidation Secs. 12-16, payment Sec. 19, subrogation Sec. 20, claims Sec. 21). Official Gazette and Senate endpoints returned HTTP 403 on the access date, so Lawphil is the retrievable host; text cross-checked against the RA 11840 amendatory text and the RA 11840 IRR."
+    },
+    {
+      "id": "src.law.ra11840",
+      "filename": "Republic Act No. 11840 (2022 amendments to the PDIC Charter)",
+      "shortName": "RA 11840",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11840_2022.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Lapsed into law 17 June 2022; took effect 20 July 2022 (date stated in the RA 11840 IRR). Latest amendment to RA 3591: 7-member Board chaired by the BSP Governor, Sec. 5(k) Board authority to raise MDIC with 3-year review, Sec. 11 deposit-records examination, FISTC asset sales, revised financial assistance. Official Gazette and Senate endpoints returned HTTP 403 on the access date; text cross-checked against the IRR and PDIC publications."
+    },
+    {
+      "id": "src.law.ra11840-irr",
+      "filename": "Implementing Rules and Regulations of RA No. 11840 (signed copy)",
+      "shortName": "RA 11840 IRR",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.pdic.gov.ph/files/APPROVED%20IRR%2023Sept%20(signed).pdf",
+      "publisher": "PDIC / BSP / Department of Finance",
+      "accessedAt": "2026-11-09",
+      "notes": "Joint IRR signed 30 September 2022 by the PDIC President, BSP Governor, and Finance Secretary (per PDIC announcement). Defines fictitious vs fraudulent deposits, investment indicators, AML-proceeds deferral, 60-day reconsideration, and the 180-day runoff after termination of insured status."
+    },
+    {
+      "id": "src.law.pdic-mdic-2025",
+      "filename": "PDIC: New Maximum Deposit Insurance Coverage (MDIC) of P1 Million",
+      "shortName": "PDIC New MDIC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.pdic.gov.ph/mdic",
+      "publisher": "Philippine Deposit Insurance Corporation",
+      "accessedAt": "2026-11-09",
+      "notes": "Current MDIC is P1,000,000.00 per depositor per bank, effective 15 March 2025, per PDIC Memorandum No. 2025-01 dated 27 February 2025 (Roberto B. Tan, President and CEO), issued under the Sec. 5(k) Board authority. Memorandum text verified via an authentic bank-published copy of the official memorandum; figure and effective date confirmed on this PDIC page."
+    },
+    {
+      "id": "src.law.pdic-charter-pdf",
+      "filename": "PDIC Charter (Republic Act 3591, As Amended) — PDIC consolidated printing",
+      "shortName": "PDIC Charter PDF",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://www.pdic.gov.ph/files/pdiccharter.pdf",
+      "publisher": "Philippine Deposit Insurance Corporation",
+      "accessedAt": "2026-11-09",
+      "notes": "WARNING: this PDIC-hosted printing is stale — it consolidates amendments only through RA 9302 (it still shows P250,000 and a 5-member Board). Used solely to cross-check the exact wording of paragraphs unchanged since RA 9302 (claims procedure, TRO ban). All coverage figures and current section numbers come from the later amendatory acts above."
+    },
+    {
+      "id": "src.law.pdic-ca-118917",
+      "filename": "PDIC v. Court of Appeals, G.R. No. 118917",
+      "shortName": "PDIC v. CA",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1997/dec1997/gr_118917_1997.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 118917, 22 December 1997, First Division, Kapunan, J.; 347 Phil. 741. No deposit, no insurance: PDIC liability is statutory and requires money actually received by the bank; negotiability and PDIC-insured recitals are immaterial."
+    },
+    {
+      "id": "src.law.cb-ca-76118",
+      "filename": "Central Bank v. Court of Appeals (Triumph Savings Bank), G.R. No. 76118",
+      "shortName": "Central Bank v. CA",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1993/mar1993/gr_76118_1993.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 76118, 30 March 1993, En Banc, Bellosillo, J. Close-now-hear-later doctrine: no prior notice and hearing required before an MB closure/receivership resolution; annullable only for arbitrariness and bad faith. Decided under RA 265 Sec. 29, now RA 7653 Sec. 30."
+    },
+    {
+      "id": "src.law.so-pdic-230020",
+      "filename": "So v. PDIC, G.R. No. 230020",
+      "shortName": "So v. PDIC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/64023",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 230020, 19 March 2018, First Division, Tijam, J. PDIC is a quasi-judicial agency; certiorari against its claim denials lies only with the Court of Appeals; splitting of deposits (mother-account case) defeats the insurance claim."
+    },
+    {
+      "id": "src.law.chugani-pdic-230037",
+      "filename": "Sps. Chugani v. PDIC, G.R. No. 230037",
+      "shortName": "Chugani v. PDIC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2018/mar2018/gr_230037_2018.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "G.R. No. 230037, 19 March 2018, First Division, Tijam, J. Replica CTDs credited to the bank president's personal account are fictitious/fraudulent deposits; no grave abuse in PDIC's denial; legitimate-deposit test stated."
+    }
+  ],
+  "modulePatches": [
+    {
+      "id": "ba166.pdic",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "primarySourceIds": [
+        "src.law.ra10846",
+        "src.law.ra11840",
+        "src.law.ra11840-irr",
+        "src.law.pdic-mdic-2025"
+      ]
+    }
+  ],
+  "topicPatches": [
+    {
+      "id": "ba166.pdic.policy",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 3591 Secs. 1-3, 6-7, 9 as amended through RA 11840 (eff. 20 July 2022). No course reviewer exists for this module.",
+      "lessonIds": [
+        "les.pdic.policy"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec1-creation",
+        "prov.ra3591-sec2-policy",
+        "prov.ra3591-sec3-board",
+        "prov.ra3591-sec6-coverage",
+        "prov.ra3591-sec7a-assessment",
+        "prov.ra3591-sec9-powers"
+      ],
+      "caseIds": []
+    },
+    {
+      "id": "ba166.pdic.insured-deposits",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 3591 Secs. 5(g), 5(k), 26(f) as amended through RA 11840, the RA 11840 IRR, PDIC Memorandum No. 2025-01 (P1M MDIC eff. 15 March 2025), and three verified Supreme Court decisions.",
+      "lessonIds": [
+        "les.pdic.insured-deposits"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec5g-deposit",
+        "prov.ra3591-sec5k-insured-deposit",
+        "prov.pdic-memo2025-mdic",
+        "prov.ra11840-irr-fictitious",
+        "prov.ra11840-irr-investment-aml",
+        "prov.ra3591-sec26f-splitting"
+      ],
+      "caseIds": [
+        "case.pdic-ca-118917",
+        "case.so-pdic-230020",
+        "case.chugani-pdic-230037"
+      ]
+    },
+    {
+      "id": "ba166.pdic.powers",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 3591 Secs. 6, 8-9, 11-14, 16, 19-22, 27 as amended through RA 11840, the RA 11840 IRR, and three verified Supreme Court decisions (closure, quasi-judicial review, TRO ban).",
+      "lessonIds": [
+        "les.pdic.powers"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec6-coverage",
+        "prov.ra3591-sec9-powers",
+        "prov.ra3591-sec8-sanctions",
+        "prov.ra3591-sec11-exam",
+        "prov.ra3591-sec12-liquidation",
+        "prov.ra3591-sec13ab-receiver",
+        "prov.ra3591-sec13e-effects",
+        "prov.ra3591-sec14-takeover",
+        "prov.ra3591-sec16-petition-claims",
+        "prov.ra3591-sec19-payment",
+        "prov.ra3591-sec20-subrogation",
+        "prov.ra3591-sec21-claims",
+        "prov.ra3591-sec22e-finassist",
+        "prov.ra3591-sec27-tromban"
+      ],
+      "caseIds": [
+        "case.cb-ca-76118",
+        "case.so-pdic-230020",
+        "case.chugani-pdic-230037"
+      ]
+    }
+  ],
+  "provisions": [
+    {
+      "id": "prov.ra3591-sec1-creation",
+      "citation": "RA 3591, Sec. 1 (as amended by RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "1",
+      "verbatim": "Section 1. There is hereby created a Philippine Deposit Insurance Corporation hereinafter referred to as the 'Corporation' which shall insure as herein provided, the deposits of all banks which are entitled to the benefits of insurance under this Act, and which shall have the powers hereinafter granted.\n\nThe Corporation shall, as a basic policy, promote and safeguard the interests of the depositing public by providing insurance coverage on all insured deposits and helping maintain a sound and stable banking system.\n\nThe Corporation shall be attached to the Bangko Sentral ng Pilipinas for policy and program coordination.",
+      "explanation": "PDIC is a government instrumentality created by statute (RA 3591, approved 22 June 1963) to insure bank deposits. Its basic policy is twin: protect depositors and help keep the banking system sound and stable. Since RA 11840 it is attached to the BSP for policy and program coordination, but it remains a separate corporate body that can sue and be sued. Practical point: deposit insurance is automatic and mandatory — the depositor neither applies for it nor pays a premium; the bank pays assessments to PDIC.",
+      "topicIds": [
+        "ba166.pdic.policy"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 1 (amending RA 3591, Sec. 1)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec2-policy",
+      "citation": "RA 3591, Sec. 2 (as inserted by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "2",
+      "verbatim": "SEC. 2. It is hereby declared to be the policy of the State to strengthen the mandatory deposit insurance coverage system to generate, preserve, maintain faith and confidence in the country's banking system, and protect it from illegal schemes and machinations.\n\nTowards this end, the government must extend all means and mechanisms necessary for the Corporation to effectively fulfill its vital task of promoting and safeguarding the interests of the depositing public by way of providing insurance coverage on bank deposits and in helping develop a sound and stable banking system.\n\nIn view of the crucial role and the nature of its functions and responsibilities, the Corporation, while being a government instrumentality with corporate powers, shall enjoy fiscal and administrative autonomy.",
+      "explanation": "Three ideas to memorize: (1) deposit insurance is MANDATORY, not optional; (2) its purpose is faith and confidence in banks plus protection against illegal schemes; (3) PDIC enjoys fiscal and administrative autonomy because its role is crucial. Exam point: when asked why PDIC can act quickly (take over banks, pay claims), anchor on this State policy plus the autonomy clause.",
+      "topicIds": [
+        "ba166.pdic.policy"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 2 (State Policy)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec3-board",
+      "citation": "RA 3591, Sec. 3(a) (as amended by RA 11840; quorum retained from RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "3(a)",
+      "verbatim": "(a) The powers and functions of the Corporation shall be vested in and exercised by a Board of Directors which shall be composed of seven (7) members as follows:\n\n(1) The Governor of the Bangko Sentral ng Pilipinas who shall be the ex officio Chairperson of the Board without compensation;\n\n(2) The Secretary of Finance who shall be the ex officio Vice Chairperson and member of the Board without compensation;\n\n(3) The President of the Corporation, who shall be appointed by the President of the Philippines from a shortlist prepared by the Governance Commission for Government-Owned or -Controlled Corporations pursuant to Republic Act No. 10149, or the \"GOCC Governance Act of 2011\" to serve on a full-time basis for a term of six (6) years;\n\n(4) Four (4) members from the private sector to be appointed by the President of the Philippines from a shortlist prepared by the Governance Commission for Government-Owned or -Controlled Corporations pursuant to Republic Act No. 10149. The appointive directors shall serve for a term of six (6) years unless sooner removed for cause and shall be subject to only one (1) reappointment.\n\n[...]\n\nThe presence of four (4) members shall constitute a quorum. All decisions of the Board of Directors shall require the concurrence of at least four (4) members.",
+      "explanation": "The PDIC Board has SEVEN members: the BSP Governor as Chair, the Finance Secretary as Vice-Chair, the PDIC President, and four private-sector appointive directors (6-year terms, one reappointment only). The middle of paragraph (4) on staggered first appointments and performance scores is omitted above. Remember: quorum and decision rule is FOUR. The Board holds the charter's key levers — it sets the assessment rate, raises the MDIC, and directs receivership and liquidation. Practical point: major PDIC actions (e.g., the 2025 MDIC increase) are Board actions, which is why they cite Board authority.",
+      "topicIds": [
+        "ba166.pdic.policy"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 2 (amending RA 3591, Sec. 3)"
+        },
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 3 (quorum rule, retained)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec6-coverage",
+      "citation": "RA 3591, Sec. 6 (as amended by RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "6",
+      "verbatim": "Section 6. The deposit liabilities of any bank which is engaged in the business of receiving deposits as herein defined on the effective date of this Act, or which thereafter may engage in the business of receiving deposits, shall be insured with the Corporation. The Corporation may establish separate insurance funds and insurance arrangements or structures or takaful that take into consideration the peculiar characteristics of Islamic banking.\n\nWhenever a bank is determined by the Bangko Sentral ng Pilipinas to be capital deficient, the Corporation may conduct an insurance risk evaluation on the bank to enable it to assess the risks to the DIF. Such evaluation may include the determination of: (i) the fair market value of the assets and liabilities of a bank; or (ii) the risk classification of a bank.",
+      "explanation": "This is the DUTY TO INSURE: every bank that takes deposits MUST be insured with PDIC — no bank may opt out, and coverage attaches by operation of law. The 2022 amendment adds Islamic-banking windows (separate funds or takaful) and lets PDIC run an insurance-risk evaluation (fair value of assets and liabilities, risk classification) once BSP finds a bank capital deficient — an early-warning tool that protects the Deposit Insurance Fund before closure. Remember: the duty runs between the BANK and PDIC; the depositor is the beneficiary and pays nothing.",
+      "topicIds": [
+        "ba166.pdic.policy",
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 5 (amending RA 3591, Sec. 6)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec7a-assessment",
+      "citation": "RA 3591, Sec. 7(a) (as amended by RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "7(a)",
+      "verbatim": "The assessment rate shall be determined by the Board of Directors: Provided, That the assessment rate shall not exceed one-fifth (1/5) of one per centum (1%) per annum. The semi-annual assessment for each insured bank shall be in the amount of the product of one-half (1/2) the assessment rate multiplied by the assessment base but in no case shall it be less than Five thousand pesos (P5,000.00). The assessment base shall be the amount of the liability of the bank for deposits as defined under subsection (g) of Section 5 without any deduction for indebtedness of depositors.\n\n[...]\n\nIn case there will be an increase in the maximum deposit insurance coverage, the PDIC Board shall have the authority to adjust the assessment rate for banks taking into consideration the current economic conditions, and the adequacy and sustainability of the DIF.",
+      "explanation": "Banks fund deposit insurance through assessments: the Board sets the rate (ceiling 1/5 of 1% per year), each bank pays semi-annually on its total deposit liabilities with NO deduction for what depositors owe the bank, and no bank pays less than P5,000 per half-year. The omitted middle paragraph requires a Board study on a risk-based assessment system. The last paragraph links funding to coverage: if the MDIC rises (as it did in 2025), the Board may adjust the rate to keep the DIF adequate and sustainable. Exam point: assessment base is GROSS deposit liabilities — a bank cannot net out borrowers' loans.",
+      "topicIds": [
+        "ba166.pdic.policy"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 6 (amending RA 3591, Sec. 7)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec9-powers",
+      "citation": "RA 3591, Sec. 9, Eighth, Ninth, and Fourteenth powers (as amended by RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "9",
+      "verbatim": "Eighth - To examine the records and books of accounts and require information and reports from depository institutions in case there is a finding of fraud or unsafe or unsound banking related to deposit-taking: Provided, That, notwithstanding the provisions of Republic Act No. 1405, as amended, Republic Act No. 6426, as amended, Republic Act No. 8791, and other laws, the Corporation and/or the Bangko Sentral ng Pilipinas, may inquire into or examine deposit accounts and all information related thereto in case there is a finding of unsafe or unsound banking practice: Provided, further, That to avoid overlapping of efforts, the examination shall maximize the efficient use of the relevant reports, information, and findings of the Bangko Sentral ng Pilipinas, which it shall make available to the Corporation.\n\n[...]\n\nNinth - To act as receiver.\n\n[...]\n\nFourteenth - To determine the appropriate mode of liquidation of a closed bank and to implement the same.",
+      "explanation": "Three charter powers to memorize. (1) Examination: on a finding of fraud or deposit-related unsafe/unsound banking, PDIC may examine books and even deposit accounts despite the secrecy laws (RA 1405, RA 6426, RA 8791) — a narrow statutory exception, coordinated with BSP to avoid duplication. (2) Receiver: the two-word grant behind PDIC's takeover of every closed bank (detailed in Secs. 12-14). (3) Liquidation mode: PDIC alone chooses conventional liquidation or purchase-and-assumption and implements it. The omitted powers (seal, succession, contracts, suit, personnel, by-laws, compromise of claims, provident fund) are standard corporate-housekeeping grants.",
+      "topicIds": [
+        "ba166.pdic.policy",
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 8 (amending RA 3591, Sec. 9)"
+        },
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Secs. 14-16 (corporate powers retained)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec5g-deposit",
+      "citation": "RA 3591, Sec. 5(g) (as amended by RA 10846 and RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "5(g)",
+      "verbatim": "(g) The term deposit means the unpaid balance of money or its equivalent received by a bank in the usual course of business and for which it has given or is obliged to give credit to a commercial, checking, savings, time or thrift account, evidenced by a passbook, certificate of deposit, or other evidence of deposit issued in accordance with Bangko Sentral ng Pilipinas rules and regulations and other applicable laws, together with such other obligations of a bank, which, consistent with banking usage and practices, the Board of Directors shall determine and prescribe by regulations to be deposit liabilities of the bank: Provided, That any obligation of a bank which is payable at the office of the bank located outside of the Philippines shall not be a deposit for any of the purposes of this Act or included as part of the total deposits or of insured deposit: Provided, further, That subject to the approval of the Board of Directors, any insured bank which is incorporated under the laws of the Philippines which maintains a branch outside the Philippines may elect to include for insurance its deposit obligations payable only at such branch.\n\nCertain products or arrangements of Islamic banks shall be deemed as deposit by the Bangko Sentral ng Pilipinas for purposes of this Act.\n\nThe Corporation shall not pay deposit insurance for the following accounts or transactions:\n\n(1) Investment products such as bonds and securities, trust accounts, and other similar instruments;\n\n(2) Deposit accounts or transactions which are fictitious or fraudulent as determined by the Corporation;\n\n(3) Deposit accounts or transactions constituting unsafe and unsound banking, as determined by the Corporation, in consultation with the Bangko Sentral ng Pilipinas, after due notice and hearing, and publication of a directive to cease and desist issued by the Bangko Sentral ng Pilipinas against such deposit accounts, transactions or unsafe and unsound banking; and\n\n(4) Deposits that are determined to be the proceeds of an unlawful activity as defined under Republic Act No. 9160, as amended.\n\nThe actions of the Corporation taken under Section 5(g) shall be final and executory, and may only be restrained or set aside by the Court of Appeals, upon appropriate petition for certiorari on the ground that the action was taken in excess of jurisdiction or with such grave abuse of discretion as to amount to a lack or excess of jurisdiction. The petition for certiorari may only be filed within thirty (30) days from notice of denial of claim for deposit insurance.",
+      "explanation": "The heart of deposit insurance. A deposit exists only if the BANK RECEIVED money or its equivalent in the usual course of business — no receipt, no deposit, no insurance (this is why the Supreme Court absolved PDIC in PDIC v. CA and Chugani). Offshore-payable obligations are excluded, but a Philippine bank's foreign branch may opt its branch deposits in with Board approval. Four accounts are NEVER paid: (1) investments, trust accounts and the like; (2) fictitious or fraudulent accounts as PDIC determines; (3) unsafe/unsound-banking accounts after due process and a published BSP cease-and-desist directive; (4) money-laundering proceeds under RA 9160. PDIC's rulings here are final and executory — challengeable only by certiorari to the COURT OF APPEALS within 30 days from denial notice, and only for grave abuse of discretion.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "caseIds": [
+        "case.pdic-ca-118917",
+        "case.chugani-pdic-230037"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+        },
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 4 (amending RA 3591, Sec. 5(g))"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec5k-insured-deposit",
+      "citation": "RA 3591, Sec. 5(k) (as amended by RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "5(k)",
+      "verbatim": "(k) The term insured deposit means the amount due to any bonafide depositor for legitimate deposits in an insured bank as of the date of closure but not to exceed Five hundred thousand pesos (P500,000.00). Such amount shall be determined according to such regulations as the Board of Directors may prescribe. In determining such amount due to any depositor, there shall be added together all deposits in the bank maintained in the same right and capacity for his or her benefit either in his or her own name or in the name of others. A joint account regardless of whether the conjunction 'and', 'or', 'and/or' is used, shall be insured separately from any individually-owned deposit account: Provided, That (1) if the account is held jointly by two or more natural persons, or by two or more juridical persons or entities, the maximum insured deposit shall be divided into as many equal shares as there are individuals, juridical persons or entities, unless a different sharing is stipulated in the document of deposit, and (2) if the account is held by a juridical person or entity jointly with one or more natural persons, the maximum insured deposit shall be presumed to belong entirely to such juridical person or entity: Provided, further, That the aggregate of the interest of each co-owner over several joint accounts, whether owned by the same or different combinations of individuals, juridical persons or entities, shall likewise be subject to the maximum insured deposit: Provided, furthermore, That the provisions of any law to the contrary notwithstanding, no owner/holder of any passbook, certificate of deposit or other evidence of deposit shall be recognized as a depositor entitled to the rights provided in this Act unless the passbook, certificate of deposit or other evidence of deposit is determined by the Corporation to be an authentic document or record of the issuing bank.\n\nIn case a condition occurs that threatens the monetary and financial stability of the banking system that may have systemic consequences, as defined in Section 22 hereof, and as determined by the Monetary Board, the maximum deposit insurance cover may be adjusted in such amount, for such a period, and/or for such deposit products, as may be determined by a unanimous vote of the Board of Directors in a meeting called for the purpose and chaired by the Governor of the Bangko Sentral ng Pilipinas or the designated alternate, subject to the approval of the President of the Philippines.\n\nThe Board of Directors may increase the amount of the maximum deposit insurance coverage to an amount indexed to inflation or in consideration of other economic indicators as may be deemed appropriate by the Board. The Board of Directors shall review the amount of the maximum deposit insurance coverage every three (3) years and increase the maximum deposit insurance coverage as may be warranted. In the exercise of this authority, the Board may consider economic indicators other than inflation. For this purpose, the Board may hire the services of independent actuarial consultants and other experts to determine the feasibility and advisability of increasing the maximum deposit insurance coverage.",
+      "explanation": "Read this together with the 2025 MDIC increase. The statute still prints P500,000, but the third paragraph lets the BOARD raise the MDIC (indexed to inflation or other indicators, reviewed every 3 years) — and the Board did: P1,000,000 per depositor per bank effective 15 March 2025 (Memo No. 2025-01). So P500,000 is the statutory floor text; P1M is the CURRENT payable maximum. Aggregation rules: add all deposits held in the SAME right and capacity; joint accounts are insured SEPARATELY from individual accounts; co-owners split the maximum equally unless the deposit document says otherwise; a juridical-plus-natural joint account is presumed to belong entirely to the juridical person; and only AUTHENTIC bank records count (fake or replica documents are not deposits). The second paragraph is the emergency lever: on systemic threat as determined by the Monetary Board, the Board by UNANIMOUS vote (chaired by the BSP Governor) may adjust cover temporarily, subject to Presidential approval.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "caseIds": [
+        "case.so-pdic-230020"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 4 (amending RA 3591, Sec. 5(k))"
+        },
+        {
+          "sourceId": "src.law.pdic-mdic-2025",
+          "section": "New MDIC (P1M eff. 15 March 2025)"
+        }
+      ]
+    },
+    {
+      "id": "prov.pdic-memo2025-mdic",
+      "citation": "PDIC Memorandum No. 2025-01 (27 February 2025)",
+      "instrument": "PDIC Memo No. 2025-01",
+      "articleOrSection": "Increase in MDIC",
+      "verbatim": "Effective 15 March 2025, the Maximum Deposit Insurance Coverage provided by the Philippine Deposit Insurance Corporation (PDIC) is increased to One Million Pesos (P1,000,000.00) per depositor, per bank.\n\n[...]\n\nUpon effectivity of the new MDIC, banks shall prominently display the new Official PDIC Digital Decal in its official website, official social media pages, digital channels, mobile applications, ATMs and other similar machines, and include in its general advertisements and advertisement of deposit products the new Insurance Statement: \"Deposits are insured by PDIC up to P1 Million per depositor.\"",
+      "explanation": "The CURRENT rule on coverage. Since 15 March 2025, every bona fide depositor in every insured bank is covered up to P1,000,000 — the first increase since 2009 (P500,000 under RA 9576), and the first ever done by Board action under the Sec. 5(k) authority rather than by a new statute. History ladder for context: P10,000 (1963) → P15,000 (1978) → P40,000 (1984) → P100,000 (1992) → P250,000 (2004) → P500,000 (2009) → P1,000,000 (2025). Trap: any problem citing P500,000 as the current maximum is OUTDATED — use P1M for closures on or after 15 March 2025. Banks must now display the digital decal and the exact insurance statement quoted above.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pdic-mdic-2025",
+          "section": "Memorandum No. 2025-01 (27 Feb 2025)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11840-irr-fictitious",
+      "citation": "IRR of RA 11840, Rule III, Sec. 3(b)",
+      "instrument": "IRR of RA 11840",
+      "articleOrSection": "Rule III, Sec. 3(b)",
+      "verbatim": "Deposit accounts or transactions which are fictitious or fraudulent, as determined by the Corporation.\n\n1. A deposit account or transaction shall be deemed fictitious when it is simulated, feigned, or not a genuine deposit account or transaction [e.g., Money or Equivalent (of money) was made to appear to have been received by a bank, or deposit account or the name of the depositor does not appear in the records of the bank], or unfunded, [i.e., no money or equivalent (of money) is received by a bank for such account or transaction], or deposit account or the name of the depositor does not appear in the records of the bank.\n\n2. A deposit account or transaction shall be deemed fraudulent whenever the bank and/or depositor knowingly employ means calculated to deceive, including acts, omissions and concealment involving a breach of legal or equitable duty, trust, or confidence justly reposed, resulting in damage to another, or by which an undue and unconscientious advantage is taken of another, e.g., the named depositor denies ownership of the deposit.",
+      "explanation": "How to tell the two apart. FICTITIOUS = the deposit is not real: simulated, unfunded (nothing actually reached the bank), or absent from bank records. FRAUDULENT = someone knowingly schemed to deceive (e.g., a depositor who denies owning the account booked in her name, or replica certificates like in Chugani). Transcribed from the PDIC-published signed PDF with only line-break spacing normalized; the repeated records clause in item 1 appears in the published text. Practical point: PDIC decides this itself in the first instance, and its denial is final and executory subject only to CA certiorari within 30 days.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "caseIds": [
+        "case.chugani-pdic-230037"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840-irr",
+          "section": "Rule III, Sec. 3(b)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11840-irr-investment-aml",
+      "citation": "IRR of RA 11840, Rule III, Sec. 3(a) and (d)",
+      "instrument": "IRR of RA 11840",
+      "articleOrSection": "Rule III, Sec. 3(a), (d)",
+      "verbatim": "The following features may be considered as grounds for determining that a product is an investment:\n\n1. No debtor-creditor relationship exists between the bank and the client;\n\n2. Relationship between the bank and the client is either that of a trustee-trustor or agent-principal;\n\n3. Principal amount is not protected;\n\n4. Amount deposited is not withdrawable on demand; and/or\n\n5. Other analogous features.\n\n[...]\n\nPayment of deposit insurance shall be deferred on any deposit which is the subject matter of any freeze order, civil forfeiture proceeding, money laundering case, or any other case, or any other case involving an Unlawful Activity, pending before the Department of Justice, Office of the Ombudsman, or the regular courts.\n\nDeposit insurance payments shall only be made upon a final judgment effectively holding that the deposits do not constitute proceeds of an Unlawful Activity.\n\nDeposits determined with finality by the courts to be proceeds of an Unlawful Activity shall not be paid deposit insurance.\n\nIf a deposit insurance claim is denied, the concerned depositor may file within sixty (60) days from receipt of the denial, a verified request for reconsideration based on new evidence, together with affidavit/s and other document/s in support of the claim.",
+      "explanation": "Two exclusion mechanics. INVESTMENTS: the test is substance over label — if there is no debtor-creditor relationship (trustee, agent, at-risk principal, lock-up), the product is an investment even if the bank called it a deposit. MONEY-LAUNDERING PROCEEDS: PDIC DEFERS payment while a freeze/forfeiture/MLA case is pending, pays only on a final judgment clearing the deposit, and never pays what courts finally adjudge as unlawful-activity proceeds. Lifeline for denied claimants: a verified request for reconsideration on NEW evidence within 60 days from denial — distinct from the 30-day CA certiorari remedy. Transcribed from the signed PDF with only line-break spacing normalized; the doubled phrase in the deferral sentence appears in the published text.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840-irr",
+          "section": "Rule III, Sec. 3(a), (d)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec26f-splitting",
+      "citation": "RA 3591, Sec. 26(f)(1)(e) (as amended by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "26(f)(1)(e)",
+      "verbatim": "The penalty of imprisonment of not less than six (6) years but not more than twelve (12) years or a fine of not less than Fifty thousand pesos (P50,000.00) but not more than Ten million pesos (P10,000,000.00), or both, at the discretion of the court, shall be imposed upon:\n\n(1) Any director, officer, employee or agent of a bank for:\n\n[...]\n\n(e) Splitting of deposits or creation of fictitious or fraudulent loans or deposit accounts.\n\nSplitting of deposits occurs whenever a deposit account with an outstanding balance of more than the statutory maximum amount of insured deposit maintained under the name of natural or juridical persons is broken down and transferred into two (2) or more accounts in the name/s of natural or juridical persons or entities who have no beneficial ownership on transferred deposits in their names within one hundred twenty (120) days immediately preceding or during a bank-declared bank holiday, or immediately preceding a closure order issued by the Monetary Board of the Bangko Sentral ng Pilipinas for the purpose of availing of the maximum deposit insurance coverage;",
+      "explanation": "Splitting = breaking one big account into several small ones in the names of NON-OWNERS (no beneficial ownership) within 120 days before a bank holiday or MB closure order, to multiply insurance coverage. Elements to check: (1) source balance above the maximum; (2) break-up into 2+ accounts; (3) transferees who are not real owners; (4) inside the 120-day window; (5) purpose of maxing out coverage. Consequence is double: the split claims are DENIED (see So v. PDIC, where a son's account traced to the Reyes family mother account), and the bank insiders face 6-12 years imprisonment and/or P50,000-P10,000,000 fine. Trap: the window is 120 days (RA 9576), not 30 — the 30-day figure in old materials is obsolete.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "caseIds": [
+        "case.so-pdic-230020"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 44 (amending RA 3591, Sec. 26(f))"
+        },
+        {
+          "sourceId": "src.law.ra9576",
+          "section": "Sec. 11 (120-day window origin)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec12-liquidation",
+      "citation": "RA 3591, Sec. 12(a) (as inserted by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "12(a)",
+      "verbatim": "SEC. 12. (a) Whenever a bank is ordered closed by the Monetary Board, the Corporation shall be designated as receiver and it shall proceed with the takeover and liquidation of the closed bank in accordance with this Act. For this purpose, banks closed by the Monetary Board shall no longer be rehabilitated.",
+      "explanation": "Closure triggers a fixed chain: Monetary Board closure order → PDIC automatically becomes RECEIVER → takeover → liquidation. Two absolutes: PDIC is ALWAYS the receiver (no other receiver may be appointed), and a closed bank can NEVER be rehabilitated or reopened — liquidation is the only destination. Exam point: distinguish closure (MB's BSP-law act, reviewable only for arbitrariness/bad faith per Central Bank v. CA) from receivership/liquidation (PDIC's charter domain).",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [
+        "case.cb-ca-76118"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 25 (inserting RA 3591, Sec. 12)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec13ab-receiver",
+      "citation": "RA 3591, Sec. 13(a)-(c) (as inserted by RA 10846; Sec. 13(b)(3) as amended by RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "13(a)-(c)",
+      "verbatim": "SEC. 13. (a) The receiver is authorized to adopt and implement, without need of consent of the stockholders, board of directors, creditors or depositors of the closed bank, any or a combination of the following modes of liquidation:\n\n(1) Conventional liquidation; and\n\n(2) Purchase of assets and/or assumption of liabilities.\n\n(b) In addition to the powers of a receiver provided under existing laws, the Corporation, as receiver of a closed bank, is empowered to:\n\n(1) Represent and act for and on behalf of the closed bank;\n\n(2) Gather and take charge of all the assets, records and affairs of the closed bank, and administer the same for the benefit of its creditors;\n\n(3) Convert the assets of the closed bank to cash or other forms of liquid assets, as far as practicable: Provided, That the Corporation is authorized to sell assets of closed banks, which are held by the Corporation as receiver, to a Financial Institutions Strategic Transfer Corporation (FISTC), in accordance with the provisions of Republic Act No. 11523 or the \"Financial Institutions Strategic Transfer (FIST) Act.\" For this purpose, the Board of Directors shall be the appropriate regulatory authority and shall promulgate the necessary implementing rules and regulations.\n\n(4) Bring suits to enforce liabilities of the directors, officers, employees, agents of the closed bank and other entities related or connected to the closed bank or to collect, recover, and preserve all assets, including assets over which the bank has equitable interest;\n\n[...]\n\n(8) Collect loans and other claims of the closed bank and for this purpose, modify, compromise or restructure the terms and conditions of such loans or claims as may be deemed advantageous to the interests of the creditors of the closed bank;\n\n[...]\n\n(11) If the stipulated interest rate on deposits is unusually high compared with prevailing applicable interest rates, the Corporation as receiver, may exercise such powers which may include a reduction of the interest rate to a reasonable rate: Provided, That any modifications or reductions shall apply only to earned and unpaid interest;\n\n[...]\n\n(14) Distribute the available assets of the closed bank, in cash or in kind, to its creditors in accordance with the Rules on Concurrence and Preference of Credits under the Civil Code or other laws;\n\n[...]\n\n(c) After the payment of all liabilities and claims against the closed bank, the Corporation shall pay surplus, if any, dividends at the legal rate of interest from date of takeover to date of distribution to creditors and claimants of the closed bank in accordance with the Rules on Concurrence and Preference of Credits under the Civil Code or other laws before distribution to the shareholders of the closed bank.",
+      "explanation": "PDIC as receiver needs NOBODY's consent — not stockholders, directors, creditors, or depositors — to pick conventional liquidation, purchase-and-assumption, or a mix. Core powers quoted above: step into the bank's shoes, gather everything, convert assets to cash (including FISTC bulk sales of bad assets under RA 11523, added 2022), sue insiders and collect loans (with power to modify or compromise terms), cut unreasonably high deposit-interest rates (earned-but-unpaid interest only), and distribute under the Civil Code concurrence-and-preference ladder. Omitted items (5)-(7), (9)-(10), (12)-(13), (15)-(16) cover deputies and forensic investigators, 3-month utilities/salaries, private counsel, borrowing against bank assets, court-approved liquidation fees, records disposal, and residual powers. After all claims are paid, SURPLUS dividends at the legal rate run from takeover to distribution — only then do stockholders get anything.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 26 (inserting RA 3591, Sec. 13)"
+        },
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 11 (FISTC proviso in Sec. 13(b)(3))"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec13e-effects",
+      "citation": "RA 3591, Sec. 13(e) (as inserted by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "13(e)",
+      "verbatim": "(e) The placement of a bank under liquidation shall have the following effects:\n\n(1) On the corporate franchise or existence. Upon placement by the Monetary Board of a bank under liquidation, it shall continue as a body corporate until the termination of the winding-up period under Section 16 of this Act. Such continuation as a body corporate shall only be for the purpose of liquidating, settling and closing its affairs and for the disposal, conveyance or distribution of its assets pursuant to this Act. The receiver shall represent the closed bank in all cases by or against the closed bank and prosecute and defend suits by or against it. In no case shall the bank be reopened and permitted to resume banking business after being placed under liquidation.\n\n(2) On the powers and functions of its directors, officers and stockholders. The powers, voting rights, functions and duties, as well as the allowances, remuneration and perquisites of the directors, officers, and stockholders of such bank are terminated upon its closure. Accordingly, the directors, officers, and stockholders shall be barred from interfering in any way with the assets, records, and affairs of the bank.\n\n(3) On the assets. Upon service of notice of closure as provided in Section 14 of this Act, all the assets of the closed bank shall be deemed in custodia legis in the hands of the receiver, and as such, these assets may not be subject to attachment, garnishment, execution, levy or any other court processes.\n\n[...]\n\n(4) On labor relations. Notwithstanding the provisions of the Labor Code, the employer-employee relationship between the closed bank and its employees shall be deemed terminated upon service of the notice of closure of the bank in accordance with this Act. Payment of separation pay or benefits provided for by law shall be made from available assets of the bank in accordance with the Rules on Concurrence and Preference of Credits under the Civil Code or other laws.\n\n[...]\n\n(6) On interest payments. The liability of a bank to pay interest on deposits and all other obligations as of closure shall cease upon its closure by the Monetary Board without prejudice to the first paragraph of Section 85 of Republic Act No. 7653 (the New Central Bank Act).",
+      "explanation": "Liquidation freezes the bank in five quoted dimensions: (1) the bank survives as a corporation ONLY to wind up — never to reopen; (2) directors, officers, and stockholders lose all powers and pay and must not interfere; (3) assets enter custodia legis — no attachment, garnishment, execution, or levy (a judge who issues one anyway is liable); (4) all employer-employee relations end by operation of law, with separation pay ranked under concurrence-and-preference; (6) interest STOPS running at closure. Omitted effects (5), (7)-(14) cover contract repudiation, tax-penalty relief, post-closure service fees, 180-day suspension of pending actions for mediation, stay of execution of final judgments, deferred docket fees, presumptions of ownership and regularity, and COA visitorial audit. Remember: closure-date interest cut-off is why insured deposits are computed AS OF closure.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 26 (inserting RA 3591, Sec. 13)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec14-takeover",
+      "citation": "RA 3591, Sec. 14(a)-(c) (as inserted by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "14(a)-(c)",
+      "verbatim": "SEC. 14. (a) Upon the designation of the Corporation as receiver of a closed bank, it shall serve a notice of closure to the highest-ranking officer of the bank present in the bank premises, or in the absence of such officer, post the notice of closure in the bank premises or on its main entrance. The closure of the bank shall be deemed effective upon the service of the notice of closure. Thereafter, the receiver shall takeover the bank and exercise the powers of the receiver as provided in this Act.\n\n[...]\n\n(c) Directors, officers, employees or agents of a bank hold money and other assets of the bank in trust or under administration or management by them for the bank in their fiduciary capacity.\n\nUpon service of the notice of closure to the bank, all directors, officers, employees or agents of the closed bank shall have the duty to immediately account for, surrender and turn over to the receiver, and provide information relative to, the assets, records, and affairs of the closed bank in their possession, custody, administration or management.",
+      "explanation": "Takeover mechanics in two steps: SERVE the notice of closure on the highest-ranking officer present (or post it if none is around) — closure takes effect at that moment — then TAKE OVER. Bank insiders hold everything in TRUST and must immediately account for and surrender all assets, records, and affairs plus information. The omitted paragraphs let the receiver use reasonable force (including forcing premises open) and call on LGUs and law enforcement for assistance. Exam point: closure is effective upon SERVICE of notice, not upon the MB resolution date or publication.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 27 (inserting RA 3591, Sec. 14)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec16-petition-claims",
+      "citation": "RA 3591, Sec. 16(g), (l) (as inserted by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "16(g), (l)",
+      "verbatim": "(g) A petition for assistance in the liquidation is a special proceeding for the liquidation of a closed bank, and includes the declaration of the concomitant right of its creditors and the order of payment of their valid claims in the disposition of its assets.\n\nAny proceeding initiated under this section shall be considered in rem. Jurisdiction over all persons affected by the proceeding shall be considered as acquired upon publication of the order setting the case for initial hearing in any newspaper of general circulation in the Philippines.\n\n[...]\n\n(l) All persons or entities with claims against the assets of the closed bank shall file their claims with the receiver within sixty (60) days from the date of publication of the notice of closure. Claims filed outside the foregoing prescribed period shall be disallowed.\n\nClaims denied by the receiver shall be filed with the liquidation court within sixty (60) days from receipt of the final notice of denial of claim.",
+      "explanation": "The liquidation court track. PDIC files an ex parte PETITION FOR ASSISTANCE in the RTC (of the bank's or receiver's principal office, at PDIC's option) — an IN REM special proceeding, so publication of the initial-hearing order binds everyone. The liquidation court has EXCLUSIVE jurisdiction over disputed claims. Two 60-day clocks: (1) ALL claims against bank assets go to the RECEIVER within 60 days from publication of the closure notice (late = disallowed); (2) receiver-denied claims go to the LIQUIDATION COURT within 60 days from final denial notice. Do not confuse with the insurance track: insured-deposit claims follow Sec. 21 (2-year bar), and Sec. 5(g) denials go to the CA by certiorari within 30 days. Winding up: creditors and stockholders get 6 months from publication of the approved final distribution plan to claim; unclaimed assets go to the Bureau of Treasury.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 29 (inserting RA 3591, Sec. 16)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec19-payment",
+      "citation": "RA 3591, Sec. 19 (as amended by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "19",
+      "verbatim": "SEC. 19. Whenever an insured bank shall have been closed by the Monetary Board pursuant to Section 30 of Republic Act No. 7653, or upon expiration or revocation of a bank's corporate term, payment of the insured deposits on such closed bank shall be made by the Corporation as soon as possible either (1) by cash or (2) by making available to each depositor a transferred deposit in another insured bank in an amount equal to insured deposit of such depositor: Provided, however, That the Corporation, in its discretion, may require proof of claims to be filed before paying the insured deposits, and that in any case where the Corporation is not satisfied as to the validity of a claim for an insured deposit, it may require final determination of a court of competent jurisdiction before paying such claim: Provided, further, That failure to settle the claim, within six (6) months from the date of filing of claim for insured deposit, where such failure was due to grave abuse of discretion, gross negligence, bad faith, or malice, shall, upon conviction, subject the directors, officers or employees of the Corporation responsible for the delay, to imprisonment from six (6) months to one (1) year: Provided, furthermore, That the period shall not apply if the validity of the claim requires the resolution of issues of facts and or law by another office, body or agency including the case mentioned in the first proviso or by the Corporation together with such other office, body or agency.",
+      "explanation": "Payment duty and modes. PDIC pays insured deposits AS SOON AS POSSIBLE after MB closure (or corporate-term expiry/revocation) either in CASH or as a TRANSFERRED DEPOSIT in another insured bank. PDIC may require proof of claim first, and may hold out for a court's final determination when validity is doubtful. The 6-month settlement clock has teeth: delay caused by grave abuse, gross negligence, bad faith, or malice jails the responsible PDIC personnel (6 months to 1 year) — unless the claim genuinely needs another office or agency to resolve factual or legal issues. Practical point: 'as soon as possible' plus the 6-month rule is why PDIC runs payout operations immediately after takeover.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 32 (amending RA 3591, Sec. 19)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec20-subrogation",
+      "citation": "RA 3591, Sec. 20 (as amended by RA 10846)",
+      "instrument": "RA 3591",
+      "articleOrSection": "20",
+      "verbatim": "SEC. 20. The Corporation, upon payment of any depositor as provided for in Section 19 of this Act, shall be subrogated to all rights of the depositor against the closed bank to the extent of such payment. Such subrogation shall include the right on the part of the Corporation to receive the same dividends and payments from the proceeds of the assets of such closed bank and recoveries on account of stockholders' liability as would have been payable to the depositor on a claim for the insured deposits: Provided, That such depositor shall retain his or her claim for any uninsured portion of his or her deposit, which legal preference shall be the same as that of the subrogated claim of the Corporation for its payment of insured deposits. All payments by the Corporation of insured deposits in closed banks partake of the nature of public funds, and as such, must be considered a preferred credit in the order of preference under Article 2244 (9) of the New Civil Code.",
+      "explanation": "Pay and step in. The moment PDIC pays a depositor, it is SUBROGATED — it takes over that depositor's rights against the bank up to the amount paid, including dividends from asset proceeds and stockholder-liability recoveries. The depositor keeps the UNINSURED excess, and — key 2016 improvement — that excess enjoys the SAME legal preference as PDIC's subrogated claim. Because payouts are PUBLIC FUNDS, PDIC's claim is a PREFERRED CREDIT under Civil Code Article 2244(9). Worked example: Ana has P1.5M in a bank closed in 2025. PDIC pays P1M (current MDIC) and is subrogated for P1M; Ana keeps a P500,000 uninsured claim with equal preference — both share in liquidation dividends ahead of ordinary unsecured creditors.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 33 (amending RA 3591, Sec. 20)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec21-claims",
+      "citation": "RA 3591, Sec. 21(a), (b), (d), (e) (as renumbered by RA 10846; text from RA 9302)",
+      "instrument": "RA 3591",
+      "articleOrSection": "21(a), (b), (d), (e)",
+      "verbatim": "(a) The Corporation shall commence the determination of insured deposits due the depositors of a closed bank upon its actual takeover of the closed bank. The Corporation shall give notice to the depositors of the closed bank of the insured deposits due them by whatever means deemed appropriate by the Board of Directors: Provided, That the Corporation shall publish the notice once a week for at least three (3) consecutive weeks in a newspaper of general circulation or, when appropriate, in a newspaper circulated in the community or communities where the closed bank or its branches are located.\n\n(b) Payment of an insured deposit to any person by the Corporation shall discharge the Corporation, and payment of a transferred deposit to any person by the new bank or by an insured bank in which a transferred deposit has been made available shall discharge the Corporation and such new bank or other insured bank, to the same extent that payment to such person by the closed bank would have discharged it from liability for the insured deposit.\n\n[... (c) omitted: unrecorded part-owners need not be recognized if recognition would inflate aggregate insured deposits ...]\n\n(d) The Corporation may withhold payment of such portion of the insured deposit of any depositor in a closed bank as may be required to provide for the payment of any liability of such depositor as a stockholder of the closed bank, or of any liability of such depositor to the closed bank or its receiver, which is not offset against a claim due from such bank, pending the determination and payment of such liability by such depositor or any other liable therefor.\n\n(e) Unless otherwise waived by the Corporation, if the depositor in the closed bank shall fail to claim his insured deposits with the Corporation within two (2) years from actual takeover of the closed bank by the receiver, or does not enforce his claim filed with the corporation within two (2) years after the two-year period to file a claim as mentioned hereinabove, all rights of the depositor against the Corporation with respect to the insured deposit shall be barred; however, all rights of the depositor against the closed bank and its shareholders or the receivership estate to which the Corporation may have become subrogated, shall thereupon revert to the depositor. Thereafter, the Corporation shall be discharged from any liability on the insured deposit.",
+      "explanation": "The insurance-claims track, step by step. (a) Determination starts at ACTUAL TAKEOVER, and PDIC must publish notice to depositors once a week for 3 straight weeks. (b) Proper payment DISCHARGES PDIC (and the transferee bank) exactly as if the closed bank itself had paid. (d) PDIC may WITHHOLD what a depositor owes as stockholder or borrower pending determination — setoff protection for the estate. (e) The double 2-year bar: claim within 2 years from takeover, then enforce a filed claim within the next 2 years, or lose the PDIC remedy (the claim against the bank/estate itself reverts to the depositor). Trap: this 2-year insurance bar differs from the 60-day receivership-claims clock in Sec. 16(l) — different tracks, different courts.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 34 (renumbering to Sec. 21)"
+        },
+        {
+          "sourceId": "src.law.ra9302",
+          "section": "Sec. 18 (inserting Sec. 16(a); text source)"
+        },
+        {
+          "sourceId": "src.law.pdic-charter-pdf",
+          "section": "Sec. 16 (carried-over paragraphs, PDIC printing)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec22e-finassist",
+      "citation": "RA 3591, Sec. 22(e) (as amended by RA 11840; systemic-risk paragraphs retained)",
+      "instrument": "RA 3591",
+      "articleOrSection": "22(e)",
+      "verbatim": "(e) The Corporation is authorized to make loans to, or purchase the assets of, or assume liabilities of, or make deposits in:\n\n(1) A bank in danger of closing, upon its acquisition by a qualified investor; or\n\n(2) A qualified investor, upon its purchase of all assets and assumption of all liabilities of a bank in danger of closing; or\n\n(3) A surviving or consolidated institution that has merged or consolidated with a bank in danger of closing; upon such terms and conditions as the Board of Directors may prescribe, when in the opinion of the Board of Directors, such acquisition, purchase of assets, assumption of liabilities, merger or consolidation, is essential to provide adequate banking service in the community or maintain financial stability in the economy.\n\nThe Corporation may, taking into consideration the peculiar characteristics of Islamic banks, formulate rules and regulations for the extension of financial assistance under this section.\n\nThe Corporation, prior to the exercise of the powers under this section, shall determine that actual payoff and liquidation thereof will be more expensive than the exercise of this power: Provided, That when the Monetary Board has determined that there are systemic consequences of a probable failure or closure of an insured bank, the Corporation may grant financial assistance to such insured bank in such amount as may be necessary to prevent its failure or closure and/or restore the insured bank to viable operations, under such terms and condition as may be deemed necessary by the Board of Directors, subject to concurrence by the Monetary Board and without additional cost to the DIF at the time of granting the financial assistance.\n\n[...]\n\nA systemic risk refers to the possibility that failure of one bank to settle net transactions with other banks will trigger a chain reaction, depriving other banks of funds leading to a general shutdown of normal clearing and settlement activity. Systemic risk also means the likelihood of a sudden, unexpected collapse of confidence in a significant portion of the banking or financial system with potentially large real economic effects. Finally, the Corporation may not use its authority under this subsection to purchase the voting or common stock of an insured bank but it can enter into and enforce agreements that it determines to be necessary to protect its financial interests: Provided, That the financial assistance may take the form of equity or quasi-equity of the insured bank as may be deemed necessary by the Board of Directors with concurrence by the Monetary Board: Provided, further, That the Corporation shall dispose of such equity as soon as practicable.",
+      "explanation": "Financial assistance = rescue BEFORE closure. PDIC may lend to, buy assets of, assume liabilities of, or place deposits in: (1) a bank in danger of closing that a qualified investor acquires; (2) the qualified investor itself on a full P&A; or (3) the surviving entity after a merger — whenever the Board finds it essential for community banking service or financial stability. Two brakes: the LEAST-COST test (assistance must be cheaper than payoff-plus-liquidation) and the systemic track (on MB determination of systemic consequences, PDIC may fund prevention/restoration with MB concurrence and no added DIF cost at grant). The omitted rule: no buying the bank's voting/common stock — though equity or quasi-equity assistance is allowed if the Board, with MB concurrence, finds it necessary, to be disposed of as soon as practicable.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 13 (amending RA 3591, Sec. 22)"
+        },
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 39 (systemic-risk paragraphs retained)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec27-tromban",
+      "citation": "RA 3591, Sec. 27 (as renumbered by RA 10846; text from RA 9302)",
+      "instrument": "RA 3591",
+      "articleOrSection": "27",
+      "verbatim": "No court, except the Court of Appeals, shall issue any temporary restraining order, preliminary injunction or preliminary mandatory injunction against the Corporation for any action under this Act.\n\nThis prohibition shall apply in all cases, disputes or controversies instituted by a private party, the insured bank, or any shareholder of the insured bank.\n\nThe Supreme Court may issue a restraining order or injunction when the matter is of extreme urgency involving a constitutional issue, such that unless a temporary restraining order is issued, grave injustice and irreparable injury will arise. The party applying for the issuance of a restraining order or injunction shall file a bond in an amount to be fixed by the Supreme Court, which bond shall accrue in favor of the Corporation if the court should finally decide that the applicant was not entitled to the relief sought.\n\nAny restraining order or injunction issued in violation of this Section is void and of no force and effect and any judge who has issued the same shall suffer the penalty of suspension of at least sixty (60) days without pay.",
+      "explanation": "PDIC's shield against suit-based disruption. ONLY the Court of Appeals may enjoin PDIC actions under the charter — RTCs and all other courts cannot, whoever sues (depositor, bank, or shareholder). The lone exception: the Supreme Court itself, and only for extremely urgent CONSTITUTIONAL issues, with a bond favoring PDIC if the applicant loses. A void injunction exposes the issuing judge to at least 60 days suspension without pay. The Supreme Court invoked this shield in So v. PDIC and Chugani to keep deposit-insurance certiorari petitions in the CA. Remember: no TRO from the RTC against a PDIC takeover, payout, or claim denial — ever.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [
+        "case.so-pdic-230020",
+        "case.chugani-pdic-230037"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 46 (renumbering to Sec. 27)"
+        },
+        {
+          "sourceId": "src.law.pdic-charter-pdf",
+          "section": "Sec. 22 (text, PDIC printing)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec11-exam",
+      "citation": "RA 3591, Sec. 11 (as amended by RA 11840)",
+      "instrument": "RA 3591",
+      "articleOrSection": "11",
+      "verbatim": "Section 11. When there is a failure of prompt corrective action as declared by the Monetary Board due to capital deficiency, the Corporation and the Bangko Sentral ng Pilipinas may examine, inquire or look into the deposit records of a bank: Provided, That such authority may not be exercised when the failure of prompt corrective action is due to grounds other than capital deficiency. For this purpose, banks, their officers and employees are hereby mandated to disclose and report to the Corporation and the Bangko Sentral ng Pilipinas or their duly authorized officers and employees, the required deposit account information.\n\nThe Corporation and the Bangko Sentral ng Pilipinas, their duly authorized officers or employees are prohibited from disclosing information obtained under this section to any person, government official, bureau or office. Any act done pursuant to this section shall not be deemed as a violation of Republic Act No. 1405, as amended, Republic Act No. 6426, as amended, Republic Act No. 8791, and other similar laws protecting or safeguarding the secrecy or confidentiality of bank deposits. Any unauthorized disclosure of the information under this section shall be subject to the same penalty under the laws protecting the secrecy or confidentiality of bank deposits.",
+      "explanation": "The distressed-bank examination power. Once the MB declares prompt-corrective-action failure DUE TO CAPITAL DEFICIENCY (and only then — other PCA grounds do not trigger it), PDIC and BSP may look into DEPOSIT RECORDS, and bank officers must disclose the required account information. The law expressly says this is NOT a violation of the deposit-secrecy laws (RA 1405, RA 6426, RA 8791) — a statutory exception — but anyone who leaks what they learn faces the same penalties as those secrecy laws impose. The omitted last sentence preserves the MB's other lawful actions. Links to Sec. 9(Eighth), which extends the same look-through to findings of fraud or unsafe/unsound banking.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 10 (amending RA 3591, Sec. 11)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec8-sanctions",
+      "citation": "RA 3591, Sec. 8 (as amended by RA 11840; runoff paragraphs retained)",
+      "instrument": "RA 3591",
+      "articleOrSection": "8",
+      "verbatim": "Section 8. (a) Whenever upon examination by the Corporation into the condition of any insured bank, it shall be disclosed that an insured bank or its directors or agents have committed, are committing or about to commit unsafe or unsound banking, or have violated, are violating or about to violate any provisions of any law or regulation to which the insured bank is subject. The Board of Directors shall submit the report of the examination to the Monetary Board.\n\n(b) The Corporation may terminate the insured status of any bank that fails or refuses to comply, within thirty (30) days from notice, with any cease-and-desist order issued by the Bangko Sentral ng Pilipinas, pertaining to a deposit-related unsafe and/or unsound banking.\n\n[...]\n\nSuch termination shall be final and executory, and shall be effective upon publication of the notice of termination in a newspaper of general circulation.\n\nThe deposits of each depositor in the bank on the effective date of the termination of insurance coverage, less all subsequent withdrawals, shall continue to be insured up to the maximum deposit insurance coverage for a period of one hundred eighty (180) days. Additions to, or renewal of, existing deposits and new deposits in such bank after the effective date of termination of insured status of the bank shall not be insured by the Corporation.\n\nThe bank shall not advertise or represent that additions to, or renewal of, existing deposits and new deposits made after the effective date of termination are covered by deposit insurance.",
+      "explanation": "The co-regulation escalator. PDIC examines and REPORTS to the Monetary Board; the BSP issues the cease-and-desist order; if the bank defies it for 30 days on a deposit-related matter, PDIC may TERMINATE the bank's insured status. Termination is final and executory on publication — but existing depositors get a 180-DAY RUNOFF: balances as of termination day (less later withdrawals) stay insured up to the MDIC for 180 days, while new money after that date is uninsured, and the bank must not advertise otherwise (same rule restated in IRR Rule VII, Sec. 3). Note: the runoff paragraphs above are the RA 10846 Sec. 8(c) text retained through RA 11840; the online reproduction of the last sentence shows an evident typographical error ('aye' for 'are'), corrected here. Compare: termination of INSURED STATUS (bank keeps operating, uninsured) is different from closure (bank stops operating).",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 7 (amending RA 3591, Sec. 8)"
+        },
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 13 (runoff paragraphs retained)"
+        },
+        {
+          "sourceId": "src.law.ra11840-irr",
+          "section": "Rule VII, Sec. 3 (runoff restated)"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "case.pdic-ca-118917",
+      "name": "Philippine Deposit Insurance Corp. v. Court of Appeals",
+      "citation": "G.R. No. 118917, 22 December 1997 (First Division, Kapunan, J.); 347 Phil. 741",
+      "facts": "Investors placed money-market funds with Premiere Financing Corporation (PFC), then accepted 13 Regent Savings Bank (RSB) certificates of time deposit (P10,000 each) instead of encashment. The Traders Royal Bank check PFC issued to fund the CTDs (P125,846.07) bounced for insufficient funds and was never replaced, so RSB cancelled the CTDs as its liabilities. After RSB was suspended and liquidated by the Monetary Board, PDIC denied the investors' insurance claims. The RTC and CA still held PDIC liable for the CTDs' face value.",
+      "issue": "Is PDIC liable for certificates of time deposit that state they are insured by PDIC, where the issuing bank received no money for them?",
+      "ruling": "No. The Supreme Court granted PDIC's petition, reversed the CA, and absolved PDIC from any liability: the CTDs were issued without RSB receiving any money, so no deposit under the charter ever came into existence.",
+      "doctrine": "PDIC's liability for insured deposits is purely STATUTORY: it rests on the existence of a deposit (money or its equivalent RECEIVED by the bank), not on the negotiability of the certificate nor on recitals that the certificate is insured by PDIC. A holder cannot be the assignee of a deposit that was never made, and a certificate's 'insured by PDIC' print does not bind PDIC.",
+      "keyPhrase": "No deposit, no insurance.",
+      "examUse": "Use for any problem where the deposit never reached the bank (bounced funding check, unrecorded placement, manager pocketed the cash): PDIC pays only for money actually received by the bank in the usual course of business.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec5g-deposit"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pdic-ca-118917",
+          "section": "Decision (Kapunan, J.)",
+          "excerptHint": "statutory liability; no deposit"
+        }
+      ]
+    },
+    {
+      "id": "case.cb-ca-76118",
+      "name": "Central Bank of the Philippines v. Court of Appeals (Triumph Savings Bank)",
+      "citation": "G.R. No. 76118, 30 March 1993 (En Banc, Bellosillo, J.)",
+      "facts": "On Central Bank examination reports finding Triumph Savings Bank (TSB) insolvent with probable loss to depositors and creditors, the Monetary Board issued Resolution No. 596 (31 May 1985) closing TSB, forbidding it from doing business, placing it under receivership, and appointing a receiver. TSB sued in the RTC to annul the resolution for lack of prior notice and hearing and obtained orders restoring private management subject to comptrollership; the CA affirmed.",
+      "issue": "May a Monetary Board resolution placing a bank under receivership be annulled for lack of prior notice and hearing?",
+      "ruling": "No. The Supreme Court reversed the CA: prior notice and hearing are not required before closure/receivership; the MB resolution may be annulled only upon a judicial finding of arbitrariness and bad faith, and until then the bank stays under receivership.",
+      "doctrine": "CLOSE NOW, HEAR LATER: closure and receivership need no prior hearing — a valid police-power measure to stop asset dissipation and bank runs — because the bank gets subsequent judicial review. Lack of prior hearing is not itself arbitrariness or bad faith; those must be proved (as in Banco Filipino, where MB reports had no sound basis for insolvency). Decided under RA 265 Sec. 29, now RA 7653 Sec. 30.",
+      "keyPhrase": "Close now, hear later.",
+      "examUse": "Use for any closure-validity problem: no prior hearing needed; challenger must allege and prove arbitrariness and bad faith; status quo (receivership) holds pending trial.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec12-liquidation"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.cb-ca-76118",
+          "section": "Decision (Bellosillo, J.)",
+          "excerptHint": "close now hear later; Sec. 29"
+        }
+      ]
+    },
+    {
+      "id": "case.so-pdic-230020",
+      "name": "So v. Philippine Deposit Insurance Corp.",
+      "citation": "G.R. No. 230020, 19 March 2018 (First Division, Tijam, J.)",
+      "facts": "Peter So opened a P300,000 Special Incentive Savings Account with Cooperative Rural Bank of Bulacan in April 2013 and claimed deposit insurance after its closure. PDIC investigation traced his account to the proceeds of a terminated SISA mother account co-owned by the Reyes family and denied the claim as a product of SPLITTING of deposits; his reconsideration was denied in January 2016. He filed Rule 65 certiorari in the RTC, which dismissed for lack of jurisdiction while agreeing PDIC correctly denied the claim.",
+      "issue": "Does the RTC have jurisdiction over certiorari assailing PDIC's denial of a deposit insurance claim?",
+      "ruling": "No. The Supreme Court denied So's petition: PDIC is a quasi-judicial agency, so certiorari lies only with the Court of Appeals under Rule 65 Sec. 4 (and charter Sec. 5(g)/Sec. 22-then), not the RTC.",
+      "doctrine": "PDIC exercises QUASI-JUDICIAL power when it investigates facts, weighs evidence, and finally grants or denies deposit insurance claims — its actions are final and executory and reviewable only for grave abuse of discretion. Hence certiorari goes EXCLUSIVELY to the Court of Appeals (Rule 65 Sec. 4; Sec. 5(g) 30-day rule; Sec. 27 TRO ban), and splitting-derived accounts are properly denied.",
+      "keyPhrase": "PDIC is quasi-judicial; certiorari goes only to the CA.",
+      "examUse": "Use for remedy problems (where to question a PDIC denial: CA certiorari within 30 days, never RTC) and for splitting problems (mother-account tracing defeats the claim).",
+      "topicIds": [
+        "ba166.pdic.insured-deposits",
+        "ba166.pdic.powers"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec5g-deposit",
+        "prov.ra3591-sec26f-splitting",
+        "prov.ra3591-sec27-tromban"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.so-pdic-230020",
+          "section": "Decision (Tijam, J.)",
+          "excerptHint": "quasi-judicial; CA-exclusive certiorari; splitting"
+        }
+      ]
+    },
+    {
+      "id": "case.chugani-pdic-230037",
+      "name": "Sps. Chugani v. Philippine Deposit Insurance Corp.",
+      "citation": "G.R. No. 230037, 19 March 2018 (First Division, Tijam, J.)",
+      "facts": "At the invitation of the president of Rural Bank of Mawab (Davao), Inc. (RBMI), the petitioners opened time deposits through inter-branch deposits to RBMI accounts in Metrobank and China Bank and received CTDs and official receipts. After RBMI's closure, PDIC denied their claims: the accounts were not part of RBMI's outstanding deposit liabilities, the CTDs were mere replicas of unissued forms, and the money was credited to the president's PERSONAL account. The RTC dismissed their certiorari for lack of jurisdiction; the CA affirmed.",
+      "issue": "Did PDIC commit grave abuse of discretion in denying claims for time deposits evidenced by CTDs but missing from bank records?",
+      "ruling": "No. The Supreme Court denied the petition and affirmed the CA: the RTC had no jurisdiction (PDIC is quasi-judicial; CA-exclusive review), and PDIC's denial was validly grounded on facts, law, and regulations.",
+      "doctrine": "A deposit is LEGITIMATE only if (1) received by the bank in the usual course of business, (2) recorded in the bank's books, and (3) opened per BSP/PDIC forms (PDIC Regulatory Issuance No. 2011-02). Money diverted to an insider's personal account and evidenced by replica certificates is fictitious/fraudulent — no deposit, no insurance (citing PDIC v. CA). PDIC denials stand absent capricious, whimsical, arbitrary, or despotic exercise of judgment.",
+      "keyPhrase": "Legitimate deposit: received, recorded, regular.",
+      "examUse": "Use for fictitious/fraudulent-deposit problems and the three-part legitimacy test; also reinforces CA-exclusive certiorari under RA 10846 Sec. 5(g).",
+      "topicIds": [
+        "ba166.pdic.insured-deposits",
+        "ba166.pdic.powers"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec5g-deposit",
+        "prov.ra3591-sec27-tromban"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.chugani-pdic-230037",
+          "section": "Decision (Tijam, J.)",
+          "excerptHint": "legitimate-deposit test; replica CTDs"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q.pdic.policy",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.pdic.policy"
+      ],
+      "prompt": "State the State policy under Sec. 2 of the PDIC Charter and explain why deposit insurance is mandatory.",
+      "answerKey": "It is State policy to strengthen the mandatory deposit insurance system to generate, preserve, and maintain faith and confidence in the banking system and protect it from illegal schemes; the government must give PDIC all means to insure bank deposits and develop a sound, stable banking system. It is mandatory because confidence in banks is a public good — every deposit-taking bank must be insured (Sec. 6) so depositors are protected automatically, without applying or paying premiums.",
+      "explanation": "Sec. 2 has three testable limbs: mandatory system, faith-and-confidence purpose, and PDIC fiscal/administrative autonomy. Pair with Sec. 6 (duty to insure) for full-credit answers.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 2 (State Policy)"
+        },
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 5 (amending RA 3591, Sec. 6)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.pdic.mdic",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "prompt": "What is the current maximum deposit insurance coverage (MDIC), since when, and under what authority was it set?",
+      "answerKey": "P1,000,000.00 per depositor per bank, effective 15 March 2025, set by the PDIC Board of Directors through Memorandum No. 2025-01 (27 February 2025) under the Sec. 5(k) authority to raise the MDIC (indexed to inflation or other indicators, reviewed every 3 years). The P500,000 figure still printed in Sec. 5(k) is the statutory text, not the current payable maximum.",
+      "explanation": "The classic trap: textbooks printing P500,000 are outdated for closures on or after 15 March 2025. Cite Memo 2025-01 + Sec. 5(k) third paragraph; name the 3-year review and the P10,000-to-P1M ladder for context.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pdic-mdic-2025",
+          "section": "Memorandum No. 2025-01 (27 Feb 2025)"
+        },
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 4 (amending RA 3591, Sec. 5(k))"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.pdic.joint",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "prompt": "Rico holds in one bank closed in 2026: a P1.2M individual savings account and a P1.6M joint 'and/or' account with his wife Mira, who has no other account there. The deposit document stipulates equal sharing. How much insured deposit is payable to each?",
+      "answerKey": "Rico: P1M on his individual account (capped at the P1M MDIC) plus P800,000 as his half of the joint account, since joint accounts are insured separately — P1.8M total. Mira: P800,000 as her half of the joint account. The joint account's P1.6M is split equally (P800,000 each) because the document stipulates equal sharing, and each co-owner's aggregate joint-account interest stays within the P1M maximum.",
+      "explanation": "Apply Sec. 5(k): same-right-and-capacity aggregation, joint insured separately from individual, equal split absent contrary stipulation, per-co-owner joint aggregate capped at the MDIC. Note the 2026 closure uses the P1M MDIC.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 4 (amending RA 3591, Sec. 5(k))"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.pdic.exclusions",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "prompt": "Enumerate the four accounts or transactions for which PDIC shall not pay deposit insurance, and give one example of each.",
+      "answerKey": "(1) Investment products, trust accounts, and similar instruments — e.g., bonds bought through the bank's trust unit. (2) Fictitious or fraudulent accounts as PDIC determines — e.g., an account absent from bank records or funded by nothing. (3) Unsafe/unsound-banking accounts — e.g., high-rate deposits covered by a published BSP cease-and-desist directive after due process. (4) Proceeds of unlawful activity under RA 9160 — e.g., deposits finally adjudged as money-laundering proceeds.",
+      "explanation": "Sec. 5(g) exclusions; deepen with IRR Rule III Sec. 3 (investment indicators, fictitious vs fraudulent, AML deferral pending final judgment). PDIC's exclusion rulings are final and executory, CA certiorari within 30 days.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+        },
+        {
+          "sourceId": "src.law.ra11840-irr",
+          "section": "Rule III, Sec. 3"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.pdic.splitting",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "prompt": "Define splitting of deposits and state its requisites and consequences.",
+      "answerKey": "Splitting is breaking an account above the maximum into 2+ accounts in the names of persons/entities with no beneficial ownership, within 120 days before a bank-declared holiday or an MB closure order, to avail of maximum coverage. Requisites: over-maximum source balance; break-up into 2+ accounts; transferees without beneficial ownership; inside the 120-day window; coverage-maximizing purpose. Consequences: denial of the split claims (So v. PDIC) plus criminal liability of bank directors/officers/employees/agents (6-12 years and/or P50,000-P10M fine).",
+      "explanation": "Sec. 26(f)(1)(e); the 120-day window comes from RA 9576 (the old 30-day figure is obsolete). Pair with So v. PDIC's mother-account tracing for application answers.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 44 (amending RA 3591, Sec. 26(f))"
+        },
+        {
+          "sourceId": "src.law.so-pdic-230020",
+          "section": "Decision (Tijam, J.)",
+          "excerptHint": "mother-account splitting"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.pdic.subrogation",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "prompt": "A bank closed in 2025 owes Lena P2.5M in deposits. PDIC pays her the maximum. What rights does PDIC acquire, what does Lena keep, and how are both ranked in liquidation?",
+      "answerKey": "PDIC is subrogated to Lena's rights up to P1M (the amount paid), including dividends from asset proceeds and stockholder-liability recoveries. Lena keeps her P1.5M uninsured excess with the SAME legal preference as PDIC's subrogated claim. Both are preferred credits: PDIC's payout, being public funds, ranks under Civil Code Article 2244(9), and Lena's excess shares that preference.",
+      "explanation": "Sec. 20: subrogation to extent of payment + equal preference for the uninsured excess (2016 innovation) + Art. 2244(9) preferred-credit status for public-fund payouts. Use the P1M MDIC for 2025 closures.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 33 (amending RA 3591, Sec. 20)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.pdic.irac-fictitious",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "prompt": "Dindo holds a P900,000 certificate of time deposit that states it is 'insured by PDIC.' After the bank's closure in 2026, PDIC denies his claim: the CTD serial number matches an unissued form in the bank's inventory, his name does not appear in the bank's deposit records, and the money was traced to the branch manager's personal account. Dindo sues in the RTC to compel payment, arguing the certificate's PDIC-insured recital binds PDIC. Rule on the claim and the remedy.",
+      "answerKey": "The claim fails and the RTC suit is dismissible. No deposit ever came into existence — the funds never reached the bank (diverted to the manager) and the CTD is a replica — so there is nothing to insure under Sec. 5(g) (PDIC v. CA; Chugani). The 'insured by PDIC' recital does not bind PDIC. The proper remedy was a verified reconsideration within 60 days and/or certiorari to the CA within 30 days from denial; the RTC has no jurisdiction over PDIC claim denials and cannot enjoin PDIC (Sec. 27).",
+      "hints": {
+        "issue": "Whether a replica CTD missing from bank records entitles the holder to deposit insurance, and whether the RTC can compel PDIC to pay.",
+        "rule": "Sec. 5(g) deposit definition and fictitious/fraudulent exclusion; PDIC v. CA (statutory liability, recitals immaterial); Chugani (legitimate-deposit test: received, recorded, regular); Sec. 5(g) finality + CA-exclusive certiorari in 30 days; Sec. 27 TRO ban; IRR 60-day reconsideration.",
+        "application": "No money received by the bank + name absent from records + replica form = fictitious/fraudulent; compare Chugani's facts point by point; recital argument answered by PDIC v. CA; RTC filing answered by So/Chugani jurisdiction rule.",
+        "conclusion": "Denial proper; RTC petition dismissible for lack of jurisdiction; only CA certiorari (30 days) or 60-day reconsideration on new evidence."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+        },
+        {
+          "sourceId": "src.law.pdic-ca-118917",
+          "section": "Decision (Kapunan, J.)"
+        },
+        {
+          "sourceId": "src.law.chugani-pdic-230037",
+          "section": "Decision (Tijam, J.)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.pdic.irac-closure",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "prompt": "On BSP examination findings of insolvency, the Monetary Board orders Bank X closed without prior notice or hearing and PDIC takes over as receiver. Bank X's stockholders sue in the RTC to annul the closure for denial of due process and to enjoin PDIC's takeover. Decide.",
+      "answerKey": "The suit fails on both fronts. Closure needs no prior notice or hearing under the close-now-hear-later doctrine (Central Bank v. CA); the resolution is annullable only for arbitrariness and bad faith, which must be alleged and proved — mere lack of hearing is not arbitrariness. PDIC is the statutory receiver (Sec. 12) and no court except the CA may enjoin its takeover (Sec. 27), so the RTC injunction plea is void.",
+      "hints": {
+        "issue": "Whether lack of prior hearing voids an MB closure and whether the RTC may stop PDIC's receivership.",
+        "rule": "Central Bank v. CA (close now, hear later; police power; annulment only for arbitrariness/bad faith); RA 3591 Sec. 12 (PDIC as receiver; no rehabilitation); Sec. 27 (CA-exclusive injunctions; void RTC orders; judge penalty).",
+        "application": "Insolvency finding + MB resolution = regular closure; no bad-faith facts pleaded, only the settled hearing argument; receivership continues pendente lite; RTC TRO plea hits the Sec. 27 ban.",
+        "conclusion": "Closure stands absent proved arbitrariness/bad faith; bank stays under PDIC receivership toward liquidation."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.cb-ca-76118",
+          "section": "Decision (Bellosillo, J.)"
+        },
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 25 (inserting RA 3591, Sec. 12)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc.pdic.01",
+      "kind": "term",
+      "front": "What is PDIC and when was it created?",
+      "back": "The Philippine Deposit Insurance Corporation, a government instrumentality created by RA 3591 (approved 22 June 1963) to insure bank deposits, protect depositors, and help keep the banking system sound and stable. Attached to BSP for policy coordination; enjoys fiscal and administrative autonomy.",
+      "topicIds": [
+        "ba166.pdic.policy"
+      ],
+      "tags": [
+        "creation",
+        "overview"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 1 (amending RA 3591, Sec. 1)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.02",
+      "kind": "provision",
+      "front": "What is the CURRENT maximum deposit insurance coverage (MDIC)?",
+      "back": "P1,000,000.00 per depositor per bank, effective 15 March 2025 (PDIC Memorandum No. 2025-01, 27 Feb 2025, under Sec. 5(k) Board authority). P500,000 is outdated for closures on or after that date.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "tags": [
+        "mdic",
+        "current-figure"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pdic-mdic-2025",
+          "section": "Memorandum No. 2025-01 (27 Feb 2025)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.03",
+      "kind": "provision",
+      "front": "Who may raise the MDIC and how often is it reviewed?",
+      "back": "The PDIC Board of Directors (Sec. 5(k), RA 11840): raise to an inflation-indexed amount or on other economic indicators; review every 3 years. Emergency systemic-threat cover needs unanimous Board vote chaired by the BSP Governor + Presidential approval.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "tags": [
+        "mdic",
+        "board-power"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 4 (amending RA 3591, Sec. 5(k))"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.04",
+      "kind": "term",
+      "front": "What makes a 'deposit' under Sec. 5(g)?",
+      "back": "The unpaid balance of money or its equivalent RECEIVED by a bank in the usual course of business, credited to a commercial/checking/savings/time/thrift account and evidenced per BSP rules. No receipt by the bank = no deposit = no insurance. Offshore-payable obligations excluded (opt-in possible for PH-bank foreign branches).",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "tags": [
+        "deposit",
+        "definition"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.05",
+      "kind": "comparison",
+      "front": "Insured vs excluded: name the 4 accounts PDIC will NOT pay.",
+      "back": "(1) Investments/trust accounts/similar; (2) fictitious or fraudulent accounts; (3) unsafe/unsound-banking accounts (after due process + published BSP directive); (4) RA 9160 unlawful-activity proceeds. Mnemonic: Investments, Fakes, Unsafe, Laundered.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "tags": [
+        "exclusions",
+        "comparison"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.06",
+      "kind": "doctrine",
+      "front": "PDIC v. CA (G.R. No. 118917): the bounced-check CTDs doctrine?",
+      "back": "No deposit, no insurance. PDIC liability is statutory — it needs money actually received by the bank. Certificate negotiability and 'insured by PDIC' recitals are immaterial and do not bind PDIC.",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "tags": [
+        "doctrine",
+        "case"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pdic-ca-118917",
+          "section": "Decision (Kapunan, J.)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.07",
+      "kind": "doctrine",
+      "front": "Central Bank v. CA (G.R. No. 76118): the closure doctrine?",
+      "back": "Close now, hear later. No prior notice/hearing needed before MB closure/receivership (police power); the resolution is annullable only for arbitrariness and bad faith, which must be proved; the bank stays under receivership meanwhile.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "tags": [
+        "doctrine",
+        "closure",
+        "case"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.cb-ca-76118",
+          "section": "Decision (Bellosillo, J.)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.08",
+      "kind": "provision",
+      "front": "What is splitting of deposits and its look-back window?",
+      "back": "Breaking an over-maximum account into 2+ accounts of non-owners within 120 DAYS before a bank holiday or MB closure order to multiply coverage. Effect: claims denied + bank insiders face 6-12 years and/or P50,000-P10M fine (Sec. 26(f)).",
+      "topicIds": [
+        "ba166.pdic.insured-deposits"
+      ],
+      "tags": [
+        "splitting",
+        "penalty"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 44 (amending RA 3591, Sec. 26(f))"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.09",
+      "kind": "qa",
+      "front": "Claim-deadline ladder: 30 days, 60 days, 2 years — which is which?",
+      "back": "30 DAYS: CA certiorari vs PDIC Sec. 5(g) denial (from denial notice). 60 DAYS: claims with the receiver from closure-notice publication (Sec. 16(l)); receiver-denied claims to liquidation court (60 days); verified reconsideration of insurance denial (60 days, IRR). 2 YEARS: claim insured deposits from takeover + 2 more years to enforce (Sec. 21(e)), or the PDIC remedy is barred.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "tags": [
+        "deadlines",
+        "claims",
+        "remedies"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 29 (inserting RA 3591, Sec. 16)"
+        },
+        {
+          "sourceId": "src.law.ra9302",
+          "section": "Sec. 18 (claims text source)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.10",
+      "kind": "provision",
+      "front": "PDIC pays a depositor — what is PDIC subrogated to, and how is it ranked?",
+      "back": "Subrogated to ALL the depositor's rights vs the closed bank up to the amount paid (dividends, stockholder-liability recoveries). The depositor keeps the uninsured excess with the SAME preference. Payouts are public funds = preferred credit under Civil Code Art. 2244(9). (Sec. 20.)",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "tags": [
+        "subrogation",
+        "preference"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 33 (amending RA 3591, Sec. 20)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.11",
+      "kind": "term",
+      "front": "Who is the receiver of a closed bank, and can the bank be rehabilitated?",
+      "back": "PDIC is ALWAYS the receiver upon MB closure (Sec. 12) — no other receiver. A closed bank can NEVER be rehabilitated or reopened; it survives as a corporation only to wind up (Secs. 12-13).",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "tags": [
+        "receiver",
+        "liquidation"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 25 (inserting RA 3591, Sec. 12)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.pdic.12",
+      "kind": "qa",
+      "front": "How does PDIC pay insured deposits, and who can stop it by injunction?",
+      "back": "As soon as possible, in CASH or as a TRANSFERRED DEPOSIT in another insured bank (Sec. 19). Almost no one can stop it: only the CA may issue TRO/injunction vs PDIC charter actions (Sec. 27); RTC orders are void and expose the judge to 60+ days suspension; only the SC may act in extremely urgent constitutional cases with bond.",
+      "topicIds": [
+        "ba166.pdic.powers"
+      ],
+      "tags": [
+        "payment",
+        "injunction"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 32 (amending RA 3591, Sec. 19)"
+        },
+        {
+          "sourceId": "src.law.ra10846",
+          "section": "Sec. 46 (renumbering to Sec. 27)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    }
+  ],
+  "coverage": [
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 1 (creation, basic policy, BSP attachment)",
+      "locator": "prov.ra3591-sec1-creation",
+      "lessonId": "les.pdic.policy"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 2 (State policy, autonomy)",
+      "locator": "prov.ra3591-sec2-policy",
+      "lessonId": "les.pdic.policy"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 3(a) (7-member Board + quorum of 4)",
+      "locator": "prov.ra3591-sec3-board",
+      "lessonId": "les.pdic.policy"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 6 (duty to insure; Islamic windows; risk evaluation)",
+      "locator": "prov.ra3591-sec6-coverage",
+      "lessonId": "les.pdic.policy",
+      "note": "Also referenced from les.pdic.powers (distressed-bank evaluation)."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 7(a) (assessment rate cap, P5,000 floor, MDIC-linked adjustment)",
+      "locator": "prov.ra3591-sec7a-assessment",
+      "lessonId": "les.pdic.policy"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 9 (Eighth examination, Ninth receiver, Fourteenth liquidation mode)",
+      "locator": "prov.ra3591-sec9-powers",
+      "lessonId": "les.pdic.policy",
+      "note": "Also referenced from les.pdic.powers. Housekeeping powers (seal, contracts, personnel, by-laws, compromise) summarized, not quoted."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 5(g) (deposit definition, 4 exclusions, CA-exclusive review)",
+      "locator": "prov.ra3591-sec5g-deposit",
+      "lessonId": "les.pdic.insured-deposits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 5(k) (insured deposit, aggregation, joint accounts, Board MDIC authority)",
+      "locator": "prov.ra3591-sec5k-insured-deposit",
+      "lessonId": "les.pdic.insured-deposits",
+      "note": "Statutory text prints P500,000; current payable maximum is P1M per Memo 2025-01 — reconciled in lesson and explanations."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "PDIC Memorandum No. 2025-01 (P1M MDIC eff. 15 March 2025; decal/statement duties)",
+      "locator": "prov.pdic-memo2025-mdic",
+      "lessonId": "les.pdic.insured-deposits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11840 IRR, Rule III, Sec. 3(b) (fictitious vs fraudulent)",
+      "locator": "prov.ra11840-irr-fictitious",
+      "lessonId": "les.pdic.insured-deposits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11840 IRR, Rule III, Sec. 3(a), (d) (investment indicators; AML deferral; 60-day reconsideration)",
+      "locator": "prov.ra11840-irr-investment-aml",
+      "lessonId": "les.pdic.insured-deposits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 26(f)(1)(e) (splitting definition; 120-day window; penalties)",
+      "locator": "prov.ra3591-sec26f-splitting",
+      "lessonId": "les.pdic.insured-deposits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 12(a) (PDIC as receiver; no rehabilitation)",
+      "locator": "prov.ra3591-sec12-liquidation",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 13(a)-(c) (liquidation modes; receiver powers; FISTC sales; surplus dividends)",
+      "locator": "prov.ra3591-sec13ab-receiver",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 13(e) (effects of liquidation: franchise, insiders, custodia legis, labor, interest)",
+      "locator": "prov.ra3591-sec13e-effects",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 14(a), (c) (notice of closure; takeover; insider turnover duties)",
+      "locator": "prov.ra3591-sec14-takeover",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 16(g), (l) (petition for assistance; 60-day claims clocks)",
+      "locator": "prov.ra3591-sec16-petition-claims",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 19 (payment modes; proof of claim; 6-month rule)",
+      "locator": "prov.ra3591-sec19-payment",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 20 (subrogation; equal preference; Art. 2244(9))",
+      "locator": "prov.ra3591-sec20-subrogation",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 21(a), (b), (d), (e) (determination, notice, discharge, withholding, 2-year bar)",
+      "locator": "prov.ra3591-sec21-claims",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 22(e) (financial assistance; least-cost test; systemic track)",
+      "locator": "prov.ra3591-sec22e-finassist",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 27 (CA-exclusive injunctions; SC exception; void orders)",
+      "locator": "prov.ra3591-sec27-tromban",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 11 (deposit-records examination on failed PCA)",
+      "locator": "prov.ra3591-sec11-exam",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 8 (MB reporting; termination of insured status; 180-day runoff)",
+      "locator": "prov.ra3591-sec8-sanctions",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "PDIC v. CA, G.R. No. 118917 (no deposit, no insurance)",
+      "locator": "case.pdic-ca-118917",
+      "lessonId": "les.pdic.insured-deposits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Central Bank v. CA, G.R. No. 76118 (close now, hear later)",
+      "locator": "case.cb-ca-76118",
+      "lessonId": "les.pdic.powers"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "So v. PDIC, G.R. No. 230020 (quasi-judicial; splitting; CA-exclusive certiorari)",
+      "locator": "case.so-pdic-230020",
+      "lessonId": "les.pdic.insured-deposits",
+      "note": "Remedy holding also taught in les.pdic.powers."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Sps. Chugani v. PDIC, G.R. No. 230037 (replica CTDs; legitimate-deposit test)",
+      "locator": "case.chugani-pdic-230037",
+      "lessonId": "les.pdic.insured-deposits",
+      "note": "Remedy holding also taught in les.pdic.powers."
+    },
+    {
+      "status": "partial",
+      "sourceSection": "RA 3591, Sec. 4 (President: powers and duties)",
+      "locator": "les.pdic.policy",
+      "lessonId": "les.pdic.policy",
+      "note": "Internal-governance provision (agenda, execution, representation); summarized in one lesson line, not converted to a provision — outside syllabus scope (policy/creation/powers/duty) and low exam yield."
+    },
+    {
+      "status": "partial",
+      "sourceSection": "RA 3591, Sec. 5 definitions (a)-(f), (h)-(j), (l)-(bb) other than (g), (k)",
+      "locator": "les.pdic.insured-deposits",
+      "lessonId": "les.pdic.insured-deposits",
+      "note": "Only (g) deposit and (k) insured deposit converted in full; operative definitions (closed bank, receiver, liquidation, payout, P&A, valid claim) used inline in lessons. Islamic/takaful and FISTC definitions mentioned in context."
+    },
+    {
+      "status": "partial",
+      "sourceSection": "RA 3591, Sec. 7(b)-(i) (assessment procedure, special assessment) and Secs. 17-18, 23-25 (funds, dividends, borrowing, bonds, reports)",
+      "locator": "les.pdic.policy",
+      "lessonId": "les.pdic.policy",
+      "note": "Institutional-finance machinery outside the syllabus scope; Sec. 7(a) rate rule converted, the rest summarized in one lesson line."
+    },
+    {
+      "status": "partial",
+      "sourceSection": "RA 3591, Sec. 10 (examiners, claim agents, investigator powers, personnel prohibitions, legal protection)",
+      "locator": "les.pdic.powers",
+      "lessonId": "les.pdic.powers",
+      "note": "Examiners/claim-agent powers summarized inline in the examination block; personnel and indemnity rules not converted — outside syllabus scope."
+    },
+    {
+      "status": "partial",
+      "sourceSection": "RA 3591, Sec. 15 (P&A mechanics) and Sec. 16(a)-(f), (h)-(k), (m)-(t) (asset conversion detail, petition venue, winding-up detail)",
+      "locator": "les.pdic.powers",
+      "lessonId": "les.pdic.powers",
+      "note": "Core rules converted via Secs. 13(a), 16(g), 16(l); granular asset-management and winding-up mechanics summarized in lesson prose."
+    },
+    {
+      "status": "partial",
+      "sourceSection": "RA 3591, Sec. 26(a)-(e), (g)-(i) (signage, dividends bar, merger consent, bonding, interest, admin fines, depositor/officer penalties)",
+      "locator": "les.pdic.powers",
+      "lessonId": "les.pdic.powers",
+      "note": "Only Sec. 26(f)(1)(e) splitting converted in full (syllabus-adjacent); remaining sanctions summarized in one lesson line with the fictitious-claim penalty (10-12 years) flagged."
+    },
+    {
+      "status": "unconverted",
+      "sourceSection": "PDIC Regulatory Issuance No. 2011-02 (legitimate-deposit rules) and No. 2009-03 (transfer/beneficial ownership)",
+      "locator": "case.chugani-pdic-230037",
+      "lessonId": "les.pdic.insured-deposits",
+      "note": "Cited through the Supreme Court's own quotation in Chugani (3-part legitimacy test); full issuances not retrieved from PDIC — flagged for a follow-up fragment if the course requires the transfer-of-deposit rules."
+    },
+    {
+      "status": "unconverted",
+      "sourceSection": "RA 3591, Secs. 28-30 (Bulk Sales exemption, transitory, nomenclature) and RA 10846 Secs. 50-51, 54 (reorganization, effectivity)",
+      "locator": "—",
+      "lessonId": "—",
+      "note": "Non-doctrinal tail provisions; no lesson impact. P&A Bulk Sales exemption (Sec. 28) mentioned inline in the P&A block."
+    }
+  ]
+}

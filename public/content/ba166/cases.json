@@ -922,5 +922,570 @@
     "topicIds": [
       "ba166.ip.copyright"
     ]
+  },
+  {
+    "id": "case.penaranda-baganga-159577",
+    "citation": "G.R. No. 159577, 3 May 2006, First Division (Panganiban, C.J.)",
+    "facts": "Petitioner, hired as a shift engineer/foreman at respondent's plywood plant (1975-1999), claimed overtime pay plus premium pay for rest days and special holidays. The company countered he was a managerial employee: he supervised the boiler section, oversaw 19-36 workers, and recommended personnel actions on approved forms.",
+    "issue": "Was petitioner a managerial employee exempt from Title I (hours of work) labor standards, and hence unentitled to overtime and premium pay?",
+    "ruling": "No as a MANAGERIAL EMPLOYEE, yes as exempt. The Court held petitioner did not meet all three Rule I Sec. 2(b) tests (he was never an employer/department manager whose primary duty was management; he reported to the plant manager). But he squarely met the Rule I Sec. 2(c) MANAGERIAL STAFF test (management-related work, discretion and independent judgment, supervision of shifts/sections, within the 20% cap). Either exemption removes the worker from Title I coverage — petition denied, no OT or premium pay due, though SIL pay stood unappealed.",
+    "doctrine": "Exemption from Title I labor standards turns on actual duties under Rule I Sec. 2, not job titles: failure of the managerial-employee test (Sec. 2(b)) does not save the claim if the worker qualifies as a member of the managerial staff (Sec. 2(c)).",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "provisionIds": [
+      "prov.lc-art82-coverage",
+      "prov.rule1-sec2-exemptions",
+      "prov.lc-art87-overtime",
+      "prov.lc-art93-restday-pay"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.penaranda-159577",
+        "section": "Decision"
+      }
+    ],
+    "name": "Penaranda v. Baganga Plywood Corp."
+  },
+  {
+    "id": "case.david-macasio-195466",
+    "citation": "G.R. No. 195466, 2 July 2014, Second Division (Brion, J.)",
+    "facts": "Petitioner worked as a butcher (slaughterer) paid P40-50 per pig on pakyaw (task) basis. He filed money claims for holiday pay, SIL pay, and 13th-month pay; the employer denied an employment relationship, invoking the 'no employer-employee relationship for pakyaw workers' line.",
+    "issue": "Is a pakyaw (task-basis) worker an employee entitled to holiday pay, service incentive leave pay, and 13th-month pay?",
+    "ruling": "Yes to employment, holiday pay, and SIL — no to 13th-month pay. Pakyaw is a mode of payment (Art. 97/101), not proof of independence; control (supervision, fixed rules, regular reporting at the workplace) established employment under the four-fold test. Rules I, IV, V task-basis phrases are read with 'field personnel' (ejusdem generis; Serrano, Auto Bus, Cebu Institute) — petitioner's on-premises work with determinable hours was not field personnel, so holiday and SIL pay were due (burden of proof on the employer, unmet). 13th-month pay was denied: PD 851 Sec. 3(e) exempts task-basis workers WITHOUT a field-personnel qualifier. No 'independent contractor' finding was made.",
+    "doctrine": "(1) Pakyaw/task pay neither negates employment nor, without field-personnel status, defeats holiday and SIL pay — task-basis phrases in the Rules are construed with 'field personnel' by ejusdem generis; (2) the PD 851 task-basis exemption from 13th-month pay is absolute and admits no field-personnel qualification.",
+    "topicIds": [
+      "ba166.labor.conditions",
+      "ba166.labor.wages",
+      "ba166.labor.leaves"
+    ],
+    "provisionIds": [
+      "prov.lc-art82-coverage",
+      "prov.lc-art94-holiday-pay",
+      "prov.lc-art95-sil",
+      "prov.lc-art97f-wage",
+      "prov.lc-art101-payment-results",
+      "prov.rev13th-guidelines"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.david-macasio-195466",
+        "section": "Decision"
+      }
+    ],
+    "name": "David v. Macasio"
+  },
+  {
+    "id": "case.autobus-bautista-156367",
+    "citation": "G.R. No. 156367, 16 May 2005, Second Division (Chico-Nazario, J.)",
+    "facts": "Respondent, a driver-conductor paid 7% commission of gross bus revenue per trip (plus a fixed amount per bus, with some guaranteed allowance), claimed SIL pay for 3 years after separation. The company argued commission-basis drivers are not entitled to SIL.",
+    "issue": "Is a commission-basis driver-conductor 'field personnel' (or otherwise excluded) and hence unentitled to service incentive leave pay?",
+    "ruling": "No — SIL pay due. The driver was not field personnel: inspectors, dispatchers, depot assignments, and prescribed schedules proved supervision, with determinable hours (BWC advisory opinion quoted). Rule V Sec. 1(d)'s 'task or contract basis, purely commission basis' phrase is read with 'field personnel' (ejusdem generis); a supervised commission worker is covered. Three years of SIL were commuted to cash. (The Court also stated the SIL prescription rule — Art. 291 runs from demand/refusal — and left intact the deletion of the 13th-month award for purely-commission work.)",
+    "doctrine": "(1) Non-field-personnel status — supervision plus determinable hours — keeps commission-basis workers inside SIL coverage; task/commission phrases in Rule V Sec. 1(d) are construed with 'field personnel' (ejusdem generis); (2) SIL non-use commutes to cash, including on separation.",
+    "topicIds": [
+      "ba166.labor.conditions",
+      "ba166.labor.leaves"
+    ],
+    "provisionIds": [
+      "prov.lc-art82-coverage",
+      "prov.lc-art95-sil",
+      "prov.rule5-sil"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.autobus-156367",
+        "section": "Decision"
+      }
+    ],
+    "name": "Auto Bus Transport Systems, Inc. v. Bautista"
+  },
+  {
+    "id": "case.boie-takeda-92174",
+    "citation": "G.R. Nos. 92174 and 102552, 10 December 1993, Second Division (Narvasa, C.J.)",
+    "facts": "Routine DOLE inspections of Boie-Takeda (medical representatives on fixed salary + commission) and Fuji Xerox (salesmen on fixed salary + commission) yielded deficiency findings for excluding commissions from 13th-month pay, affirmed by the Secretary under Revised Guidelines item 5(a) (fixed wage + commission computed on total earnings). Both employers went to the Supreme Court.",
+    "issue": "Are commissions part of 'basic salary' for 13th-month pay computation, and is Revised Guidelines item 5(a)'s second paragraph valid?",
+    "ruling": "No and void. Commissions are excluded from 13th-month 'basic salary': PD 851 and its 1975 Rules define basic salary to exclude earnings not integrated as part of the regular/basic salary, and the Guidelines themselves exclude 'earnings and other monetary benefits which are not part of or integrated into the regular salary.' The Court distinguished Songco (commissions are 'salary' GENERICALLY for separation-pay purposes) from 'basic salary' here, and declared item 5(a)'s second paragraph VOID for unduly expanding PD 851 beyond its letter and spirit. Inspection deficiencies were set aside.",
+    "doctrine": "Commissions, though 'salary' in the generic Art. 97(f)/Songco sense, are NOT part of 'basic salary' for 13th-month pay; an implementing rule that folds them into the 13th-month base is void for exceeding the decree.",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "provisionIds": [
+      "prov.lc-art97f-wage",
+      "prov.lc-art101-payment-results",
+      "prov.pd851-13th-decree",
+      "prov.rev13th-guidelines",
+      "prov.lc-art128-visitorial"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.boie-takeda-92174",
+        "section": "Decision"
+      }
+    ],
+    "name": "Boie-Takeda Chemicals, Inc. v. Dela Serna (with Phil. Fuji Xerox v. Dela Serna)"
+  },
+  {
+    "id": "case.arco-metal-170734",
+    "citation": "G.R. No. 170734, 14 May 2008, Second Division (Tinga, J.)",
+    "facts": "Seven company employees with under 12 months of service received full 13th-month pay, CBA-signing bonuses, service awards, and 1993-94 leave encashment identical to full-year employees (1992-2003 CBA). For 2003-2005 the company prorated these for short-service employees, calling the prior full payment an 'honest mistake' supported by a bare affidavit. The union grieved; voluntary arbitrators ordered restoration, affirmed by the CA.",
+    "issue": "Did full payment of 13th-month/bonus/leave benefits to short-service employees ripen into non-diminishable company practice under Art. 100?",
+    "ruling": "Yes — affirmed. CBA interpretation was settled by the arbitrators' finding (union's construction adopted). On practice: the company failed its burden (Art. 113(c)-style payroll proof absent); the 'mistake' defense collapsed on a bare affidavit without corroborating lapses in payroll procedure; and consistent voluntary grants over the CBA period ripened into practice — no fixed minimum number of years is required (2-, 3-, and 6-year precedents cited). Proration was ordered withdrawn.",
+    "doctrine": "(1) Voluntary, consistent benefit grants ripen into company practice protected by Art. 100 — no fixed minimum duration is required; (2) the employer bears the burden of proving payment according to law, and a 'mistake' defense needs corroboration beyond a bare affidavit.",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "provisionIds": [
+      "prov.lc-art100-nondiminution",
+      "prov.lc-art97f-wage",
+      "prov.pd851-13th-decree",
+      "prov.rev13th-guidelines"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.arco-metal-170734",
+        "section": "Decision"
+      }
+    ],
+    "name": "Arco Metal Products Co., Inc. v. SAMARM-NAFLU"
+  },
+  {
+    "id": "case.mabeza-nlrc-118506",
+    "citation": "G.R. No. 118506, 18 April 1997, First Division (Kapunan, J.)",
+    "facts": "Petitioners, hotel workers at La Campana, Cotabato City, discovered on inspection that their wages fell below minimum; the employer defended by valuing on-premises meals and lodging as deductible 'facilities.' The Labor Arbiter and NLRC credited the defense based on an accountant's certification and after-the-fact summaries.",
+    "issue": "May an employer deduct meals-and-lodging values from wages as 'facilities' without proof, and when are such benefits supplements instead?",
+    "ruling": "No — remanded for minimum-wage differentials. Facilities (Art. 97(f)) are deductible only on three conditions: (1) proof they are customarily furnished by the trade; (2) voluntary written acceptance by the employees; (3) fair and reasonable value. None was shown: the certification was self-serving, no payrolls/receipts supported it, values were not cost-based, and no real choice existed. Moreover the benefits were SUPPLEMENTS, not facilities — required residence/odd-hour availability served the employer's convenience (citing States Marine v. Cebu Seamen's, 7 SCRA 294: the purpose test).",
+    "doctrine": "(1) Facilities are deductible from wages only upon: trade-custom proof + voluntary written acceptance + fair reasonable value; (2) facilities vs supplements turns on PURPOSE — benefits furnished for the employer's convenience are non-deductible supplements.",
+    "topicIds": [
+      "ba166.labor.wages",
+      "ba166.labor.conditions"
+    ],
+    "provisionIds": [
+      "prov.lc-art97f-wage",
+      "prov.lc-art90-computation",
+      "prov.lc-art113-deduction",
+      "prov.rulex-sec13-false-reporting"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.mabeza-118506",
+        "section": "Decision"
+      }
+    ],
+    "name": "Mabeza v. NLRC"
+  },
+  {
+    "id": "case.prubankers-131247",
+    "citation": "G.R. No. 131247, 25 January 1999, Third Division (Panganiban, J.)",
+    "facts": "The union claimed wage distortion because RA 6727's P25 increase and Cebu RTWPB WO-VI-02 raised Pay Classes 1-2 (Subic and Cebu) near or above Pay Class 3 (Cebu), while Cebu Pay Class 4 earners ended below Subic Pay Class 5 earners — invoking Art. 124 and the equal-pay principle.",
+    "issue": "Does regional implementation of wage orders create Art. 124 wage distortion, and do inter-regional pay inversions violate equal pay?",
+    "ruling": "No to both. Wage distortion has four elements: (1) an existing hierarchy of positions with corresponding salary rates; (2) a significant change in the salary rate of a lower pay class without a concomitant increase in higher classes; (3) elimination of the distinction embodied in the structure; (4) the same region. The petition failed element 2 as to differentials and element 4 throughout: 'establishment' (NWPC Guideline 1-1992) is a single fixed location, and RA 6727 deliberately differentiates by region — inter-regional disparity (higher-ranked Subic earners below lower-ranked Cebu earners) is the law's design under Arts. 99/122, not distortion and not an equal-pay violation.",
+    "doctrine": "(1) Wage distortion requires four elements (hierarchy; lower-level jump without higher-level match; elimination of distinction; SAME region/establishment); (2) regional wage-order implementation does not itself create distortion, and inter-regional pay disparity is RA 6727's design, not an equal-pay violation.",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "provisionIds": [
+      "prov.const-xiii-3-wages",
+      "prov.lc-art99-minimum-wage",
+      "prov.lc-art122-rtwpb",
+      "prov.lc-art124-distortion",
+      "prov.lc-art133a-equal-pay"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.prubankers-131247",
+        "section": "Decision"
+      }
+    ],
+    "name": "Prubankers Association v. Prudential Bank and Trust Co."
+  },
+  {
+    "id": "case.pdic-ca-118917",
+    "name": "Philippine Deposit Insurance Corp. v. Court of Appeals",
+    "citation": "G.R. No. 118917, 22 December 1997 (First Division, Kapunan, J.); 347 Phil. 741",
+    "facts": "Investors placed money-market funds with Premiere Financing Corporation (PFC), then accepted 13 Regent Savings Bank (RSB) certificates of time deposit (P10,000 each) instead of encashment. The Traders Royal Bank check PFC issued to fund the CTDs (P125,846.07) bounced for insufficient funds and was never replaced, so RSB cancelled the CTDs as its liabilities. After RSB was suspended and liquidated by the Monetary Board, PDIC denied the investors' insurance claims. The RTC and CA still held PDIC liable for the CTDs' face value.",
+    "issue": "Is PDIC liable for certificates of time deposit that state they are insured by PDIC, where the issuing bank received no money for them?",
+    "ruling": "No. The Supreme Court granted PDIC's petition, reversed the CA, and absolved PDIC from any liability: the CTDs were issued without RSB receiving any money, so no deposit under the charter ever came into existence.",
+    "doctrine": "PDIC's liability for insured deposits is purely STATUTORY: it rests on the existence of a deposit (money or its equivalent RECEIVED by the bank), not on the negotiability of the certificate nor on recitals that the certificate is insured by PDIC. A holder cannot be the assignee of a deposit that was never made, and a certificate's 'insured by PDIC' print does not bind PDIC.",
+    "keyPhrase": "No deposit, no insurance.",
+    "examUse": "Use for any problem where the deposit never reached the bank (bounced funding check, unrecorded placement, manager pocketed the cash): PDIC pays only for money actually received by the bank in the usual course of business.",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "provisionIds": [
+      "prov.ra3591-sec5g-deposit"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.pdic-ca-118917",
+        "section": "Decision (Kapunan, J.)",
+        "excerptHint": "statutory liability; no deposit"
+      }
+    ]
+  },
+  {
+    "id": "case.cb-ca-76118",
+    "name": "Central Bank of the Philippines v. Court of Appeals (Triumph Savings Bank)",
+    "citation": "G.R. No. 76118, 30 March 1993 (En Banc, Bellosillo, J.)",
+    "facts": "On Central Bank examination reports finding Triumph Savings Bank (TSB) insolvent with probable loss to depositors and creditors, the Monetary Board issued Resolution No. 596 (31 May 1985) closing TSB, forbidding it from doing business, placing it under receivership, and appointing a receiver. TSB sued in the RTC to annul the resolution for lack of prior notice and hearing and obtained orders restoring private management subject to comptrollership; the CA affirmed.",
+    "issue": "May a Monetary Board resolution placing a bank under receivership be annulled for lack of prior notice and hearing?",
+    "ruling": "No. The Supreme Court reversed the CA: prior notice and hearing are not required before closure/receivership; the MB resolution may be annulled only upon a judicial finding of arbitrariness and bad faith, and until then the bank stays under receivership.",
+    "doctrine": "CLOSE NOW, HEAR LATER: closure and receivership need no prior hearing — a valid police-power measure to stop asset dissipation and bank runs — because the bank gets subsequent judicial review. Lack of prior hearing is not itself arbitrariness or bad faith; those must be proved (as in Banco Filipino, where MB reports had no sound basis for insolvency). Decided under RA 265 Sec. 29, now RA 7653 Sec. 30.",
+    "keyPhrase": "Close now, hear later.",
+    "examUse": "Use for any closure-validity problem: no prior hearing needed; challenger must allege and prove arbitrariness and bad faith; status quo (receivership) holds pending trial.",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "provisionIds": [
+      "prov.ra3591-sec12-liquidation"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.cb-ca-76118",
+        "section": "Decision (Bellosillo, J.)",
+        "excerptHint": "close now hear later; Sec. 29"
+      }
+    ]
+  },
+  {
+    "id": "case.so-pdic-230020",
+    "name": "So v. Philippine Deposit Insurance Corp.",
+    "citation": "G.R. No. 230020, 19 March 2018 (First Division, Tijam, J.)",
+    "facts": "Peter So opened a P300,000 Special Incentive Savings Account with Cooperative Rural Bank of Bulacan in April 2013 and claimed deposit insurance after its closure. PDIC investigation traced his account to the proceeds of a terminated SISA mother account co-owned by the Reyes family and denied the claim as a product of SPLITTING of deposits; his reconsideration was denied in January 2016. He filed Rule 65 certiorari in the RTC, which dismissed for lack of jurisdiction while agreeing PDIC correctly denied the claim.",
+    "issue": "Does the RTC have jurisdiction over certiorari assailing PDIC's denial of a deposit insurance claim?",
+    "ruling": "No. The Supreme Court denied So's petition: PDIC is a quasi-judicial agency, so certiorari lies only with the Court of Appeals under Rule 65 Sec. 4 (and charter Sec. 5(g)/Sec. 22-then), not the RTC.",
+    "doctrine": "PDIC exercises QUASI-JUDICIAL power when it investigates facts, weighs evidence, and finally grants or denies deposit insurance claims — its actions are final and executory and reviewable only for grave abuse of discretion. Hence certiorari goes EXCLUSIVELY to the Court of Appeals (Rule 65 Sec. 4; Sec. 5(g) 30-day rule; Sec. 27 TRO ban), and splitting-derived accounts are properly denied.",
+    "keyPhrase": "PDIC is quasi-judicial; certiorari goes only to the CA.",
+    "examUse": "Use for remedy problems (where to question a PDIC denial: CA certiorari within 30 days, never RTC) and for splitting problems (mother-account tracing defeats the claim).",
+    "topicIds": [
+      "ba166.pdic.insured-deposits",
+      "ba166.pdic.powers"
+    ],
+    "provisionIds": [
+      "prov.ra3591-sec5g-deposit",
+      "prov.ra3591-sec26f-splitting",
+      "prov.ra3591-sec27-tromban"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.so-pdic-230020",
+        "section": "Decision (Tijam, J.)",
+        "excerptHint": "quasi-judicial; CA-exclusive certiorari; splitting"
+      }
+    ]
+  },
+  {
+    "id": "case.chugani-pdic-230037",
+    "name": "Sps. Chugani v. Philippine Deposit Insurance Corp.",
+    "citation": "G.R. No. 230037, 19 March 2018 (First Division, Tijam, J.)",
+    "facts": "At the invitation of the president of Rural Bank of Mawab (Davao), Inc. (RBMI), the petitioners opened time deposits through inter-branch deposits to RBMI accounts in Metrobank and China Bank and received CTDs and official receipts. After RBMI's closure, PDIC denied their claims: the accounts were not part of RBMI's outstanding deposit liabilities, the CTDs were mere replicas of unissued forms, and the money was credited to the president's PERSONAL account. The RTC dismissed their certiorari for lack of jurisdiction; the CA affirmed.",
+    "issue": "Did PDIC commit grave abuse of discretion in denying claims for time deposits evidenced by CTDs but missing from bank records?",
+    "ruling": "No. The Supreme Court denied the petition and affirmed the CA: the RTC had no jurisdiction (PDIC is quasi-judicial; CA-exclusive review), and PDIC's denial was validly grounded on facts, law, and regulations.",
+    "doctrine": "A deposit is LEGITIMATE only if (1) received by the bank in the usual course of business, (2) recorded in the bank's books, and (3) opened per BSP/PDIC forms (PDIC Regulatory Issuance No. 2011-02). Money diverted to an insider's personal account and evidenced by replica certificates is fictitious/fraudulent — no deposit, no insurance (citing PDIC v. CA). PDIC denials stand absent capricious, whimsical, arbitrary, or despotic exercise of judgment.",
+    "keyPhrase": "Legitimate deposit: received, recorded, regular.",
+    "examUse": "Use for fictitious/fraudulent-deposit problems and the three-part legitimacy test; also reinforces CA-exclusive certiorari under RA 10846 Sec. 5(g).",
+    "topicIds": [
+      "ba166.pdic.insured-deposits",
+      "ba166.pdic.powers"
+    ],
+    "provisionIds": [
+      "prov.ra3591-sec5g-deposit",
+      "prov.ra3591-sec27-tromban"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.chugani-pdic-230037",
+        "section": "Decision (Tijam, J.)",
+        "excerptHint": "legitimate-deposit test; replica CTDs"
+      }
+    ]
+  },
+  {
+    "id": "case.chinabank-ortega",
+    "name": "China Banking Corporation v. Ortega",
+    "citation": "G.R. No. L-34964, January 31, 1973 (En Banc)",
+    "facts": "Vicente Acaban won a default money judgment against Bautista Logging Co., B & B Forest Development Corp., and Marino Bautista. To satisfy it, the sheriff served a notice of garnishment on China Banking Corporation covering B & B Forest's deposit. The bank's cashier, Tan Kim Liong, refused to comply, invoking RA 1405. The trial court ordered him to state whether the deposit existed and to hold it intact pending further order, on pain of arrest.",
+    "issue": "Whether a banking institution may validly refuse to comply with a court process garnishing the bank deposit of a judgment debtor by invoking RA 1405.",
+    "ruling": "No. The Supreme Court affirmed the trial court orders: the RA 1405 prohibition on examination of or inquiry into deposits does not preclude garnishment to satisfy a judgment. Citing the 1955 congressional deliberations (Rep. Macapagal and Rep. Ramos agreed deposits 'can be attached' in ordinary civil cases), the Court reasoned Congress never intended to let debtors evade just debts by converting assets into bank deposits.",
+    "doctrine": "A peso bank deposit may be garnished to satisfy a final judgment; the incidental disclosure of the deposit's existence is not the examination, inquiry, or looking into prohibited by RA 1405.",
+    "keyPhrase": "there is no real inquiry in such a case, and if the existence of the deposit is disclosed the disclosure is purely incidental to the execution process",
+    "examUse": "State the rule plus the 'incidental disclosure' rationale. Pair with Salvacion: peso deposits can be garnished (Ortega); foreign currency deposits generally cannot (RA 6426, Sec. 8), subject only to Salvacion's narrow equitable inapplicability.",
+    "topicIds": [
+      "ba166.secrecy.exceptions",
+      "ba166.secrecy.foreign-currency"
+    ],
+    "provisionIds": [
+      "prov.ra1405-sec2"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-l34964",
+        "section": "G.R. No. L-34964, January 31, 1973"
+      }
+    ]
+  },
+  {
+    "id": "case.salvacion-centralbank",
+    "name": "Salvacion v. Central Bank of the Philippines",
+    "citation": "G.R. No. 94723, August 21, 1997 (En Banc)",
+    "facts": "American tourist Greg Bartelli detained and repeatedly raped 12-year-old Karen Salvacion in February 1989, then escaped from jail. The Salvacions won civil damages (RTC Makati, Civil Case No. 89-3214) and the sheriff garnished Bartelli's China Bank dollar account. The Central Bank opposed release of the funds, invoking the FCD exemption from attachment and garnishment (Sec. 113, CB Circular No. 960, implementing PD 1246/RA 6426, Sec. 8).",
+    "issue": "Whether the foreign currency deposit exemption from attachment and garnishment shields Bartelli's dollar deposit from execution of the damages judgment.",
+    "ruling": "On these peculiar facts, no. The Court held Sec. 113 of CB Circular No. 960 and PD 1246 (amending RA 6426, Sec. 8) inapplicable to this case 'because of its peculiar circumstances' — applying the exemption to let a transient alien wrongdoer keep his dollars beyond a child victim's reach would defeat justice (citing Civil Code Art. 10: in doubt, right and justice prevail). Respondents were ordered to comply with the writ and release enough of the dollar deposit to satisfy the judgment. The Court did not declare Sec. 8 void.",
+    "doctrine": "Foreign currency deposits are generally exempt from attachment and garnishment, but the Supreme Court will refuse to apply the exemption where it would shield wrongdoing at the expense of an innocent victim — a narrow, equity-driven inapplicability, not a general rule.",
+    "examUse": "Always frame as general rule (exempt) plus narrow exception (Salvacion). Never write 'FCDs can always be garnished' — the Court stressed the peculiar circumstances and left Sec. 8 intact.",
+    "topicIds": [
+      "ba166.secrecy.foreign-currency"
+    ],
+    "provisionIds": [
+      "prov.ra6426-sec8"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-94723",
+        "section": "G.R. No. 94723, August 21, 1997"
+      }
+    ]
+  },
+  {
+    "id": "case.ejercito-sandiganbayan",
+    "name": "Joseph Victor G. Ejercito v. Sandiganbayan",
+    "citation": "G.R. Nos. 157294-95, November 30, 2006 (En Banc)",
+    "facts": "In the plunder prosecution of Joseph Estrada and others (Criminal Case No. 26558), the Special Prosecution Panel obtained Sandiganbayan subpoenas (January 2003) compelling Export and Industry Bank and Equitable-PCI Bank to produce trust account/SPAN 858 records, a savings account, manager's checks, and 'Jose Velarde' account statements. Petitioner JV Ejercito, in whose name some accounts stood, moved to quash, invoking RA 1405; the Sandiganbayan denied the motions (February-March 2003).",
+    "issue": "Whether RA 1405 bars Sandiganbayan-ordered examination of the trust, savings, and related accounts in a plunder prosecution.",
+    "ruling": "No — petition dismissed; the Sandiganbayan resolutions were upheld. Two Sec. 2 exceptions applied: (1) examination upon court order in bribery/dereliction cases — plunder is of the same class, and unexplained-wealth cases are excepted since public office is a public trust (citing PNB v. Gancayco); (2) the money deposited is the subject matter of the litigation — which reaches accounts to which allegedly ill-gotten money was transferred, not only accounts in the accused's own name (citing Union Bank v. CA).",
+    "doctrine": "In plunder prosecutions, court-ordered bank inquiry falls under both the bribery/dereliction exception (plunder and unexplained wealth belong to that class) and the subject-matter exception, which extends to transferee accounts that allegedly received the tainted money.",
+    "examUse": "Run the two-exception analysis: bribery/dereliction covers plunder and unexplained wealth; subject matter reaches recipient accounts. Pair with Union Bank for the 'money itself' boundary.",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "provisionIds": [
+      "prov.ra1405-sec2"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-157294",
+        "section": "G.R. Nos. 157294-95, November 30, 2006"
+      }
+    ]
+  },
+  {
+    "id": "case.marquez-desierto",
+    "name": "Marquez v. Desierto",
+    "citation": "G.R. No. 135882, June 27, 2001 (En Banc)",
+    "facts": "The Ombudsman ordered Union Bank Julia Vargas branch manager Lourdes Marquez to produce bank documents for in-camera inspection of accounts linked — through Traders Royal Bank manager's checks bought by George Trivinio — to a pending FFIB investigation of Amado Lagdameo and others for RA 3019 violations. The Ombudsman invoked RA 6770, Sec. 15(8) (power to examine and have access to bank accounts and records) and moved to cite Marquez for indirect contempt when she sought judicial clarification instead of complying.",
+    "issue": "Whether the Ombudsman may compel in-camera inspection of bank accounts during an investigation as an exception to RA 1405, and whether the bank manager may be cited for contempt for refusing.",
+    "ruling": "No on both counts — petition granted; the Ombudsman was ordered to cease and desist. Before in-camera inspection may be allowed, there must be a pending case before a court of competent jurisdiction; the account must be clearly identified; inspection is limited to the subject matter of that pending case; and bank personnel and the account holder must be notified to be present. Here there was only an Ombudsman investigation — 'fishing for additional evidence' — which does not suffice. RA 6770 does not place the Ombudsman on the same footing as the courts.",
+    "doctrine": "The Ombudsman's investigatory and subpoena powers under RA 6770 are not an exception to RA 1405; bank inquiry requires a pending court case plus the stated safeguards (identified account, limited scope, notice to bank and holder).",
+    "examUse": "Classic trap: 'the Ombudsman may look into bank deposits' is FALSE. Pair with Ejercito: courts in plunder/bribery cases may order inquiry; the Ombudsman investigating alone may not.",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "provisionIds": [
+      "prov.ra1405-sec2",
+      "prov.ra1405-sec3"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-135882",
+        "section": "G.R. No. 135882, June 27, 2001"
+      }
+    ]
+  },
+  {
+    "id": "case.unionbank-ca",
+    "name": "Union Bank of the Philippines v. Court of Appeals",
+    "citation": "G.R. No. 134699, December 23, 1999 (First Division)",
+    "facts": "Union Bank, as collecting bank, under-encoded a P1,000,000 Allied Bank check as P1,000 at PCHC clearing, discovered the error almost a year later, and billed Allied Bank P999,000 — which refused, since the transaction had long closed and the drawer's account was insufficiently funded. Union Bank sued Allied Bank before the PCHC arbitration committee for the P999,000 plus damages (alleging violation of PCHC rules) and separately petitioned the RTC to examine Allied Account No. 0111-01854-8, claiming the money was the subject matter of the litigation.",
+    "issue": "Whether the P999,000 claim makes the money in the Allied account the 'subject matter of the litigation' under RA 1405, Sec. 2.",
+    "ruling": "No — petition denied. The money deposited itself must be the subject matter of the litigation. Union Bank's cause of action was Allied Bank's alleged PCHC-rule violation and consequent liability for reimbursement and damages; the account balance was not the thing in dispute but relief measured by an amount. The Court distinguished the cause of action (the legal wrong) from the subject of the action (the matter or thing with respect to which the controversy arose).",
+    "doctrine": "'Subject matter of the litigation' means the money deposited itself is the thing in dispute; a claim for reimbursement or damages merely measured by an amount does not qualify.",
+    "examUse": "Apply the subject-matter vs cause-of-action distinction. Pair with Ejercito: traced tainted money in transferee accounts does qualify; an inter-bank reimbursement claim does not.",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "provisionIds": [
+      "prov.ra1405-sec2"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-134699",
+        "section": "G.R. No. 134699, December 23, 1999"
+      }
+    ]
+  },
+  {
+    "id": "case.pdic-countryside",
+    "name": "PDIC v. Philippine Countryside Rural Bank, Inc.",
+    "citation": "G.R. No. 176438, January 24, 2011 (Second Division)",
+    "facts": "Acting on BSP examination reports flagging the commonly controlled 'Legacy Banks' and on a corporate depositor's complaint against PCRBI (loans settled by dacion of already-foreclosed properties), the PDIC Board passed resolutions (2005-03-032, 2005-05-056) creating a Special Investigation Team under RA 3591, Sec. 9(b-1). The banks obtained a Court of Appeals injunction barring further PDIC investigation or examination without Monetary Board approval.",
+    "issue": "Whether PDIC investigation of the banks requires prior Monetary Board approval — that is, whether the Sec. 9(b-1) investigation power is the same as the Sec. 8 examination power.",
+    "ruling": "No — petition granted; the Court of Appeals decision was reversed and set aside. The Sec. 9(b-1) power to investigate is distinct from the Sec. 8 power to examine and needs no MB approval. The decision quotes the Charter's inquiry framework, including the Eighth power allowing the Corporation and/or the BSP to inquire into or examine deposit accounts and related information on a finding of unsafe or unsound banking practice, notwithstanding RA 1405, RA 6426, RA 8791, and other laws.",
+    "doctrine": "PDIC's investigation power is independent of its examination power; and on a finding of unsafe or unsound banking practice, the Charter authorizes PDIC/BSP inquiry into deposit accounts despite bank-secrecy laws.",
+    "examUse": "Use for two points: investigation needs no MB approval (vs examination), and the unsafe-practice finding is the trigger for lawful PDIC/BSP deposit inquiry (now RA 3591, Sec. 8 as amended by RA 11840).",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "provisionIds": [
+      "prov.ra3591-sec8-eighth"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-176438",
+        "section": "G.R. No. 176438, January 24, 2011"
+      }
+    ]
+  },
+  {
+    "id": "case.ucpb-beluso",
+    "name": "United Coconut Planters Bank v. Spouses Samuel and Odette Beluso",
+    "citation": "G.R. No. 159912, 17 August 2007 (Third Division, Chico-Nazario, J.)",
+    "facts": "UCPB granted the Beluso spouses a credit line (up to P2.35M) secured by real-estate mortgage. The promissory notes let UCPB fix interest 'at the rate indicative of DBD retail rate or as determined by the Branch Head,' subject to increase at the lender's discretion. UCPB charged 18%-34% interest plus penalties; the Belusos paid P763,692.03, then sued to annul the interest stipulation, the accounting, and the foreclosure. The RTC and CA voided the interest rates and held UCPB liable under TILA (P26,000 penalty).",
+    "issue": "Whether the one-sided interest-rate stipulation is valid, and whether UCPB violated the Truth in Lending Act by failing to disclose the true finance charges before consummation.",
+    "ruling": "The Supreme Court AFFIRMED with modifications: (1) the interest-rate provision is void — it violates mutuality of contracts and TILA for not disclosing the true finance charges; only the 12% legal interest (compounded as stipulated) plus a reduced 12% penalty apply; (2) UCPB violated TILA — giving borrowers copies of the notes AFTER execution is not substantial compliance with the 'prior to consummation' rule; (3) the P26,000 Sec. 6(a) penalty stands and is deducted from the spouses' liability; (4) the foreclosure itself is VALID, with the recomputed amounts deducted from the foreclosure proceeds.",
+    "doctrine": "TILA requires a clear written disclosure of the finance charge (pesos and centavos) and its simple-annual-rate equivalent BEFORE consummation; belated copies after execution do not substantially comply. A stipulation letting the lender unilaterally fix or increase interest violates TILA's full-disclosure policy and the Civil Code rule on mutuality, and is void. Sec. 6 creates BOTH a civil liability (6a: P100 or twice the finance charge, whichever greater, capped at P2,000 per transaction, 1-year prescription) recoverable separately and independently of the criminal liability for willful violation (6c); the civil cause of action accrues when the finance charge is required.",
+    "keyPhrase": "Disclose before consummation; one-sided rates are void; civil and criminal liabilities are separate.",
+    "examUse": "Use for: prior-disclosure timing, void escalation/one-sided rate clauses, Sec. 6(a) penalty formula and 1-year prescription/accrual, civil-vs-criminal distinction, and the P1,000 reading of the Sec. 6(c) fine floor.",
+    "topicIds": [
+      "ba166.til.obligations",
+      "ba166.til.non-compliance"
+    ],
+    "provisionIds": [
+      "prov.ra3765-sec2",
+      "prov.ra3765-sec4",
+      "prov.ra3765-sec6a",
+      "prov.ra3765-sec6c"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ucpb-beluso",
+        "section": "Liability for Violation of Truth in Lending Act",
+        "excerptHint": "full TILA discussion and fallo"
+      }
+    ]
+  },
+  {
+    "id": "case.sampaguita-pnb",
+    "name": "New Sampaguita Builders Construction, Inc. and Spouses Eduardo R. Dee and Arcelita M. Dee v. Philippine National Bank",
+    "citation": "G.R. No. 148753, 30 July 2004, 479 Phil. 483 (Third Division, Panganiban, J.)",
+    "facts": "NSBCI obtained an P8M commercial loan from PNB (P7.7M revolving credit line + P0.3M unadvised line) via three promissory notes (P5M, P2.7M, P0.3M), secured by mortgages on the Dee spouses' properties. PNB unilaterally raised interest rates and penalties (penalty up to 36%) without the borrowers' consent; the increases appeared in statements of account but not in the disclosure statements. NSBCI sued over the bloated loan; the CA upheld PNB.",
+    "issue": "Whether PNB may collect increased interest, penalties, and other charges that were not revealed in the disclosure statements, and whether courts may strike down one-sided escalation provisions.",
+    "ruling": "The Supreme Court PARTLY GRANTED the petition: courts may strike down or modify note provisions giving lenders unrestrained power to raise rates without prior notice and consent; only the rates actually disclosed (19.5% and 21.5% effective) could be imposed; the unilaterally hiked 36% penalty was equitably reduced to zero as iniquitous; and PNB was ordered to refund P3,686,101.52 in overcollections with legal interest.",
+    "doctrine": "Excessive interests, penalties, and other charges not revealed in disclosure statements issued by banks, even if stipulated in the promissory notes, cannot be given effect under the Truth in Lending Act. The borrower not clearly informed through the disclosure statement before consummation of the availment/drawdown cannot be made to pay such charges or increases. A disclosure statement is not a contract modifiable by a later promissory note — it is the written reflection of the true and effective cost of the loan, and novation is never presumed.",
+    "keyPhrase": "Undisclosed charges cannot be collected even if the note stipulates them.",
+    "examUse": "Use for: effect of nondisclosure on collectibility of charges, disclosure-statement-vs-promissory-note hierarchy, unilateral escalation without notice/consent, and equitable reduction of iniquitous penalties.",
+    "topicIds": [
+      "ba166.til.obligations",
+      "ba166.til.non-compliance"
+    ],
+    "provisionIds": [
+      "prov.ra3765-sec4",
+      "prov.ra3765-sec6b"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.sampaguita-pnb",
+        "section": "Penalty, or Increases Thereof, Unjustified",
+        "excerptHint": "undisclosed charges cannot be given effect"
+      }
+    ]
+  },
+  {
+    "id": "case.gapayao-fulo",
+    "name": "Jaime N. Gapayao v. Rosario Fulo, SSS and SSC",
+    "citation": "G.R. No. 193493, 13 June 2013",
+    "facts": "Jaime Fulo died in 1997 while doing repairs at Jaime Gapayao's residence and business establishment. His widow Rosario claimed SSS death benefits, but Fulo was not SSS-registered. She insisted he had been Gapayao's farm laborer, abaca harvester, and repairman/utility worker from 1983 to 1997. Gapayao denied employment, though he had earlier signed a Compromise Agreement describing himself as the 'employer' of the deceased and paying P40,000 as full settlement. The SSC found an employer-employee relationship and ordered Gapayao to pay unpaid contributions, penalties, and Sec. 24(a) damages; the CA affirmed.",
+    "issue": "Whether Jaime Fulo was Gapayao's employee and therefore compulsorily covered by the Social Security Law.",
+    "ruling": "Yes. The Supreme Court denied the petition and affirmed the CA. Applying the control test — the right to control the end and the manner and means, not necessarily its exercise — the Court held Gapayao controlled Fulo directly or through his farm overseer; pakyaw workers are employees while subject to control, and irregular hours or seasonal work do not negate employment. The Compromise Agreement's 'employer' admission was a declaration against interest.",
+    "doctrine": "The right to SSS coverage is premised on the employer-employee relationship, determined by the control test (right to control suffices; delegation to an overseer counts). Pakyaw, seasonal, or irregular-hour workers are employees when controlled. SSC factual findings supported by substantial evidence and affirmed by the CA are final. An unreported worker's death triggers Sec. 24(a) damages against the employer.",
+    "keyPhrase": "Coverage follows the employment relationship; control test decides who is an employee.",
+    "examUse": "Use for any question asking whether a worker (pakyaw, seasonal, project-based, househelp-adjacent) is compulsorily covered, and for Sec. 24(a) failure-to-report damages.",
+    "topicIds": [
+      "ba166.sss.coverage"
+    ],
+    "provisionIds": [
+      "prov.ra11199-sec8d",
+      "prov.ra11199-sec8j",
+      "prov.ra11199-sec9",
+      "prov.ra11199-sec24"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gapayao-fulo",
+        "section": "Decision"
+      }
+    ]
+  },
+  {
+    "id": "case.sss-aguas",
+    "name": "Social Security System v. Rosanna H. Aguas, et al.",
+    "citation": "G.R. No. 165546, 27 February 2006",
+    "facts": "Pablo Aguas, an SSS member-pensioner, died in 1996. His widow Rosanna claimed death benefits for herself and minor Jeylnn; the claim was initially paid, then suspended after Pablo's sister alleged Rosanna had long abandoned Pablo, lived with another man, and that the children were not Pablo's. Janet later joined as a third claimant. The SSC denied all claims and ordered a refund; the CA reversed and declared all three entitled. The evidence showed: Rosanna and Pablo had separated years before his death; Jeylnn's birth certificate (signed by Pablo as father, verified with the civil register) supported legitimacy; Janet's birth proof was an unverified photocopy and witnesses uniformly said she was merely informally 'adopted.'",
+    "issue": "Whether Rosanna, Jeylnn, and Janet are entitled to the SSS death benefits as primary beneficiaries.",
+    "ruling": "Only Jeylnn. The petition was partially granted and the CA ruling affirmed with modification: (1) Jeylnn is legitimate — children conceived or born during the marriage are presumed legitimate (Family Code Art. 164), and the SSS failed to overcome the presumption; (2) Janet is not a dependent child — her birth was not substantially proven and only 'legally adopted' children qualify; (3) Rosanna, though the legitimate spouse, failed to prove she was still dependent on Pablo for support at his death — dependency cannot be presumed from marriage alone, and a de facto separated spouse is presumed not dependent absent contrary proof.",
+    "doctrine": "A claimant-spouse must establish two qualifying factors: (1) legitimate spouse, AND (2) dependent on the member for support at death. Dependency is proved, never presumed from marriage; separation breaks the presumption of support the other way. Only legitimate, legitimated, legally adopted, or illegitimate children within the statute qualify as dependent children — informal adoptees do not.",
+    "keyPhrase": "Legitimate spouse AND dependent for support — two factors, both proved.",
+    "examUse": "Use for every death-benefit beneficiary question: apply the two-factor spouse test and the closed-list child rule before distributing under Sec. 13 and Sec. 8(k).",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "provisionIds": [
+      "prov.ra11199-sec8e",
+      "prov.ra11199-sec8k",
+      "prov.ra11199-sec13"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.sss-aguas",
+        "section": "Decision"
+      }
+    ]
+  },
+  {
+    "id": "case.ortega-ssc",
+    "name": "Ibarra P. Ortega v. Social Security Commission and SSS",
+    "citation": "G.R. No. 176150, 25 June 2008 (578 Phil. 338)",
+    "facts": "Ortega, an SSS member, received partial permanent disability pension for 23 months for generalized arthritis and partial ankylosis. After it expired, he claimed total permanent disability benefits in 2000, invoking his private physicians' diagnoses (trigger finger, asthma, hypertension, GERD, rheumatoid arthritis). SSS medical officers repeatedly examined him and found no progression of illness (only slight limitation of grasping movement). The SSC denied the claim (and noted he could opt for retirement, having turned 60 with 41 contributions); the CA affirmed.",
+    "issue": "Whether Ortega is entitled to total permanent disability benefits despite the SSS medical findings of no progression.",
+    "ruling": "No. The Supreme Court denied the petition. The Court is not a trier of facts; SSC factual findings, affirmed by the CA and supported by substantial evidence (the SSS medical examinations), are final. The case also draws the conceptual line: Labor Code compensation (work-related disability, loss of income from work-connected injury/illness) and Social Security Law benefits (insurance against disability, sickness, old age, death, irrespective of work-connection) differ in nature and purpose — and 'total and permanent' means different things under each regime.",
+    "doctrine": "Total permanent disability under the SSS Law is adjudicated on SSS medical findings under the substantial-evidence standard; courts defer to SSC expertise as affirmed by the CA. SSS benefits and Labor Code employees' compensation are distinct regimes — a Labor Code disability theory does not control an SSS disability claim.",
+    "keyPhrase": "SSS disability is an insurance benefit judged on SSS medical findings, not a Labor Code compensation claim.",
+    "examUse": "Use for disability questions to explain who decides (SSS/SSC on medical evidence), the standard (substantial evidence), and the SSS-vs-Labor-Code distinction.",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "provisionIds": [
+      "prov.ra11199-sec13a"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ortega-ssc",
+        "section": "Decision"
+      }
+    ]
+  },
+  {
+    "id": "case.ambassador-sss",
+    "name": "Ambassador Hotel, Inc. v. Social Security System",
+    "citation": "G.R. No. 194137, 21 June 2017 (811 Phil. 424)",
+    "facts": "The SSS charged Ambassador Hotel's president Yolanda Chan and treasurer with violation of Secs. 22(a), 22(d), and 28(e) for non-remittance of contributions (June 1999-March 2001, assessed at P769,575.48 with penalties). At trial, Yolanda proved an intra-corporate dispute had prevented her from acting as president during the delinquency period. The RTC acquitted her criminally (she was not the 'managing head' under Sec. 28(f)) but held the hotel civilly liable for P584,804.00; the CA affirmed in toto. The hotel argued the RTC had no jurisdiction over it since it was never impleaded or served summons.",
+    "issue": "Whether the corporation is civilly liable for unremitted SSS contributions despite its officer's criminal acquittal, and whether jurisdiction attached without separate summons.",
+    "ruling": "Yes on both. The Supreme Court denied the petition: (1) SSS remittance is mandatory; a corporation cannot invoke separate personality to escape liability — Sec. 28(f) pins criminal responsibility on the managing head/directors/partners while the corporation answers civilly; (2) arrest of the managing head gives the court jurisdiction over the corporation (no separate summons needed; it is deemed included through its officers); jurisdiction once attached is not ousted by later acquittal; (3) the acquittal did not extinguish the civil action, which is deemed instituted with the criminal action and survives unless the judgment declares the underlying fact did not exist. The Court found by preponderance of evidence that P584,804.00 in contributions went unremitted, plus 6% legal interest.",
+    "doctrine": "SSS contribution remittance is mandatory. Under Sec. 28(f), corporate officers bear personal criminal liability while the corporation bears civil liability; jurisdiction over the corporation attaches through its arrested officers; and an officer's acquittal does not extinguish corporate civil liability unless the judgment negates the fact of non-payment.",
+    "keyPhrase": "Mandatory remittance; officers answer criminally, the corporation civilly — acquittal of one is not acquittal of the other.",
+    "examUse": "Use for penalties and employer-liability questions: mandatory nature, Sec. 28(f) personal liability, jurisdiction, and the criminal/civil split.",
+    "note": "Decided under RA 1161 as amended by RA 8282; the cited doctrines carry into identical RA 11199 provisions (Secs. 22, 28(e)-(f)). The 3%-per-month delinquency penalty discussed in the decision is the pre-2019 rate; RA 11199 Sec. 22(a) imposes 2% per month.",
+    "topicIds": [
+      "ba166.sss.contributions"
+    ],
+    "provisionIds": [
+      "prov.ra11199-sec22",
+      "prov.ra11199-sec24",
+      "prov.ra11199-sec28"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ambassador-sss",
+        "section": "Decision"
+      }
+    ]
   }
 ]

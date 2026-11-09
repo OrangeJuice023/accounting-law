@@ -58,11 +58,22 @@ export function CitationChip({ sourceRef }: { sourceRef: SourceRef }) {
               </button>
             </div>
             <p className="mt-2 font-serif text-lg leading-snug text-ink">{shortSourceName(source)}</p>
+            {source.origin === 'legal-source' ? (
+              <p className="mt-1 inline-flex items-center rounded-full bg-gold-soft/60 px-2 py-0.5 text-[11px] font-medium text-ink">
+                Official legal source · links out, not a course file
+              </p>
+            ) : null}
             <dl className="mt-4 space-y-2 text-sm">
               <div className="flex gap-2">
-                <dt className="w-24 shrink-0 text-ink-faint">File</dt>
+                <dt className="w-24 shrink-0 text-ink-faint">{source.origin === 'legal-source' ? 'Source' : 'File'}</dt>
                 <dd className="break-all font-mono text-xs text-ink">{source.filename}</dd>
               </div>
+              {source.publisher ? (
+                <div className="flex gap-2">
+                  <dt className="w-24 shrink-0 text-ink-faint">Publisher</dt>
+                  <dd className="text-ink">{source.publisher}</dd>
+                </div>
+              ) : null}
               <div className="flex gap-2">
                 <dt className="w-24 shrink-0 text-ink-faint">Locator</dt>
                 <dd className="text-ink">{refLocator(sourceRef)}</dd>
@@ -79,7 +90,23 @@ export function CitationChip({ sourceRef }: { sourceRef: SourceRef }) {
                   <dd className="text-ink">{sourceRef.excerptHint}</dd>
                 </div>
               ) : null}
+              {source.accessedAt ? (
+                <div className="flex gap-2">
+                  <dt className="w-24 shrink-0 text-ink-faint">Verified</dt>
+                  <dd className="text-ink">{source.accessedAt}</dd>
+                </div>
+              ) : null}
             </dl>
+            {source.url ? (
+              <a
+                href={source.url}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-4 block truncate rounded-lg border border-line bg-ivory px-3 py-2 font-mono text-xs text-forest hover:underline"
+              >
+                Open official source ↗
+              </a>
+            ) : null}
             <div className="mt-5 flex gap-3">
               <Link
                 to={`/sources#${source.id}`}

@@ -4,6 +4,8 @@ import { blockCodeFromSlug, slugOf, useContent } from '../content/loader';
 import { moduleStats } from '../content/stats';
 import { progressStore } from '../store/progress';
 import { CoverageBadge } from '../components/common/CoverageBadge';
+import { ProvenanceBadge } from '../components/common/ProvenanceBadge';
+import { shortSourceName } from '../content/citations';
 import { Breadcrumbs } from '../components/shell/Breadcrumbs';
 
 export function BlockPage() {
@@ -42,8 +44,9 @@ export function BlockPage() {
           const stats = moduleStats(index, moduleId, progress);
           const to = `/review/block-${block.code.toLowerCase()}/${slugOf(mod.id)}`;
           const primary = mod.primarySourceIds
-            .map((id) => index.byId.source.get(id)?.filename)
-            .filter(Boolean);
+            .map((id) => index.byId.source.get(id))
+            .filter((s): s is NonNullable<typeof s> => Boolean(s))
+            .map((s) => shortSourceName(s));
           return (
             <li key={moduleId}>
               <Link to={to} className="group block rounded-xl border border-line bg-paper p-5 transition-colors hover:border-gold">
@@ -52,6 +55,7 @@ export function BlockPage() {
                     {mod.title}
                   </span>
                   <CoverageBadge status={mod.coverage} />
+                  {mod.coverage !== 'SYLLABUS_ONLY' ? <ProvenanceBadge provenance={mod.provenance} /> : null}
                   <ArrowRight className="h-4 w-4 text-ink-faint group-hover:text-forest" aria-hidden />
                 </div>
                 <p className="mt-1 text-sm leading-relaxed text-ink-soft">{mod.description}</p>

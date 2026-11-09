@@ -3026,5 +3026,1457 @@
     "topicIds": [
       "ba166.ip.copyright"
     ]
+  },
+  {
+    "id": "fc.labor.01",
+    "kind": "provision",
+    "front": "Art. 82: name the seven groups EXCLUDED from Title I (hours/rest/holidays/SIL) coverage.",
+    "back": "Government employees; managerial employees; field personnel; family members dependent on the employer; domestic helpers; persons in personal service of another; workers paid by results (per Secretary regulations).",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 82"
+      }
+    ],
+    "tags": [
+      "labor-conditions"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.02",
+    "kind": "provision",
+    "front": "Field personnel test (Art. 82 + Rule I Sec. 2(f)): what two elements must BOTH be present?",
+    "back": "(1) Non-agricultural employee regularly performing duties AWAY from the principal/branch office; AND (2) actual hours of work in the field CANNOT be determined with reasonable certainty. Supervised/logged field work (Auto Bus driver, David butcher) fails element 2.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 82"
+      },
+      {
+        "sourceId": "src.law.autobus-156367",
+        "section": "Decision"
+      }
+    ],
+    "tags": [
+      "labor-conditions"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.03",
+    "kind": "qa",
+    "front": "State the overtime and premium rate ladder: ordinary OT; rest-day/special-holiday first 8 hours; special holiday on rest day; regular holiday; regular holiday on rest day; OT on a regular-holiday rest day.",
+    "back": "Ordinary OT 125%; rest-day/special-holiday 130% (OT on them: that rate x 130%); special-on-rest-day 150%; regular holiday 200%; regular-on-rest-day 260%; OT on regular-holiday-rest-day 260% x 130% = 338%. (Arts. 87, 93; Rule I Sec. 9; Rule IV Secs. 4-5.)",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 87, 93"
+      },
+      {
+        "sourceId": "src.law.omnibus-b3",
+        "section": "Rule IV, Secs. 4-5"
+      }
+    ],
+    "tags": [
+      "labor-conditions"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.04",
+    "kind": "qa",
+    "front": "Hours worked (Art. 84): the two tests + the short-rest rule. Which common periods are compensable vs not?",
+    "back": "(a) Required to be on duty/at a prescribed place; OR (b) suffered/permitted to work. Short rest periods count as hours worked. Compensable: waiting integral to work, confined on-call, necessary after-hours work known to supervisor, required travel, 5-20 min coffee breaks, shortened (<60 min) meals. Not: genuine 60-min meal, free-to-leave breaks, ordinary commute, truly voluntary off-hours lectures with no productive work (Rule I Secs. 3-7).",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 84-85"
+      },
+      {
+        "sourceId": "src.law.omnibus-b3",
+        "section": "Rule I, Secs. 3-7"
+      }
+    ],
+    "tags": [
+      "labor-conditions"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.05",
+    "kind": "provision",
+    "front": "CWW (DA 02-2004): 3 recognition conditions + 2 hard OT ceilings + the diminution rule.",
+    "back": "Conditions: majority voluntary agreement; OSHS certification where hazardous; DOLE notice. Ceilings: OT premium always due past 12 hours/day or 48 hours/week. No diminution from adoption — and reverting to 8 hours is NOT diminution. Excluded: construction, health services, heavy manual labor, OSHS-exceeding exposures.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.cww-2004",
+        "section": "Parts III-IV"
+      }
+    ],
+    "tags": [
+      "labor-conditions"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.06",
+    "kind": "provision",
+    "front": "Art. 96 as amended by RA 11360: who gets service charges, and what is the minimum-wage firewall?",
+    "back": "100% to covered workers except managerial employees (85/15 split repealed). Service charges can NEVER be credited toward minimum-wage compliance after a wage increase. Disputes: grievance mechanism, then DOLE conciliation.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.conditions"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11360",
+        "section": "Sec. 1"
+      }
+    ],
+    "tags": [
+      "labor-conditions"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.07",
+    "kind": "term",
+    "front": "Art. 97(f) 'wage': give the definition's three exam extensions (designation, timing, facilities) + the commissions and bonus rules.",
+    "back": "Covers ALL remuneration however designated (time/task/piece/COMMISSION); for work done OR TO BE DONE; includes fair value of facilities with NO employer profit. Commissions are wages (Art. 97(f)) but NOT 13th-month 'basic salary' (Boie-Takeda). Bonus is gratuitous unless promised (contract/CBA) or ripened into practice (Art. 100; Arco Metal).",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 97(f)"
+      },
+      {
+        "sourceId": "src.law.boie-takeda-92174",
+        "section": "Decision"
+      }
+    ],
+    "tags": [
+      "labor-wages"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.08",
+    "kind": "qa",
+    "front": "Minimum-wage machinery: who fixes rates, the 15-10-60 sequence, and where to verify the current rate (and why no peso figure is stated).",
+    "back": "RTWPBs fix regional rates via wage orders (Art. 99/122(b)) within NWPC guidelines; NWPC = policy + review + appeals. Effectivity 15 days after complete regional publication; appeal to NWPC within 10 calendar days; NWPC decides within 60; appeal does not stay unless bonded (Art. 123). Verify on NWPC/RTWPB official postings — rates vary by region/order, so no single national peso figure exists.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 99, 122-123"
+      }
+    ],
+    "tags": [
+      "labor-wages"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.09",
+    "kind": "doctrine",
+    "front": "Wage distortion (Art. 124): definition + Prubankers' four elements + both dispute tracks and pendency effect.",
+    "back": "Increase in prescribed rates eliminating/severely contracting intentional quantitative differences based on skills, seniority, or logical differentiation. Elements: existing hierarchy; lower-level jump without higher-level match; elimination of distinction; SAME region. Union: negotiate -> grievance -> voluntary arbitration (10 days). No union: NCMB conciliation (10 days) -> NLRC compulsory arbitration (20 days). Pendency never delays the increase.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 124"
+      },
+      {
+        "sourceId": "src.law.prubankers-131247",
+        "section": "Decision"
+      }
+    ],
+    "tags": [
+      "labor-wages"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.10",
+    "kind": "provision",
+    "front": "Art. 113: the only three lawful wage deductions. What test applies to everything else?",
+    "back": "(a) Consented insurance premiums advanced by the employer; (b) union-dues check-off recognized or individually authorized in writing; (c) deductions authorized by law (SSS/PhilHealth/Pag-IBIG/tax) or Secretary regulations. Everything else is ILLEGAL unless the employer names its (a)/(b)/(c) authority; facility values additionally need trade custom + written acceptance + fair value (Mabeza).",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 113"
+      },
+      {
+        "sourceId": "src.law.mabeza-118506",
+        "section": "Decision"
+      }
+    ],
+    "tags": [
+      "labor-wages"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.11",
+    "kind": "provision",
+    "front": "13th-month pay: coverage, minimum amount, base exclusions, deadline, and the separated-employee rule.",
+    "back": "All rank-and-file with >=1 month service (managerial, government, household, purely commission/boundary/task excluded; piece-rate covered). Minimum 1/12 of total BASIC salary — commissions (Boie-Takeda), OT, premium, NSD, holiday pay, COLA excluded unless integrated. Deadline December 24. Any separation: proportionate 13th month demandable at separation.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.wages"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.rev13th",
+        "section": "Items 1, 2, 5, 6"
+      },
+      {
+        "sourceId": "src.law.boie-takeda-92174",
+        "section": "Decision"
+      }
+    ],
+    "tags": [
+      "labor-wages"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.12",
+    "kind": "provision",
+    "front": "SIL (Art. 95): floor, service rule, the three non-applicabilities, and commutation — plus who else is covered by case law.",
+    "back": "5 days with pay yearly after 12 months (continuous or broken, incl. authorized absences/paid holidays). Not applicable to: already-enjoying-equivalent, >=5-day vacation leave holders, <10-employee or Secretary-exempted establishments. Unused SIL commutes to cash (even on separation, prorated). Pakyaw/task and commission workers covered unless field personnel (David, Auto Bus).",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.leaves"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Art. 95"
+      },
+      {
+        "sourceId": "src.law.david-macasio-195466",
+        "section": "Decision"
+      }
+    ],
+    "tags": [
+      "labor-leaves"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.13",
+    "kind": "provision",
+    "front": "Solo-parent parental leave (current RA 11861 text): length, service, carryover, sector — and the syllabus citation trap.",
+    "back": "7 WORKING days/year with pay, after 6 months service, FORFEITABLE and NONCUMULATIVE, public AND private, regardless of status. Trap: RA 8972 has only Secs. 1-17 — there is NO Sec. 20 (syllabus citation erroneous); current text is RA 11861 Sec. 7 amending RA 8972 Sec. 8.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.leaves"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11861",
+        "section": "Sec. 7"
+      }
+    ],
+    "tags": [
+      "labor-leaves"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.14",
+    "kind": "qa",
+    "front": "Maternity (RA 11210) ladder: 105/60/30/15/7 — what each number means, plus funding mechanics.",
+    "back": "105 days live birth (+15 solo-parent; 60 miscarriage/emergency termination; +30 optional unpaid). SSS member + 3 contributions in prior 12 months; employer advances within 30 days, SSS reimburses 100%, employer pays differential unless exempt (distressed, retail/service <=10, micro <=P3M, already-providing). Up to 7 days allocable to father/caregiver, over and above RA 8187. Every pregnancy; legitimacy/civil status/delivery mode irrelevant.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.leaves"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11210",
+        "section": "Secs. 3-6"
+      }
+    ],
+    "tags": [
+      "labor-leaves"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.15",
+    "kind": "comparison",
+    "front": "Paternity (RA 8187) vs maternity allocation vs gynecological (RA 9710) vs VAWC (RA 9262): trigger, length, key limiter each.",
+    "back": "Paternity: married male, legitimate cohabiting spouse's delivery (incl. miscarriage), 7 days, first 4 deliveries. Allocation: any father/partner/relative, up to 7 maternity days, over and above paternity. Gynecological: female, SURGERY for gynecological disorder, 2 months at gross pay, 6-in-12 months service. VAWC: victim, up to 10 days paid, stacks on ALL other leaves, extendible via protection order; assisting co-employees protected.",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.leaves"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra8187",
+        "section": "Secs. 2-3"
+      },
+      {
+        "sourceId": "src.law.ra9710",
+        "section": "Sec. 18"
+      },
+      {
+        "sourceId": "src.law.ra9262",
+        "section": "Secs. 3(c), 43"
+      }
+    ],
+    "tags": [
+      "labor-leaves"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.labor.16",
+    "kind": "comparison",
+    "front": "Apprentice vs learner vs PWD worker: occupation, period, wage floor, agreement, and the conversion/commitment rule.",
+    "back": "Apprentice: highly-technical industry + approved occupation, >3 months training + theory, <=6 months, >=75% minimum (Art. 61; unpaid only if school-required + Secretary-authorized, Art. 72). Learner: semi-skilled non-apprenticeable, <=3 months, >=75% (time) / 100% (piece, Art. 76), hire-commitment + 2-month auto-regularization if cut short (Art. 75). PWD: Art. 80 agreement (>=75%), bridge to apprentice/learner chapters via Art. 81; qualified PWDs get equal terms/pay (RA 7277 Sec. 5).",
+    "editorialStatus": "authored-draft",
+    "topicIds": [
+      "ba166.labor.special-workers",
+      "ba166.labor.wages"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.labor-code",
+        "section": "Arts. 58-61, 72-76, 78-81"
+      },
+      {
+        "sourceId": "src.law.ra7277",
+        "section": "Sec. 5"
+      }
+    ],
+    "tags": [
+      "labor-special-workers"
+    ],
+    "deckIds": []
+  },
+  {
+    "id": "fc.pdic.01",
+    "kind": "term",
+    "front": "What is PDIC and when was it created?",
+    "back": "The Philippine Deposit Insurance Corporation, a government instrumentality created by RA 3591 (approved 22 June 1963) to insure bank deposits, protect depositors, and help keep the banking system sound and stable. Attached to BSP for policy coordination; enjoys fiscal and administrative autonomy.",
+    "topicIds": [
+      "ba166.pdic.policy"
+    ],
+    "tags": [
+      "creation",
+      "overview"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11840",
+        "section": "Sec. 1 (amending RA 3591, Sec. 1)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.02",
+    "kind": "provision",
+    "front": "What is the CURRENT maximum deposit insurance coverage (MDIC)?",
+    "back": "P1,000,000.00 per depositor per bank, effective 15 March 2025 (PDIC Memorandum No. 2025-01, 27 Feb 2025, under Sec. 5(k) Board authority). P500,000 is outdated for closures on or after that date.",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "tags": [
+      "mdic",
+      "current-figure"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.pdic-mdic-2025",
+        "section": "Memorandum No. 2025-01 (27 Feb 2025)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.03",
+    "kind": "provision",
+    "front": "Who may raise the MDIC and how often is it reviewed?",
+    "back": "The PDIC Board of Directors (Sec. 5(k), RA 11840): raise to an inflation-indexed amount or on other economic indicators; review every 3 years. Emergency systemic-threat cover needs unanimous Board vote chaired by the BSP Governor + Presidential approval.",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "tags": [
+      "mdic",
+      "board-power"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11840",
+        "section": "Sec. 4 (amending RA 3591, Sec. 5(k))"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.04",
+    "kind": "term",
+    "front": "What makes a 'deposit' under Sec. 5(g)?",
+    "back": "The unpaid balance of money or its equivalent RECEIVED by a bank in the usual course of business, credited to a commercial/checking/savings/time/thrift account and evidenced per BSP rules. No receipt by the bank = no deposit = no insurance. Offshore-payable obligations excluded (opt-in possible for PH-bank foreign branches).",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "tags": [
+      "deposit",
+      "definition"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.05",
+    "kind": "comparison",
+    "front": "Insured vs excluded: name the 4 accounts PDIC will NOT pay.",
+    "back": "(1) Investments/trust accounts/similar; (2) fictitious or fraudulent accounts; (3) unsafe/unsound-banking accounts (after due process + published BSP directive); (4) RA 9160 unlawful-activity proceeds. Mnemonic: Investments, Fakes, Unsafe, Laundered.",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "tags": [
+      "exclusions",
+      "comparison"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 7 (amending RA 3591, Sec. 5)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.06",
+    "kind": "doctrine",
+    "front": "PDIC v. CA (G.R. No. 118917): the bounced-check CTDs doctrine?",
+    "back": "No deposit, no insurance. PDIC liability is statutory — it needs money actually received by the bank. Certificate negotiability and 'insured by PDIC' recitals are immaterial and do not bind PDIC.",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "tags": [
+      "doctrine",
+      "case"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.pdic-ca-118917",
+        "section": "Decision (Kapunan, J.)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.07",
+    "kind": "doctrine",
+    "front": "Central Bank v. CA (G.R. No. 76118): the closure doctrine?",
+    "back": "Close now, hear later. No prior notice/hearing needed before MB closure/receivership (police power); the resolution is annullable only for arbitrariness and bad faith, which must be proved; the bank stays under receivership meanwhile.",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "tags": [
+      "doctrine",
+      "closure",
+      "case"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.cb-ca-76118",
+        "section": "Decision (Bellosillo, J.)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.08",
+    "kind": "provision",
+    "front": "What is splitting of deposits and its look-back window?",
+    "back": "Breaking an over-maximum account into 2+ accounts of non-owners within 120 DAYS before a bank holiday or MB closure order to multiply coverage. Effect: claims denied + bank insiders face 6-12 years and/or P50,000-P10M fine (Sec. 26(f)).",
+    "topicIds": [
+      "ba166.pdic.insured-deposits"
+    ],
+    "tags": [
+      "splitting",
+      "penalty"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 44 (amending RA 3591, Sec. 26(f))"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.09",
+    "kind": "qa",
+    "front": "Claim-deadline ladder: 30 days, 60 days, 2 years — which is which?",
+    "back": "30 DAYS: CA certiorari vs PDIC Sec. 5(g) denial (from denial notice). 60 DAYS: claims with the receiver from closure-notice publication (Sec. 16(l)); receiver-denied claims to liquidation court (60 days); verified reconsideration of insurance denial (60 days, IRR). 2 YEARS: claim insured deposits from takeover + 2 more years to enforce (Sec. 21(e)), or the PDIC remedy is barred.",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "tags": [
+      "deadlines",
+      "claims",
+      "remedies"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 29 (inserting RA 3591, Sec. 16)"
+      },
+      {
+        "sourceId": "src.law.ra9302",
+        "section": "Sec. 18 (claims text source)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.10",
+    "kind": "provision",
+    "front": "PDIC pays a depositor — what is PDIC subrogated to, and how is it ranked?",
+    "back": "Subrogated to ALL the depositor's rights vs the closed bank up to the amount paid (dividends, stockholder-liability recoveries). The depositor keeps the uninsured excess with the SAME preference. Payouts are public funds = preferred credit under Civil Code Art. 2244(9). (Sec. 20.)",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "tags": [
+      "subrogation",
+      "preference"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 33 (amending RA 3591, Sec. 20)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.11",
+    "kind": "term",
+    "front": "Who is the receiver of a closed bank, and can the bank be rehabilitated?",
+    "back": "PDIC is ALWAYS the receiver upon MB closure (Sec. 12) — no other receiver. A closed bank can NEVER be rehabilitated or reopened; it survives as a corporation only to wind up (Secs. 12-13).",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "tags": [
+      "receiver",
+      "liquidation"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 25 (inserting RA 3591, Sec. 12)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.pdic.12",
+    "kind": "qa",
+    "front": "How does PDIC pay insured deposits, and who can stop it by injunction?",
+    "back": "As soon as possible, in CASH or as a TRANSFERRED DEPOSIT in another insured bank (Sec. 19). Almost no one can stop it: only the CA may issue TRO/injunction vs PDIC charter actions (Sec. 27); RTC orders are void and expose the judge to 60+ days suspension; only the SC may act in extremely urgent constitutional cases with bond.",
+    "topicIds": [
+      "ba166.pdic.powers"
+    ],
+    "tags": [
+      "payment",
+      "injunction"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 32 (amending RA 3591, Sec. 19)"
+      },
+      {
+        "sourceId": "src.law.ra10846",
+        "section": "Sec. 46 (renumbering to Sec. 27)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.01",
+    "kind": "term",
+    "front": "RA 1405 policy (Sec. 1)?",
+    "back": "Encourage deposits in banks and discourage private hoarding, so banks can use the funds in authorized loans for economic development. Trust in secrecy is the mechanism.",
+    "topicIds": [
+      "ba166.secrecy.coverage"
+    ],
+    "tags": [
+      "policy",
+      "sec-1"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 1"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.02",
+    "kind": "provision",
+    "front": "RA 1405, Sec. 2: what is covered and who is barred?",
+    "back": "ALL deposits of whatever nature with Philippine banks/banking institutions + government-bond investments are ABSOLUTELY confidential. No examination, inquiry, or looking into by ANY person, government official, bureau, or office — except the four statutory exceptions.",
+    "topicIds": [
+      "ba166.secrecy.coverage"
+    ],
+    "tags": [
+      "coverage",
+      "sec-2"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.03",
+    "kind": "provision",
+    "front": "RA 1405, Secs. 3 and 5: prohibited act and penalty?",
+    "back": "Sec. 3: unlawful for ANY bank official/employee to disclose deposit information to anyone outside Sec. 2. Sec. 5: up to 5 years imprisonment and/or up to P20,000 fine, in the court's discretion.",
+    "topicIds": [
+      "ba166.secrecy.coverage"
+    ],
+    "tags": [
+      "prohibited-act",
+      "penalty"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 3"
+      },
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 5"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.04",
+    "kind": "qa",
+    "front": "The four statutory exceptions (RA 1405, Sec. 2)?",
+    "back": "(1) Written permission of the depositor; (2) impeachment; (3) court order in bribery/dereliction-of-duty cases vs public officials; (4) money deposited is the subject matter of litigation.",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "tags": [
+      "exceptions",
+      "sec-2"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.05",
+    "kind": "doctrine",
+    "front": "China Banking Corp. v. Ortega (1973): peso deposits and garnishment?",
+    "back": "Peso deposits MAY be garnished to satisfy a judgment. No real inquiry; disclosure of the deposit's existence is purely incidental to execution. Congress never meant debtors to evade just debts via bank deposits.",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "tags": [
+      "garnishment",
+      "ortega"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-l34964",
+        "section": "G.R. No. L-34964, January 31, 1973"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.06",
+    "kind": "doctrine",
+    "front": "Marquez v. Desierto (2001): can the Ombudsman open bank accounts during investigation?",
+    "back": "NO. RA 6770 does not override RA 1405. In-camera inspection needs: pending court case + identified account + scope limited to that case + notice to bank and holder. A mere investigation is 'fishing for evidence.'",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "tags": [
+      "ombudsman",
+      "trap",
+      "marquez"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-135882",
+        "section": "G.R. No. 135882, June 27, 2001"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.07",
+    "kind": "provision",
+    "front": "RA 6426, Sec. 8 (PD 1246): the FCD secrecy rule?",
+    "back": "FCDs are ABSOLUTELY confidential; in NO instance examined/inquired into by anyone (judicial, administrative, legislative, public or private) EXCEPT on the depositor's written permission. FCDs are EXEMPT from attachment, garnishment, or any other court/legislative/administrative process.",
+    "topicIds": [
+      "ba166.secrecy.foreign-currency"
+    ],
+    "tags": [
+      "fcd",
+      "sec-8",
+      "garnishment"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.pd1246",
+        "section": "Sec. 2 (RA 6426, Sec. 8)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.08",
+    "kind": "doctrine",
+    "front": "Salvacion v. Central Bank (1997): FCD garnishment?",
+    "back": "General rule: FCDs are EXEMPT from garnishment. Salvacion held the exemption INAPPLICABLE only on peculiar facts (transient alien wrongdoer vs child victim) — narrow equity ruling; Sec. 8 was NOT voided.",
+    "topicIds": [
+      "ba166.secrecy.foreign-currency"
+    ],
+    "tags": [
+      "fcd",
+      "garnishment",
+      "salvacion"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.gr-94723",
+        "section": "G.R. No. 94723, August 21, 1997"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.09",
+    "kind": "comparison",
+    "front": "RA 1405 vs RA 6426: exceptions and garnishment?",
+    "back": "RA 1405: 4 statutory exceptions (+ later laws); peso deposits garnishable (Ortega). RA 6426 Sec. 8: ONLY written permission inside the law; NO impeachment/bribery/subject-matter exceptions; NO attachment/garnishment (Salvacion = narrow exception). Both reached by AMLA/BIR/PDIC 'notwithstanding' powers.",
+    "topicIds": [
+      "ba166.secrecy.foreign-currency"
+    ],
+    "tags": [
+      "comparison",
+      "ra1405",
+      "ra6426"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra1405",
+        "section": "Sec. 2"
+      },
+      {
+        "sourceId": "src.law.pd1246",
+        "section": "Sec. 2 (RA 6426, Sec. 8)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.10",
+    "kind": "qa",
+    "front": "BIR bank inquiry: the three NIRC Sec. 6(F) paths?",
+    "back": "(1) Decedent's deposits to determine the gross estate; (2) compromise applicant (financial incapacity) AFTER written waiver of secrecy; (3) specific taxpayer subject of a foreign tax authority's treaty-based request. No other BIR inquiry power — routine audits cannot open deposits.",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "tags": [
+      "bir",
+      "sec-6f"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra10021",
+        "section": "Sec. 3 (NIRC Sec. 6(F))"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.11",
+    "kind": "qa",
+    "front": "PD 1792 and RA 7653, Sec. 135: what happened to RA 1405's text?",
+    "back": "PD 1792 (1981) added MB-authorized fraud-examination and independent-auditor exceptions. RA 7653, Sec. 135 (1993) expressly REPEALED PD 1792 — restoring the ORIGINAL four exceptions. Decisions quoting six exceptions reproduce repealed text.",
+    "topicIds": [
+      "ba166.secrecy.coverage"
+    ],
+    "tags": [
+      "amendment",
+      "pd1792",
+      "trap"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra7653",
+        "section": "Sec. 135"
+      },
+      {
+        "sourceId": "src.law.pd1792",
+        "section": "Secs. 1-2"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.secrecy.12",
+    "kind": "term",
+    "front": "Unclaimed balances (Act 3936/PD 679): the 10-year rule and bank duties?",
+    "back": "Deposits/credits untouched 10+ years (or owner known dead) = unclaimed. Every odd-year January: bank files a sworn statement with the Treasurer (names, amounts, dates, interest), first contacts the depositor, posts a copy 60 days; OSG escheats; bank is discharged. Default: P500/month.",
+    "topicIds": [
+      "ba166.secrecy.exceptions"
+    ],
+    "tags": [
+      "unclaimed-balances",
+      "escheat"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.pd679",
+        "section": "Sec. 1 (Act 3936, Secs. 1-5)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.01",
+    "kind": "term",
+    "front": "What law is the 'Truth in Lending Act' and what does it require?",
+    "back": "RA No. 3765 (1963). It requires creditors to disclose finance charges in connection with extensions of credit — a clear written statement before consummation.",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "tags": [
+      "short-title",
+      "overview"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 1"
+      },
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 4"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.02",
+    "kind": "provision",
+    "front": "Sec. 2: State the policy of the Truth in Lending Act in one sentence.",
+    "back": "Protect citizens from lack of awareness of the true cost of credit by assuring full disclosure, preventing uninformed use of credit to the detriment of the national economy.",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "tags": [
+      "policy",
+      "sec-2"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 2"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.03",
+    "kind": "term",
+    "front": "TILA 'credit': give three examples beyond ordinary bank loans.",
+    "back": "Any three of: mortgage, conditional sales contract, installment sale of property/services, rental-purchase, lease/hire/bailment arrangement, pledge/lien — plus any transaction with a similar purpose or effect.",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "tags": [
+      "definitions",
+      "credit"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 3(2)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.04",
+    "kind": "term",
+    "front": "TILA 'creditor': what two requisites must concur?",
+    "back": "(1) Engaged in the business of extending credit as a regular practice (principal or agent); AND (2) requires payment of a finance charge incident to the extension of credit.",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "tags": [
+      "definitions",
+      "creditor"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 3(4)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.05",
+    "kind": "term",
+    "front": "TILA 'finance charge': enumeration and key word.",
+    "back": "Interest, fees, service charges, discounts, and other charges incident to the extension of credit as the Board may by regulation prescribe. Key word: 'includes' — the list is open.",
+    "topicIds": [
+      "ba166.til.purpose"
+    ],
+    "tags": [
+      "definitions",
+      "finance-charge"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 3(3)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.06",
+    "kind": "provision",
+    "front": "Sec. 4: recite the seven disclosure items in order.",
+    "back": "(1) Cash/delivered price; (2) down payment/trade-in; (3) difference of (1)-(2); (4) itemized non-credit charges; (5) total amount financed; (6) finance charge in pesos and centavos; (7) finance charge as simple annual rate on the outstanding balance. Furnished in writing BEFORE consummation.",
+    "topicIds": [
+      "ba166.til.obligations"
+    ],
+    "tags": [
+      "disclosure",
+      "sec-4"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 4"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.07",
+    "kind": "comparison",
+    "front": "BSP Circular 730: minimum disclosure for small business/retail/consumer credit vs. RA 3765 Sec. 4.",
+    "back": "BSP minimum (4): amount financed; finance charges in pesos/centavos; NET PROCEEDS; rate as simple annual rate OR EIR. Adds net proceeds and the EIR alternative, furnished before consummation — consistent with expanding, not replacing, Sec. 4.",
+    "topicIds": [
+      "ba166.til.obligations"
+    ],
+    "tags": [
+      "bsp-730",
+      "disclosure",
+      "eir"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.bsp-circ-730",
+        "section": "Section 3 (§X307.2)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.08",
+    "kind": "term",
+    "front": "BSP Circular 730: define EIR and state the interest-computation rule.",
+    "back": "EIR = the PAS-defined rate that exactly discounts estimated future cash flows over the loan's life to the net loan proceeds. Banks may charge interest ONLY on the outstanding balance at the beginning of each interest/installment period.",
+    "topicIds": [
+      "ba166.til.obligations"
+    ],
+    "tags": [
+      "bsp-730",
+      "eir",
+      "interest"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.bsp-circ-730",
+        "section": "Section 2 (§X307.1[g]-[h])"
+      },
+      {
+        "sourceId": "src.law.bsp-circ-730",
+        "section": "Section 1 (§X305.5)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.09",
+    "kind": "provision",
+    "front": "Sec. 6(a): civil penalty formula, cap, prescription, and costs.",
+    "back": "P100 OR twice the finance charge required (whichever greater), max P2,000 per transaction + attorney's fees and court costs. Sue within 1 year from the violation. Accrues when the finance charge is required (Beluso).",
+    "topicIds": [
+      "ba166.til.non-compliance"
+    ],
+    "tags": [
+      "penalties",
+      "sec-6a"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(a)"
+      },
+      {
+        "sourceId": "src.law.ucpb-beluso",
+        "section": "Liability for Violation of Truth in Lending Act"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.10",
+    "kind": "comparison",
+    "front": "Compare Sec. 6 civil vs. criminal liability; effect on the contract.",
+    "back": "Civil 6(a): failure to disclose → P100/2x formula, P2,000 cap, 1 year, no willfulness needed. Criminal 6(c): WILLFUL violation → fine (floor [sic] 'P1,00,' read P1,000 by the Court) to P5,000 and/or 6 months-1 year. Sec. 6(b): the contract stays valid and enforceable. Sec. 6(d): government exempt.",
+    "topicIds": [
+      "ba166.til.non-compliance"
+    ],
+    "tags": [
+      "penalties",
+      "civil-vs-criminal",
+      "sec-6"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(a)"
+      },
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(b)"
+      },
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(c)"
+      },
+      {
+        "sourceId": "src.law.ra3765",
+        "section": "Sec. 6(d)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.11",
+    "kind": "doctrine",
+    "front": "UCPB v. Beluso: three TILA holdings for the exam.",
+    "back": "(1) Disclosure must precede consummation — post-execution copies are not substantial compliance. (2) A lender's one-sided power to fix/increase rates is void (mutuality + TILA). (3) Sec. 6(a) civil action is separate from criminal liability and accrues when the finance charge is required.",
+    "topicIds": [
+      "ba166.til.obligations",
+      "ba166.til.non-compliance"
+    ],
+    "tags": [
+      "jurisprudence",
+      "beluso"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ucpb-beluso",
+        "section": "Liability for Violation of Truth in Lending Act"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.til.12",
+    "kind": "doctrine",
+    "front": "Sampaguita v. PNB: what happens to charges missing from the disclosure statement?",
+    "back": "They cannot be given effect under TILA — even if stipulated in the promissory notes. The borrower not informed before consummation cannot be made to pay them. The disclosure statement reflects true cost; it is not a contract the note can novate.",
+    "topicIds": [
+      "ba166.til.obligations",
+      "ba166.til.non-compliance"
+    ],
+    "tags": [
+      "jurisprudence",
+      "sampaguita"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.sampaguita-pnb",
+        "section": "Penalty, or Increases Thereof, Unjustified"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.01",
+    "kind": "qa",
+    "front": "Who is compulsorily covered by the SSS, and what is the age ceiling?",
+    "back": "All employees not over 60 including kasambahays + employers (Sec. 9); self-employed per Commission (Sec. 9-A, non-exclusive list); all sea-based and land-based OFWs not over 60 (Sec. 9-B). Ceiling: 'not over sixty (60) years of age.'",
+    "topicIds": [
+      "ba166.sss.coverage"
+    ],
+    "tags": [
+      "coverage",
+      "compulsory",
+      "age"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 9, 9-A, 9-B"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.02",
+    "kind": "qa",
+    "front": "When does compulsory coverage take effect for employer, employee, and self-employed?",
+    "back": "Employer: first day of operation. Employee: day of employment. Self-employed: upon SSS registration. (Sec. 10 — remember: operation / employment / registration.)",
+    "topicIds": [
+      "ba166.sss.coverage"
+    ],
+    "tags": [
+      "coverage",
+      "effectivity"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Sec. 10"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.03",
+    "kind": "qa",
+    "front": "Name the five voluntary coverage tracks.",
+    "back": "(1) Full-time homemaker spouses (Sec. 9(b)); (2) separated employees who keep paying (Sec. 11); (3) zero-income SE who keep paying (Sec. 11-A); (4) OFWs after overseas employment ends (Sec. 9-B(f)); (5) Filipino permanent migrants (Sec. 9-B(g)).",
+    "topicIds": [
+      "ba166.sss.coverage"
+    ],
+    "tags": [
+      "coverage",
+      "voluntary"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 9(b), 11, 11-A, 9-B(f)-(g)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.04",
+    "kind": "qa",
+    "front": "What are the qualifying contributions for retirement, death, disability, sickness, maternity, and unemployment benefits?",
+    "back": "Retirement pension: 120. Death pension: 36. Permanent-total-disability pension: 36. Sickness: 3 in the last 12 months. Maternity: 3 in the last 12 months. Unemployment: 36 with 12 in the last 18 months. Ladder: 120-36-36 / 3-3 / 36(12-in-18).",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "tags": [
+      "benefits",
+      "qualifiers",
+      "numbers"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Secs. 12-B, 13, 13-A, 14, 14-A, 14-B"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.05",
+    "kind": "provision",
+    "front": "How is the monthly pension computed, and what is the guarantee?",
+    "back": "Highest of: (1) P300 + 20% AMSC + 2% AMSC per CYS over 10; (2) 40% AMSC; (3) P1,000. Minimums: P1,200 (10+ CYS), P2,400 (20+ CYS). Plus P1,000 additional allowance (since Jan 2017). Guaranteed at least 60 months aggregate. (Sec. 12; peso figures as stated in RA 11199.)",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "tags": [
+      "benefits",
+      "pension",
+      "formula"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Sec. 12"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.06",
+    "kind": "doctrine",
+    "front": "SSS v. Aguas: what must a surviving spouse prove to be a primary beneficiary?",
+    "back": "Two factors: (1) legitimate spouse AND (2) dependent on the member for support at death. Dependency is proved, never presumed from marriage; a separated spouse is presumed NOT dependent. Only Jeylnn (legitimate child) was held entitled. (G.R. No. 165546, 27 Feb 2006.)",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "tags": [
+      "benefits",
+      "death",
+      "case"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.sss-aguas",
+        "section": "Decision"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.07",
+    "kind": "qa",
+    "front": "What are the CURRENT maternity durations and funeral amounts (with legal basis)?",
+    "back": "Maternity (RA 11210, eff. 11 Mar 2019): 105 days live birth, 60 days miscarriage/ETP incl. stillbirth, 120 days solo parents — every instance. Funeral (SSS Circular 2023-009, eff. 20 Oct 2023): P20,000-P60,000 if 36+ contributions; fixed P12,000 if 1-35. Both at 100% ADSC (maternity) / proven expense (funeral).",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "tags": [
+      "benefits",
+      "maternity",
+      "funeral",
+      "current"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.sss-maternity",
+        "section": "RA 11210 rules"
+      },
+      {
+        "sourceId": "src.law.sss-funeral",
+        "section": "Circular No. 2023-009, eff. 20 Oct 2023"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.08",
+    "kind": "qa",
+    "front": "Sickness benefit: rate, caps, and notice rules?",
+    "back": "90% of ADSC/day, confined >3 days. Caps: 120 days/year (no carryover), 240 days same confinement. Employee notifies employer within 5 days unless hospital confinement or on-premises illness/injury; employer notifies SSS within 5 days for 100% reimbursement; employer failure after due notice = no recovery of advances. (Sec. 14.)",
+    "topicIds": [
+      "ba166.sss.benefits"
+    ],
+    "tags": [
+      "benefits",
+      "sickness",
+      "notice"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Sec. 14"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.09",
+    "kind": "provision",
+    "front": "What is the CURRENT contribution rate, split, and MSC band (with basis and date)?",
+    "back": "15% of MSC: employer 10%, employee 5%. MSC P5,000-P35,000; MSC above P20,000 goes to the MPF (MySSS Pension Booster). Basis: Sec. 4(a)(9) final row via SSS Circulars 2024-006 to 2024-010, effective 1 January 2025 (latest as of 9 Nov 2026).",
+    "topicIds": [
+      "ba166.sss.contributions"
+    ],
+    "tags": [
+      "contributions",
+      "rate",
+      "current"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Sec. 4(a)(9)"
+      },
+      {
+        "sourceId": "src.law.sss-contrib-2025",
+        "section": "2025 tables, eff. 1 Jan 2025"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.10",
+    "kind": "qa",
+    "front": "Remittance deadline, delinquency penalty, collection modes, and prescriptive period?",
+    "back": "Remit within the first 10 days of the following month; 2%/month penalty until paid. Collection tax-like: preferred court action or sheriff's levy warrant. Action within 20 years (known delinquency/assessment/benefit accrual). Non-remittance never prejudices the employee's benefits. (Sec. 22.)",
+    "topicIds": [
+      "ba166.sss.contributions"
+    ],
+    "tags": [
+      "contributions",
+      "remittance",
+      "collection"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Sec. 22"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.11",
+    "kind": "qa",
+    "front": "Employer never reported a worker who then dies: what damages, and is there any grace?",
+    "back": "Damages = benefits lost; for pensions, accumulated pension due or 5 years' pension, higher, incl. dependents' pension — plus unremitted contributions and penalties. Grace: contingency within 30 days of hiring relieves damages. (Sec. 24(a)-(b); see Gapayao.)",
+    "topicIds": [
+      "ba166.sss.contributions"
+    ],
+    "tags": [
+      "contributions",
+      "records",
+      "damages"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Sec. 24(a)-(b)"
+      }
+    ],
+    "editorialStatus": "authored-draft"
+  },
+  {
+    "id": "fc.sss.12",
+    "kind": "doctrine",
+    "front": "Sec. 28 and/or map + the two doctrines of Ambassador Hotel v. SSS?",
+    "back": "Penalties P5,000-P20,000 and/or 6y1d-12y: (b) AND; (c)-(d) OR; (e) general OR but register/deduct/remit proviso AND. Sec. 28(f): managing head/directors/partners personally liable; Sec. 28(h): deduct-but-not-remit within 30 days = presumed estafa (Art. 315 RPC). Ambassador Hotel: (1) arrest of managing head = jurisdiction over the corporation; (2) officer acquittal does not extinguish corporate civil liability. (G.R. No. 194137, 21 June 2017.)",
+    "topicIds": [
+      "ba166.sss.contributions"
+    ],
+    "tags": [
+      "contributions",
+      "penalties",
+      "case"
+    ],
+    "deckIds": [],
+    "sourceRefs": [
+      {
+        "sourceId": "src.law.ra11199",
+        "section": "Sec. 28"
+      },
+      {
+        "sourceId": "src.law.ambassador-sss",
+        "section": "Decision"
+      }
+    ],
+    "editorialStatus": "authored-draft"
   }
 ]

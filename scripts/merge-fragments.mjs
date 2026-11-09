@@ -10,7 +10,9 @@
  * file must exist. Also sets catalog availability to false for all sources
  * (Phase 2B policy: originals are attributed, not publicly distributed).
  *
- * Usage: node scripts/merge-fragments.mjs [--check]  (--check = dry run)
+ * Usage: node scripts/merge-fragments.mjs [--check] [--only a.json,b.json]
+ * (--check = dry run; --only = merge just these fragment files, so older
+ * already-merged fragments can stay on disk as an audit trail.)
  */
 import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -19,6 +21,8 @@ import { fileURLToPath } from 'node:url';
 const ROOT = fileURLToPath(new URL('../public/content/', import.meta.url));
 const COURSE = 'ba166';
 const DRY = process.argv.includes('--check');
+const onlyArg = process.argv.find((a) => a.startsWith('--only='));
+const ONLY = onlyArg ? new Set(onlyArg.slice('--only='.length).split(',').map((s) => s.trim()).filter(Boolean)) : null;
 const errors = [];
 
 const read = (rel) => JSON.parse(readFileSync(join(ROOT, rel), 'utf8'));
@@ -27,6 +31,8 @@ const write = (rel, data) => {
 };
 
 const catalog = read('catalog.json');
+const blocks = read(`${COURSE}/blocks.json`);
+const modules = read(`${COURSE}/modules.json`);
 const topics = read(`${COURSE}/topics.json`);
 const provisions = read(`${COURSE}/provisions.json`);
 const cases = read(`${COURSE}/cases.json`);
@@ -35,23 +41,57 @@ const flashcards = read(`${COURSE}/flashcards.json`);
 const lessonsIndex = read(`${COURSE}/lessons/index.json`);
 
 const topicById = new Map(topics.map((t) => [t.id, t]));
+const moduleById = new Map(modules.map((m) => [m.id, m]));
 const fail = (m) => errors.push(m);
 
 const seenProv = new Set(provisions.map((p) => p.id));
 const seenCase = new Set(cases.map((c) => c.id));
 const seenQ = new Set(questions.map((q) => q.id));
 const seenFc = new Set(flashcards.map((f) => f.id));
+const seenSrc = new Set(catalog.sourceDocuments.map((s) => s.id));
 
 const fragmentFiles = readdirSync(join(ROOT, COURSE, 'fragments'))
   .filter((f) => f.endsWith('.json'))
+  .filter((f) => !ONLY || ONLY.has(f))
   .sort();
+if (ONLY) {
+  for (const name of ONLY) {
+    if (!fragmentFiles.includes(name)) fail(`--only lists missing fragment ${name}`);
+  }
+}
 console.log(`fragments: ${fragmentFiles.join(', ') || '(none)'}`);
 
-const added = { provisions: 0, cases: 0, questions: 0, flashcards: 0, patches: 0 };
+const added = { provisions: 0, cases: 0, questions: 0, flashcards: 0, patches: 0, sources: 0 };
 
 for (const file of fragmentFiles) {
   const frag = read(`${COURSE}/fragments/${file}`);
   const tag = `fragment ${file}`;
+  for (const s of frag.sources ?? []) {
+    if (seenSrc.has(s.id)) {
+      fail(`${tag}: duplicate source ${s.id}`);
+    } else if (s.origin !== 'legal-source' || !s.url) {
+      fail(`${tag}: source ${s.id} must be origin legal-source with a url`);
+    } else {
+      seenSrc.add(s.id);
+      catalog.sourceDocuments.push({ available: false, ...s });
+      added.sources += 1;
+    }
+  }
+  for (const patch of frag.modulePatches ?? []) {
+    const mod = moduleById.get(patch.id);
+    if (!mod) {
+      fail(`${tag}: patch for unknown module ${patch.id}`);
+      continue;
+    }
+    if (patch.coverage) mod.coverage = patch.coverage;
+    if (patch.provenance) mod.provenance = patch.provenance;
+    if (patch.primarySourceIds) {
+      for (const id of patch.primarySourceIds) {
+        if (!seenSrc.has(id)) fail(`${tag}: module ${patch.id} dangling source ${id}`);
+        else if (!mod.primarySourceIds.includes(id)) mod.primarySourceIds.push(id);
+      }
+    }
+  }
   for (const p of frag.provisions ?? []) {
     if (seenProv.has(p.id)) fail(`${tag}: duplicate provision ${p.id}`);
     else {
@@ -100,6 +140,7 @@ for (const file of fragmentFiles) {
     }
     if (patch.verificationNotes) topic.verificationNotes = patch.verificationNotes;
     if (patch.coverage) topic.coverage = patch.coverage;
+    if (patch.provenance) topic.provenance = patch.provenance;
     added.patches += 1;
   }
 }
@@ -141,7 +182,17 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
+// Block coverage is derived from module coverage — never hand-set.
+for (const block of blocks) {
+  const covs = block.moduleIds.map((id) => moduleById.get(id)?.coverage).filter(Boolean);
+  if (covs.some((c) => c === 'NEEDS_VERIFICATION')) block.coverage = 'NEEDS_VERIFICATION';
+  else if (covs.length > 0 && covs.every((c) => c === 'COVERED')) block.coverage = 'COVERED';
+  else if (covs.length > 0 && covs.every((c) => c === 'SYLLABUS_ONLY')) block.coverage = 'SYLLABUS_ONLY';
+  else block.coverage = 'PARTIAL';
+}
+write(`${COURSE}/blocks.json`, blocks);
 write(`${COURSE}/topics.json`, topics);
+write(`${COURSE}/modules.json`, modules);
 write(`${COURSE}/provisions.json`, provisions);
 write(`${COURSE}/cases.json`, cases);
 write(`${COURSE}/questions.json`, questions);
@@ -150,7 +201,7 @@ write(`${COURSE}/lessons/index.json`, { lessons: nextIndex });
 write('catalog.json', catalog);
 
 console.log(
-  `${DRY ? '[dry-run] ' : ''}merge-fragments: OK — +${added.provisions} provisions, +${added.cases} cases, ` +
-    `+${added.questions} questions, +${added.flashcards} flashcards, ${added.patches} topic patches, ` +
-    `${nextIndex.length} lessons indexed.`,
+  `${DRY ? '[dry-run] ' : ''}merge-fragments: OK — +${added.sources} sources, +${added.provisions} provisions, ` +
+    `+${added.cases} cases, +${added.questions} questions, +${added.flashcards} flashcards, ` +
+    `${added.patches} topic patches, ${nextIndex.length} lessons indexed.`,
 );

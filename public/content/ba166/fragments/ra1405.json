@@ -1,0 +1,1624 @@
+{
+  "sources": [
+    {
+      "id": "src.law.ra1405",
+      "filename": "Republic Act No. 1405",
+      "shortName": "RA 1405 (Secrecy of Bank Deposits)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/25583",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "Current text: original Secs. 2-3 in force (PD 1792 repealed by RA 7653, Sec. 135). S. No. 351; H. No. 3977; 51 OG No. 10, 4976; approved September 9, 1955. E-Library digitization has minor OCR slips ('cases impeachment', 'a line'); verbatim follows the corroborated reading (Lawphil; SC quotations in Ortega and Ejercito)."
+    },
+    {
+      "id": "src.law.pd1792",
+      "filename": "Presidential Decree No. 1792",
+      "shortName": "PD 1792 (amending RA 1405; repealed)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/presdecs/pd1981/pd_1792_1981.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "Issued January 16, 1981; expressly repealed by RA 7653, Sec. 135 (1993). Consulted for amendment history only; its Secs. 2-3 text is no longer law."
+    },
+    {
+      "id": "src.law.ra7653",
+      "filename": "Republic Act No. 7653 (New Central Bank Act)",
+      "shortName": "RA 7653 (New Central Bank Act)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra1993/ra_7653_1993.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "Approved June 14, 1993. Consulted for Sec. 135 (PD 1792 repeal) and original Secs. 25-26; Sec. 25 later amended by RA 11211."
+    },
+    {
+      "id": "src.law.ra11211",
+      "filename": "Republic Act No. 11211 (amending RA 7653)",
+      "shortName": "RA 11211 (BSP Charter amendments)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11211_2019.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "2019. Amends RA 7653 Sec. 25 (BSP examination stays subject to secrecy laws); leaves the Sec. 26 DOSRI waiver untouched."
+    },
+    {
+      "id": "src.law.ra6426",
+      "filename": "Republic Act No. 6426 (Foreign Currency Deposit Act)",
+      "shortName": "RA 6426 (Foreign Currency Deposit Act)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1239",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "Approved April 4, 1972. S. No. 541; H. No. 2475; 68 OG No. 23, 4503. Secs. 6 and 8 as amended by PD 1246; Sec. 12-A added by PD 1246. Minor E-Library OCR slips ('of fender', 'Effectively', 'SEC 7') corrected per corroborated reading."
+    },
+    {
+      "id": "src.law.pd1035",
+      "filename": "Presidential Decree No. 1035",
+      "shortName": "PD 1035 (amending RA 6426)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://chanrobles.com/presidentialdecrees/presidentialdecreeno1035.html",
+      "publisher": "ChanRobles Virtual Law Library",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "September 30, 1976. Consulted for the intermediate Sec. 8 text (superseded by PD 1246); taught as history."
+    },
+    {
+      "id": "src.law.pd1246",
+      "filename": "Presidential Decree No. 1246",
+      "shortName": "PD 1246 (amending RA 6426)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/59391",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "November 21, 1977. Current Secs. 6, 8 and 12-A of RA 6426. Sec. 8 reading ('the depositor'; 'judicial or administrative or legislative or any other entity whether public or private') confirmed by the Supreme Court's quotation in Salvacion v. Central Bank, G.R. No. 94723."
+    },
+    {
+      "id": "src.law.ra10021",
+      "filename": "Republic Act No. 10021 (Exchange of Information on Tax Matters Act of 2009)",
+      "shortName": "RA 10021 (NIRC Sec. 6(F))",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10021_2010.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "2010. Current NIRC Sec. 6(F) text (BIR bank-inquiry authority). Digitized copies uniformly read '(2) ... under Sec. 204(A)(2) reason of financial incapacity'; quoted as transcribed."
+    },
+    {
+      "id": "src.law.ra10167",
+      "filename": "Republic Act No. 10167 (amending AMLA Secs. 10-11)",
+      "shortName": "RA 10167 (AMLA Sec. 11)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2012/ra_10167_2012.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "June 6, 2012. Current AMLA Sec. 11 text (AMLC bank-inquiry authority); untouched by RA 10365 and RA 11521."
+    },
+    {
+      "id": "src.law.ra10365",
+      "filename": "Republic Act No. 10365 (strengthening the AMLA)",
+      "shortName": "RA 10365 (AMLA predicates)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10365_2013.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "2013. Consulted for the Sec. 3(i) predicate enumeration ((1) kidnapping for ransom, (2) drug offenses, (12) hijacking/destructive arson/murder) referenced by Sec. 11; does not amend Sec. 11."
+    },
+    {
+      "id": "src.law.ra11521",
+      "filename": "Republic Act No. 11521 (strengthening the AMLA)",
+      "shortName": "RA 11521 (AMLA amendments)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11521_2021.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "January 29, 2021. Appends new Sec. 3(i) predicates without renumbering (1), (2), (12); does not amend Sec. 11."
+    },
+    {
+      "id": "src.law.pd679",
+      "filename": "Presidential Decree No. 679 (amending Act No. 3936)",
+      "shortName": "PD 679 (Unclaimed Balances Law)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/20640",
+      "publisher": "Supreme Court E-Library",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "April 2, 1975. Current Act No. 3936 Secs. 1-5 (unclaimed-balances report and escheat). Verbatim cross-checked against the Lawphil transcription."
+    },
+    {
+      "id": "src.law.gr-l34964",
+      "filename": "China Banking Corporation v. Ortega, G.R. No. L-34964",
+      "shortName": "CBC v. Ortega (1973)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1973/jan1973/gr_34964_1973.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "January 31, 1973, En Banc. Peso-deposit garnishment to satisfy a judgment is allowed; disclosure is incidental to execution."
+    },
+    {
+      "id": "src.law.gr-94723",
+      "filename": "Salvacion v. Central Bank, G.R. No. 94723",
+      "shortName": "Salvacion v. Central Bank (1997)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1997/aug1997/gr_94723_1997.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "August 21, 1997, En Banc. FCD attachment/garnishment exemption held inapplicable on peculiar equitable facts."
+    },
+    {
+      "id": "src.law.gr-157294",
+      "filename": "Ejercito v. Sandiganbayan, G.R. Nos. 157294-95",
+      "shortName": "Ejercito v. Sandiganbayan (2006)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2006/nov2006/gr_157294_2006.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "November 30, 2006, En Banc. Sec. 2 exceptions in plunder prosecutions (bribery/dereliction; subject matter reaching transferee accounts)."
+    },
+    {
+      "id": "src.law.gr-135882",
+      "filename": "Marquez v. Desierto, G.R. No. 135882",
+      "shortName": "Marquez v. Desierto (2001)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2001/jun2001/gr_135882_2001.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "June 27, 2001, En Banc. RA 6770 does not override RA 1405; in-camera inspection requires a pending court case and safeguards."
+    },
+    {
+      "id": "src.law.gr-134699",
+      "filename": "Union Bank v. CA, G.R. No. 134699",
+      "shortName": "Union Bank v. CA (1999)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri1999/dec1999/gr_134699_1999.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "December 23, 1999, First Division. The money deposited itself must be the subject matter of the litigation."
+    },
+    {
+      "id": "src.law.gr-176438",
+      "filename": "PDIC v. Phil. Countryside Rural Bank, G.R. No. 176438",
+      "shortName": "PDIC v. Countryside (2011)",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2011/jan2011/gr_176438_2011.html",
+      "publisher": "Lawphil Project, Arellano Law Foundation",
+      "accessedAt": "2026-11-09",
+      "available": false,
+      "notes": "January 24, 2011, Second Division. PDIC Sec. 9(b-1) investigation is distinct from Sec. 8 examination; quotes the inquiry-into-deposits power."
+    }
+  ],
+  "modulePatches": [
+    {
+      "id": "ba166.secrecy",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "primarySourceIds": [
+        "src.law.ra1405",
+        "src.law.ra6426",
+        "src.law.pd1246"
+      ]
+    }
+  ],
+  "topicPatches": [
+    {
+      "id": "ba166.secrecy.coverage",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "lessonIds": [
+        "les.secrecy.coverage"
+      ],
+      "provisionIds": [
+        "prov.ra1405-sec1",
+        "prov.ra1405-sec2",
+        "prov.ra1405-sec3",
+        "prov.ra1405-sec4",
+        "prov.ra1405-sec6",
+        "prov.ra7653-sec135"
+      ],
+      "caseIds": []
+    },
+    {
+      "id": "ba166.secrecy.exceptions",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "lessonIds": [
+        "les.secrecy.exceptions"
+      ],
+      "provisionIds": [
+        "prov.ra1405-sec2",
+        "prov.ra1405-sec3",
+        "prov.ra1405-sec5",
+        "prov.ra7653-sec135",
+        "prov.ra9160-sec11",
+        "prov.nirc-sec6f",
+        "prov.ra3591-sec8-eighth",
+        "prov.act3936-sec2",
+        "prov.ra7653-sec25-exam",
+        "prov.ra7653-sec26-dosri"
+      ],
+      "caseIds": [
+        "case.chinabank-ortega",
+        "case.ejercito-sandiganbayan",
+        "case.marquez-desierto",
+        "case.unionbank-ca",
+        "case.pdic-countryside",
+        "case.republic-eugenio"
+      ]
+    },
+    {
+      "id": "ba166.secrecy.foreign-currency",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "lessonIds": [
+        "les.secrecy.foreign-currency"
+      ],
+      "provisionIds": [
+        "prov.ra6426-sec1",
+        "prov.ra6426-sec2",
+        "prov.ra6426-sec3",
+        "prov.ra6426-sec5",
+        "prov.ra6426-sec6",
+        "prov.ra6426-sec8",
+        "prov.ra6426-sec9",
+        "prov.ra6426-sec10",
+        "prov.ra6426-sec12a"
+      ],
+      "caseIds": [
+        "case.salvacion-centralbank",
+        "case.chinabank-ortega"
+      ]
+    }
+  ],
+  "provisions": [
+    {
+      "id": "prov.ra1405-sec1",
+      "citation": "RA No. 1405, Sec. 1",
+      "instrument": "RA 1405",
+      "articleOrSection": "1",
+      "verbatim": "It is hereby declared to be the policy of the Government to give encouragement to the people to deposit their money in banking institutions and to discourage private hoarding so that the same may be properly utilized by banks in authorized loans to assist in the economic development of the country.",
+      "explanation": "The law exists to build trust in banks: people who are confident their deposits stay secret will deposit instead of hoarding cash at home, and banks can then lend those funds for economic development. For an accountancy student, this policy explains every rule that follows — confidentiality is the default because public confidence in the banking system is the State's goal. Quoted by the Supreme Court in garnishment and inquiry cases as the intent behind the secrecy rule.",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 1"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra1405-sec2",
+      "citation": "RA No. 1405, Sec. 2",
+      "instrument": "RA 1405",
+      "articleOrSection": "2",
+      "verbatim": "All deposits of whatever nature with banks or banking institutions in the Philippines including investments in bonds issued by the Government of the Philippines, its political subdivisions and its instrumentalities, are hereby considered as of an absolutely confidential nature and may not be examined, inquired or looked into by any person, government official, bureau or office, except upon written permission of the depositor, or in cases of impeachment, or upon order of a competent court in cases of bribery or dereliction of duty of public officials, or in cases where the money deposited or invested is the subject matter of the litigation.",
+      "explanation": "This is the core of the module. Coverage has two limbs: (1) all deposits of whatever nature with Philippine banks or banking institutions — peso savings, checking, and time deposits, and the Supreme Court has applied the law to trust/SPAN accounts (Ejercito); and (2) investments in bonds issued by the Government, its political subdivisions, and instrumentalities. Confidentiality is 'absolute' against everyone — any person, government official, bureau, or office — subject to only four statutory exceptions: written permission of the depositor; impeachment; court order in bribery or dereliction-of-duty cases against public officials; and cases where the deposited money itself is the subject matter of the litigation. Later special laws add further inquiry pathways (AMLA, tax, PDIC, unclaimed balances), and jurisprudence allows garnishment of peso deposits (Ortega). Foreign currency deposits are no longer governed by this section — they follow RA 6426, Sec. 8 as amended by PD 1246.",
+      "topicIds": [
+        "ba166.secrecy.coverage",
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [
+        "case.chinabank-ortega",
+        "case.ejercito-sandiganbayan",
+        "case.marquez-desierto",
+        "case.unionbank-ca"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra1405-sec3",
+      "citation": "RA No. 1405, Sec. 3",
+      "instrument": "RA 1405",
+      "articleOrSection": "3",
+      "verbatim": "It shall be unlawful for any official or employee of a banking institution to disclose to any person other than those mentioned in Section two hereof any information concerning said deposits.",
+      "explanation": "Section 2 states the confidentiality rule; Section 3 creates the criminally punishable act: disclosure by any official or employee of a banking institution to anyone outside the Section 2 exceptions. Note the persons covered — bank directors, officers, tellers, and staff — and the breadth of 'any information concerning said deposits' (balances, movements, and account existence alike). A bank employee who leaks a client's balance to a business rival, a spouse in a private dispute, or media violates this section. Lawful disclosure happens only through a Section 2 exception or a later special law.",
+      "topicIds": [
+        "ba166.secrecy.coverage",
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [
+        "case.marquez-desierto"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 3"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra1405-sec4",
+      "citation": "RA No. 1405, Sec. 4",
+      "instrument": "RA 1405",
+      "articleOrSection": "4",
+      "verbatim": "All Acts or parts of Acts, Special Charters, Executive Orders, Rules and Regulations which are inconsistent with the provisions of this Act are hereby repealed.",
+      "explanation": "Standard repealing clause: any earlier law, charter, executive order, or regulation inconsistent with RA 1405 gives way to it. It confirms that bank-deposit confidentiality overrides older disclosure rules, though later special laws (AMLA, tax, PDIC charter) can and do carve out their own inquiry powers.",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 4"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra1405-sec5",
+      "citation": "RA No. 1405, Sec. 5",
+      "instrument": "RA 1405",
+      "articleOrSection": "5",
+      "verbatim": "Any violation of this law will subject offender upon conviction, to an imprisonment of not more than five years or a fine of not more than twenty thousand pesos or both, in the discretion of the court.",
+      "explanation": "Penalty upon conviction: imprisonment of up to five years, a fine of up to twenty thousand pesos, or both, at the court's discretion. This punishes unlawful disclosure (Sec. 3) and any other violation of the Act. Compare with RA 6426, Sec. 10 (one to five years plus P5,000-P25,000 for willful violations) and the Unclaimed Balances Law's P500/month administrative penalty for reporting defaults.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 5"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra1405-sec6",
+      "citation": "RA No. 1405, Sec. 6",
+      "instrument": "RA 1405",
+      "articleOrSection": "6",
+      "verbatim": "This Act shall take effect upon its approval.",
+      "explanation": "Effectivity clause. RA 1405 was approved on September 9, 1955 and took effect immediately. The current text in force is the original 1955 text of Secs. 2-3, restored after PD 1792's amendments were repealed by RA 7653, Sec. 135.",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 6"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra7653-sec135",
+      "citation": "RA No. 7653, Sec. 135 (repealing PD 1792)",
+      "instrument": "RA 7653",
+      "articleOrSection": "135",
+      "verbatim": "Except as may be provided for in Section 46 and 132 of this Act, Republic Act No. 265, as amended, the provisions of any other law, special charters, rule or regulation issued pursuant to said Republic Act No. 265, as amended, or parts thereof, which may be inconsistent with the provisions of this Act are hereby repealed. Presidential Decree No. 1792 is likewise repealed.",
+      "explanation": "The key sentence for this module is the last one: PD 1792 is expressly repealed. PD 1792 (1981) had added two Sec. 2 exceptions — Monetary-Board-authorized examination on suspected bank fraud, and independent-auditor examination for bank audits. Its repeal in 1993 restored RA 1405's original four exceptions, which is the text the Supreme Court E-Library presents as current law. Exam trap: several Supreme Court decisions (Union Bank, Marquez, Ejercito) still reproduce the repealed PD 1792-era six-item enumeration — the controlling statutory text has only four exceptions, plus pathways created by later special laws.",
+      "topicIds": [
+        "ba166.secrecy.coverage",
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra7653",
+          "section": "Sec. 135"
+        },
+        {
+          "sourceId": "src.law.pd1792",
+          "section": "Secs. 1-2",
+          "excerptHint": "Repealed amendatory text; history only"
+        }
+      ]
+    },
+    {
+      "id": "prov.nirc-sec6f",
+      "citation": "NIRC, Sec. 6(F), as amended by RA No. 10021, Sec. 3 (excerpt)",
+      "instrument": "NIRC (RA 8424, as amended)",
+      "articleOrSection": "6(F)",
+      "verbatim": "(F) Authority of the Commissioner to Inquire into Bank Deposit Accounts and Other Related Information Held by Financial Institutions. - Notwithstanding any contrary provision of Republic Act No. 1405, Republic Act No. 6426, otherwise known as the Foreign Currency Deposit Act of the Philippines, and other general and special laws, the Commissioner is hereby authorized to inquire into the bank deposits and other related information held by financial institutions of: (1) A decedent to determine his gross estate. (2) Any taxpayer who has filed an application for compromise of his tax liability under Sec. 204 (A)(2) reason of financial incapacity to pay his tax liability. In case a taxpayer files an application to compromise the payment of his tax liabilities on his claim that his financial position demonstrates a clear inability to pay the tax assessed, his application shall not be considered unless and until he waives in writing his privilege under Republic Act No. 1405, Republic Act No. 6426, otherwise known as the Foreign Currency Deposit Act of the Philippines, or under other general or special laws, and such waiver shall constitute the authority of the Commissioner to inquire into the bank deposits of the taxpayer. (3) A specific taxpayer or taxpayers subject of a request for the supply of tax information from a foreign tax authority pursuant to an international convention or agreement on tax matters to which the Philippines is a signatory or a party of: Provided, That the information obtained from the banks and other financial institutions may be used by the Bureau of Internal Revenue for tax assessment, verification, audit and enforcement purposes.",
+      "explanation": "Excerpt of Sec. 6(F): the Commissioner of Internal Revenue may inquire into bank deposits — expressly overriding both RA 1405 and RA 6426 — only through three paths: (1) a decedent's deposits, to determine the gross estate for estate-tax purposes; (2) a taxpayer who applied to compromise tax liability for financial incapacity, and only after the taxpayer waives secrecy in writing (without the waiver, the application is not even considered); (3) a specific taxpayer covered by a foreign tax authority's treaty-based information request, with the obtained information usable for BIR assessment, verification, audit, and enforcement. The subsection continues with request-form, foreseeable-relevance, transmittal, and confidentiality mechanics (summarized here). Practical upshot: in a routine audit of a living taxpayer, the BIR has no free-standing power to open deposit records — students should treat these three paths as exclusive.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10021",
+          "section": "Sec. 3 (NIRC Sec. 6(F))",
+          "excerptHint": "Inquiry paths, waiver rule, and use proviso (treaty-request mechanics summarized)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra3591-sec8-eighth",
+      "citation": "RA No. 3591, Sec. 8, Eighth power, as amended by RA No. 11840, Sec. 7",
+      "instrument": "RA 3591 (PDIC Charter)",
+      "articleOrSection": "8 (Eighth)",
+      "verbatim": "Eighth - To examine the records and books of accounts and require information and reports from depository institutions in case there is a finding of fraud or unsafe or unsound banking related to deposit-taking: Provided, That, notwithstanding the provisions of Republic Act No. 1405, as amended, Republic Act No. 6426, as amended, Republic Act No. 8791, and other laws, the Corporation and/or the Bangko Sentral ng Pilipinas, may inquire into or examine deposit accounts and all information related thereto in case there is a finding of unsafe or unsound banking practice: Provided, further, That to avoid overlapping of efforts, the examination shall maximize the efficient use of the relevant reports, information, and findings of the Bangko Sentral ng Pilipinas, which it shall make available to the Corporation.",
+      "explanation": "When there is a finding of unsafe or unsound banking practice, the PDIC and/or the BSP may inquire into or examine deposit accounts and related information — expressly overriding RA 1405, RA 6426, and RA 8791. This is the examination-related exception students often misattribute to a general BSP examination power: the trigger is a finding of fraud or unsafe/unsound deposit-taking, not routine supervision. (RA 11840 defines 'unsafe and unsound banking' by reference to BSP definitions under RA 7653.) The Supreme Court in PDIC v. Philippine Countryside Rural Bank separately held that PDIC's Sec. 9(b-1) investigation power needs no Monetary Board approval, unlike examination powers.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [
+        "case.pdic-countryside"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11840",
+          "section": "Sec. 7 (RA 3591, Sec. 8)"
+        }
+      ]
+    },
+    {
+      "id": "prov.act3936-sec2",
+      "citation": "Act No. 3936, Sec. 2, as amended by PD No. 679, Sec. 1 (excerpt)",
+      "instrument": "Act 3936 (Unclaimed Balances Law)",
+      "articleOrSection": "2",
+      "verbatim": "Immediately after the taking effect of this Act and within the month of January of every odd year, all banks, building and loan associations, and trust corporations shall forward to the Treasurer of the Philippines a statement, under oath, of their respective managing officers, of all credits and deposits held by them in favor of persons known to be dead, or who have not made further deposits or withdrawals during the preceding ten years or more, arranged in alphabetical order according to the names of creditors and depositors, and showing: (a) The names and last known place of residence or post office addresses of the persons in whose favor such unclaimed balances stand; (b) The amount and the date of the outstanding unclaimed balance and whether the same is in money or in security, and if the latter, the nature of the same; (c) The date when the person in whose favor the unclaimed balance stands died, if known, or the date when he made his last deposit or withdrawal; and (d) The interest due on such unclaimed balance, if any, and the amount thereof. A copy of the above sworn statement shall be posted in a conspicuous place in the premises of the bank, building and loan association, or trust corporation concerned for at least sixty days from the date of filing thereof: Provided, That immediately before filing the above sworn statement, the bank, building and loan association, and trust corporation shall communicate with the person in whose favor the unclaimed balance stands at his last known place of residence or post office address.",
+      "explanation": "Excerpt stating the report-and-posting duties; Secs. 1 and 3-5 are taught alongside in lesson prose. 'Unclaimed balances' (Sec. 1) means credits or deposits — money, bullion, securities, or other evidence of indebtedness plus interest — favoring a person known to be dead or with no deposit or withdrawal for ten years or more; these are ultimately deposited with the Treasurer to government credit. Every odd-year January, banks must swear and file the detailed statement (names, addresses, amounts, dates, interest), first contact the depositor at the last known address, and post a copy conspicuously in the bank for at least 60 days. The Treasurer informs the Solicitor General, who files an escheat action joining the bank and the depositors (Sec. 3, with published summons and notice); failure to file the statement costs the bank P500 per month of default (Sec. 4); and a bank that duly turns over the balances is discharged from further liability (Sec. 5). This is a statutory disclosure pathway that overrides deposit confidentiality.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pd679",
+          "section": "Sec. 1 (Act 3936, Sec. 2)",
+          "excerptHint": "Report/posting duties (Secs. 1, 3-5 summarized in explanation)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra7653-sec25-exam",
+      "citation": "RA No. 7653, Sec. 25, as amended by RA No. 11211, Sec. 8 (excerpt)",
+      "instrument": "RA 7653",
+      "articleOrSection": "25",
+      "verbatim": "The department heads and the examiners of the supervising and/or examining departments are hereby authorized to administer oaths to any director, officer, or employee of any institution under their respective supervision or subject to their examination, and to compel the presentation of all books, documents, papers or records necessary in their judgment to ascertain the facts relative to the true condition of any institution as well as the books and records of persons and entities relative to or in connection with the operations, activities or transactions of the institution under examination, subject to the provision of existing laws protecting or safeguarding the secrecy or confidentiality of bank deposits as well as investments of private persons, natural or juridical, in debt instruments issued by the Government.",
+      "explanation": "Excerpt of the BSP examination power — read the tail clause carefully: the power to compel books and records is expressly 'subject to' secrecy laws. There is therefore no general BSP-examination exception to RA 1405; since PD 1792's repeal, examiners must respect deposit confidentiality during regular or special examinations. Lawful examination-related inquiry into deposits runs instead through the PDIC Charter's Eighth power (finding of fraud or unsafe/unsound deposit-taking) or a depositor's own waiver, such as the DOSRI waiver in Sec. 26. A classic exam trap is to list 'BSP examination' as a blanket exception — it is not.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11211",
+          "section": "Sec. 8 (RA 7653, Sec. 25)",
+          "excerptHint": "Examination power subject to secrecy laws (excerpt)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra7653-sec26-dosri",
+      "citation": "RA No. 7653, Sec. 26",
+      "instrument": "RA 7653",
+      "articleOrSection": "26",
+      "verbatim": "Any director, officer or stockholder who, together with his related interest, contracts a loan or any form of financial accommodation from: (1) his bank; or (2) from a bank (a) which is a subsidiary of a bank holding company of which both his bank and the lending bank are subsidiaries or (b) in which a controlling proportion of the shares is owned by the same interest that owns a controlling proportion of the shares of his bank, in excess of five percent (5%) of the capital and surplus of the bank, or in the maximum amount permitted by law, whichever is lower, shall be required by the lending bank to waive the secrecy of his deposits of whatever nature in all banks in the Philippines. Any information obtained from an examination of his deposits shall be held strictly confidential and may be used by the examiners only in connection with their supervisory and examination responsibility or by the Bangko Sentral in an appropriate legal action it has initiated involving the deposit account.",
+      "explanation": "The DOSRI (directors, officers, stockholders, and related interests) waiver: a bank insider borrowing above the statutory threshold from his own or a related bank must waive secrecy over deposits of whatever nature in all Philippine banks. It is a consent-based pathway — the insider's written waiver functions like the depositor's written permission under RA 1405, Sec. 2 — but the law strictly limits use of what examiners learn (supervisory purposes or a BSP-initiated legal action on the account). Unamended by RA 11211; still cited in current bank loan-waiver forms.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra7653",
+          "section": "Sec. 26"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec1",
+      "citation": "RA No. 6426, Sec. 1",
+      "instrument": "RA 6426",
+      "articleOrSection": "1",
+      "verbatim": "This Act shall be known as the \"Foreign Currency Deposit Act of the Philippines.\"",
+      "explanation": "Short title. RA 6426 (approved April 4, 1972) institutes the foreign currency deposit system: Philippine banks in good standing, designated by the Central Bank (now BSP), accept deposits in foreign currencies that form part of the international reserve. Its secrecy regime now sits in Sec. 8 as amended by PD 1246 — stricter than RA 1405, with only the depositor's written permission as an internal exception and an express bar on attachment and garnishment.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra6426",
+          "section": "Sec. 1"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec2",
+      "citation": "RA No. 6426, Sec. 2",
+      "instrument": "RA 6426",
+      "articleOrSection": "2",
+      "verbatim": "Any person, natural or juridical, may, in accordance with the provisions of this Act, deposit with such Philippine banks in good standing, as may, upon application, be designated by the Central Bank for the purpose, foreign currencies which are acceptable as part of the international reserve, except those which are required by the Central Bank to be surrendered in accordance with the provisions of Republic Act Numbered Two hundred sixty-five.",
+      "explanation": "Who may open a foreign currency deposit, and where: any natural or juridical person — individuals and companies alike, residents and non-residents — may deposit eligible foreign currencies (those acceptable as international reserve) with designated banks in good standing. The 'Central Bank' designation role now belongs to the BSP. For commerce students: an exporter holding dollars or a BPO receiving foreign remittances can lawfully keep those funds in the Philippine banking system under this Act, enjoying its confidentiality, withdrawability, and tax features.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra6426",
+          "section": "Sec. 2"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec3",
+      "citation": "RA No. 6426, Sec. 3",
+      "instrument": "RA 6426",
+      "articleOrSection": "3",
+      "verbatim": "The banks designated by the Central Bank under Section two hereof shall have the authority: (1) To accept deposits and to accept foreign currencies in trust: Provided, That numbered accounts for recording and servicing of said deposits shall be allowed; (2) To issue certificates to evidence such deposits; (3) To discount said certificates; (4) To accept said deposits as collateral for loans subject to such rules and regulations as may be promulgated by the Central Bank from time to time; and (5) To pay interest in foreign currency on such deposits.",
+      "explanation": "What designated banks may do with foreign currency deposits: accept them (including in trust), allow numbered accounts, issue and discount deposit certificates, take the deposits as loan collateral, and pay interest in foreign currency. The numbered-accounts proviso is itself a confidentiality feature — the account is serviced by number rather than name. Note that using the deposit as loan collateral is voluntary dealing by the depositor, not an exception that lets outsiders pry into the account.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra6426",
+          "section": "Sec. 3"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec5",
+      "citation": "RA No. 6426, Sec. 5",
+      "instrument": "RA 6426",
+      "articleOrSection": "5",
+      "verbatim": "There shall be no restriction on the withdrawal by the depositor of his deposit or on the transferability of the same abroad except those arising from the contract between the depositor and the bank.",
+      "explanation": "Free withdrawability and transferability abroad: the State imposes no restriction — only the depositor's own contract with the bank can limit withdrawal or outward transfer. Together with confidentiality (Sec. 8) and tax exemption (Sec. 6), this was the incentive package that drew foreign currency into Philippine banks. Do not confuse this freedom of the depositor with freedom of outsiders: creditors and investigators remain barred by Sec. 8.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra6426",
+          "section": "Sec. 5"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec6",
+      "citation": "RA No. 6426, Sec. 6, as amended by PD No. 1246, Sec. 1",
+      "instrument": "RA 6426",
+      "articleOrSection": "6",
+      "verbatim": "All foreign currency deposits made under this Act, as amended by Presidential Decree No. 1035, as well as foreign currency deposits authorized under Presidential Decree No. 1034, including interest and all other income or earnings of such deposits, are hereby exempted from any and all taxes whatsoever irrespective of whether or not these deposits are made by residents or non-residents so long as the deposits are eligible or allowed under aforementioned laws and, in the case of non-residents, irrespective of whether or not they are engaged in trade or business in the Philippines.",
+      "explanation": "PD 1246 replaced the original Sec. 6 (which exempted only interest earned by non-residents not in business) with a blanket exemption: eligible foreign currency deposits plus all interest and earnings are exempt from any and all taxes, whether the depositor is resident or non-resident. Tax is not this module's focus, but the exemption completes the FCD incentive picture (confidentiality + withdrawability + tax exemption) and explains why the system — and its secrecy — is jealously guarded. Eligibility under the Act and its regulations remains a condition.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pd1246",
+          "section": "Sec. 1 (RA 6426, Sec. 6)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec8",
+      "citation": "RA No. 6426, Sec. 8, as amended by PD No. 1246, Sec. 2",
+      "instrument": "RA 6426",
+      "articleOrSection": "8",
+      "verbatim": "All foreign currency deposits authorized under this Act, as amended by Presidential Decree No. 1035, as well as foreign currency deposits authorized under Presidential Decree No. 1034, are hereby declared as and considered of an absolutely confidential nature and, except upon the written permission of the depositor, in no instance shall such foreign currency deposits be examined, inquired or looked into by any person, government official, bureau or office whether judicial or administrative or legislative or any other entity whether public or private: Provided, however, that said foreign currency deposits shall be exempt from attachment, garnishment, or any other order or process of any court, legislative body, government agency or any administrative body whatsoever.",
+      "explanation": "The heart of foreign currency secrecy, and deliberately stricter than RA 1405: the only internal exception is the depositor's written permission — there is no impeachment, bribery/dereliction, or subject-matter-of-litigation exception — and the deposits are expressly exempt from attachment, garnishment, or any other court, legislative, or administrative process. History: the original Sec. 8 (1972) made FCD secrecy follow RA 1405; PD 1035 (1976) kept that while adding usury/uniform-currency non-applicability; PD 1246 (1977) imposed this absolute regime to attract inflows. Coverage reaches both RA 6426/PD 1035 deposits and offshore-banking (PD 1034) deposits. Two cautions: (1) Salvacion v. Central Bank refused to apply the garnishment exemption on peculiar equitable facts — a narrow ruling, not a general license; (2) later 'notwithstanding RA 6426' laws (AMLA Sec. 11, NIRC Sec. 6(F), PDIC Charter Sec. 8) reach foreign currency deposits through their own procedures, a textual tension with Sec. 12-A that the Supreme Court has not squarely resolved.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [
+        "case.salvacion-centralbank"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pd1246",
+          "section": "Sec. 2 (RA 6426, Sec. 8)"
+        },
+        {
+          "sourceId": "src.law.gr-94723",
+          "section": "G.R. No. 94723, August 21, 1997",
+          "excerptHint": "Court's quotation confirming the Sec. 8 reading"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec9",
+      "citation": "RA No. 6426, Sec. 9",
+      "instrument": "RA 6426",
+      "articleOrSection": "9",
+      "verbatim": "The deposits under this Act shall be insured under the provisions of Republic Act Numbered Three thousand five hundred ninety-one, as amended, as well as its implementing rules and regulations: Provided, That insurance payment shall be in the same currency in which the insured deposits are denominated.",
+      "explanation": "Foreign currency deposits are PDIC-insured like peso deposits, but any insurance payout is made in the same currency as the deposit (dollars for dollar deposits). This links the module to PDIC insurance: the same confidentiality that shields the account during the bank's life does not prevent the insurance system from working if the bank closes. Full PDIC treatment belongs to the PDIC module.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra6426",
+          "section": "Sec. 9"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec10",
+      "citation": "RA No. 6426, Sec. 10",
+      "instrument": "RA 6426",
+      "articleOrSection": "10",
+      "verbatim": "Any willful violation of this Act or any regulation duly promulgated by the Monetary Board pursuant hereto shall subject the offender upon conviction to an imprisonment of not less than one year nor more than five years or a fine of not less than five thousand pesos nor more than twenty-five thousand pesos, or both such fine and imprisonment at the discretion of the court.",
+      "explanation": "Penalties for willful violation of RA 6426 or its Monetary Board regulations: one to five years' imprisonment, a P5,000-P25,000 fine, or both. Note 'willful' — the violation must be deliberate — and that the ranges have both floors and ceilings, unlike RA 1405's ceilings-only penalty (up to five years and/or up to P20,000).",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra6426",
+          "section": "Sec. 10"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra6426-sec12a",
+      "citation": "RA No. 6426, Sec. 12-A, as added by PD No. 1246, Sec. 3",
+      "instrument": "RA 6426",
+      "articleOrSection": "12-A",
+      "verbatim": "In the event a new enactment or regulation is issued decreasing the rights hereunder granted, such new enactment or regulation shall not apply to foreign currency deposits already made or existing at the time of issuance of such new enactment or regulation, but such new enactment or regulation shall apply only to foreign currency deposits made after its issuance.",
+      "explanation": "Vested-rights protection: a later law or regulation that decreases FCD depositor rights applies only prospectively, to deposits made after its issuance — existing deposits keep the old rights. (Sec. 7 carries the same idea for Central Bank regulations.) Students should flag, not resolve, the tension between this section and later 'notwithstanding RA 6426' inquiry statutes (AMLA, tax, PDIC): the standard teaching is that those statutes' express override reaches foreign currency deposits through their own procedures, and no Supreme Court decision squarely applies Sec. 12-A to block them. State both texts on an exam and note the point as unsettled.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pd1246",
+          "section": "Sec. 3 (RA 6426, Sec. 12-A)"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "case.chinabank-ortega",
+      "name": "China Banking Corporation v. Ortega",
+      "citation": "G.R. No. L-34964, January 31, 1973 (En Banc)",
+      "facts": "Vicente Acaban won a default money judgment against Bautista Logging Co., B & B Forest Development Corp., and Marino Bautista. To satisfy it, the sheriff served a notice of garnishment on China Banking Corporation covering B & B Forest's deposit. The bank's cashier, Tan Kim Liong, refused to comply, invoking RA 1405. The trial court ordered him to state whether the deposit existed and to hold it intact pending further order, on pain of arrest.",
+      "issue": "Whether a banking institution may validly refuse to comply with a court process garnishing the bank deposit of a judgment debtor by invoking RA 1405.",
+      "ruling": "No. The Supreme Court affirmed the trial court orders: the RA 1405 prohibition on examination of or inquiry into deposits does not preclude garnishment to satisfy a judgment. Citing the 1955 congressional deliberations (Rep. Macapagal and Rep. Ramos agreed deposits 'can be attached' in ordinary civil cases), the Court reasoned Congress never intended to let debtors evade just debts by converting assets into bank deposits.",
+      "doctrine": "A peso bank deposit may be garnished to satisfy a final judgment; the incidental disclosure of the deposit's existence is not the examination, inquiry, or looking into prohibited by RA 1405.",
+      "keyPhrase": "there is no real inquiry in such a case, and if the existence of the deposit is disclosed the disclosure is purely incidental to the execution process",
+      "examUse": "State the rule plus the 'incidental disclosure' rationale. Pair with Salvacion: peso deposits can be garnished (Ortega); foreign currency deposits generally cannot (RA 6426, Sec. 8), subject only to Salvacion's narrow equitable inapplicability.",
+      "topicIds": [
+        "ba166.secrecy.exceptions",
+        "ba166.secrecy.foreign-currency"
+      ],
+      "provisionIds": [
+        "prov.ra1405-sec2"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-l34964",
+          "section": "G.R. No. L-34964, January 31, 1973"
+        }
+      ]
+    },
+    {
+      "id": "case.salvacion-centralbank",
+      "name": "Salvacion v. Central Bank of the Philippines",
+      "citation": "G.R. No. 94723, August 21, 1997 (En Banc)",
+      "facts": "American tourist Greg Bartelli detained and repeatedly raped 12-year-old Karen Salvacion in February 1989, then escaped from jail. The Salvacions won civil damages (RTC Makati, Civil Case No. 89-3214) and the sheriff garnished Bartelli's China Bank dollar account. The Central Bank opposed release of the funds, invoking the FCD exemption from attachment and garnishment (Sec. 113, CB Circular No. 960, implementing PD 1246/RA 6426, Sec. 8).",
+      "issue": "Whether the foreign currency deposit exemption from attachment and garnishment shields Bartelli's dollar deposit from execution of the damages judgment.",
+      "ruling": "On these peculiar facts, no. The Court held Sec. 113 of CB Circular No. 960 and PD 1246 (amending RA 6426, Sec. 8) inapplicable to this case 'because of its peculiar circumstances' — applying the exemption to let a transient alien wrongdoer keep his dollars beyond a child victim's reach would defeat justice (citing Civil Code Art. 10: in doubt, right and justice prevail). Respondents were ordered to comply with the writ and release enough of the dollar deposit to satisfy the judgment. The Court did not declare Sec. 8 void.",
+      "doctrine": "Foreign currency deposits are generally exempt from attachment and garnishment, but the Supreme Court will refuse to apply the exemption where it would shield wrongdoing at the expense of an innocent victim — a narrow, equity-driven inapplicability, not a general rule.",
+      "examUse": "Always frame as general rule (exempt) plus narrow exception (Salvacion). Never write 'FCDs can always be garnished' — the Court stressed the peculiar circumstances and left Sec. 8 intact.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "provisionIds": [
+        "prov.ra6426-sec8"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-94723",
+          "section": "G.R. No. 94723, August 21, 1997"
+        }
+      ]
+    },
+    {
+      "id": "case.ejercito-sandiganbayan",
+      "name": "Joseph Victor G. Ejercito v. Sandiganbayan",
+      "citation": "G.R. Nos. 157294-95, November 30, 2006 (En Banc)",
+      "facts": "In the plunder prosecution of Joseph Estrada and others (Criminal Case No. 26558), the Special Prosecution Panel obtained Sandiganbayan subpoenas (January 2003) compelling Export and Industry Bank and Equitable-PCI Bank to produce trust account/SPAN 858 records, a savings account, manager's checks, and 'Jose Velarde' account statements. Petitioner JV Ejercito, in whose name some accounts stood, moved to quash, invoking RA 1405; the Sandiganbayan denied the motions (February-March 2003).",
+      "issue": "Whether RA 1405 bars Sandiganbayan-ordered examination of the trust, savings, and related accounts in a plunder prosecution.",
+      "ruling": "No — petition dismissed; the Sandiganbayan resolutions were upheld. Two Sec. 2 exceptions applied: (1) examination upon court order in bribery/dereliction cases — plunder is of the same class, and unexplained-wealth cases are excepted since public office is a public trust (citing PNB v. Gancayco); (2) the money deposited is the subject matter of the litigation — which reaches accounts to which allegedly ill-gotten money was transferred, not only accounts in the accused's own name (citing Union Bank v. CA).",
+      "doctrine": "In plunder prosecutions, court-ordered bank inquiry falls under both the bribery/dereliction exception (plunder and unexplained wealth belong to that class) and the subject-matter exception, which extends to transferee accounts that allegedly received the tainted money.",
+      "examUse": "Run the two-exception analysis: bribery/dereliction covers plunder and unexplained wealth; subject matter reaches recipient accounts. Pair with Union Bank for the 'money itself' boundary.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "provisionIds": [
+        "prov.ra1405-sec2"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-157294",
+          "section": "G.R. Nos. 157294-95, November 30, 2006"
+        }
+      ]
+    },
+    {
+      "id": "case.marquez-desierto",
+      "name": "Marquez v. Desierto",
+      "citation": "G.R. No. 135882, June 27, 2001 (En Banc)",
+      "facts": "The Ombudsman ordered Union Bank Julia Vargas branch manager Lourdes Marquez to produce bank documents for in-camera inspection of accounts linked — through Traders Royal Bank manager's checks bought by George Trivinio — to a pending FFIB investigation of Amado Lagdameo and others for RA 3019 violations. The Ombudsman invoked RA 6770, Sec. 15(8) (power to examine and have access to bank accounts and records) and moved to cite Marquez for indirect contempt when she sought judicial clarification instead of complying.",
+      "issue": "Whether the Ombudsman may compel in-camera inspection of bank accounts during an investigation as an exception to RA 1405, and whether the bank manager may be cited for contempt for refusing.",
+      "ruling": "No on both counts — petition granted; the Ombudsman was ordered to cease and desist. Before in-camera inspection may be allowed, there must be a pending case before a court of competent jurisdiction; the account must be clearly identified; inspection is limited to the subject matter of that pending case; and bank personnel and the account holder must be notified to be present. Here there was only an Ombudsman investigation — 'fishing for additional evidence' — which does not suffice. RA 6770 does not place the Ombudsman on the same footing as the courts.",
+      "doctrine": "The Ombudsman's investigatory and subpoena powers under RA 6770 are not an exception to RA 1405; bank inquiry requires a pending court case plus the stated safeguards (identified account, limited scope, notice to bank and holder).",
+      "examUse": "Classic trap: 'the Ombudsman may look into bank deposits' is FALSE. Pair with Ejercito: courts in plunder/bribery cases may order inquiry; the Ombudsman investigating alone may not.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "provisionIds": [
+        "prov.ra1405-sec2",
+        "prov.ra1405-sec3"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-135882",
+          "section": "G.R. No. 135882, June 27, 2001"
+        }
+      ]
+    },
+    {
+      "id": "case.unionbank-ca",
+      "name": "Union Bank of the Philippines v. Court of Appeals",
+      "citation": "G.R. No. 134699, December 23, 1999 (First Division)",
+      "facts": "Union Bank, as collecting bank, under-encoded a P1,000,000 Allied Bank check as P1,000 at PCHC clearing, discovered the error almost a year later, and billed Allied Bank P999,000 — which refused, since the transaction had long closed and the drawer's account was insufficiently funded. Union Bank sued Allied Bank before the PCHC arbitration committee for the P999,000 plus damages (alleging violation of PCHC rules) and separately petitioned the RTC to examine Allied Account No. 0111-01854-8, claiming the money was the subject matter of the litigation.",
+      "issue": "Whether the P999,000 claim makes the money in the Allied account the 'subject matter of the litigation' under RA 1405, Sec. 2.",
+      "ruling": "No — petition denied. The money deposited itself must be the subject matter of the litigation. Union Bank's cause of action was Allied Bank's alleged PCHC-rule violation and consequent liability for reimbursement and damages; the account balance was not the thing in dispute but relief measured by an amount. The Court distinguished the cause of action (the legal wrong) from the subject of the action (the matter or thing with respect to which the controversy arose).",
+      "doctrine": "'Subject matter of the litigation' means the money deposited itself is the thing in dispute; a claim for reimbursement or damages merely measured by an amount does not qualify.",
+      "examUse": "Apply the subject-matter vs cause-of-action distinction. Pair with Ejercito: traced tainted money in transferee accounts does qualify; an inter-bank reimbursement claim does not.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "provisionIds": [
+        "prov.ra1405-sec2"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-134699",
+          "section": "G.R. No. 134699, December 23, 1999"
+        }
+      ]
+    },
+    {
+      "id": "case.pdic-countryside",
+      "name": "PDIC v. Philippine Countryside Rural Bank, Inc.",
+      "citation": "G.R. No. 176438, January 24, 2011 (Second Division)",
+      "facts": "Acting on BSP examination reports flagging the commonly controlled 'Legacy Banks' and on a corporate depositor's complaint against PCRBI (loans settled by dacion of already-foreclosed properties), the PDIC Board passed resolutions (2005-03-032, 2005-05-056) creating a Special Investigation Team under RA 3591, Sec. 9(b-1). The banks obtained a Court of Appeals injunction barring further PDIC investigation or examination without Monetary Board approval.",
+      "issue": "Whether PDIC investigation of the banks requires prior Monetary Board approval — that is, whether the Sec. 9(b-1) investigation power is the same as the Sec. 8 examination power.",
+      "ruling": "No — petition granted; the Court of Appeals decision was reversed and set aside. The Sec. 9(b-1) power to investigate is distinct from the Sec. 8 power to examine and needs no MB approval. The decision quotes the Charter's inquiry framework, including the Eighth power allowing the Corporation and/or the BSP to inquire into or examine deposit accounts and related information on a finding of unsafe or unsound banking practice, notwithstanding RA 1405, RA 6426, RA 8791, and other laws.",
+      "doctrine": "PDIC's investigation power is independent of its examination power; and on a finding of unsafe or unsound banking practice, the Charter authorizes PDIC/BSP inquiry into deposit accounts despite bank-secrecy laws.",
+      "examUse": "Use for two points: investigation needs no MB approval (vs examination), and the unsafe-practice finding is the trigger for lawful PDIC/BSP deposit inquiry (now RA 3591, Sec. 8 as amended by RA 11840).",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "provisionIds": [
+        "prov.ra3591-sec8-eighth"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-176438",
+          "section": "G.R. No. 176438, January 24, 2011"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q.secrecy.coverage.01",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "prompt": "Under RA 1405, Section 2, what deposits are considered absolutely confidential?",
+      "answerKey": "All deposits of whatever nature with banks or banking institutions in the Philippines, including investments in bonds issued by the Government of the Philippines, its political subdivisions and its instrumentalities.",
+      "explanation": "'Whatever nature' covers peso savings, checking, and time deposits; the Supreme Court has applied RA 1405 to trust/SPAN accounts (Ejercito v. Sandiganbayan). Government-bond investments are expressly included. Foreign currency deposits follow a separate regime (RA 6426, Sec. 8 as amended by PD 1246), not Sec. 2.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.secrecy.coverage.02",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "prompt": "Who is prohibited from disclosing deposit information under RA 1405, Section 3, and to whom may disclosure lawfully be made?",
+      "answerKey": "Any official or employee of a banking institution may not disclose any information concerning deposits to any person other than those mentioned in Section 2 (the four exception pathways).",
+      "explanation": "Section 3 names the offenders (bank officials and employees) and the forbidden act (disclosure of any deposit information outside Sec. 2). Lawful disclosure happens only through a Sec. 2 exception — written permission, impeachment, court order in bribery/dereliction cases, subject matter of litigation — or a later special law (AMLA, tax, PDIC, unclaimed balances). Violation is punishable under Sec. 5 (up to five years and/or up to P20,000).",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 3"
+        },
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.secrecy.exceptions.01",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "prompt": "Name the four statutory exceptions in RA 1405, Section 2.",
+      "answerKey": "(1) Written permission of the depositor; (2) cases of impeachment; (3) upon order of a competent court in cases of bribery or dereliction of duty of public officials; (4) cases where the money deposited or invested is the subject matter of the litigation.",
+      "explanation": "Memorize these four as the statute's own list. Case anchors: Ejercito applies (3) to plunder (same class as bribery/dereliction) and (4) to transferee accounts; Union Bank v. CA limits (4) to the money deposited itself; Marquez requires a pending court case for in-camera inspection. Do not add the repealed PD 1792 items (MB-authorized fraud examination; independent auditor) — PD 1792 was repealed by RA 7653, Sec. 135.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        },
+        {
+          "sourceId": "src.law.ra7653",
+          "section": "Sec. 135"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.secrecy.exceptions.02",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "prompt": "The Ombudsman, citing RA 6770, orders a bank to submit a depositor's records for in-camera inspection during a fact-finding investigation. Must the bank comply?",
+      "answerKey": "No. Under Marquez v. Desierto, RA 6770 does not override RA 1405; in-camera inspection requires a pending case before a court of competent jurisdiction, a clearly identified account, scope limited to that case's subject matter, and notice to the bank and the account holder.",
+      "explanation": "Marquez granted the bank manager's petition and ordered the Ombudsman to cease and desist: a mere investigation is 'fishing for evidence' and cannot open a deposit. Contrast Ejercito, where a court (Sandiganbayan) in a pending plunder case could order inquiry. This is a favorite trap: Ombudsman subpoena power is not a secrecy exception.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-135882",
+          "section": "G.R. No. 135882, June 27, 2001"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.secrecy.fcd.01",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "prompt": "May a foreign currency deposit be garnished to satisfy a final money judgment? Explain, citing Salvacion v. Central Bank.",
+      "answerKey": "General rule: no — RA 6426, Sec. 8 expressly exempts foreign currency deposits from attachment, garnishment, or any other court, legislative, or administrative process. Salvacion held the exemption inapplicable only because of that case's peculiar equitable facts (transient alien wrongdoer vs. child victim); it is a narrow ruling, not a general license to garnish FCDs.",
+      "explanation": "Frame every FCD garnishment answer as rule-plus-narrow-exception. The Court did not void Sec. 8; it refused to apply it where it would reward wrongdoing (Civil Code Art. 10). Contrast peso deposits, which may be garnished under China Banking Corp. v. Ortega.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pd1246",
+          "section": "Sec. 2 (RA 6426, Sec. 8)"
+        },
+        {
+          "sourceId": "src.law.gr-94723",
+          "section": "G.R. No. 94723, August 21, 1997"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.secrecy.fcd.02",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "prompt": "How do the secrecy regimes of RA 1405 and RA 6426 differ as to exceptions and garnishment?",
+      "answerKey": "RA 1405, Sec. 2 carries four statutory exceptions (written permission, impeachment, court order in bribery/dereliction cases, subject matter of litigation) plus later-law pathways, and peso deposits may be garnished (Ortega). RA 6426, Sec. 8 recognizes only the depositor's written permission internally and expressly bars attachment, garnishment, and other processes (Salvacion is a narrow inapplicability ruling).",
+      "explanation": "RA 6426 is deliberately stricter: no impeachment, bribery, or subject-matter exceptions. Both regimes are reached by later 'notwithstanding' statutes (AMLA Sec. 11; NIRC Sec. 6(F); PDIC Charter Sec. 8) through their own procedures — a point to state alongside RA 6426, Sec. 12-A's vested-rights rule, whose interplay with those statutes is unsettled.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        },
+        {
+          "sourceId": "src.law.pd1246",
+          "section": "Sec. 2 (RA 6426, Sec. 8)"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.secrecy.hypo.01",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "prompt": "**Hypo: garnishing a corporate peso account.** Supplier S wins a final P2,000,000 judgment against trading company T. The sheriff serves a notice of garnishment on T's peso savings account at Y Bank. The bank refuses to confirm or hold the deposit, citing the absolute confidentiality of deposits under RA 1405. S moves to cite the bank's cashier for contempt. Rule on the bank's refusal.",
+      "answerKey": "The bank's refusal is wrongful. Under China Banking Corp. v. Ortega, garnishment of a peso deposit to satisfy a final judgment is not the examination, inquiry, or looking into prohibited by RA 1405, Sec. 2 — disclosing whether T's deposit exists is purely incidental to execution. Congress never intended RA 1405 to let debtors evade just debts by converting assets into bank deposits. Here there is a final P2,000,000 judgment and a court-ordered execution process, with no fishing expedition into the account's history. The bank must therefore confirm the deposit's existence and hold it intact pending further court order, and continued refusal exposes the cashier to contempt, as in Ortega. (Had this been a foreign currency deposit, RA 6426, Sec. 8 would instead exempt it from garnishment.)",
+      "hints": {
+        "issue": "May a peso bank deposit be garnished to satisfy a final judgment despite RA 1405?",
+        "rule": "RA 1405, Sec. 2 (confidentiality rule) as construed in China Banking Corp. v. Ortega: garnishment is not a prohibited inquiry; disclosure of the deposit's existence is purely incidental to execution; Congress did not intend debtors to evade just debts via bank deposits.",
+        "application": "There is a final judgment and a court-ordered execution process; the sheriff only asks whether the deposit exists and that it be held. No fishing expedition into the account's history is involved.",
+        "conclusion": "The bank must comply — confirm the deposit's existence and hold it intact pending court order — or face contempt; RA 1405 is no defense. (Distinguish foreign currency deposits under RA 6426, Sec. 8.)"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        },
+        {
+          "sourceId": "src.law.gr-l34964",
+          "section": "G.R. No. L-34964, January 31, 1973"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.secrecy.hypo.02",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "prompt": "**Hypo: BIR audit inquiry.** During a routine audit of living individual taxpayer D (no compromise application, no treaty request, and D vigorously objects), the Commissioner of Internal Revenue orders D's bank to open D's deposit records 'to verify reported income.' The bank asks whether it must obey. Rule.",
+      "answerKey": "The bank must refuse the order. NIRC Sec. 6(F), as amended by RA 10021, lets the Commissioner pierce RA 1405 through only three paths: (1) a decedent's deposits to determine the gross estate, (2) a compromise applicant for financial incapacity who first waives secrecy in writing, or (3) a specific taxpayer subject of a foreign tax authority's treaty-based request. D is alive, filed no compromise application, gave no written waiver, and faces no treaty request — none of the three paths is present. A routine audit alone confers no inquiry power, so the Commissioner must build any assessment from returns, invoices, and third-party data instead.",
+      "hints": {
+        "issue": "May the Commissioner inquire into a living taxpayer's deposits outside the three NIRC Sec. 6(F) paths?",
+        "rule": "NIRC Sec. 6(F), as amended by RA 10021: inquiry allowed only for (1) a decedent's deposits to determine the gross estate, (2) a compromise applicant for financial incapacity who waives secrecy in writing, or (3) a specific taxpayer subject of a foreign tax authority's treaty-based request.",
+        "application": "D is alive, filed no compromise application, gave no written waiver, and is not the subject of any treaty request — none of the three paths is present.",
+        "conclusion": "The Commissioner has no authority for this inquiry; the bank must refuse. A routine audit, by itself, does not override RA 1405."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10021",
+          "section": "Sec. 3 (NIRC Sec. 6(F))"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc.secrecy.01",
+      "kind": "term",
+      "front": "RA 1405 policy (Sec. 1)?",
+      "back": "Encourage deposits in banks and discourage private hoarding, so banks can use the funds in authorized loans for economic development. Trust in secrecy is the mechanism.",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "tags": [
+        "policy",
+        "sec-1"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 1"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.02",
+      "kind": "provision",
+      "front": "RA 1405, Sec. 2: what is covered and who is barred?",
+      "back": "ALL deposits of whatever nature with Philippine banks/banking institutions + government-bond investments are ABSOLUTELY confidential. No examination, inquiry, or looking into by ANY person, government official, bureau, or office — except the four statutory exceptions.",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "tags": [
+        "coverage",
+        "sec-2"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.03",
+      "kind": "provision",
+      "front": "RA 1405, Secs. 3 and 5: prohibited act and penalty?",
+      "back": "Sec. 3: unlawful for ANY bank official/employee to disclose deposit information to anyone outside Sec. 2. Sec. 5: up to 5 years imprisonment and/or up to P20,000 fine, in the court's discretion.",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "tags": [
+        "prohibited-act",
+        "penalty"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 3"
+        },
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 5"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.04",
+      "kind": "qa",
+      "front": "The four statutory exceptions (RA 1405, Sec. 2)?",
+      "back": "(1) Written permission of the depositor; (2) impeachment; (3) court order in bribery/dereliction-of-duty cases vs public officials; (4) money deposited is the subject matter of litigation.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "tags": [
+        "exceptions",
+        "sec-2"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.05",
+      "kind": "doctrine",
+      "front": "China Banking Corp. v. Ortega (1973): peso deposits and garnishment?",
+      "back": "Peso deposits MAY be garnished to satisfy a judgment. No real inquiry; disclosure of the deposit's existence is purely incidental to execution. Congress never meant debtors to evade just debts via bank deposits.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "tags": [
+        "garnishment",
+        "ortega"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-l34964",
+          "section": "G.R. No. L-34964, January 31, 1973"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.06",
+      "kind": "doctrine",
+      "front": "Marquez v. Desierto (2001): can the Ombudsman open bank accounts during investigation?",
+      "back": "NO. RA 6770 does not override RA 1405. In-camera inspection needs: pending court case + identified account + scope limited to that case + notice to bank and holder. A mere investigation is 'fishing for evidence.'",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "tags": [
+        "ombudsman",
+        "trap",
+        "marquez"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-135882",
+          "section": "G.R. No. 135882, June 27, 2001"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.07",
+      "kind": "provision",
+      "front": "RA 6426, Sec. 8 (PD 1246): the FCD secrecy rule?",
+      "back": "FCDs are ABSOLUTELY confidential; in NO instance examined/inquired into by anyone (judicial, administrative, legislative, public or private) EXCEPT on the depositor's written permission. FCDs are EXEMPT from attachment, garnishment, or any other court/legislative/administrative process.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "tags": [
+        "fcd",
+        "sec-8",
+        "garnishment"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pd1246",
+          "section": "Sec. 2 (RA 6426, Sec. 8)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.08",
+      "kind": "doctrine",
+      "front": "Salvacion v. Central Bank (1997): FCD garnishment?",
+      "back": "General rule: FCDs are EXEMPT from garnishment. Salvacion held the exemption INAPPLICABLE only on peculiar facts (transient alien wrongdoer vs child victim) — narrow equity ruling; Sec. 8 was NOT voided.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "tags": [
+        "fcd",
+        "garnishment",
+        "salvacion"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gr-94723",
+          "section": "G.R. No. 94723, August 21, 1997"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.09",
+      "kind": "comparison",
+      "front": "RA 1405 vs RA 6426: exceptions and garnishment?",
+      "back": "RA 1405: 4 statutory exceptions (+ later laws); peso deposits garnishable (Ortega). RA 6426 Sec. 8: ONLY written permission inside the law; NO impeachment/bribery/subject-matter exceptions; NO attachment/garnishment (Salvacion = narrow exception). Both reached by AMLA/BIR/PDIC 'notwithstanding' powers.",
+      "topicIds": [
+        "ba166.secrecy.foreign-currency"
+      ],
+      "tags": [
+        "comparison",
+        "ra1405",
+        "ra6426"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra1405",
+          "section": "Sec. 2"
+        },
+        {
+          "sourceId": "src.law.pd1246",
+          "section": "Sec. 2 (RA 6426, Sec. 8)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.10",
+      "kind": "qa",
+      "front": "BIR bank inquiry: the three NIRC Sec. 6(F) paths?",
+      "back": "(1) Decedent's deposits to determine the gross estate; (2) compromise applicant (financial incapacity) AFTER written waiver of secrecy; (3) specific taxpayer subject of a foreign tax authority's treaty-based request. No other BIR inquiry power — routine audits cannot open deposits.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "tags": [
+        "bir",
+        "sec-6f"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra10021",
+          "section": "Sec. 3 (NIRC Sec. 6(F))"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.11",
+      "kind": "qa",
+      "front": "PD 1792 and RA 7653, Sec. 135: what happened to RA 1405's text?",
+      "back": "PD 1792 (1981) added MB-authorized fraud-examination and independent-auditor exceptions. RA 7653, Sec. 135 (1993) expressly REPEALED PD 1792 — restoring the ORIGINAL four exceptions. Decisions quoting six exceptions reproduce repealed text.",
+      "topicIds": [
+        "ba166.secrecy.coverage"
+      ],
+      "tags": [
+        "amendment",
+        "pd1792",
+        "trap"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra7653",
+          "section": "Sec. 135"
+        },
+        {
+          "sourceId": "src.law.pd1792",
+          "section": "Secs. 1-2"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.secrecy.12",
+      "kind": "term",
+      "front": "Unclaimed balances (Act 3936/PD 679): the 10-year rule and bank duties?",
+      "back": "Deposits/credits untouched 10+ years (or owner known dead) = unclaimed. Every odd-year January: bank files a sworn statement with the Treasurer (names, amounts, dates, interest), first contacts the depositor, posts a copy 60 days; OSG escheats; bank is discharged. Default: P500/month.",
+      "topicIds": [
+        "ba166.secrecy.exceptions"
+      ],
+      "tags": [
+        "unclaimed-balances",
+        "escheat"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.pd679",
+          "section": "Sec. 1 (Act 3936, Secs. 1-5)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    }
+  ],
+  "coverage": [
+    {
+      "status": "converted",
+      "sourceSection": "RA 1405, Sec. 1 (policy)",
+      "locator": "RA 1405, Sec. 1",
+      "lessonId": "les.secrecy.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 1405, Sec. 2 (coverage rule)",
+      "locator": "RA 1405, Sec. 2",
+      "lessonId": "les.secrecy.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 1405, Sec. 2 (four statutory exceptions)",
+      "locator": "RA 1405, Sec. 2",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 1405, Sec. 3 (unlawful disclosure)",
+      "locator": "RA 1405, Sec. 3",
+      "lessonId": "les.secrecy.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 1405, Sec. 4 (repealing clause)",
+      "locator": "RA 1405, Sec. 4",
+      "lessonId": "les.secrecy.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 1405, Sec. 5 (penalties)",
+      "locator": "RA 1405, Sec. 5",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 1405, Sec. 6 (effectivity)",
+      "locator": "RA 1405, Sec. 6",
+      "lessonId": "les.secrecy.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "PD 1792 amendment history (repealed)",
+      "locator": "PD 1792, Secs. 1-2",
+      "lessonId": "les.secrecy.coverage",
+      "note": "Repealed; taught as history — its Sec. 2-3 text is no longer law."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 7653, Sec. 135 (PD 1792 repeal)",
+      "locator": "RA 7653, Sec. 135",
+      "lessonId": "les.secrecy.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "NIRC Sec. 6(F) (BIR inquiry paths)",
+      "locator": "RA 10021, Sec. 3",
+      "lessonId": "les.secrecy.exceptions",
+      "note": "Inquiry paths, waiver rule, and use proviso converted; treaty-request implementing mechanics summarized in provision explanation."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "AMLA Sec. 11 (AMLC inquiry)",
+      "locator": "RA 10167, Sec. 2",
+      "lessonId": "les.secrecy.exceptions",
+      "note": "Existing registry provision prov.ra9160-sec11 and digest case.republic-eugenio reused; lesson adds statute-verified summary (RA 10167/10365/11521)."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 3591, Sec. 8, Eighth power (PDIC/BSP inquiry)",
+      "locator": "RA 11840, Sec. 7",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Act No. 3936, Secs. 1-5 (unclaimed balances)",
+      "locator": "PD 679, Sec. 1",
+      "lessonId": "les.secrecy.exceptions",
+      "note": "Sec. 2 quoted; Secs. 1, 3-5 taught in lesson prose."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 7653, Secs. 25-26 (BSP examination limits; DOSRI waiver)",
+      "locator": "RA 7653, Secs. 25-26; RA 11211, Sec. 8",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 1 (title)",
+      "locator": "RA 6426, Sec. 1",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 2 (who may deposit)",
+      "locator": "RA 6426, Sec. 2",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 3 (bank powers)",
+      "locator": "RA 6426, Sec. 3",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 5 (withdrawability)",
+      "locator": "RA 6426, Sec. 5",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 6 (tax exemption, PD 1246)",
+      "locator": "PD 1246, Sec. 1",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 8 (secrecy; no garnishment, PD 1246)",
+      "locator": "PD 1246, Sec. 2",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 9 (deposit insurance)",
+      "locator": "RA 6426, Sec. 9",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 10 (penalties)",
+      "locator": "RA 6426, Sec. 10",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 6426, Sec. 12-A (non-retroactivity, PD 1246)",
+      "locator": "PD 1246, Sec. 3",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "PD 1035 intermediate Sec. 8 (superseded)",
+      "locator": "PD 1035, Sec. 3",
+      "lessonId": "les.secrecy.foreign-currency",
+      "note": "Superseded intermediate text; taught as history in the Sec. 8 amendment narrative."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "China Banking Corp. v. Ortega (digest)",
+      "locator": "G.R. No. L-34964, January 31, 1973",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Ejercito v. Sandiganbayan (digest)",
+      "locator": "G.R. Nos. 157294-95, November 30, 2006",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Marquez v. Desierto (digest)",
+      "locator": "G.R. No. 135882, June 27, 2001",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Union Bank v. CA (digest)",
+      "locator": "G.R. No. 134699, December 23, 1999",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "PDIC v. Phil. Countryside Rural Bank (digest)",
+      "locator": "G.R. No. 176438, January 24, 2011",
+      "lessonId": "les.secrecy.exceptions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Salvacion v. Central Bank (digest)",
+      "locator": "G.R. No. 94723, August 21, 1997",
+      "lessonId": "les.secrecy.foreign-currency"
+    },
+    {
+      "status": "partial",
+      "sourceSection": "RA 6426, Sec. 7 (rulemaking)",
+      "locator": "RA 6426, Sec. 7",
+      "lessonId": "les.secrecy.foreign-currency",
+      "note": "Only the depositor-rights non-impairment sentence is taught (under Sec. 12-A); rulemaking mechanics are outside scope."
+    },
+    {
+      "status": "partial",
+      "sourceSection": "PD 1034 (offshore banking system)",
+      "locator": "PD 1246, second whereas clause",
+      "lessonId": "les.secrecy.foreign-currency",
+      "note": "Title and purpose verified via the PD 1246 recital; cited only to delimit Sec. 8 scope — the full decree is outside module scope."
+    },
+    {
+      "status": "unconverted",
+      "sourceSection": "RA 6426, Sec. 4 (foreign currency cover)",
+      "locator": "RA 6426, Sec. 4",
+      "note": "Banking-operations rule (100%/15% cover); states no secrecy rule — outside syllabus scope."
+    },
+    {
+      "status": "unconverted",
+      "sourceSection": "RA 6426, Secs. 11-13 (separability; repealing; effectivity)",
+      "locator": "RA 6426, Secs. 11-13",
+      "note": "Boilerplate apparatus; no substantive secrecy rule."
+    }
+  ]
+}

@@ -1,0 +1,1835 @@
+{
+  "sources": [
+    {
+      "id": "src.law.ra11199",
+      "filename": "Republic Act No. 11199 (Social Security Act of 2018)",
+      "shortName": "RA 11199",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11199_2019.html",
+      "publisher": "Arellano Law Foundation (Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Approved 7 February 2019; consolidation of Senate Bill No. 1753 and House Bill No. 2158 passed 28 November 2018. Repeals RA 1161 and RA 8282. All section verbatims in this fragment are quoted from this text (obvious encoding/OCR artifacts normalized). Official Gazette endpoint returned HTTP 403 on the access date, so Lawphil is the retrievable host."
+    },
+    {
+      "id": "src.law.sss-contrib-2025",
+      "filename": "SSS Contribution Table (Effective January 2025)",
+      "shortName": "SSS Contrib Table 2025",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/sss-contribution-table/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Current tables effective January 2025, implementing the final step of the RA 11199 Sec. 4(a)(9) schedule: SSS Circulars No. 2024-006 (employer/employee), 2024-007 (household employer/kasambahay), 2024-008 (self-employed), 2024-009 (voluntary/non-working spouse), 2024-010 (land-based OFW). Still the latest table published on sss.gov.ph as of the access date; no 2026 schedule had been posted."
+    },
+    {
+      "id": "src.law.sss-pay-contrib",
+      "filename": "SSS: Pay Contributions (contribution rules by member class)",
+      "shortName": "SSS Pay Contributions",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/pay-contribution",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Confirms 15% of MSC (max P35,000), employer 10.0% / employee 5.0%, effective 1 January 2025; MSC range P5,000-P35,000 with MSC above P20,000 credited to the MPF (MySSS Pension Booster); EC P10/P30 (since 1 January 2007), SE under ECP since September 2020 (ECC-SSS JMC No. 1, s. 2020); land-based OFW minimum MSC P8,000; non-working-spouse MSC from 50% of working spouse income; age-55 MSC-change limits for SE/VM/OFW."
+    },
+    {
+      "id": "src.law.sss-funeral",
+      "filename": "SSS: Funeral Benefit (current amounts and conditions)",
+      "shortName": "SSS Funeral Benefit",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/funeral-benefit/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Current rule: variable P20,000-P60,000 if the member paid at least 36 contributions; fixed P12,000 if at least 1 but fewer than 36. Per SSS Circular No. 2023-009 (Revised Guidelines on the Funeral Benefit Program), effective 20 October 2023, per PIA announcement of the SSS release."
+    },
+    {
+      "id": "src.law.sss-maternity",
+      "filename": "SSS: Maternity Benefit (Expanded Maternity Leave Law rules)",
+      "shortName": "SSS Maternity Benefit",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/maternity-benefit/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "RA 11210 (105-Day Expanded Maternity Leave Law) rules apply to contingencies on or after 11 March 2019: 105 days live childbirth (normal or caesarian), 60 days miscarriage/ETP including stillbirth, 120 days for solo parents (105+15); every instance regardless of frequency; 100% of ADSC; at least 3 monthly contributions in the 12-month period preceding the semester of contingency; employer advances within 30 days, SSS reimburses 100%."
+    },
+    {
+      "id": "src.law.sss-unemployment",
+      "filename": "SSS: Unemployment Benefit (qualifying conditions and procedure)",
+      "shortName": "SSS Unemployment Benefit",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://www.sss.gov.ph/unemployment-benefit/",
+      "publisher": "Social Security System",
+      "accessedAt": "2026-11-09",
+      "notes": "Mirrors Sec. 14-B (not over 60; at least 36 contributions with 12 in the 18-month period before involuntary separation; once every 3 years) plus current procedure: claim within 1 year of separation, DOLE electronic Certification of Involuntary Separation (apply within 30 days of online SSS filing), just-cause separations under Labor Code Art. 297 excluded."
+    },
+    {
+      "id": "src.law.sss-aguas",
+      "filename": "SSS v. Aguas, G.R. No. 165546, 27 February 2006",
+      "shortName": "SSS v. Aguas",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2006/feb2006/gr_165546_2006.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Death-benefits case: surviving-spouse primary-beneficiary test (legitimate spouse AND dependent for support); dependency is not presumed from marriage alone. Petition partially granted; only Jeylnn declared entitled. E-Library mirror: thebookshelf/showdocs/1/41086."
+    },
+    {
+      "id": "src.law.ortega-ssc",
+      "filename": "Ortega v. SSC, G.R. No. 176150, 25 June 2008 (578 Phil. 338)",
+      "shortName": "Ortega v. SSC",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2008/jun2008/gr_176150_2008.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Disability case: SSC/CA denial of total permanent disability affirmed; SSS benefits vs Labor Code compensation are distinct in nature and purpose; SSC findings stand on substantial evidence. E-Library mirror: thebookshelf/showdocs/1/45458."
+    },
+    {
+      "id": "src.law.ambassador-sss",
+      "filename": "Ambassador Hotel v. SSS, G.R. No. 194137, 21 June 2017 (811 Phil. 424)",
+      "shortName": "Ambassador Hotel v. SSS",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2017/jun2017/gr_194137_2017.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Employer-liability case: SSS remittance is mandatory; corporation liable though officers bear criminal responsibility (Sec. 28(f)); arrest of managing head gives jurisdiction over the corporation; officer acquittal does not extinguish corporate civil liability (P584,804.00 + 6% legal interest). E-Library mirror: thebookshelf/showdocs/1/63118."
+    },
+    {
+      "id": "src.law.gapayao-fulo",
+      "filename": "Gapayao v. Fulo, G.R. No. 193493, 13 June 2013",
+      "shortName": "Gapayao v. Fulo",
+      "role": "legalSource",
+      "origin": "legal-source",
+      "format": "web",
+      "bytes": 0,
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
+      "url": "https://lawphil.net/judjuris/juri2013/jun2013/gr_193493_2013.html",
+      "publisher": "Supreme Court of the Philippines (via Lawphil)",
+      "accessedAt": "2026-11-09",
+      "notes": "Coverage case: compulsory SSS coverage follows the employer-employee relationship under the control test (right to control suffices; pakyaw workers are employees); factual findings of the SSC affirmed by the CA are final on substantial evidence; unreported worker's death triggers Sec. 24(a) damages. E-Library mirror: thebookshelf/showdocs/1/56031."
+    }
+  ],
+  "modulePatches": [
+    {
+      "id": "ba166.sss",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "primarySourceIds": [
+        "src.law.ra11199",
+        "src.law.sss-contrib-2025",
+        "src.law.sss-funeral",
+        "src.law.sss-maternity",
+        "src.law.sss-unemployment"
+      ]
+    }
+  ],
+  "topicPatches": [
+    {
+      "id": "ba166.sss.coverage",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 11199 Secs. 8(c), 8(d), 8(j), 8(r), 8(s), 9, 9-A, 9-B, 10, 11, 11-A (approved 7 Feb 2019) and Gapayao v. Fulo, G.R. No. 193493 (13 June 2013). No course reviewer exists for this module.",
+      "lessonIds": [
+        "les.sss.coverage"
+      ],
+      "provisionIds": [
+        "prov.ra11199-sec8c",
+        "prov.ra11199-sec8d",
+        "prov.ra11199-sec8j",
+        "prov.ra11199-sec8r",
+        "prov.ra11199-sec8s",
+        "prov.ra11199-sec9",
+        "prov.ra11199-sec9a",
+        "prov.ra11199-sec9b",
+        "prov.ra11199-sec10",
+        "prov.ra11199-sec11",
+        "prov.ra11199-sec11a"
+      ],
+      "caseIds": [
+        "case.gapayao-fulo"
+      ]
+    },
+    {
+      "id": "ba166.sss.benefits",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 11199 Secs. 8(e), 8(k), 8(m), 12, 12-A, 12-B, 13, 13-A, 13-B, 14, 14-A, 14-B; current overlays from SSS: funeral (Circular 2023-009, eff. 20 Oct 2023), maternity under RA 11210 (eff. 11 Mar 2019), unemployment procedure; cases SSS v. Aguas (G.R. No. 165546) and Ortega v. SSC (G.R. No. 176150). Peso pension figures are as stated in RA 11199; verify current pension amounts with SSS.",
+      "lessonIds": [
+        "les.sss.benefits"
+      ],
+      "provisionIds": [
+        "prov.ra11199-sec8e",
+        "prov.ra11199-sec8k",
+        "prov.ra11199-sec8m",
+        "prov.ra11199-sec12",
+        "prov.ra11199-sec12a",
+        "prov.ra11199-sec12b",
+        "prov.ra11199-sec13",
+        "prov.ra11199-sec13a",
+        "prov.ra11199-sec13b",
+        "prov.ra11199-sec14",
+        "prov.ra11199-sec14a",
+        "prov.ra11199-sec14b"
+      ],
+      "caseIds": [
+        "case.sss-aguas",
+        "case.ortega-ssc"
+      ]
+    },
+    {
+      "id": "ba166.sss.contributions",
+      "coverage": "COVERED",
+      "provenance": "research-backed",
+      "verificationNotes": "Researched from RA 11199 Secs. 4(a)(9), 8(i), 16, 17, 18, 19, 19-A, 20, 21, 22, 22-A, 23, 24, 24-A, 28; current contribution schedule 15% (ER 10%/EE 5%, MSC P5,000-P35,000) eff. 1 Jan 2025 per SSS Circulars 2024-006 to 2024-010; case Ambassador Hotel v. SSS (G.R. No. 194137).",
+      "lessonIds": [
+        "les.sss.contributions"
+      ],
+      "provisionIds": [
+        "prov.ra11199-sec8i",
+        "prov.ra11199-sec4a9",
+        "prov.ra11199-sec16",
+        "prov.ra11199-sec17",
+        "prov.ra11199-sec18",
+        "prov.ra11199-sec19",
+        "prov.ra11199-sec19a",
+        "prov.ra11199-sec20",
+        "prov.ra11199-sec21",
+        "prov.ra11199-sec22",
+        "prov.ra11199-sec22a",
+        "prov.ra11199-sec23",
+        "prov.ra11199-sec24",
+        "prov.ra11199-sec24a",
+        "prov.ra11199-sec28"
+      ],
+      "caseIds": [
+        "case.ambassador-sss"
+      ]
+    }
+  ],
+  "provisions": [
+    {
+      "id": "prov.ra11199-sec8c",
+      "citation": "RA No. 11199, Sec. 8(c)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(c)",
+      "verbatim": "Employer — Any person, natural or juridical, domestic or foreign, who carries on in the Philippines any trade, business, industry, undertaking, or activity of any kind and uses the services of another person who is under his orders as regards the employment, except the government and any of its political subdivisions, branches or instrumentalities, including corporations owned or controlled by the Government: Provided, That a self-employed person shall be both employee and employer at the same time.",
+      "explanation": "An employer is anyone running any trade or activity in the Philippines who uses another person's services under his orders. The government and its branches, subdivisions, instrumentalities, and GOCCs are excluded (their workers fall under the GSIS, not the SSS). The proviso matters for payroll thinking: a self-employed person wears both hats, so he shoulders both the employer and employee shares of the contribution. Remember: coverage follows the employment relationship — no employer-employee relationship, no compulsory coverage as employee (see Sec. 8(j)(1) and Gapayao v. Fulo).",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [
+        "case.gapayao-fulo"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(c)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8d",
+      "citation": "RA No. 11199, Sec. 8(d)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(d)",
+      "verbatim": "Employee — Any person who performs services for an employer in which either or both mental or physical efforts are used and who receives compensation for such services, where there is an employer-employee relationship: Provided, That a self-employed person shall be both employee and employer at the same time.",
+      "explanation": "An employee is one who renders service (mental or physical) for compensation within an employer-employee relationship. For accountancy students: when classifying workers for SSS payroll compliance, apply the labor-law control test — the person for whom services are performed must have the right to control both the end and the manner and means (Gapayao). Job title, pakyaw/piece-rate pay, or irregular hours do not by themselves defeat employee status. Remember: a self-employed person is deemed both employee and employer, so he pays both shares.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [
+        "case.gapayao-fulo"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(d)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8j",
+      "citation": "RA No. 11199, Sec. 8(j)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(j)",
+      "verbatim": "Employment — Any service performed by an employee for his employer except: (1) Services where there is no employer-employee relationship in accordance with existing labor laws, rules, regulations and jurisprudence; (2) Service performed in the employ of the Philippine Government or instrumentality or agency thereof; (3) Service performed in the employ of a foreign government or international organization, or their wholly-owned instrumentality: Provided, however, That this exemption notwithstanding, any foreign government, international organization or their wholly-owned instrumentality employing workers in the Philippines or employing Filipinos outside of the Philippines, may enter into an agreement with the Philippine Government for the inclusion of such employees in the SSS except those already covered by their respective civil service retirement systems: Provided, further, That the terms of such agreement shall conform with the provisions of this Act on coverage and amount of payment of contributions and benefits: Provided, finally, That the provisions of this Act shall be supplementary to any such agreement; and (4) Such other services performed by temporary and other employees which may be excluded by regulation of the Commission. Employees of bona fide independent contractors shall not be deemed employees of the employer engaging the service of said contractors.",
+      "explanation": "Employment means covered service, minus four exclusions: (1) no employer-employee relationship (genuine independent contractors are out — but their own employees are covered as employees of the contractor); (2) Philippine government service (GSIS territory); (3) foreign government/international-organization service, unless brought in by agreement; (4) services the Commission excludes by regulation. Practical application: before enrolling a worker, HR/payroll must first settle whether he is an employee or a bona fide contractor's employee. Exam point: memorize the four exclusions — questions often test whether a government worker, a contractor's crew, or an embassy hire is compulsorily covered.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [
+        "case.gapayao-fulo"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(j)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8r",
+      "citation": "RA No. 11199, Sec. 8(r)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(r)",
+      "verbatim": "Member — The worker who is covered under Section 9, Section 9-A and Section 9-B of this Act.",
+      "explanation": "A member is simply a worker covered under any of the three coverage sections: employees (Sec. 9), self-employed (Sec. 9-A), and OFWs (Sec. 9-B). Every benefit provision that says 'a member' presupposes this status. Remember: voluntary members (non-working spouses, separated members who continue paying, permanent migrants) keep member status through continued coverage, not through a separate definition.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(r)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8s",
+      "citation": "RA No. 11199, Sec. 8(s)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(s)",
+      "verbatim": "Self-employed — Any person whose income is not derived from employment, as defined under this Act, as well as those workers enumerated in Section 9-A hereof.",
+      "explanation": "Self-employed captures everyone whose income does not come from employment, plus the enumerated workers in Sec. 9-A (professionals, single proprietors and partners, actors/directors/scriptwriters/correspondents who are not employees, athletes/coaches/trainers/jockeys, farmers and fishermen). For compliance: these members register themselves, declare their monthly earnings, and pay both shares. Exam point: 'income not derived from employment' is the general test; the Sec. 9-A enumeration is expressly non-exclusive ('including, but not limited to').",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(s)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec9",
+      "citation": "RA No. 11199, Sec. 9",
+      "instrument": "RA 11199",
+      "articleOrSection": "9",
+      "verbatim": "(a) Coverage in the SSS shall be compulsory upon all employees including kasambahays or domestic workers not over sixty (60) years of age and their employers: Provided, That any benefit already earned by the employees under private benefit plans existing at the time of the approval of this Act shall not be discontinued, reduced or otherwise impaired: Provided, further, That private plans which are existing and in force at the time of compulsory coverage shall be integrated with the plan of the SSS in such a way where the employer's contribution to his private plan is more than that required of him in this Act, he shall pay to the SSS only the contribution required of him and he shall continue his contribution to such private plan less his contribution to the SSS so that the employer's total contribution to his benefit plan and to the SSS shall be the same as his contribution to his private benefit plan before the compulsory coverage: Provided, further, That any changes, adjustments, modifications, eliminations or improvements in the benefits to be available under the remaining private plan, which may be necessary to adopt by reason of the reduced contributions thereto as a result of the integration, shall be subject to agreements between the employers and employees concerned: Provided, further, That the private benefit plan which the employer shall continue for his employees shall remain under the employer's management and control unless there is an existing agreement to the contrary: Provided, finally, That nothing in this Act shall be construed as a limitation on the right of employers and employees to agree on and adopt benefits which are over and above those provided under this Act. (b) Spouses who devote full time to managing the household and family affairs, unless they are also engaged in other vocation or employment which is subject to mandatory coverage, may be covered by the SSS on a voluntary basis.",
+      "explanation": "Paragraph (a) states the core compulsory-coverage rule: every employee not over 60 — expressly including kasambahays and domestic workers — plus their employers. The provisos protect existing private plans: earned benefits cannot be cut, employer contributions integrate (SSS first, the balance stays with the private plan, total cost unchanged), adjustments need employer-employee agreement, and parties may always agree on benefits above the SSS floor. Paragraph (b) creates the non-working-spouse voluntary track: full-time homemakers may join voluntarily, unless they are already mandatorily covered by other work. Practical application: household employers must register kasambahays (current schedule: SSS Circular No. 2024-007, eff. 1 Jan 2025); payroll officers must never treat a private retirement plan as a substitute for SSS coverage. Remember: 'not over 60' is the age ceiling for compulsory employee coverage.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 9"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec9a",
+      "citation": "RA No. 11199, Sec. 9-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "9-A",
+      "verbatim": "Compulsory Coverage of the Self-Employed. — Coverage in the SSS shall also be compulsory upon such self-employed persons as may be determined by the Commission under such rules and regulations as it may prescribe, including, but not limited to the following: (a) All self-employed professionals; (b) Partners and single proprietors of businesses; (c) Actors and actresses, directors, scriptwriters and news correspondents who do not fall within the definition of the term 'employee' in Section 8(d) of this Act; (d) Professional athletes, coaches, trainers and jockeys; and (e) Individual farmers and fishermen. Unless otherwise specified herein, all provisions of this Act applicable to covered employees shall also be applicable to the covered self-employed persons.",
+      "explanation": "Self-employed coverage is compulsory, not optional — the Commission only fills in the mechanics. The enumeration (professionals, partners and single proprietors, listed media/sports workers who are not employees, individual farmers and fishermen) is expressly non-exhaustive. The closing sentence is the workhorse: everything applicable to covered employees applies to covered self-employed persons unless the Act says otherwise. Practical application: a CPA in independent practice, a sari-sari store owner, and a tricycle operator are all compulsorily covered and pay both shares on declared earnings. Remember: freelancers who ARE employees of a client (control test) fall under Sec. 9, not Sec. 9-A.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 9-A"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec9b",
+      "citation": "RA No. 11199, Sec. 9-B",
+      "instrument": "RA 11199",
+      "articleOrSection": "9-B",
+      "verbatim": "Compulsory Coverage of Overseas Filipino Workers (OFWs) — (a) Coverage in the SSS shall be compulsory upon all sea-based and land-based OFWs as defined under Republic Act No. 8042, otherwise known as the Migrant Workers and Overseas Filipinos Act of 1995, as amended by Republic Act No. 10022: Provided, That they are not over sixty (60) years of age. All benefit provisions under this Act shall apply to all covered OFWs. The benefits include, among others, retirement, death, disability, funeral, sickness and maternity. (b) Manning agencies are agents of their principals and are considered as employers of sea-based OFWs. For purposes of the implementation of this Act, any law to the contrary notwithstanding manning agencies are jointly and severally or solidarity liable with their principals with respect to the civil liabilities incurred for any violation of this Act. The persons having direct control, management or direction of the manning agencies shall be held criminally liable for any act or omission penalized under this Act notwithstanding Section 28(f) hereof. (c) Land-based OFWs are compulsory members of the SSS and considered in the same manner as self-employed persons under such rules and regulations that the Commission shall prescribe. (d) The Department of Foreign Affairs (DFA), the Department of Labor and Employment (DOLE) and all its agencies involved in deploying OFWs for employment abroad are mandated to negotiate bilateral labor agreements with the OFWs' host countries to ensure that the employers of land-based OFWs, similar to the principals of sea-based OFWs, pay the required SSS contributions, in which case these land-based OFWs shall no longer be considered in the same manner as self-employed persons in this Act. Instead, they shall be considered as compulsorily covered employees with employer and employee shares in contributions that shall be provided for in the bilateral labor agreements and their implementing administrative agreements: Provided, That in countries which already extend social security coverage to OFWs, the DFA through the Philippine embassies and the DOLE shall negotiate further agreements to serve the best interests of the OFWs. (e) The DFA, the DOLE and the SSS shall ensure compulsory coverage of OFWs through bilateral social security and labor agreements and other measures for enforcement. (f) Upon the termination of their employment overseas, OFWs may continue to pay contributions on a voluntary basis to maintain their rights to full benefits. (g) Filipino permanent migrants, including Filipino immigrants, permanent residents and naturalized citizens of their host countries may be covered by the SSS on a voluntary basis.",
+      "explanation": "RA 11199 made OFW coverage compulsory — the single biggest coverage expansion of the 2018 rewrite. Sea-based OFWs are treated as employees of their manning agencies, which are solidarily liable with foreign principals for civil liabilities, while the agency's controlling persons face criminal liability. Land-based OFWs are currently treated as self-employed (minimum MSC P8,000 under current SSS rules) until bilateral agreements shift their foreign employers into the employer-share role. Paragraphs (f) and (g) create two voluntary tracks: separated OFWs who keep paying, and permanent migrants. Practical application: manning agencies must remit like any employer; a land-based OFW budgets for both shares. Exam points: (1) OFW age ceiling is also 'not over 60'; (2) manning-agency solidary liability; (3) land-based OFW = self-employed treatment is the default rule, bilateral-agreement employee treatment the exception.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 9-B"
+        },
+        {
+          "sourceId": "src.law.sss-pay-contrib",
+          "section": "OFW minimum MSC P8,000"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec10",
+      "citation": "RA No. 11199, Sec. 10",
+      "instrument": "RA 11199",
+      "articleOrSection": "10",
+      "verbatim": "Effective Date of Coverage. — Compulsory coverage of the employer shall take effect on the first day of his operation and that of the employee on the day of his employment: Provided, That the compulsory coverage of the self-employed person shall take effect upon his registration with the SSS.",
+      "explanation": "Three effectivity triggers: the employer is covered from the first day of business operations; the employee from day one of employment (no probation or regularization requirement); the self-employed person only upon registration with the SSS. Practical application: a newly hired employee is already covered on his first day of work, so payroll must deduct from the first payroll period, and the employer must report him immediately (Sec. 24(a)) — delay risks damages if a contingency strikes. Remember the triplet: operation / employment / registration.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 10"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec11",
+      "citation": "RA No. 11199, Sec. 11",
+      "instrument": "RA 11199",
+      "articleOrSection": "11",
+      "verbatim": "Effect of Separation from Employment. — When an employee under compulsory coverage is separated from employment, his employer's contribution on his account and his obligation to pay contributions arising from that employment shall cease at the end of the month of separation, but said employee shall be credited with all contributions paid on his behalf and entitled to benefits according to the provisions of this Act. He may, however, continue to pay the total contributions to maintain his right to full benefit.",
+      "explanation": "Separation ends the contribution obligation at the end of the month of separation — but never wipes the slate: all paid contributions stay credited and benefit rights survive. The separated employee may keep paying the total contribution (both shares) as a voluntary member to preserve full benefit rights. Practical application: resigned or retired employees deciding whether to continue paying should weigh the qualifying-contribution thresholds (120 for retirement pension, 36 for death/disability pension, 3 for sickness/maternity) against the voluntary cost. Remember: 'credited with all contributions' — SSS membership has no forfeiture of paid contributions.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 11"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec11a",
+      "citation": "RA No. 11199, Sec. 11-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "11-A",
+      "verbatim": "Effect of Interruption of Business or Professional Income. — If the self-employed member realizes no income in any given month, he shall not be required to pay contributions for that month. He may, however, be allowed to continue paying contributions under the same rules and regulations applicable to a separated employee member: Provided, That no retroactive payment of contributions shall be allowed other than as prescribed under Section 22-A hereof.",
+      "explanation": "A self-employed member with zero income in a month is excused from paying for that month — the counterpart of Sec. 11 for employees. He may still pay voluntarily under the separated-employee rules, but he cannot later backfill skipped months (no retroactive payment, except as Sec. 22-A allows). Practical application: seasonal earners (farmers, fishermen, project-based professionals) should plan voluntary payments around the benefit-qualifying windows rather than assuming they can catch up later. Exam point: pair Sec. 11-A with Sec. 22-A (quarterly SE remittance, no retroactive payment).",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 11-A"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8e",
+      "citation": "RA No. 11199, Sec. 8(e)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(e)",
+      "verbatim": "Dependents — The dependents shall be the following: (1) The legal spouse entitled by law to receive support from the member; (2) The legitimate, legitimated or legally adopted, and illegitimate child who is unmarried, not gainfully employed, and has not reached twenty-one (21) years of age, or if over twenty-one (21) years of age, he is congenitally or while still a minor has been permanently incapacitated and incapable of self-support, physically or mentally; and (3) The parent who is receiving regular support from the member.",
+      "explanation": "Dependents are a closed list: the legal spouse entitled to support, each qualifying child (legitimate, legitimated, legally adopted, or illegitimate — unmarried, not gainfully employed, under 21, or incapacitated since minority), and a parent receiving regular support. This definition feeds the dependents' pension (Sec. 12-A) and the beneficiary ladder (Sec. 8(k)). Practical application: HR dependent declarations and SSS beneficiary records must be kept current — an unreported dependent cannot draw a dependents' pension. Exam point: illegitimate children ARE dependents and can be primary beneficiaries, but at 50% of a legitimate child's share when legitimate children exist (Sec. 8(k)).",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [
+        "case.sss-aguas"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(e)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8k",
+      "citation": "RA No. 11199, Sec. 8(k)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(k)",
+      "verbatim": "Beneficiaries — The dependent spouse until he or she remarries, the dependent legitimate, legitimated or legally adopted, and illegitimate children, who shall be the primary beneficiaries of the member: Provided, That the dependent illegitimate children shall be entitled to fifty percent (50%) of the share of the legitimate, legitimated or legally adopted children: Provided, further, That in the absence of the dependent legitimate, legitimated or legally adopted children of the member, his/her dependent illegitimate children shall be entitled to one hundred percent (100%) of the benefits. In their absence, the dependent parents who shall be the secondary beneficiaries of the member. In the absence of all the foregoing, any other person designated by the member as his/her secondary beneficiary.",
+      "explanation": "The beneficiary ladder has three rungs: primary (dependent spouse until remarriage + dependent children), secondary (dependent parents), and designated secondary (any person the member designates, only if no primary or secondary exists). The illegitimate-child sharing rule is heavily tested: 50% of a legitimate child's share when legitimate children concur, 100% when they do not. The spouse's status ends on remarriage. Practical application: members should file and update designations; claims processors apply this ladder strictly in death (Sec. 13) and survivor-pension (Secs. 12-B(d), 13-A(c)) cases. Remember: Aguas adds the dependency proof requirement for the spouse — legitimate marriage alone is not enough.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [
+        "case.sss-aguas"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(k)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8m",
+      "citation": "RA No. 11199, Sec. 8(m)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(m)",
+      "verbatim": "Average monthly salary credit — The result obtained by dividing the sum of the last sixty (60) monthly salary credits immediately preceding the semester of contingency by sixty (60), or the result obtained by dividing the sum of all the monthly salary credits paid prior to the semester of contingency by the number of monthly contributions paid in the same period, whichever is greater: Provided, That the injury or sickness which caused the disability shall be deemed as the permanent disability for the purpose of computing the average monthly salary credit.",
+      "explanation": "The AMSC is the average of the member's monthly salary credits, computed two ways with the HIGHER result controlling: (1) last 60 MSCs before the semester of contingency divided by 60, or (2) all MSCs paid before the semester of contingency divided by the number of contributions. Since the pension formulas (Sec. 12) are percentages of AMSC, higher and more consistent lifetime credits mean higher pensions. Practical application: voluntary members choosing an MSC are effectively choosing their future AMSC inputs — a low declared MSC today depresses the pension base. Remember: always compute both and take the greater.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(m)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec12",
+      "citation": "RA No. 11199, Sec. 12",
+      "instrument": "RA 11199",
+      "articleOrSection": "12",
+      "verbatim": "Monthly Pension. — (a) The monthly pension shall be the highest of the following amounts: (1) The sum of the following: (i) Three hundred pesos (P300.00); plus (ii) Twenty percent (20%) of the average monthly salary credit; plus (iii) Two percent (2%) of the average monthly salary credit for each credited year of service in excess of ten (10) years; or (2) Forty percent (40%) of the average monthly salary credit; or (3) One thousand pesos (P1,000.00): Provided, That the monthly pension shall in no case be paid for an aggregate amount of less than sixty (60) months. (b) Notwithstanding the preceding paragraph, the minimum pension shall be One thousand two hundred pesos (P1,200.00) for members with at least ten (10) credited years of service and Two thousand four hundred pesos (P2,400.00) for those with twenty (20) credited years of service: Provided, That the Commission, upon determination of actuarial soundness, may provide pension increase than the amounts specified herein. (c) Additional Benefit Allowance. — Pursuant to Memorandum from the Executive Secretary dated 22 February 2017, by authority of the President of the Republic of the Philippines, an additional monthly benefit allowance amounting to One thousand pesos (P1,000.00) shall be given to all retirement, death, and disability pensioners receiving monthly pensions in or after January two thousand seventeen (2017). The Commission may determine the grant of additional benefit allowance: Provided, That the actuarial soundness of the reserve fund shall be guaranteed. All other additional allowances to monthly pension subsequent to the Memorandum of the Executive Secretary dated February 22, 2017 shall be subject to the requirement of fund viability and sustainability as determined by the Commission based on the recommendations of the Office of the Chief Actuary guaranteeing the actuarial soundness of the grant of such allowances.",
+      "explanation": "The monthly pension is the highest of three computations: (1) P300 + 20% of AMSC + 2% of AMSC per credited year of service beyond 10; (2) 40% of AMSC; or (3) a P1,000 floor — and it is guaranteed for at least 60 months in aggregate (the five-year guarantee that survivor provisions repeatedly invoke). Minimums: P1,200 (at least 10 CYS) and P2,400 (at least 20 CYS). The P1,000 additional allowance dates to January 2017 by executive authority and is codified here; later increases need actuarial soundness. Worked example: AMSC P15,000 with 25 CYS gives formula (1) = 300 + 3,000 + (15 × 300) = P7,800; formula (2) = P6,000; formula (3) = P1,000 — pension is P7,800 (before the allowance). Peso figures are as stated in RA 11199 — verify current pension amounts and any later increases with SSS before relying on them. Exam point: the 60-month guarantee is the bridge to Secs. 12-B(d) and 13-A(c).",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 12"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec12a",
+      "citation": "RA No. 11199, Sec. 12-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "12-A",
+      "verbatim": "Dependents' Pension. — Where monthly pension is payable on account of death, permanent total disability or retirement, dependents' pension equivalent to ten percent (10%) of the monthly pension or Two hundred fifty pesos (P250.00), whichever is higher, shall also be paid for each dependent child conceived on or before the date of the contingency but not exceeding five (5), beginning with the youngest and without substitution: Provided, That where there are legitimate and illegitimate children, the former shall be preferred.",
+      "explanation": "Each qualifying dependent child adds 10% of the monthly pension (minimum P250) on top of the retirement, death, or permanent-total-disability pension. Limits: conceived on or before the contingency date, maximum five children, youngest first, no substitution — and legitimate children are preferred over illegitimate ones in filling the five slots. Practical application: a retiree's monthly check is pension + (dependents' pensions), so dependent declarations directly affect the payout; children conceived after the contingency are excluded. Remember: five children max, P250 floor per child, and this add-on attaches only to monthly pensions for death, permanent total disability, or retirement.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 12-A"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec12b",
+      "citation": "RA No. 11199, Sec. 12-B",
+      "instrument": "RA 11199",
+      "articleOrSection": "12-B",
+      "verbatim": "Retirement Benefits. — (a) A member who has paid at least one hundred twenty (120) monthly contributions prior to the semester of retirement and who: (1) has reached the age of sixty (60) years and is already separated from employment or has ceased to be self-employed; or (2) has reached the age of sixty-five (65) years, shall be entitled for as long as he lives to the monthly pension: Provided, That he shall have the option to receive his first eighteen (18) monthly pensions in lump sum discounted at a preferential rate of interest to be determined by the SSS. (b) A covered member who is sixty (60) years old at retirement and who does not qualify for pension benefits under paragraph (a) above, shall be entitled to a lump sum benefit equal to the total contributions paid by him and on his behalf: Provided, That he is separated from employment and is not continuing payment of contributions to the SSS on his own. (c) The monthly pension shall be suspended upon the reemployment or resumption of self-employment of a retired member who is less than sixty-five (65) years old. He shall again be subject to Section Eighteen and his employer to Section Nineteen of this Act. (d) Upon the death of the retired member, his primary beneficiaries as of the date of his retirement shall be entitled to receive the monthly pension: Provided, That if he has no primary beneficiaries and he dies within sixty (60) months from the start of his monthly pension, his secondary beneficiaries shall be entitled to a lump sum benefit equivalent to the total monthly pensions corresponding to the balance of the five-year guaranteed period, excluding the dependents' pension. (e) The monthly pension of a member who retires after reaching age sixty (60) shall be the higher of either: (1) the monthly pension computed at the earliest time he could have retired had he been separated from employment or ceased to be self-employed plus all adjustments thereto; or (2) the monthly pension computed at the time when he actually retires.",
+      "explanation": "Retirement has two doors: optional at 60 (with 120 contributions AND separation/cessation of self-employment) and mandatory at 65 (120 contributions; separation not required). With 120 contributions the prize is a lifetime monthly pension, with an option to take the first 18 months as a discounted lump sum. At 60 without 120 contributions, the member gets only a lump sum equal to total contributions paid (and must stop paying). Reemployment before 65 suspends the pension and restarts coverage. Death of a retiree passes the monthly pension to primary beneficiaries as of the retirement date; if there are none and death occurs within 60 months, secondary beneficiaries get the balance of the five-year guarantee as a lump sum (excluding dependents' pensions). Late retirees get the higher of the earliest-possible or actual-retirement computation. Practical application: the 120-contribution line is the most important number in retirement planning — voluntary continuation (Sec. 11) exists precisely to cross it. Remember: 60 needs separation, 65 does not.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 12-B"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec13",
+      "citation": "RA No. 11199, Sec. 13",
+      "instrument": "RA 11199",
+      "articleOrSection": "13",
+      "verbatim": "Death Benefits. — Upon the death of a member who has paid at least thirty-six (36) monthly contributions prior to the semester of death, his primary beneficiaries shall be entitled to the monthly pension: Provided, That if he has no primary beneficiaries, his secondary beneficiaries shall be entitled to a lump sum benefit equivalent to thirty-six (36) times the monthly pension. If he has not paid the required thirty-six (36) monthly contributions, his primary or secondary beneficiaries shall be entitled to a lump sum benefit equivalent to the monthly pension times the number of monthly contributions paid to the SSS or twelve (12) times the monthly pension, whichever is higher.",
+      "explanation": "Death benefits turn on two questions: (1) did the member pay at least 36 contributions before the semester of death, and (2) are there primary beneficiaries? With 36+ contributions: primary beneficiaries draw the monthly pension; if none, secondary beneficiaries get a lump sum of 36 × monthly pension. Below 36 contributions: whoever qualifies (primary or secondary) gets a lump sum of (monthly pension × contributions paid) or 12 × monthly pension, whichever is higher. Practical application: claims processors must first count contributions, then apply the Sec. 8(k) ladder as refined by Aguas (spouse must prove dependency; only legitimate, legitimated, legally adopted, or illegitimate children qualify — informal adoptees do not). Remember the ladder: 36+ and primary → pension; 36+ without primary → 36× lump sum; below 36 → contributions× or 12×, higher.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [
+        "case.sss-aguas"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 13"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec13a",
+      "citation": "RA No. 11199, Sec. 13-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "13-A",
+      "verbatim": "Permanent Disability Benefits. — (a) Upon the permanent total disability of a member who has paid at least thirty-six (36) monthly contributions prior to the semester of disability, he shall be entitled to the monthly pension: Provided, That if he has not paid the required thirty-six (36) monthly contributions, he shall be entitled to a lump sum benefit equivalent to the monthly pension times the number of monthly contributions paid to the SSS or twelve (12) times the monthly pension, whichever is higher. A member who (1) has received a lump sum benefit; and (2) is reemployed or has resumed self-employment not earlier than one (1) year from the date of his disability shall again be subject to compulsory coverage and shall be considered a new member. (b) The monthly pension and dependents' pension shall be suspended upon the reemployment or resumption of self-employment or the recovery of the disabled member from his permanent total disability or his failure to present himself for examination at least once a year upon notice by the SSS. (c) Upon the death of the permanent total disability pensioner, his primary beneficiaries as of the date of disability shall be entitled to receive the monthly pension: Provided, That if he has no primary beneficiaries and he dies within sixty (60) months from the start of his monthly pension, his secondary beneficiaries shall be entitled to a lump sum benefit equivalent to the total monthly pensions corresponding to the balance of the five-year guaranteed period excluding the dependents' pension. (d) The following disabilities shall be deemed permanent total: (1) Complete loss of sight of both eyes; (2) Loss of two limbs at or above the ankle or wrists; (3) Permanent complete paralysis of two limbs; (4) Brain injury resulting to incurable imbecility or insanity; and (5) Such cases as determined and approved by the SSS. (e) If the disability is permanent partial, and such disability occurs before thirty-six (36) monthly contributions have been paid prior to the semester of disability, the benefit shall be such percentage of the lump sum benefit described in the preceding paragraph with due regard to the degree of disability as the Commission may determine. (f) If the disability is permanent partial and such disability occurs after thirty-six (36) monthly contributions have been paid prior to the semester of disability, the benefit shall be the monthly pension for permanent total disability payable not longer than the period designated in the following schedule: one thumb 10 months; one index finger 8; one middle finger 6; one ring finger 5; one little finger 3; one big toe 6; one hand 39; one arm 50; one foot 31; one leg 46; one ear 10; both ears 20; hearing of one ear 10; hearing of both ears 50; sight of one eye 25. (g) The percentage degree of disability which is equivalent to the ratio that the designated number of months of compensability bears to seventy-five (75), rounded to the next higher integer, shall not be additive for distinct, separate and unrelated permanent partial disabilities, but shall be additive for deteriorating and related permanent partial disabilities, to a maximum of one hundred percent (100%), in which case, the member shall be deemed as permanently totally disabled. (h) In case of permanent partial disability, the monthly pension benefit shall be given in lump sum if it is payable for less than twelve (12) months. (i) For the purpose of adjudicating retirement, death and permanent total disability pension benefits, contributions shall be deemed paid for the months during which the member received partial disability pension: Provided, That such contributions shall be based on his last contribution prior to his disability. (j) Should a member who is on partial disability pension retire or die, his disability pension shall cease upon his retirement or death.",
+      "explanation": "Disability mirrors death's 36-contribution line: permanent total disability with 36+ contributions earns the monthly pension (plus dependents' pension); below 36, a lump sum of (pension × contributions) or 12× pension, higher. A lump-sum recipient who returns to work at least one year after disability re-enters compulsory coverage as a new member. The pension suspends on reemployment, recovery, or skipping the annual SSS medical exam. Death of a disability pensioner follows the same 60-month survivor rule as retirees. Permanent total disabilities are the five listed cases (both eyes, two limbs, two-limb paralysis, brain injury causing incurable imbecility/insanity, SSS-approved cases). Permanent partial disability uses the statutory schedule (months of pension per body part, e.g. one arm 50, one leg 46, one hand 39, sight of one eye 25); the degree (months ÷ 75, rounded up) aggregates only for deteriorating and related disabilities up to 100%, which converts the case to permanent total. Schedule awards under 12 months are paid in lump sum; months on partial disability pension count as paid contributions (at the last rate) toward later retirement/death/PTD claims; and the partial pension stops on retirement or death. Ortega v. SSC is the companion case: total permanent disability is adjudicated on SSS medical findings and substantial evidence, and SSS benefits are conceptually distinct from Labor Code compensation. Remember: 36/12× structure parallels Sec. 13 exactly.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [
+        "case.ortega-ssc"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 13-A"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec13b",
+      "citation": "RA No. 11199, Sec. 13-B",
+      "instrument": "RA 11199",
+      "articleOrSection": "13-B",
+      "verbatim": "Funeral Benefit. — A funeral grant equivalent to Twelve thousand pesos (P12,000.00) shall be paid, in cash or in kind, to help defray the cost of funeral expenses upon the death of a member, including permanently totally disabled member or retiree.",
+      "explanation": "The statute sets a P12,000 funeral grant payable on the death of any member, including a permanent-total-disability pensioner or retiree. CURRENT RULE (supersedes the peso amount): under SSS Circular No. 2023-009, effective 20 October 2023, the benefit is variable from P20,000 to P60,000 where the member paid at least 36 contributions (scaled to contributions and AMSC), and fixed at P12,000 where the member paid at least 1 but fewer than 36. It is paid to whoever proves the funeral expense (claimant files online via My.SSS if an SSS member, over the counter otherwise). Practical application: funeral claims are the fastest SSS death-related payout and are separate from — and additional to — death benefits under Sec. 13. Exam point: always pair the statutory P12,000 with the Circular 2023-009 update; a question asking the 'current' amount wants P20,000–P60,000/P12,000.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 13-B"
+        },
+        {
+          "sourceId": "src.law.sss-funeral",
+          "section": "Current amounts; Circular No. 2023-009, eff. 20 Oct 2023"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec14",
+      "citation": "RA No. 11199, Sec. 14",
+      "instrument": "RA 11199",
+      "articleOrSection": "14",
+      "verbatim": "Sickness Benefit. — (a) A member who has paid at least three (3) monthly contributions in the twelve-month period immediately preceding the semester of sickness or injury and is confined therefor for more than three (3) days in a hospital or elsewhere with the approval of the SSS, shall, for each day of compensable confinement or a fraction thereof, be paid by his employer, or the SSS, if such person is unemployed or self-employed, a daily sickness benefit equivalent to ninety percent (90%) of his average daily salary credit, subject to the following conditions: (1) In no case shall the daily sickness benefit be paid longer than one hundred twenty (120) days in one (1) calendar year, nor shall any unused portion of the one hundred twenty (120) days of sickness benefit granted under this section be carried forward and added to the total number of compensable days allowable in the subsequent year; (2) The daily sickness benefit shall not be paid for more than two hundred forty (240) days on account of the same confinement; and (3) The employee member shall notify his employer of the fact of his sickness or injury within five (5) calendar days after the start of his confinement unless such confinement is in a hospital or the employee became sick or was injured while working or within the premises of the employer in which case, notification to the employer is not necessary: Provided, That if the member is unemployed or self-employed, he shall directly notify the SSS of his confinement within five (5) calendar days after the start thereof unless such confinement is in a hospital in which case notification is also not necessary: Provided, further, That in cases where notification is necessary, the confinement shall be deemed to have started not earlier than the fifth day immediately preceding the date of notification. (b) The compensable confinement shall begin on the first day of sickness, and the payment of such allowances shall be promptly made by the employer every regular payday or on the fifteenth and last day of each month, and similarly in the case of direct payment by the SSS, for as long as such allowances are due and payable: Provided, That such allowance shall begin only after all sick leaves of absence with full pay to the credit of the employee member shall have been exhausted. (c) One hundred percent (100%) of the daily benefits provided in the preceding paragraph shall be reimbursed by the SSS to said employer upon receipt of satisfactory proof of such payment and legality thereof: Provided, That the employer has notified the SSS of the confinement within five (5) calendar days after receipt of the notification from the employee member: Provided, further, That if the notification to the SSS is made by the employer beyond five (5) calendar days after receipt of the notification from the employee member, said employer shall be reimbursed only for each day of confinement starting from the tenth calendar day immediately preceding the date of notification to the SSS: Provided, finally, That the SSS shall reimburse the employer or pay the unemployed member only for confinement within the one-year period immediately preceding the date the claim for benefit or reimbursement is received by the SSS, except confinement in a hospital in which case the claim for benefit or reimbursement must be filed within one (1) year from the last day of confinement. (d) Where the employee member has given the required notification but the employer fails to notify the SSS of the confinement or to file the claim for reimbursement within the period prescribed in this section resulting in the reduction of the benefit or denial of the claim, such employer shall have no right to recover the corresponding daily allowance he advanced to the employee member as required in this section. (e) The claim of reimbursement shall be adjudicated by the SSS within a period of two (2) months from receipt thereof: Provided, That should no payment be received by the employer within one (1) month after the period prescribed herein for adjudication, the reimbursement shall thereafter earn simple interest of one percent (1%) per month until paid. (f) The provisions regarding the notification required of the member and the employer as well as the period within which the claim for benefit or reimbursement may be filed shall apply to all claims filed with the SSS.",
+      "explanation": "Sickness benefit = 90% of average daily salary credit per day of compensable confinement, for members with at least 3 contributions in the 12 months before the semester of sickness, confined more than 3 days. Caps: 120 days per calendar year (no carryover), 240 days for the same confinement. The notice chain is the exam favorite: employee notifies employer within 5 calendar days — UNLESS confined in a hospital or taken ill/injured while working or within the premises; unemployed/SE members notify SSS directly within 5 days (also excused for hospital confinement); late notice backdates the deemed start to only 5 days before notification. The employer advances payment every payday (after company sick leaves with full pay are exhausted) and gets 100% reimbursement — but only if it notifies SSS within 5 days of the employee's notice; late employer notice cuts reimbursement to days from the 10th day before SSS notification. If the employer was duly notified yet fails to notify SSS or file the reimbursement claim, causing reduction or denial, it cannot recover its advances from the employee. Claims prescribe in one year (hospital: one year from last day of confinement); SSS adjudicates reimbursement within 2 months, and delayed reimbursement earns 1% simple interest per month after a one-month grace. Practical application: payroll must calendar the 5-day notice both ways — most sickness disputes are notice failures, not eligibility failures. Remember: 3 contributions, >3 days confinement, 90% ADSC, 120/240 caps, 5-day notices, 1% interest.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 14"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec14a",
+      "citation": "RA No. 11199, Sec. 14-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "14-A",
+      "verbatim": "Maternity Leave Benefit. — A female member who has paid at least three (3) monthly contributions in the twelve-month period immediately preceding the semester of her childbirth or miscarriage shall be paid a daily maternity benefit equivalent to one hundred percent (100%) of her average daily salary credit for sixty (60) days or seventy-eight (78) days in case of caesarian delivery, subject to the following conditions: (a) That the employee shall have notified her employer of her pregnancy and the probable date of her childbirth, which notice shall be transmitted to the SSS in accordance with the rules and regulations it may provide; (b) The full payment shall be advanced by the employer within thirty (30) days from the filing of the maternity leave application; (c) That payment of daily maternity benefits shall be a bar to the recovery of sickness benefits provided by this Act for the same period for which daily maternity benefits have been received; (d) That the maternity benefits provided under this section shall be paid only for the first four (4) deliveries or miscarriages; (e) That the SSS shall immediately reimburse the employer of one hundred percent (100%) of the amount of maternity benefits advanced to the employee by the employer upon receipt of satisfactory proof of such payment and legality thereof; and (f) That if an employee member should give birth or suffer miscarriage without the required contributions having been remitted for her by her employer to the SSS, or without the latter having been previously notified by the employer of the time of the pregnancy, the employer shall pay to the SSS damages equivalent to the benefits which said employee member would otherwise have been entitled to.",
+      "explanation": "As enacted, Sec. 14-A paid 100% of ADSC for 60 days (78 for caesarian), for the first 4 deliveries only, on at least 3 contributions in the 12 months before the semester of childbirth — with employer advance within 30 days of application and 100% SSS reimbursement. CURRENT RULE (supersedes paragraphs (d) and the day counts): RA No. 11210, the 105-Day Expanded Maternity Leave Law, effective 11 March 2019, grants 105 days for live childbirth (normal or caesarian), 60 days for miscarriage or emergency termination including stillbirth, plus 15 days (120 total) for solo parents — for EVERY instance regardless of frequency — with an option to allocate up to 7 days to the child's father or an alternate caregiver. What survives from Sec. 14-A: the 3-contribution qualifier, the 100%-of-ADSC rate, the 30-day employer advance, the 100% reimbursement, the sickness-benefit bar for the same period, and employer damages for unremitted contributions or missing notice. Practical application: payroll advances the full computed benefit within 30 days of the leave application, then claims reimbursement; claims may be filed within 10 years of delivery. Exam trap: a question citing '60/78 days' or 'first four deliveries' is testing whether you know RA 11210 replaced them (105/60/120, every instance) for contingencies on or after 11 March 2019.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 14-A"
+        },
+        {
+          "sourceId": "src.law.sss-maternity",
+          "section": "RA 11210 rules; contingencies on/after 11 Mar 2019"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec14b",
+      "citation": "RA No. 11199, Sec. 14-B",
+      "instrument": "RA 11199",
+      "articleOrSection": "14-B",
+      "verbatim": "Unemployment Insurance or Involuntary Separation Benefits. — A member who is not over sixty (60) years of age who has paid at least thirty-six (36) months contributions twelve (12) months of which should be in the eighteen-month period immediately preceding the involuntary unemployment or separation shall be paid benefits in the form of monthly cash payments equivalent to fifty percent (50%) of the average monthly salary credit for a maximum of two (2) months: Provided, That an employee who is involuntarily unemployed can only claim unemployment benefits once every three (3) years: Provided, further, That in case of concurrence of two or more compensable contingencies, only the highest benefit shall be paid, subject to the rules and regulations that the Commission may prescribe.",
+      "explanation": "Unemployment benefit = 50% of AMSC monthly for up to 2 months, for members not over 60 with at least 36 contributions including 12 in the 18 months before involuntary separation — claimable only once every 3 years. It covers involuntary separation only (authorized causes such as retrenchment, redundancy, closure; NOT resignation or just-cause dismissal). Current procedure (SSS): file the claim within 1 year of separation, then secure DOLE's electronic Certification of Involuntary Separation within 30 days of the online SSS filing. The concurrence proviso is general exam doctrine: when two or more compensable contingencies concur, only the highest benefit is paid. Practical application: HR separation paperwork (notice of termination, DOLE certification) directly determines whether a separated employee can claim. Remember: 36/12-in-18, 50% × 2 months, once per 3 years, highest-benefit-only on concurrence.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 14-B"
+        },
+        {
+          "sourceId": "src.law.sss-unemployment",
+          "section": "Qualifying conditions and DOLE-SSS procedure"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec8i",
+      "citation": "RA No. 11199, Sec. 8(i)",
+      "instrument": "RA 11199",
+      "articleOrSection": "8(i)",
+      "verbatim": "Contribution — The amount paid to the SSS by and on behalf of the members in accordance with the schedule provided in this Act.",
+      "explanation": "A contribution is whatever the schedule says it is — paid by the member, on behalf of the member (the employer share), or both. This definition is why every figure discussion must cite its schedule and effective date: the amount is never free-floating. Practical application: payroll systems must be driven by the current schedule (today: the 2025 tables), not by last year's table. Remember: 'by and on behalf of' captures both the employee deduction and the employer share.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 8(i)"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec4a9",
+      "citation": "RA No. 11199, Sec. 4(a)(9)",
+      "instrument": "RA 11199",
+      "articleOrSection": "4(a)(9)",
+      "verbatim": "To implement the rate of contributions as well as the minimum and maximum monthly salary credits in accordance with the following schedule effective January of the year of implementation as follows: 2019: 12% (Employer 8%, Employee 4%), MSC P2,000.00 minimum to P20,000.00 maximum; 2020: 12% (Employer 8%, Employee 4%), MSC P2,000.00 to P20,000.00; 2021: 13% (Employer 8.5%, Employee 4.5%), MSC P3,000.00 to P25,000.00; 2022: 13% (Employer 8.5%, Employee 4.5%), MSC P3,000.00 to P25,000.00; 2023: 14% (Employer 9.5%, Employee 4.5%), MSC P4,000.00 to P30,000.00; 2024: 14% (Employer 9.5%, Employee 4.5%), MSC P4,000.00 to P30,000.00; 2025: 15% (Employer 10%, Employee 5%), MSC P5,000.00 to P35,000.00: Provided, That the domestic workers or 'kasambahays' as defined under Republic Act No. 10361 or the Batas Kasambahay who are receiving a monthly income lower than minimum monthly salary credit prescribed under this Act shall pay contributions based on their actual monthly salary: Provided, further, That members, who are subject to compulsory coverage and receiving a monthly income lower than the minimum monthly salary credit or more than the maximum monthly salary credit, and their employers, shall pay the SSS contributions based on the current minimum monthly salary credit or the maximum monthly salary credit, respectively, as provided in this Act. The rate of penalty on unpaid loan amortizations shall be determined and fixed by the Commission from time to time through rules and regulations on the basis of applicable actuarial studies, rate of benefits, inflation, and other relevant socioeconomic data.",
+      "explanation": "Sec. 4(a)(9) is the statutory ramp: 12% (2019-2020) → 13% (2021-2022) → 14% (2023-2024) → 15% (2025), with the MSC band widening from P2,000-P20,000 to P5,000-P35,000. CURRENT RULE: the 2025 row is in force — 15% of MSC (max P35,000), employer 10% / employee 5%, minimum MSC P5,000 — implemented by SSS Circulars No. 2024-006 (employers/employees), 2024-007 (household/kasambahay), 2024-008 (self-employed), 2024-009 (voluntary/non-working spouse), and 2024-010 (land-based OFW), all effective 1 January 2025, still the latest tables on sss.gov.ph as of 9 November 2026. Related current mechanics: MSC above P20,000 is credited to the Mandatory Provident Fund (MySSS Pension Booster, per Sec. 4(a)(2)); EC contributions (employer-only) remain P10 (MSC P14,500 and below) / P30 (MSC P15,000 and above); land-based OFW minimum MSC is P8,000; non-working-spouse MSC derives from 50% of the working spouse's income. The two provisos handle off-band earners: kasambahays below the minimum pay on actual salary, while other compulsorily covered members (and employers) below the minimum or above the maximum pay on the minimum or maximum MSC respectively. Practical application: payroll must apply the 10%/5% split on the MSC corresponding to actual compensation (capped at P35,000), remit by the 10th of the following month, and never present a pre-2025 rate as current. Exam trap: any rate below 15% with a 2025-or-later fact pattern is outdated.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 4(a)(9)"
+        },
+        {
+          "sourceId": "src.law.sss-contrib-2025",
+          "section": "2025 tables; Cirs. 2024-006 to 2024-010, eff. 1 Jan 2025"
+        },
+        {
+          "sourceId": "src.law.sss-pay-contrib",
+          "section": "15% (ER 10%/EE 5%); MPF; EC; OFW/NWS rules"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec16",
+      "citation": "RA No. 11199, Sec. 16",
+      "instrument": "RA 11199",
+      "articleOrSection": "16",
+      "verbatim": "Exemption from Tax, Legal Process and Lien. — All laws to the contrary notwithstanding, the SSS and all its assets and properties, all contributions collected and all accruals thereto and income or investment earnings therefrom as well as all supplies, equipment, papers or documents shall be exempt from any tax, assessment, fee, charge, or customs or import duty; and all benefit payments made by the SSS shall likewise be exempt from all kinds of taxes, fees or charges, and shall not be liable to attachments, garnishments, levy or seizure by or under any legal or equitable process whatsoever, either before or after receipt by the person or persons entitled thereto, except to pay any debt of the member to the SSS. No tax measure of whatever nature enacted shall apply to the SSS, unless it expressly revokes the declared policy of the State in Section 2 hereof granting tax-exemption to the SSS. Any tax assessment imposed against the SSS shall be null and void.",
+      "explanation": "Sec. 16 gives a triple shield: (1) the SSS itself — assets, contributions, accruals, earnings, supplies, papers — is exempt from all taxes, assessments, fees, charges, and import duties, and only a tax measure expressly revoking the Sec. 2 policy can pierce this; (2) benefit payments are exempt from all taxes, fees, and charges; (3) benefit payments are immune from attachment, garnishment, levy, or seizure, before or after receipt. The SOLE exception: collection of the member's own debt to the SSS (e.g. salary-loan amortizations). Practical application: creditors cannot garnish SSS pensions; payroll must not withhold tax on SSS benefit advances. Remember: 'except to pay any debt of the member to the SSS' — one exception, and it runs only in the SSS's favor.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 16"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec17",
+      "citation": "RA No. 11199, Sec. 17",
+      "instrument": "RA 11199",
+      "articleOrSection": "17",
+      "verbatim": "Fee of Agents, Attorneys, Etc. — No agent, attorney or other person in charge of the preparation, filing or pursuing any claim for benefit under this Act shall demand or charge for his services any fee, and any stipulation to the contrary shall be null and void. The retention or deduction of any amount from any benefit granted under this Act for the payment of fees for such services is prohibited: Provided, however, That any member of the Philippine Bar who appears as counsel in any case heard by the Commission shall be entitled to attorney's fees not exceeding ten percent (10%) of the benefits awarded by the Commission, which fees shall not be payable before the actual payment of the benefits, and any stipulation to the contrary shall be null and void. Any violation of the provisions of this Section shall be punished by a fine of not less than Five hundred pesos (P500.00) nor more than Five thousand pesos (P5,000.00), or imprisonment for not less than six (6) months nor more than one (1) year, or both, at the discretion of the court.",
+      "explanation": "The general rule is zero fees for handling SSS benefit claims — any agreement to charge, or any deduction from benefits for that purpose, is void. The single exception: a Philippine Bar member who appears as counsel in a case heard by the Commission may collect up to 10% of the benefits awarded, and only after the benefits are actually paid. Violation is itself punishable (P500-P5,000 fine and/or 6 months to 1 year). Practical application: fixers and non-lawyer 'processors' who take a cut of a member's benefit are acting unlawfully; lawyers must wait for actual payment. Exam point: 10% cap + Bar member + Commission case + payable only after actual payment — all four conditions must concur.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 17"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec18",
+      "citation": "RA No. 11199, Sec. 18",
+      "instrument": "RA 11199",
+      "articleOrSection": "18",
+      "verbatim": "Employee's Contributions. — Beginning on the last day of the calendar month when an employee's compulsory coverage takes effect and every month thereafter during his employment, the employer shall deduct and withhold from such employee's monthly salary, wage, compensation or earnings, the employee's contribution in an amount corresponding to his salary, wage, compensation or earnings during the month in accordance with the monthly salary credits, the schedule and the rate of contributions as may be determined and fixed by the Commission, subject to the provisions of Section 4(a)(9) of this Act. The monthly salary credits, the schedule and the rate of contributions shall also apply to self-employed, voluntary, and other members.",
+      "explanation": "The employer is the withholding agent for the employee share: deduct every month from the last day of the coverage month onward, per the schedule (today: 5% of MSC under the 2025 table). The closing sentence extends the same schedule to self-employed, voluntary, and other members — one schedule, all member classes. Practical application: withholding starts with the first payroll period of employment (coverage begins on day one per Sec. 10); failure to deduct AND remit is the Sec. 28(e) 'and' penalty (fine AND imprisonment). Remember: deduct monthly, remit monthly — deduction without remittance is presumed misappropriation under Sec. 28(h).",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 18"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec19",
+      "citation": "RA No. 11199, Sec. 19",
+      "instrument": "RA 11199",
+      "articleOrSection": "19",
+      "verbatim": "Employer's Contributions. — (a) Beginning on the last day of the month when an employee's compulsory coverage takes effect and every month thereafter during his employment, his employer shall pay, with respect to such covered employee, the employer's contribution in accordance with the schedule provided in this Act. Notwithstanding any contract to the contrary, an employer shall not deduct, directly or indirectly, from the compensation of his employees covered by the SSS or otherwise recover from them the employer's contributions with respect to such employees. (b) The remittance of such contributions by the employer shall be supported by a quarterly collection list to be submitted to the SSS at the end of each calendar quarter indicating the correct ID number of the employer, the correct names and the SSS numbers of the employees and the total contributions paid for their account during the quarter.",
+      "explanation": "The employer pays its own share monthly (today: 10% of MSC) and is absolutely forbidden from shifting it to employees — no deduction, no offset, no contrary contract. Remittances must be supported by a quarterly collection list (employer ID, employee names and SSS numbers, quarterly totals per employee). Practical application: payroll costings must carry the employer share as company cost; the collection list is the paper trail SSS examiners reconcile against payroll registers, so name/number accuracy matters. Exam point: 'notwithstanding any contract to the contrary' — even a written employee consent cannot authorize employer-share shifting.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 19"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec19a",
+      "citation": "RA No. 11199, Sec. 19-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "19-A",
+      "verbatim": "Contributions of the Self-Employed Member. — The contributions to the SSS of the self-employed member shall be determined in accordance with the schedule provided in this Act: Provided, That the monthly earnings declared by the self-employed member at the time of his registration with the SSS shall be considered as his monthly compensation and he shall pay both the employer and the employee contributions: Provided, further, That the contributions of self-employed persons earning One thousand pesos (P1,000.00) monthly or below may be reduced by the Commission. The monthly earnings declared by the self-employed member at the time of his registration shall remain the basis of his monthly salary credit, unless he makes another declaration of his monthly earnings, in which case such latest declaration becomes the new basis of his monthly salary credit.",
+      "explanation": "Self-employed members pay BOTH shares computed on their declared monthly earnings (today: 15% of the MSC matching the declaration, per Circular 2024-008). The declaration at registration fixes the MSC until a new declaration supersedes it; micro-earners (P1,000/month or below) may get reduced contributions. Current SSS practice adds guardrails: SE members 55 and above may increase MSC only once a year (up to the maximum), with no limits on decreases. Practical application: professionals should declare realistic earnings — the declaration is both the contribution base and the future benefit base (AMSC inputs). Remember: latest declaration controls; and land-based OFWs follow this same self-employed treatment under Sec. 9-B(c).",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 19-A"
+        },
+        {
+          "sourceId": "src.law.sss-pay-contrib",
+          "section": "SE/voluntary MSC-change rules"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec20",
+      "citation": "RA No. 11199, Sec. 20",
+      "instrument": "RA 11199",
+      "articleOrSection": "20",
+      "verbatim": "Government Contribution. — As the contribution of the Government to the operation of the SSS, Congress shall annually appropriate out of any funds in the National Treasury not otherwise appropriated, the necessary sum or sums to meet the estimated expenses of the SSS for each ensuing year. In addition to this contribution, Congress shall appropriate from time to time such sum or sums as may be needed to assure the maintenance of an adequate working balance of the funds of the SSS as disclosed by suitable periodic actuarial studies to be made of the operations of the SSS.",
+      "explanation": "The government's contribution is budgetary: Congress annually appropriates the SSS's estimated operating expenses, plus top-ups to keep an adequate working balance as actuarial studies require. Note the character — this funds operations and solvency buffers, not individual member accounts (compare the employer share, which is credited to specific employees). Practical application: none for payroll, but exam questions sometimes ask 'who contributes what' — the complete answer is employee + employer + self-employed/voluntary (both shares) + government (operations/adequacy top-ups). Remember: pair Sec. 20 (funding) with Sec. 21 (guarantee).",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 20"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec21",
+      "citation": "RA No. 11199, Sec. 21",
+      "instrument": "RA 11199",
+      "articleOrSection": "21",
+      "verbatim": "Government Guarantee. — The benefits prescribed in this Act shall not be diminished and to guarantee said benefits the Government of the Republic of the Philippines accepts general responsibility for the solvency of the SSS.",
+      "explanation": "The Republic guarantees SSS solvency and the non-diminution of statutory benefits. This is the backstop behind the pension formulas and the contribution ramp: benefits cannot be cut by administrative fiat, and the government stands behind the fund. Practical application: this guarantee is why benefit improvements (like the P1,000 allowance in Sec. 12(c)) are conditioned on actuarial soundness rather than prohibited outright — expansion is allowed, contraction is not. Exam point: one sentence, two doctrines — non-diminution of benefits and state responsibility for solvency.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 21"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec22",
+      "citation": "RA No. 11199, Sec. 22",
+      "instrument": "RA 11199",
+      "articleOrSection": "22",
+      "verbatim": "Remittance of Contributions. — (a) The contribution imposed in the preceding section shall be remitted to the SSS within the first ten (10) days of each calendar month following the month for which they are applicable or within such time as the Commission may prescribe. Every employer required to deduct and to remit such contributions shall be liable for their payment and if any contribution is not paid to the SSS as herein prescribed, the delinquent employer shall pay besides the contribution a penalty thereon of two percent (2%) per month from the date the contribution falls due until paid. If deemed expedient and advisable by the Commission, the collection and remittance of contributions shall be made quarterly or semi-annually in advance, the contributions payable by the employees to be advanced by their respective employers: Provided, That upon separation of an employee, any contribution so paid in advance but not due shall be credited or refunded to his employer. (b) The contributions payable under this Act in cases where an employer refuses or neglects to pay the same shall be collected by the SSS in the same manner as taxes are made collectible under the National Internal Revenue Code, as amended. Failure or refusal of the employer to pay or remit the contributions herein prescribed shall not prejudice the right of the covered employee to the benefits of the coverage. The right to institute the necessary action against the employer may be commenced within twenty (20) years from the time the delinquency is known or the assessment is made by the SSS, or from the time the benefit accrues, as the case may be. (c) Should any person, natural or juridical, default in any payment of contributions, the Commission may also collect the same in either of the following ways: (1) By an action in court, which shall hear and dispose of the case in preference to any other civil action; or (2) By issuing a warrant to the Sheriff of any province or city commanding him to levy upon and sell any real and personal property of the debtor. The Sheriff's sale by virtue of said warrant shall be governed by the same procedure prescribed for executions against property upon judgments by a court of record. (d) The last complete record of monthly contributions paid by the employer or the average of the monthly contributions paid during the past three (3) years as of the date of filing of the action for collection shall be presumed to be the monthly contributions payable by and due from the employer to the SSS for each of the unpaid month, unless contradicted and overcome by other evidence: Provided, That the SSS shall not be barred from determining and collecting the true and correct contributions due the SSS even after full payment pursuant to this paragraph, nor shall the employer be relieved of his liability under Section Twenty-eight of this Act.",
+      "explanation": "Remittance is due within the first 10 days of the month following the applicable month, with a 2%-per-month penalty on delinquency (note: this 2% rate is the RA 11199 rate — the 3% rate in older cases like Ambassador Hotel and Gapayao was the pre-2019 rate). Non-remittance never prejudices the employee's benefit rights — the SSS pays the benefit and chases the employer. Collection is tax-like: court action with preference, or a Commission warrant commanding the sheriff to levy and sell property. The 20-year action period runs from known delinquency, assessment, or benefit accrual. And Sec. 22(d) creates an evidentiary presumption (last complete record or 3-year average = monthly dues for unpaid months) that the employer must overcome with other evidence. Practical application: payroll calendars must treat the 10th as a hard deadline; auditors must accrue the 2%/month penalty on unremitted contributions. Remember: 10 days, 2% monthly, employee unaffected, 20 years, tax-like collection.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [
+        "case.ambassador-sss"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 22"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec22a",
+      "citation": "RA No. 11199, Sec. 22-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "22-A",
+      "verbatim": "Remittance of Contributions of Self-Employed Member. — Self-employed members shall remit their monthly contributions quarterly on such dates and schedules as the Commission may specify through rules and regulations: Provided, That no retroactive payment of contributions shall be allowed, except as provided in this Section.",
+      "explanation": "Self-employed members remit quarterly (not monthly) on Commission-prescribed schedules, and retroactive payment is prohibited. This is the provision Sec. 11-A cross-references: a zero-income month may be skipped, but it stays skipped. Practical application: SE members must diary the quarterly deadlines — a missed quarter generally cannot be cured, and the gap depresses the AMSC base and may break qualifying windows. Exam point: quarterly for SE vs. monthly (10th) for employers; no backfilling.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 22-A"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec23",
+      "citation": "RA No. 11199, Sec. 23",
+      "instrument": "RA 11199",
+      "articleOrSection": "23",
+      "verbatim": "Method of Collection and Payment. — The SSS shall require a complete and proper collection and payment of contributions and proper identification of the employer and the employee. Payment may be made in cash, checks, stamps, coupons, tickets, or other reasonable devices that the Commission may adopt.",
+      "explanation": "Sec. 23 is the housekeeping counterpart of Sec. 22: complete and proper collection, correct employer/employee identification, and flexible payment modes (the 'stamps, coupons, tickets' language is the historical pedigree of today's electronic collection lists and payment reference numbers). Practical application: misidentified payments (wrong SSS number, wrong employer ID) are the everyday analog of incomplete collection — reconciliation controls must catch them before the quarterly collection list is filed. Remember: this section also anchors the Sec. 28(c)-(d) offenses on contribution-payment devices.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 23"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec24",
+      "citation": "RA No. 11199, Sec. 24",
+      "instrument": "RA 11199",
+      "articleOrSection": "24",
+      "verbatim": "Employment Records and Reports. — (a) Each employer shall immediately report to the SSS the names, ages, civil status, occupations, salaries and dependents of all his employees who are subject to compulsory coverage: Provided, That if an employee subject to compulsory coverage should die or become sick or disabled or reach the age of sixty (60) without the SSS having previously received any report or written communication about him from his employer, the said employer shall pay to the SSS damages equivalent to the benefits to which said employee member would have been entitled had his name been reported on time by the employer to the SSS, except that in case of pension benefits, the employer shall be liable to pay the SSS damages equivalent to the accumulated pension due as of the date of settlement of the claim or to the five (5) years' pension, whichever is higher, including dependents' pension: Provided, further, That if the contingency occurs within thirty (30) days from the date of employment, the employer shall be relieved of his liability for damages: Provided, further, That any person or entity engaging the services of an independent contractor shall be subsidiarily liable with such contractor for any civil liability incurred by the latter under this Act: Provided, finally, That the same person or entity engaging the services of an independent contractor shall require such contractor to post a surety bond to guarantee the payment of the worker's benefits. (b) Should the employer misrepresent the true date of employment of the employee member or remit to the SSS contributions which are less than those required in this Act or fail to remit any contribution due prior to the date of contingency, resulting in a reduction of benefits, such employer shall pay to the SSS damages equivalent to the difference between the amount of benefit to which the employee member or his beneficiary is entitled had the proper contributions been remitted to the SSS and the amount payable on the basis of contributions actually remitted: Provided, That if the employee member or his beneficiary is entitled to pension benefits, the damages shall be equivalent to the accumulated pension due as of the date of settlement of the claim or to the five (5) years' pension, whichever is higher, including dependents' pension. In addition to the liability mentioned in the preceding paragraphs (a) and (b) hereof, the employer shall also be liable for the payment of the corresponding unremitted contributions and penalties thereon. (c) The records and reports duly accomplished and submitted to the SSS by the employer or the member, as the case may be, shall be kept confidential by the SSS except in compliance with a subpoena duces tecum issued by the courts, shall not be divulged without the consent of the SSS President or any official of the SSS duly authorized by him, shall be presumed correct as to the data and other matters stated therein, unless the necessary corrections to such records and reports have been properly made by the parties concerned before the right to the benefit being claimed accrues, and shall be made the basis for the adjudication of the claim. If as a result of such adjudication the SSS in good faith pays a monthly pension to a beneficiary who is inferior in right to another beneficiary or with whom another beneficiary is entitled to share, such payments shall discharge the SSS from liability unless and until such other beneficiary notifies the SSS of his claim prior to the payments. (d) Every employer shall keep true and accurate work records for such period and containing such information as the Commission may prescribe, in addition to an 'Annual Register of New and Separated Employees' which shall be secured from the SSS wherein the employer shall enter on the first day of employment or on the effective date of separation, the names of the persons employed or separated from employment, their SSS numbers, and such other data that the Commission may require and said annual register shall be submitted to the SSS in the month of January of each year. Such records shall be open for inspection by the SSS or its authorized representatives quarterly or as often as the SSS may require. The SSS may also require each employer to submit, with respect to the persons in his employ, reports needed for the effective administration of this Act. (e) Each employer shall require, as a condition to employment, the presentation of a registration number secured by the prospective employee from the SSS in accordance with such procedure as the SSS may adopt: Provided, That in case of employees who have earlier been assigned registration numbers by virtue of a previous employment, such numbers originally assigned to them should be used for purposes of this Section: Provided, further, That the issuance of such registration numbers by the SSS shall not exempt the employer from complying with the provisions of paragraph (a) of this Section. (f) Notwithstanding any law to the contrary, microfilm, or non-erasable optical disk and other similar archival media copies of original SSS records and reports, or copies of such records and reports duly certified by the official custodian thereof, shall have the same evidentiary value as the originals and be admissible as evidence in all legal proceedings. (g) Notwithstanding any law to the contrary, local government units shall, prior to issuing any annual business license or permit, require submission of certificate of SSS coverage and compliance with the provisions of this Act: Provided, That the certification or clearance shall be issued by the SSS within five (5) working days from receipt of the request.",
+      "explanation": "Sec. 24 is the employer-compliance engine, and paragraph (a) is its most tested part: report every covered employee immediately (names, ages, civil status, occupations, salaries, dependents) — because if an unreported employee dies, gets sick or disabled, or turns 60, the employer pays the SSS damages equal to the lost benefits (for pensions: accumulated pension due or 5 years' pension, higher, including dependents' pension). The only grace: contingencies within 30 days of hiring. Principals are subsidiarily liable with their independent contractors and must require a surety bond. Paragraph (b) covers the subtler sins — misrepresenting the hiring date or under-remitting: damages equal the benefit shortfall (same pension measure), PLUS the unremitted contributions and penalties. Paragraph (c) makes employer/member records confidential, presumed correct, and the basis for adjudication (correct them BEFORE the right to the benefit accrues), and protects good-faith SSS payments to an inferior beneficiary. Paragraph (d) requires true work records plus the Annual Register of New and Separated Employees filed every January, open to SSS inspection. Paragraph (e) requires the SSS number as a condition of employment (one number for life) — but the number never excuses the paragraph (a) report. Paragraph (f) gives certified/archival copies full evidentiary value. Paragraph (g) ties SSS clearance to the LGU business permit, issuable within 5 working days. Gapayao applied paragraph (a) damages to an unreported farm worker's death; Ambassador Hotel shows the collection end. Practical application: the new-hire checklist must be report-on-day-one, and payroll registers must reconcile to the Annual Register every January. Exam points: 30-day grace, subsidiary liability + surety bond, 5-year pension damage measure, January filing, 5-day clearance.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [
+        "case.ambassador-sss"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 24"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec24a",
+      "citation": "RA No. 11199, Sec. 24-A",
+      "instrument": "RA 11199",
+      "articleOrSection": "24-A",
+      "verbatim": "Report and Registration of the Self-Employed Member. — Each covered self-employed member shall, within thirty (30) days from the first day he started the practice of his profession or business operations, register and report to the SSS his name, age, civil status, and occupation, average monthly net income and his dependents.",
+      "explanation": "The self-employed counterpart of Sec. 24(a): register and report (name, age, civil status, occupation, average monthly net income, dependents) within 30 days of starting practice or operations. The declared average monthly net income becomes the contribution and benefit base under Sec. 19-A, so accuracy at registration compounds over a lifetime of AMSC inputs. Practical application: newly licensed professionals and new business owners should calendar this with their BIR and LGU registrations — it is the same 30-day window as the employer's Sec. 24(a) damage grace, but here it is a direct duty, not a grace period. Remember: 30 days from day one of practice/operations.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 24-A"
+        }
+      ]
+    },
+    {
+      "id": "prov.ra11199-sec28",
+      "citation": "RA No. 11199, Sec. 28",
+      "instrument": "RA 11199",
+      "articleOrSection": "28",
+      "verbatim": "Penal Clause. — (a) Whoever, for the purpose of causing any payment to be made under this Act, or under an agreement thereunder, where none is authorized to be paid, shall make or cause to be made false statement or representation as to any compensation paid or received or whoever makes or causes to be made any false statement of a material fact in any claim for any benefit payable under this Act, or application for loan with the SSS, or whoever makes or causes to be made any false statement, representation, affidavit or document in connection with such claim or loan, shall suffer the penalties provided for in Article One hundred seventy-two of the Revised Penal Code. (b) Whoever shall obtain or receive any money or check under this Act or any agreement thereunder, without being entitled thereto with intent to defraud any member, employer or the SSS, shall be fined not less than Five thousand pesos (P5,000.00) nor more than Twenty thousand pesos (P20,000.00) and imprisoned for not less than six (6) years and one (1) day nor more than twelve (12) years. (c) Whoever buys, sells, offers for sale, uses, transfers or takes or gives in exchange, or pledges or gives in pledge, except as authorized in this Act or in regulations made pursuant thereto, any stamp, coupon, ticket, book or other device, prescribed pursuant to Section Twenty-three hereof by the Commission for the collection or payment of contributions required herein, shall be fined not less than Five thousand pesos (P5,000.00) nor more than Twenty thousand pesos (P20,000.00), or imprisoned for not less than six (6) years and one (1) day nor more than twelve (12) years, or both, at the discretion of the court. (d) Whoever, with intent to defraud, alters, forges, makes or counterfeits any stamp, coupon, ticket, book or other device prescribed by the Commission for the collection or payment of any contribution required herein, or uses, sells, lends, or has in his possession any such altered, forged or counterfeited materials, or makes, uses, sells or has in his possession any such altered, forged, material in imitation of the material used in the manufacture of such stamp, coupon, ticket, book or other device, shall be fined not less than Five thousand pesos (P5,000.00) nor more than Twenty thousand pesos (P20,000.00) or imprisoned for not less than six (6) years and one (1) day nor more than twelve (12) years, or both, at the discretion of the court. (e) Whoever fails or refuses to comply with the provisions of this Act or with the rules and regulations promulgated by the Commission, shall be punished by a fine of not less than Five thousand pesos (P5,000.00) nor more than Twenty thousand pesos (P20,000.00), or imprisonment for not less than six (6) years and one (1) day nor more than twelve (12) years, or both, at the discretion of the court: Provided, That where the violation consists in failure or refusal to register employees or himself, in case of the covered self-employed or to deduct contributions from the employees' compensation and remit the same to the SSS, the penalty shall be a fine of not less than Five thousand pesos (P5,000.00) nor more than Twenty thousand pesos (P20,000.00) and imprisonment for not less than six (6) years and one (1) day nor more than twelve (12) years. (f) If the act or omission penalized by this Act be committed by an association, partnership, corporation or any other institution, its managing head, directors or partners shall be liable for the penalties provided in this Act for the offense. (g) Any employee of the SSS who receives or keeps funds or property belonging, payable or deliverable to the SSS and who shall appropriate the same, or shall take or misappropriate, or shall consent, or through abandonment or negligence, shall permit any other person to take such property or funds, wholly or partially, or shall otherwise be guilty of misappropriation of such funds or property, shall suffer the penalties provided in Article Two hundred seventeen of the Revised Penal Code. (h) Any employer who, after deducting the monthly contributions or loan amortizations from his employee's compensation, fails to remit the said deduction to the SSS within thirty (30) days from the date they became due, shall be presumed to have misappropriated such contributions or loan amortizations and shall suffer the penalties provided in Article Three hundred fifteen of the Revised Penal Code. (i) Criminal action arising from a violation of the provisions of this Act may be commenced by the SSS or the employee concerned either under this Act or in appropriate cases under the Revised Penal Code: Provided, That such criminal action may be filed by the SSS in the city or municipality where the SSS office is located, if the violation was committed within its territorial jurisdiction or in Metro Manila, at the option of the SSS.",
+      "explanation": "Sec. 28 layers three kinds of liability. First, the core compliance offenses: (e) general failure/refusal to comply is fine OR imprisonment OR both — but failure to register, to deduct, or to remit is the heavier proviso: fine AND imprisonment. Second, the fraud cluster: (a) false statements in claims/loans (Art. 172 RPC falsification penalties); (b) receiving money or checks without entitlement with intent to defraud (fine AND 6y1d-12y); (c)-(d) unauthorized dealing in or forgery of contribution-payment devices (fine OR imprisonment OR both). Third, the accountability rules: (f) juridical entities act through humans — the managing head, directors, or partners personally bear the penalties (Ambassador Hotel: arrest of the managing head also gives the court jurisdiction over the corporation, and the officer's acquittal does not extinguish the corporation's civil liability); (g) SSS employees who misappropriate funds face Art. 217 RPC (malversation) penalties; (h) an employer who deducts but fails to remit within 30 days of due date is PRESUMED to have misappropriated, facing Art. 315 RPC (estafa) penalties — the single most dangerous paragraph for payroll officers. Finally, (i) lets the SSS or the employee file criminally, under the Act or the RPC, with SSS-friendly venue (where the SSS office sits or Metro Manila, at SSS option). Practical application: deduction without remittance is never a 'cash-flow' decision — after 30 days it becomes presumed estafa. Remember the and/or map: (b) AND; (c),(d) OR; (e) general OR, proviso (register/deduct/remit) AND.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "caseIds": [
+        "case.ambassador-sss"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 28"
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "case.gapayao-fulo",
+      "name": "Jaime N. Gapayao v. Rosario Fulo, SSS and SSC",
+      "citation": "G.R. No. 193493, 13 June 2013",
+      "facts": "Jaime Fulo died in 1997 while doing repairs at Jaime Gapayao's residence and business establishment. His widow Rosario claimed SSS death benefits, but Fulo was not SSS-registered. She insisted he had been Gapayao's farm laborer, abaca harvester, and repairman/utility worker from 1983 to 1997. Gapayao denied employment, though he had earlier signed a Compromise Agreement describing himself as the 'employer' of the deceased and paying P40,000 as full settlement. The SSC found an employer-employee relationship and ordered Gapayao to pay unpaid contributions, penalties, and Sec. 24(a) damages; the CA affirmed.",
+      "issue": "Whether Jaime Fulo was Gapayao's employee and therefore compulsorily covered by the Social Security Law.",
+      "ruling": "Yes. The Supreme Court denied the petition and affirmed the CA. Applying the control test — the right to control the end and the manner and means, not necessarily its exercise — the Court held Gapayao controlled Fulo directly or through his farm overseer; pakyaw workers are employees while subject to control, and irregular hours or seasonal work do not negate employment. The Compromise Agreement's 'employer' admission was a declaration against interest.",
+      "doctrine": "The right to SSS coverage is premised on the employer-employee relationship, determined by the control test (right to control suffices; delegation to an overseer counts). Pakyaw, seasonal, or irregular-hour workers are employees when controlled. SSC factual findings supported by substantial evidence and affirmed by the CA are final. An unreported worker's death triggers Sec. 24(a) damages against the employer.",
+      "keyPhrase": "Coverage follows the employment relationship; control test decides who is an employee.",
+      "examUse": "Use for any question asking whether a worker (pakyaw, seasonal, project-based, househelp-adjacent) is compulsorily covered, and for Sec. 24(a) failure-to-report damages.",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "provisionIds": [
+        "prov.ra11199-sec8d",
+        "prov.ra11199-sec8j",
+        "prov.ra11199-sec9",
+        "prov.ra11199-sec24"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.gapayao-fulo",
+          "section": "Decision"
+        }
+      ]
+    },
+    {
+      "id": "case.sss-aguas",
+      "name": "Social Security System v. Rosanna H. Aguas, et al.",
+      "citation": "G.R. No. 165546, 27 February 2006",
+      "facts": "Pablo Aguas, an SSS member-pensioner, died in 1996. His widow Rosanna claimed death benefits for herself and minor Jeylnn; the claim was initially paid, then suspended after Pablo's sister alleged Rosanna had long abandoned Pablo, lived with another man, and that the children were not Pablo's. Janet later joined as a third claimant. The SSC denied all claims and ordered a refund; the CA reversed and declared all three entitled. The evidence showed: Rosanna and Pablo had separated years before his death; Jeylnn's birth certificate (signed by Pablo as father, verified with the civil register) supported legitimacy; Janet's birth proof was an unverified photocopy and witnesses uniformly said she was merely informally 'adopted.'",
+      "issue": "Whether Rosanna, Jeylnn, and Janet are entitled to the SSS death benefits as primary beneficiaries.",
+      "ruling": "Only Jeylnn. The petition was partially granted and the CA ruling affirmed with modification: (1) Jeylnn is legitimate — children conceived or born during the marriage are presumed legitimate (Family Code Art. 164), and the SSS failed to overcome the presumption; (2) Janet is not a dependent child — her birth was not substantially proven and only 'legally adopted' children qualify; (3) Rosanna, though the legitimate spouse, failed to prove she was still dependent on Pablo for support at his death — dependency cannot be presumed from marriage alone, and a de facto separated spouse is presumed not dependent absent contrary proof.",
+      "doctrine": "A claimant-spouse must establish two qualifying factors: (1) legitimate spouse, AND (2) dependent on the member for support at death. Dependency is proved, never presumed from marriage; separation breaks the presumption of support the other way. Only legitimate, legitimated, legally adopted, or illegitimate children within the statute qualify as dependent children — informal adoptees do not.",
+      "keyPhrase": "Legitimate spouse AND dependent for support — two factors, both proved.",
+      "examUse": "Use for every death-benefit beneficiary question: apply the two-factor spouse test and the closed-list child rule before distributing under Sec. 13 and Sec. 8(k).",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "provisionIds": [
+        "prov.ra11199-sec8e",
+        "prov.ra11199-sec8k",
+        "prov.ra11199-sec13"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.sss-aguas",
+          "section": "Decision"
+        }
+      ]
+    },
+    {
+      "id": "case.ortega-ssc",
+      "name": "Ibarra P. Ortega v. Social Security Commission and SSS",
+      "citation": "G.R. No. 176150, 25 June 2008 (578 Phil. 338)",
+      "facts": "Ortega, an SSS member, received partial permanent disability pension for 23 months for generalized arthritis and partial ankylosis. After it expired, he claimed total permanent disability benefits in 2000, invoking his private physicians' diagnoses (trigger finger, asthma, hypertension, GERD, rheumatoid arthritis). SSS medical officers repeatedly examined him and found no progression of illness (only slight limitation of grasping movement). The SSC denied the claim (and noted he could opt for retirement, having turned 60 with 41 contributions); the CA affirmed.",
+      "issue": "Whether Ortega is entitled to total permanent disability benefits despite the SSS medical findings of no progression.",
+      "ruling": "No. The Supreme Court denied the petition. The Court is not a trier of facts; SSC factual findings, affirmed by the CA and supported by substantial evidence (the SSS medical examinations), are final. The case also draws the conceptual line: Labor Code compensation (work-related disability, loss of income from work-connected injury/illness) and Social Security Law benefits (insurance against disability, sickness, old age, death, irrespective of work-connection) differ in nature and purpose — and 'total and permanent' means different things under each regime.",
+      "doctrine": "Total permanent disability under the SSS Law is adjudicated on SSS medical findings under the substantial-evidence standard; courts defer to SSC expertise as affirmed by the CA. SSS benefits and Labor Code employees' compensation are distinct regimes — a Labor Code disability theory does not control an SSS disability claim.",
+      "keyPhrase": "SSS disability is an insurance benefit judged on SSS medical findings, not a Labor Code compensation claim.",
+      "examUse": "Use for disability questions to explain who decides (SSS/SSC on medical evidence), the standard (substantial evidence), and the SSS-vs-Labor-Code distinction.",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "provisionIds": [
+        "prov.ra11199-sec13a"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ortega-ssc",
+          "section": "Decision"
+        }
+      ]
+    },
+    {
+      "id": "case.ambassador-sss",
+      "name": "Ambassador Hotel, Inc. v. Social Security System",
+      "citation": "G.R. No. 194137, 21 June 2017 (811 Phil. 424)",
+      "facts": "The SSS charged Ambassador Hotel's president Yolanda Chan and treasurer with violation of Secs. 22(a), 22(d), and 28(e) for non-remittance of contributions (June 1999-March 2001, assessed at P769,575.48 with penalties). At trial, Yolanda proved an intra-corporate dispute had prevented her from acting as president during the delinquency period. The RTC acquitted her criminally (she was not the 'managing head' under Sec. 28(f)) but held the hotel civilly liable for P584,804.00; the CA affirmed in toto. The hotel argued the RTC had no jurisdiction over it since it was never impleaded or served summons.",
+      "issue": "Whether the corporation is civilly liable for unremitted SSS contributions despite its officer's criminal acquittal, and whether jurisdiction attached without separate summons.",
+      "ruling": "Yes on both. The Supreme Court denied the petition: (1) SSS remittance is mandatory; a corporation cannot invoke separate personality to escape liability — Sec. 28(f) pins criminal responsibility on the managing head/directors/partners while the corporation answers civilly; (2) arrest of the managing head gives the court jurisdiction over the corporation (no separate summons needed; it is deemed included through its officers); jurisdiction once attached is not ousted by later acquittal; (3) the acquittal did not extinguish the civil action, which is deemed instituted with the criminal action and survives unless the judgment declares the underlying fact did not exist. The Court found by preponderance of evidence that P584,804.00 in contributions went unremitted, plus 6% legal interest.",
+      "doctrine": "SSS contribution remittance is mandatory. Under Sec. 28(f), corporate officers bear personal criminal liability while the corporation bears civil liability; jurisdiction over the corporation attaches through its arrested officers; and an officer's acquittal does not extinguish corporate civil liability unless the judgment negates the fact of non-payment.",
+      "keyPhrase": "Mandatory remittance; officers answer criminally, the corporation civilly — acquittal of one is not acquittal of the other.",
+      "examUse": "Use for penalties and employer-liability questions: mandatory nature, Sec. 28(f) personal liability, jurisdiction, and the criminal/civil split.",
+      "note": "Decided under RA 1161 as amended by RA 8282; the cited doctrines carry into identical RA 11199 provisions (Secs. 22, 28(e)-(f)). The 3%-per-month delinquency penalty discussed in the decision is the pre-2019 rate; RA 11199 Sec. 22(a) imposes 2% per month.",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "provisionIds": [
+        "prov.ra11199-sec22",
+        "prov.ra11199-sec24",
+        "prov.ra11199-sec28"
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ambassador-sss",
+          "section": "Decision"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q.sss.coverage-compulsory",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "prompt": "Who is compulsorily covered by the SSS under Secs. 9, 9-A, and 9-B, and what is the common age ceiling?",
+      "answerKey": "Compulsory coverage extends to (1) all employees not over 60, expressly including kasambahays/domestic workers, plus their employers (Sec. 9(a)); (2) self-employed persons as determined by the Commission — professionals, partners and single proprietors, listed media workers who are not employees, athletes/coaches/trainers/jockeys, individual farmers and fishermen, the list being non-exclusive (Sec. 9-A); and (3) all sea-based and land-based OFWs not over 60 (Sec. 9-B). The common age ceiling is 'not over sixty (60) years of age' for employees and OFWs. Excluded from 'employment' are services without an employer-employee relationship, Philippine government service, foreign-government/international-organization service (unless by agreement), and Commission-excluded services (Sec. 8(j)).",
+      "explanation": "Full-credit answers name all three coverage sections with the kasambahay and OFW inclusions, quote the 'not over 60' ceiling, and show the Sec. 8(j) exclusions as the boundary.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 8(j), 9, 9-A, 9-B"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.sss.coverage-voluntary-effective",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "prompt": "When does compulsory coverage take effect for employers, employees, and self-employed persons, and who may be covered voluntarily?",
+      "answerKey": "Effectivity (Sec. 10): employer — first day of operation; employee — day of employment; self-employed — upon registration with the SSS. Voluntary coverage: (1) spouses devoting full time to the household, unless already mandatorily covered by other work (Sec. 9(b)); (2) separated employees who continue paying total contributions (Sec. 11); (3) self-employed members with no income who keep paying (Sec. 11-A); (4) OFWs after termination of overseas employment (Sec. 9-B(f)); (5) Filipino permanent migrants, including immigrants, permanent residents, and naturalized citizens of host countries (Sec. 9-B(g)).",
+      "explanation": "The effectivity triplet (operation/employment/registration) plus the five voluntary tracks. Watch for the Sec. 9(b) qualifier — a homemaker with a covered job is compulsory, not voluntary.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 9(b), 9-B(f)-(g), 10, 11, 11-A"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.sss.benefits-pension-qualifiers",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "prompt": "State the qualifying contributions and key conditions for the retirement pension, the death pension, and the permanent-total-disability pension.",
+      "answerKey": "Retirement (Sec. 12-B): at least 120 contributions before the semester of retirement, plus either (1) age 60 with separation from employment/cessation of self-employment, or (2) age 65. Death (Sec. 13): at least 36 contributions before the semester of death for primary beneficiaries to draw the monthly pension (otherwise lump-sum rules apply). Permanent total disability (Sec. 13-A): at least 36 contributions before the semester of disability for the monthly pension (otherwise lump sum of pension × contributions or 12× pension, higher). Both death and disability pensions carry the dependents' pension add-on (Sec. 12-A) and the 60-month guarantee structure for survivors.",
+      "explanation": "The numbers ladder is 120-36-36 for pensions; pair each with its separation/beneficiary condition. Below-threshold outcomes (lump sums) earn the second half of the credit.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 12-B, 13, 13-A"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.sss.benefits-sickness-maternity",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "prompt": "Compare the sickness benefit and the maternity benefit: qualifier, rate, duration, and the current rules that supersede Sec. 14-A.",
+      "answerKey": "Both require at least 3 monthly contributions in the 12-month period before the semester of contingency. Sickness (Sec. 14): 90% of ADSC per day of compensable confinement (>3 days), max 120 days/year (no carryover) and 240 days per confinement, with the 5-day notice chain (excused for hospital confinement or on-premises sickness/injury) and 100% employer reimbursement on timely SSS notice. Maternity as enacted (Sec. 14-A): 100% of ADSC for 60 days (78 caesarian), first 4 deliveries only. CURRENT maternity rule under RA 11210 (eff. 11 Mar 2019): 100% of ADSC for 105 days live birth (any delivery mode), 60 days miscarriage/ETP including stillbirth, 120 days for solo parents — every instance regardless of frequency, with 7-day allocation option; the 3-contribution qualifier, 30-day employer advance, and 100% reimbursement survive.",
+      "explanation": "The shared '3 in 12 months' qualifier plus the rate/duration contrast earns base credit; naming the RA 11210 supersession (105/60/120, every instance, 11 Mar 2019) earns full credit.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 14, 14-A"
+        },
+        {
+          "sourceId": "src.law.sss-maternity",
+          "section": "RA 11210 rules; contingencies on/after 11 Mar 2019"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.sss.contrib-schedule-remit",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "prompt": "State the current SSS contribution rate and MSC band with legal basis and effective date, plus the remittance deadline and delinquency penalty.",
+      "answerKey": "Current schedule: 15% of MSC (employer 10%, employee 5%), MSC band P5,000-P35,000 — the final row of the Sec. 4(a)(9) statutory ramp, implemented by SSS Circulars No. 2024-006 (ER/EE), 2024-007 (household/kasambahay), 2024-008 (self-employed), 2024-009 (voluntary/non-working spouse), and 2024-010 (land-based OFW), all effective 1 January 2025 and still the latest tables on sss.gov.ph as of 9 November 2026. MSC above P20,000 is credited to the MPF (MySSS Pension Booster). Remittance (Sec. 22(a)): within the first 10 days of the month following the applicable month; delinquency penalty 2% per month until paid. Self-employed remit quarterly with no retroactive payment (Sec. 22-A).",
+      "explanation": "Rate + split + band + circular numbers + effective date is the complete figure answer; the 10-day deadline and 2%/month penalty (not the pre-2019 3%) complete the remittance half.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 4(a)(9), 22(a), 22-A"
+        },
+        {
+          "sourceId": "src.law.sss-contrib-2025",
+          "section": "2025 tables; Cirs. 2024-006 to 2024-010, eff. 1 Jan 2025"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.sss.contrib-records-penalties",
+      "kind": "selfTest",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "prompt": "An employer never reported a new hire, who dies 6 months later. What is the employer's liability under Sec. 24(a), and what criminal exposure follows if the employer had deducted but never remitted contributions?",
+      "answerKey": "Under Sec. 24(a), the employer must pay the SSS damages equivalent to the benefits the employee would have received had he been timely reported — for pension benefits, the accumulated pension due at settlement or 5 years' pension, whichever is higher, including dependents' pension. The 30-day grace does not apply (death occurred beyond 30 days from hiring). Separately, unremitted contributions plus penalties remain due (Sec. 24(b) closing, Sec. 22(a)). Criminally: failure to register/deduct/remit draws fine (P5,000-P20,000) AND imprisonment (6 years 1 day-12 years) under the Sec. 28(e) proviso; and deduction without remittance within 30 days of due date creates the Sec. 28(h) presumption of misappropriation punishable under RPC Art. 315 (estafa). Per Ambassador Hotel, corporate officers answer criminally while the corporation answers civilly.",
+      "explanation": "Civil damages (lost-benefits measure + 5-year pension rule + lapsed 30-day grace) plus the criminal provisos (28(e) AND-penalty, 28(h) estafa presumption) is the complete answer structure.",
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 24(a), 28(e), 28(h)"
+        },
+        {
+          "sourceId": "src.law.ambassador-sss",
+          "section": "Decision"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.sss.irac-unreported-separation",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.sss.coverage",
+        "ba166.sss.contributions"
+      ],
+      "prompt": "Dalia, a pakyaw farm worker paid irregularly, worked seasonally for a landowner for 5 years but was never SSS-reported. She turns 60 while still working seasonally. The landowner claims (1) she is not an employee because pakyaw pay and seasonal work negate employment, and (2) he owes nothing since he never deducted contributions. Assess both claims and state what the SSS can collect.",
+      "answerKey": "Both claims fail. (1) Under the control test (Gapayao v. Fulo), pakyaw pay, seasonal work, and irregular hours do not negate employment where the landowner has the right to control the work; Dalia is an employee under Sec. 8(d) and compulsorily covered under Sec. 9(a). (2) The employer cannot invoke his own omission: turning 60 is a Sec. 24(a) contingency, the 30-day grace lapsed years ago, and the employer owes damages equal to the lost benefits (pension measure: accumulated or 5-year pension, higher, including dependents' pension) plus all unremitted contributions and 2%/month penalties. The SSS may collect via tax-like remedies (Sec. 22(b)-(c)) within 20 years, aided by the Sec. 22(d) presumption, and pursue Sec. 28(e) criminal liability (fine AND imprisonment) against the responsible persons.",
+      "hints": {
+        "issue": "Is a seasonal pakyaw worker an employee for SSS purposes, and what follows from 5 years of non-reporting when she turns 60?",
+        "rule": "Secs. 8(d), 9(a), 22, 24(a), 28(e); Gapayao v. Fulo (control test; pakyaw workers are employees; Sec. 24(a) damages).",
+        "application": "Apply control test to the farm facts; test the 30-day grace against the 5-year delay; compute the damage measure; list collection modes and criminal proviso.",
+        "conclusion": "Employee status stands; employer owes Sec. 24(a) damages plus contributions and penalties, collectible tax-like within 20 years, with criminal exposure under Sec. 28(e)."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 8(d), 9(a), 22, 24(a), 28(e)"
+        },
+        {
+          "sourceId": "src.law.gapayao-fulo",
+          "section": "Decision"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    },
+    {
+      "id": "q.sss.irac-death-beneficiaries",
+      "kind": "iracHypo",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "prompt": "Ramon, an SSS member with 80 contributions, dies. He is survived by: (1) Lena, his legal wife, from whom he had lived apart for 8 years (she ran her own store and never received support from him); (2) Mia, 19, his legitimate daughter, unmarried and unemployed; (3) Pia, 17, his illegitimate daughter, unmarried and unemployed; and (4) his dependent mother. No beneficiary was designated. Who receives what under Secs. 8(k) and 13, and what must Lena prove?",
+      "answerKey": "Ramon paid 80 contributions (above 36), so Sec. 13 gives the monthly pension to primary beneficiaries. Applying Sec. 8(k) with SSS v. Aguas: Mia (legitimate dependent child) is a primary beneficiary. Pia (illegitimate dependent child) is also primary but at 50% of a legitimate child's share since Mia concurs. Lena must prove BOTH that she is the legitimate spouse AND that she was dependent on Ramon for support at death — on these facts she likely fails the dependency test (8-year separation, self-supporting), so she is excluded; dependency is never presumed from marriage, and separation reverses the presumption. The dependent mother is secondary and takes nothing while primary beneficiaries (Mia, Pia) exist. Dependents' pensions (Sec. 12-A: 10% or P250 higher, per child, max 5) attach for Mia and Pia. Funeral benefit additionally: variable P20,000-P60,000 (80 ≥ 36 contributions) under Circular 2023-009 to whoever proves the funeral expense.",
+      "hints": {
+        "issue": "With 80 contributions and a separated self-supporting spouse, two dependent children (one legitimate, one illegitimate), and a dependent mother, who are the primary beneficiaries and in what shares?",
+        "rule": "Secs. 8(e), 8(k), 12-A, 13; SSS v. Aguas (two-factor spouse test; closed-list children); Circular 2023-009 (funeral).",
+        "application": "Count contributions (80 > 36 → pension to primaries); test Lena's dependency on the separation facts; slot Mia and Pia with the 50% rule; exclude the secondary mother; add dependents' pensions and funeral.",
+        "conclusion": "Monthly pension to Mia (full primary share) and Pia (50% of legitimate share) plus dependents' pensions; Lena excluded for want of dependency proof; mother takes nothing; funeral grant to the proven claimant."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 8(e), 8(k), 12-A, 13"
+        },
+        {
+          "sourceId": "src.law.sss-aguas",
+          "section": "Decision"
+        },
+        {
+          "sourceId": "src.law.sss-funeral",
+          "section": "Current amounts; Circular No. 2023-009, eff. 20 Oct 2023"
+        }
+      ],
+      "editorialStatus": "researched-draft"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc.sss.01",
+      "kind": "qa",
+      "front": "Who is compulsorily covered by the SSS, and what is the age ceiling?",
+      "back": "All employees not over 60 including kasambahays + employers (Sec. 9); self-employed per Commission (Sec. 9-A, non-exclusive list); all sea-based and land-based OFWs not over 60 (Sec. 9-B). Ceiling: 'not over sixty (60) years of age.'",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "tags": [
+        "coverage",
+        "compulsory",
+        "age"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 9, 9-A, 9-B"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.02",
+      "kind": "qa",
+      "front": "When does compulsory coverage take effect for employer, employee, and self-employed?",
+      "back": "Employer: first day of operation. Employee: day of employment. Self-employed: upon SSS registration. (Sec. 10 — remember: operation / employment / registration.)",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "tags": [
+        "coverage",
+        "effectivity"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 10"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.03",
+      "kind": "qa",
+      "front": "Name the five voluntary coverage tracks.",
+      "back": "(1) Full-time homemaker spouses (Sec. 9(b)); (2) separated employees who keep paying (Sec. 11); (3) zero-income SE who keep paying (Sec. 11-A); (4) OFWs after overseas employment ends (Sec. 9-B(f)); (5) Filipino permanent migrants (Sec. 9-B(g)).",
+      "topicIds": [
+        "ba166.sss.coverage"
+      ],
+      "tags": [
+        "coverage",
+        "voluntary"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 9(b), 11, 11-A, 9-B(f)-(g)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.04",
+      "kind": "qa",
+      "front": "What are the qualifying contributions for retirement, death, disability, sickness, maternity, and unemployment benefits?",
+      "back": "Retirement pension: 120. Death pension: 36. Permanent-total-disability pension: 36. Sickness: 3 in the last 12 months. Maternity: 3 in the last 12 months. Unemployment: 36 with 12 in the last 18 months. Ladder: 120-36-36 / 3-3 / 36(12-in-18).",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "tags": [
+        "benefits",
+        "qualifiers",
+        "numbers"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Secs. 12-B, 13, 13-A, 14, 14-A, 14-B"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.05",
+      "kind": "provision",
+      "front": "How is the monthly pension computed, and what is the guarantee?",
+      "back": "Highest of: (1) P300 + 20% AMSC + 2% AMSC per CYS over 10; (2) 40% AMSC; (3) P1,000. Minimums: P1,200 (10+ CYS), P2,400 (20+ CYS). Plus P1,000 additional allowance (since Jan 2017). Guaranteed at least 60 months aggregate. (Sec. 12; peso figures as stated in RA 11199.)",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "tags": [
+        "benefits",
+        "pension",
+        "formula"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 12"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.06",
+      "kind": "doctrine",
+      "front": "SSS v. Aguas: what must a surviving spouse prove to be a primary beneficiary?",
+      "back": "Two factors: (1) legitimate spouse AND (2) dependent on the member for support at death. Dependency is proved, never presumed from marriage; a separated spouse is presumed NOT dependent. Only Jeylnn (legitimate child) was held entitled. (G.R. No. 165546, 27 Feb 2006.)",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "tags": [
+        "benefits",
+        "death",
+        "case"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.sss-aguas",
+          "section": "Decision"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.07",
+      "kind": "qa",
+      "front": "What are the CURRENT maternity durations and funeral amounts (with legal basis)?",
+      "back": "Maternity (RA 11210, eff. 11 Mar 2019): 105 days live birth, 60 days miscarriage/ETP incl. stillbirth, 120 days solo parents — every instance. Funeral (SSS Circular 2023-009, eff. 20 Oct 2023): P20,000-P60,000 if 36+ contributions; fixed P12,000 if 1-35. Both at 100% ADSC (maternity) / proven expense (funeral).",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "tags": [
+        "benefits",
+        "maternity",
+        "funeral",
+        "current"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.sss-maternity",
+          "section": "RA 11210 rules"
+        },
+        {
+          "sourceId": "src.law.sss-funeral",
+          "section": "Circular No. 2023-009, eff. 20 Oct 2023"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.08",
+      "kind": "qa",
+      "front": "Sickness benefit: rate, caps, and notice rules?",
+      "back": "90% of ADSC/day, confined >3 days. Caps: 120 days/year (no carryover), 240 days same confinement. Employee notifies employer within 5 days unless hospital confinement or on-premises illness/injury; employer notifies SSS within 5 days for 100% reimbursement; employer failure after due notice = no recovery of advances. (Sec. 14.)",
+      "topicIds": [
+        "ba166.sss.benefits"
+      ],
+      "tags": [
+        "benefits",
+        "sickness",
+        "notice"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 14"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.09",
+      "kind": "provision",
+      "front": "What is the CURRENT contribution rate, split, and MSC band (with basis and date)?",
+      "back": "15% of MSC: employer 10%, employee 5%. MSC P5,000-P35,000; MSC above P20,000 goes to the MPF (MySSS Pension Booster). Basis: Sec. 4(a)(9) final row via SSS Circulars 2024-006 to 2024-010, effective 1 January 2025 (latest as of 9 Nov 2026).",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "tags": [
+        "contributions",
+        "rate",
+        "current"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 4(a)(9)"
+        },
+        {
+          "sourceId": "src.law.sss-contrib-2025",
+          "section": "2025 tables, eff. 1 Jan 2025"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.10",
+      "kind": "qa",
+      "front": "Remittance deadline, delinquency penalty, collection modes, and prescriptive period?",
+      "back": "Remit within the first 10 days of the following month; 2%/month penalty until paid. Collection tax-like: preferred court action or sheriff's levy warrant. Action within 20 years (known delinquency/assessment/benefit accrual). Non-remittance never prejudices the employee's benefits. (Sec. 22.)",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "tags": [
+        "contributions",
+        "remittance",
+        "collection"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 22"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.11",
+      "kind": "qa",
+      "front": "Employer never reported a worker who then dies: what damages, and is there any grace?",
+      "back": "Damages = benefits lost; for pensions, accumulated pension due or 5 years' pension, higher, incl. dependents' pension — plus unremitted contributions and penalties. Grace: contingency within 30 days of hiring relieves damages. (Sec. 24(a)-(b); see Gapayao.)",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "tags": [
+        "contributions",
+        "records",
+        "damages"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 24(a)-(b)"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    },
+    {
+      "id": "fc.sss.12",
+      "kind": "doctrine",
+      "front": "Sec. 28 and/or map + the two doctrines of Ambassador Hotel v. SSS?",
+      "back": "Penalties P5,000-P20,000 and/or 6y1d-12y: (b) AND; (c)-(d) OR; (e) general OR but register/deduct/remit proviso AND. Sec. 28(f): managing head/directors/partners personally liable; Sec. 28(h): deduct-but-not-remit within 30 days = presumed estafa (Art. 315 RPC). Ambassador Hotel: (1) arrest of managing head = jurisdiction over the corporation; (2) officer acquittal does not extinguish corporate civil liability. (G.R. No. 194137, 21 June 2017.)",
+      "topicIds": [
+        "ba166.sss.contributions"
+      ],
+      "tags": [
+        "contributions",
+        "penalties",
+        "case"
+      ],
+      "deckIds": [],
+      "sourceRefs": [
+        {
+          "sourceId": "src.law.ra11199",
+          "section": "Sec. 28"
+        },
+        {
+          "sourceId": "src.law.ambassador-sss",
+          "section": "Decision"
+        }
+      ],
+      "editorialStatus": "authored-draft"
+    }
+  ],
+  "coverage": [
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(c) (employer)",
+      "locator": "prov.ra11199-sec8c",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(d) (employee)",
+      "locator": "prov.ra11199-sec8d",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(j) (employment; four exclusions)",
+      "locator": "prov.ra11199-sec8j",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(r) (member)",
+      "locator": "prov.ra11199-sec8r",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(s) (self-employed)",
+      "locator": "prov.ra11199-sec8s",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 9 (compulsory employees/kasambahay; private-plan integration; voluntary homemakers)",
+      "locator": "prov.ra11199-sec9",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 9-A (compulsory self-employed)",
+      "locator": "prov.ra11199-sec9a",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 9-B (compulsory OFWs; manning agencies; voluntary OFW/migrant tracks)",
+      "locator": "prov.ra11199-sec9b",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 10 (effective date of coverage)",
+      "locator": "prov.ra11199-sec10",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 11 (separation from employment)",
+      "locator": "prov.ra11199-sec11",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 11-A (interruption of SE income)",
+      "locator": "prov.ra11199-sec11a",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Gapayao v. Fulo, G.R. No. 193493 (control test; pakyaw employees; Sec. 24(a) damages)",
+      "locator": "case.gapayao-fulo",
+      "lessonId": "les.sss.coverage"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(e) (dependents)",
+      "locator": "prov.ra11199-sec8e",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(k) (beneficiaries; illegitimate-child shares)",
+      "locator": "prov.ra11199-sec8k",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(m) (AMSC)",
+      "locator": "prov.ra11199-sec8m",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 12 (monthly pension; minimums; P1,000 allowance)",
+      "locator": "prov.ra11199-sec12",
+      "lessonId": "les.sss.benefits",
+      "note": "Peso figures as stated in RA 11199; later pension adjustments not verified — lesson directs students to confirm current amounts with SSS."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 12-A (dependents' pension)",
+      "locator": "prov.ra11199-sec12a",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 12-B (retirement; 120 contributions; 60/65)",
+      "locator": "prov.ra11199-sec12b",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 13 (death benefits)",
+      "locator": "prov.ra11199-sec13",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 13-A (permanent disability; PTD list; partial schedule)",
+      "locator": "prov.ra11199-sec13a",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 13-B (funeral) + SSS Circular 2023-009 current amounts",
+      "locator": "prov.ra11199-sec13b",
+      "lessonId": "les.sss.benefits",
+      "note": "Statutory P12,000 updated by Circular No. 2023-009 (eff. 20 Oct 2023): P20,000-P60,000 (36+ contributions), P12,000 fixed (1-35)."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 14 (sickness; notice chain; reimbursement)",
+      "locator": "prov.ra11199-sec14",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 14-A (maternity) as superseded by RA 11210",
+      "locator": "prov.ra11199-sec14a",
+      "lessonId": "les.sss.benefits",
+      "note": "60/78-day and first-4-delivery rules replaced for contingencies on/after 11 Mar 2019: 105/60/120 days, every instance."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 14-B (unemployment) + SSS/DOLE procedure",
+      "locator": "prov.ra11199-sec14b",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "SSS v. Aguas, G.R. No. 165546 (spouse two-factor test)",
+      "locator": "case.sss-aguas",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Ortega v. SSC, G.R. No. 176150 (disability adjudication; SSS vs Labor Code)",
+      "locator": "case.ortega-ssc",
+      "lessonId": "les.sss.benefits"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 8(i) (contribution)",
+      "locator": "prov.ra11199-sec8i",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 4(a)(9) (contribution ramp) + 2025 circulars",
+      "locator": "prov.ra11199-sec4a9",
+      "lessonId": "les.sss.contributions",
+      "note": "Current: 15% (ER 10%/EE 5%), MSC P5,000-P35,000, per Cirs. 2024-006 to 2024-010, eff. 1 Jan 2025; latest on sss.gov.ph as of 9 Nov 2026."
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 16 (tax/legal-process/lien exemption)",
+      "locator": "prov.ra11199-sec16",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 17 (agents'/attorneys' fees; 10% exception)",
+      "locator": "prov.ra11199-sec17",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 18 (employee contributions)",
+      "locator": "prov.ra11199-sec18",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 19 (employer contributions; collection list)",
+      "locator": "prov.ra11199-sec19",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 19-A (self-employed contributions)",
+      "locator": "prov.ra11199-sec19a",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 20 (government contribution)",
+      "locator": "prov.ra11199-sec20",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 21 (government guarantee)",
+      "locator": "prov.ra11199-sec21",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 22 (remittance; collection; 20-year action)",
+      "locator": "prov.ra11199-sec22",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 22-A (SE quarterly remittance)",
+      "locator": "prov.ra11199-sec22a",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 23 (collection method)",
+      "locator": "prov.ra11199-sec23",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 24 (employment records and reports; damages)",
+      "locator": "prov.ra11199-sec24",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 24-A (SE registration)",
+      "locator": "prov.ra11199-sec24a",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "RA 11199, Sec. 28 (penal clause)",
+      "locator": "prov.ra11199-sec28",
+      "lessonId": "les.sss.contributions"
+    },
+    {
+      "status": "converted",
+      "sourceSection": "Ambassador Hotel v. SSS, G.R. No. 194137 (mandatory remittance; Sec. 28(f))",
+      "locator": "case.ambassador-sss",
+      "lessonId": "les.sss.contributions"
+    }
+  ]
+}

@@ -20,7 +20,9 @@
       "ba166.sales.breach-remedies",
       "ba166.sales.extinguishment"
     ],
-    "primarySourceIds": ["src.r01"],
+    "primarySourceIds": [
+      "src.r01"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -38,7 +40,9 @@
       "ba166.consumer.price-act",
       "ba166.consumer.lemon-law"
     ],
-    "primarySourceIds": ["src.r02"],
+    "primarySourceIds": [
+      "src.r02"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -53,7 +57,9 @@
       "ba166.procurement.procedure",
       "ba166.procurement.disclosure-sanctions"
     ],
-    "primarySourceIds": ["src.r03"],
+    "primarySourceIds": [
+      "src.r03"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -62,8 +68,13 @@
     "title": "E-Commerce",
     "description": "Electronic documents, signatures, and transactions under RA 8792.",
     "syllabusPages": "p. 12",
-    "topicIds": ["ba166.ecommerce.e-documents", "ba166.ecommerce.communication-carriage-penalties"],
-    "primarySourceIds": ["src.r04"],
+    "topicIds": [
+      "ba166.ecommerce.e-documents",
+      "ba166.ecommerce.communication-carriage-penalties"
+    ],
+    "primarySourceIds": [
+      "src.r04"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -72,8 +83,14 @@
     "title": "Ease of Doing Business",
     "description": "Anti-red tape reform under RA 11032: charters, processing times, and accountability.",
     "syllabusPages": "pp. 12–13",
-    "topicIds": ["ba166.eodb.policy-charter", "ba166.eodb.access-procedure", "ba166.eodb.licensing-oversight-violations"],
-    "primarySourceIds": ["src.r05"],
+    "topicIds": [
+      "ba166.eodb.policy-charter",
+      "ba166.eodb.access-procedure",
+      "ba166.eodb.licensing-oversight-violations"
+    ],
+    "primarySourceIds": [
+      "src.r05"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -82,8 +99,15 @@
     "title": "Credit Transactions",
     "description": "Pledge, real estate mortgage, and chattel mortgage: constitution, effects, and foreclosure.",
     "syllabusPages": "pp. 13–15",
-    "topicIds": ["ba166.credit.general", "ba166.credit.rem", "ba166.credit.pledge", "ba166.credit.chattel"],
-    "primarySourceIds": ["src.r06"],
+    "topicIds": [
+      "ba166.credit.general",
+      "ba166.credit.rem",
+      "ba166.credit.pledge",
+      "ba166.credit.chattel"
+    ],
+    "primarySourceIds": [
+      "src.r06"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -92,9 +116,18 @@
     "title": "Secrecy of Bank Deposits (RA 1405)",
     "description": "Deposit confidentiality: coverage, prohibited acts, exceptions, and penalties.",
     "syllabusPages": "pp. 15–16",
-    "topicIds": ["ba166.secrecy.coverage", "ba166.secrecy.exceptions", "ba166.secrecy.foreign-currency"],
-    "primarySourceIds": [],
-    "coverage": "SYLLABUS_ONLY"
+    "topicIds": [
+      "ba166.secrecy.coverage",
+      "ba166.secrecy.exceptions",
+      "ba166.secrecy.foreign-currency"
+    ],
+    "primarySourceIds": [
+      "src.law.ra1405",
+      "src.law.ra6426",
+      "src.law.pd1246"
+    ],
+    "coverage": "COVERED",
+    "provenance": "research-backed"
   },
   {
     "id": "ba166.truth-in-lending",
@@ -102,9 +135,17 @@
     "title": "Truth in Lending (RA 3765)",
     "description": "Creditor disclosure duties, covered transactions, and non-compliance.",
     "syllabusPages": "pp. 15–16",
-    "topicIds": ["ba166.til.purpose", "ba166.til.obligations", "ba166.til.non-compliance"],
-    "primarySourceIds": [],
-    "coverage": "SYLLABUS_ONLY"
+    "topicIds": [
+      "ba166.til.purpose",
+      "ba166.til.obligations",
+      "ba166.til.non-compliance"
+    ],
+    "primarySourceIds": [
+      "src.law.ra3765",
+      "src.law.bsp-circ-730"
+    ],
+    "coverage": "COVERED",
+    "provenance": "research-backed"
   },
   {
     "id": "ba166.pdic",
@@ -112,9 +153,19 @@
     "title": "PDIC Act (RA 3591, as amended)",
     "description": "Deposit insurance: insured deposits, PDIC powers, liquidation, and payment.",
     "syllabusPages": "pp. 15–16",
-    "topicIds": ["ba166.pdic.policy", "ba166.pdic.insured-deposits", "ba166.pdic.powers"],
-    "primarySourceIds": [],
-    "coverage": "SYLLABUS_ONLY"
+    "topicIds": [
+      "ba166.pdic.policy",
+      "ba166.pdic.insured-deposits",
+      "ba166.pdic.powers"
+    ],
+    "primarySourceIds": [
+      "src.law.ra10846",
+      "src.law.ra11840",
+      "src.law.ra11840-irr",
+      "src.law.pdic-mdic-2025"
+    ],
+    "coverage": "COVERED",
+    "provenance": "research-backed"
   },
   {
     "id": "ba166.bp22",
@@ -129,7 +180,9 @@
       "ba166.bp22.dishonor",
       "ba166.bp22.penalties"
     ],
-    "primarySourceIds": ["src.bp22"],
+    "primarySourceIds": [
+      "src.bp22"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -151,7 +204,9 @@
       "ba166.amla.penalties",
       "ba166.amla.tf"
     ],
-    "primarySourceIds": ["src.amla"],
+    "primarySourceIds": [
+      "src.amla"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -167,7 +222,9 @@
       "ba166.insurance.perfection",
       "ba166.insurance.policy"
     ],
-    "primarySourceIds": ["src.ins1"],
+    "primarySourceIds": [
+      "src.ins1"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -176,8 +233,14 @@
     "title": "Insurance: Rescission and Claims",
     "description": "Rescission grounds, variable contracts, claims procedure, and subrogation.",
     "syllabusPages": "p. 19",
-    "topicIds": ["ba166.insurance.rescission", "ba166.insurance.variable", "ba166.insurance.claims"],
-    "primarySourceIds": ["src.ins2"],
+    "topicIds": [
+      "ba166.insurance.rescission",
+      "ba166.insurance.variable",
+      "ba166.insurance.claims"
+    ],
+    "primarySourceIds": [
+      "src.ins2"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -195,7 +258,9 @@
       "ba166.dpa.govt-info",
       "ba166.dpa.penalties"
     ],
-    "primarySourceIds": ["src.rev"],
+    "primarySourceIds": [
+      "src.rev"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -204,8 +269,15 @@
     "title": "Intellectual Property Code (RA 8293)",
     "description": "Trademark, tradename, patent, and copyright: acquisition, rights, and infringement.",
     "syllabusPages": "pp. 20–23",
-    "topicIds": ["ba166.ip.trademark", "ba166.ip.tradename", "ba166.ip.patent", "ba166.ip.copyright"],
-    "primarySourceIds": ["src.rev"],
+    "topicIds": [
+      "ba166.ip.trademark",
+      "ba166.ip.tradename",
+      "ba166.ip.patent",
+      "ba166.ip.copyright"
+    ],
+    "primarySourceIds": [
+      "src.rev"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -214,9 +286,19 @@
     "title": "Labor Code",
     "description": "Conditions of employment, wages, leaves, and special workers.",
     "syllabusPages": "pp. 23–25",
-    "topicIds": ["ba166.labor.conditions", "ba166.labor.wages", "ba166.labor.leaves", "ba166.labor.special-workers"],
-    "primarySourceIds": [],
-    "coverage": "SYLLABUS_ONLY"
+    "topicIds": [
+      "ba166.labor.conditions",
+      "ba166.labor.wages",
+      "ba166.labor.leaves",
+      "ba166.labor.special-workers"
+    ],
+    "primarySourceIds": [
+      "src.law.labor-code",
+      "src.law.pd442",
+      "src.law.omnibus-b3"
+    ],
+    "coverage": "COVERED",
+    "provenance": "research-backed"
   },
   {
     "id": "ba166.sss",
@@ -224,8 +306,19 @@
     "title": "Social Security (RA 11199)",
     "description": "SSS coverage, benefits, contributions, and penalties.",
     "syllabusPages": "pp. 25–26",
-    "topicIds": ["ba166.sss.coverage", "ba166.sss.benefits", "ba166.sss.contributions"],
-    "primarySourceIds": [],
-    "coverage": "SYLLABUS_ONLY"
+    "topicIds": [
+      "ba166.sss.coverage",
+      "ba166.sss.benefits",
+      "ba166.sss.contributions"
+    ],
+    "primarySourceIds": [
+      "src.law.ra11199",
+      "src.law.sss-contrib-2025",
+      "src.law.sss-funeral",
+      "src.law.sss-maternity",
+      "src.law.sss-unemployment"
+    ],
+    "coverage": "COVERED",
+    "provenance": "research-backed"
   }
 ]

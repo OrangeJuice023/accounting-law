@@ -5,7 +5,7 @@ const ROUTES: Array<{ path: string; heading: string }> = [
   { path: '/', heading: 'Hi, Mary Joy Caparida!' },
   { path: '/review', heading: 'Review Center' },
   { path: '/practice', heading: 'Practice Center' },
-  { path: '/practice/self-tests', heading: 'Source-backed self-tests' },
+  { path: '/practice/self-tests', heading: 'Self-tests' },
   { path: '/practice/case-analysis', heading: 'Case analysis (IRAC)' },
   { path: '/practice/exam-bank', heading: 'No MCQ bank yet' },
   { path: '/flashcards', heading: 'Flashcards' },
@@ -13,6 +13,11 @@ const ROUTES: Array<{ path: string; heading: string }> = [
   { path: '/progress', heading: 'My Progress' },
   { path: '/sources', heading: 'Source Library' },
   { path: '/review/block-a/sales', heading: 'Law on Sales' },
+  { path: '/review/block-c/secrecy', heading: 'Secrecy of Bank Deposits (RA 1405)' },
+  { path: '/review/block-c/truth-in-lending', heading: 'Truth in Lending (RA 3765)' },
+  { path: '/review/block-c/pdic', heading: 'PDIC Act (RA 3591, as amended)' },
+  { path: '/review/block-f/labor', heading: 'Labor Code' },
+  { path: '/review/block-f/sss', heading: 'Social Security (RA 11199)' },
 ];
 
 for (const route of ROUTES) {

@@ -243,7 +243,7 @@ export function Dashboard() {
               <span className="font-serif text-2xl font-semibold text-ink">
                 {index.questions.filter((q) => q.kind === 'selfTest').length}
               </span>
-              <span className="block text-[13px] text-ink-soft">Self-tests with original keys</span>
+              <span className="block text-[13px] text-ink-soft">Self-tests with answer keys</span>
             </Link>
           </li>
           <li>
@@ -251,7 +251,7 @@ export function Dashboard() {
               <span className="font-serif text-2xl font-semibold text-ink">
                 {index.questions.filter((q) => q.kind === 'iracHypo').length}
               </span>
-              <span className="block text-[13px] text-ink-soft">IRAC hypotheticals, hints only</span>
+              <span className="block text-[13px] text-ink-soft">IRAC hypotheticals with hints</span>
             </Link>
           </li>
           <li>

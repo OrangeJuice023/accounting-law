@@ -15,11 +15,13 @@ function SelfTestCard({ question, number }: { question: PracticeQuestion; number
   const attempts = attemptStore.useValue();
   const attempt = attempts[question.id];
   const revealed = Boolean(attempt?.revealedKey);
+  const researched = question.editorialStatus === 'researched-draft';
 
   return (
     <article id={question.id} className="scroll-mt-24 rounded-xl border border-line bg-paper p-5">
       <p className="font-mono text-xs text-ink-faint">
         Question {number} · {topicTitles(index, question)}
+        {researched ? ' · research-backed draft (not a professor question)' : ''}
       </p>
       <div className="rr-prose mt-2">
         <Markdown text={question.prompt} />
@@ -38,12 +40,24 @@ function SelfTestCard({ question, number }: { question: PracticeQuestion; number
       ) : (
         <div className="mt-4 rounded-lg border-l-4 border-forest bg-forest-mist/60 px-4 py-3">
           <p className="flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-wider text-forest">
-            <EyeOff className="h-3.5 w-3.5" aria-hidden /> Original answer key
+            <EyeOff className="h-3.5 w-3.5" aria-hidden /> {researched ? 'Answer' : 'Original answer key'}
           </p>
           <div className="rr-prose mt-1">
             <Markdown text={question.answerKey ?? ''} />
           </div>
-          <p className="mt-2 text-xs text-ink-faint">Transcribed verbatim from the source reviewer.</p>
+          {researched && question.explanation ? (
+            <div className="mt-3 border-t border-forest/20 pt-2">
+              <p className="font-mono text-[11px] uppercase tracking-wider text-forest">Why this is the answer</p>
+              <div className="rr-prose mt-1">
+                <Markdown text={question.explanation} />
+              </div>
+            </div>
+          ) : null}
+          <p className="mt-2 text-xs text-ink-faint">
+            {researched
+              ? 'Drafted from the cited legal sources for review practice — not an official examination question.'
+              : 'Transcribed verbatim from the source reviewer.'}
+          </p>
           <div className="mt-3 flex flex-wrap items-center gap-2" role="group" aria-label="How did you do?">
             <span className="text-[13px] text-ink-soft">How did you do?</span>
             {(['knew', 'unsure', 'missed'] as const).map((mark) => (
@@ -97,10 +111,11 @@ export function SelfTests() {
             { label: 'Self-tests' },
           ]}
         />
-        <h1 className="mt-2 font-serif text-3xl font-semibold text-ink">Source-backed self-tests</h1>
+        <h1 className="mt-2 font-serif text-3xl font-semibold text-ink">Self-tests</h1>
         <p className="mt-1 text-[15px] text-ink-soft">
-          {total} questions with original answer keys · {reviewed} of {total} reviewed. Answer from memory first —
-          revealing the key records the review locally.
+          {total} questions · {reviewed} of {total} reviewed. Source-backed items carry original keys; research-backed
+          drafts carry an answer plus explanation. Answer from memory first — revealing the key records the review
+          locally.
         </p>
       </div>
       {total === 0 ? (

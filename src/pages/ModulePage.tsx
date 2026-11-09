@@ -4,6 +4,7 @@ import { blockCodeFromSlug, lessonRoute, slugOf, topicRoute, useContent } from '
 import { moduleStats } from '../content/stats';
 import { progressStore } from '../store/progress';
 import { CoverageBadge } from '../components/common/CoverageBadge';
+import { ProvenanceBadge } from '../components/common/ProvenanceBadge';
 import { Breadcrumbs } from '../components/shell/Breadcrumbs';
 
 export function ModulePage() {
@@ -38,7 +39,14 @@ export function ModulePage() {
         <div className="mt-2 flex flex-wrap items-center gap-3">
           <h1 className="font-serif text-3xl font-semibold text-ink">{mod.title}</h1>
           <CoverageBadge status={mod.coverage} />
+          {mod.coverage !== 'SYLLABUS_ONLY' ? <ProvenanceBadge provenance={mod.provenance} /> : null}
         </div>
+        {mod.provenance === 'research-backed' ? (
+          <p className="mt-2 max-w-2xl rounded-lg bg-gold-soft/50 px-4 py-2.5 text-[13px] leading-relaxed text-ink-soft">
+            Research-backed module: no comprehensive course reviewer was supplied, so these lessons were prepared from
+            official laws, regulations, issuances, and jurisprudence. Every section cites its legal source.
+          </p>
+        ) : null}
         <p className="mt-1 max-w-2xl text-[15px] leading-relaxed text-ink-soft">{mod.description}</p>
         <p className="mt-1 text-sm text-ink-faint">
           {stats.lessonTotal > 0

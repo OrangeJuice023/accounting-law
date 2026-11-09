@@ -95,6 +95,27 @@ if (!Array.isArray(catalog.courses) || !catalog.courses.includes(COURSE)) {
   fail(`catalog.courses must include ${COURSE}`);
 }
 
+// Phase 2D: source registry integrity (course files vs researched legal sources).
+const sourceById = new Map((catalog.sourceDocuments ?? []).map((s) => [s.id, s]));
+for (const source of catalog.sourceDocuments ?? []) {
+  const where = `source ${source?.id ?? '(no id)'}`;
+  if (!source?.shortName) fail(`${where}: shortName is required`);
+  if (!['course-file', 'legal-source'].includes(source?.origin)) {
+    fail(`${where}: origin must be course-file or legal-source`);
+    continue;
+  }
+  if (source.origin === 'legal-source') {
+    if (source.role !== 'legalSource') fail(`${where}: legal-source origin requires role legalSource`);
+    if (!source.url) fail(`${where}: legal-source requires an official url`);
+    if (!source.publisher) fail(`${where}: legal-source requires a publisher`);
+    if (!source.accessedAt) fail(`${where}: legal-source requires accessedAt`);
+    if (source.available) fail(`${where}: legal-source must not be marked available for download`);
+  } else {
+    if (source.role === 'legalSource') fail(`${where}: course-file origin cannot use role legalSource`);
+    if (!source.downloadPath) fail(`${where}: course-file requires downloadPath`);
+  }
+}
+
 // ---------- course / blocks / modules / topics ----------
 for (const id of course.blockIds ?? []) {
   if (!blockIds.has(id)) fail(`course.blockIds: dangling ${id}`);
@@ -121,6 +142,15 @@ for (const mod of modules) {
   // Phase 2B: a module with no source reviewer must never claim coverage.
   if ((mod.primarySourceIds ?? []).length === 0 && mod.coverage !== 'SYLLABUS_ONLY') {
     fail(`module ${mod.id}: no primary sources but coverage is ${mod.coverage} (must be SYLLABUS_ONLY)`);
+  }
+  // Phase 2D: provenance must be explicit and consistent with primary sources.
+  const provenance = mod.provenance ?? 'course-reviewer';
+  if (!['course-reviewer', 'research-backed'].includes(provenance)) {
+    fail(`module ${mod.id}: bad provenance ${mod.provenance}`);
+  }
+  if (provenance === 'research-backed') {
+    const hasLegal = (mod.primarySourceIds ?? []).some((id) => sourceById.get(id)?.origin === 'legal-source');
+    if (!hasLegal) fail(`module ${mod.id}: research-backed but no legal-source primary`);
   }
 }
 
@@ -154,6 +184,10 @@ for (const topic of topics) {
   }
   if (topic.coverage === 'COVERED' && lessonCount === 0) {
     fail(`topic ${topic.id}: COVERED but has no converted lesson`);
+  }
+  const topicProvenance = topic.provenance ?? 'course-reviewer';
+  if (!['course-reviewer', 'research-backed'].includes(topicProvenance)) {
+    fail(`topic ${topic.id}: bad provenance ${topic.provenance}`);
   }
 }
 
@@ -244,6 +278,27 @@ for (const id of indexedIds) {
       fail(`${where}: bad severity ${block.severity}`);
     }
   }
+
+  // Phase 2D: lesson provenance must match the origin of its cited sources.
+  const lessonProvenance = lesson.provenance ?? 'course-reviewer';
+  if (!['course-reviewer', 'research-backed'].includes(lessonProvenance)) {
+    fail(`lesson ${id}: bad provenance ${lesson.provenance}`);
+  } else {
+    const origins = new Set();
+    const collect = (refs) => {
+      for (const ref of refs ?? []) {
+        const origin = sourceById.get(ref?.sourceId)?.origin;
+        if (origin) origins.add(origin);
+      }
+    };
+    for (const block of lesson.blocks) collect(block.sourceRefs);
+    if (lessonProvenance === 'research-backed' && !origins.has('legal-source')) {
+      fail(`lesson ${id}: research-backed but cites no legal-source`);
+    }
+    if (lessonProvenance === 'course-reviewer' && !origins.has('course-file')) {
+      fail(`lesson ${id}: course-reviewer but cites no course-file source`);
+    }
+  }
 }
 
 // Every topic.lessonIds entry must resolve to a converted lesson.
@@ -257,6 +312,9 @@ for (const topic of topics) {
 
 // ---------- provisions / cases ----------
 for (const provision of provisions) {
+  if (!provision.citation) fail(`provision ${provision.id}: citation is required`);
+  if (!provision.instrument) fail(`provision ${provision.id}: instrument is required`);
+  if (!provision.articleOrSection) fail(`provision ${provision.id}: articleOrSection is required`);
   checkSourceRefs(provision.sourceRefs, `provision ${provision.id}`, sourceIds);
   for (const id of provision.topicIds ?? []) {
     if (!topicIds.has(id)) fail(`provision ${provision.id}: dangling topic ${id}`);
@@ -266,6 +324,7 @@ for (const provision of provisions) {
   }
 }
 for (const digest of cases) {
+  if (!digest.name) fail(`case ${digest.id}: name is required`);
   if (!digest.doctrine) fail(`case ${digest.id}: doctrine is required`);
   checkSourceRefs(digest.sourceRefs, `case ${digest.id}`, sourceIds);
   for (const id of digest.topicIds ?? []) {
@@ -293,12 +352,27 @@ for (const question of questions ?? []) {
     if (question.hints) fail(`${where}: selfTest must not carry hints (keys only)`);
   }
   if (question.kind === 'iracHypo') {
-    if (question.answerKey) fail(`${where}: iracHypo must not present an answerKey (hints only)`);
+    // Source-backed hypos are hints-only (no keys exist in sources); researched
+    // drafts carry a labeled reference analysis instead (Phase 2D requires
+    // explained answers on all researched practice).
+    if (question.editorialStatus === 'source-backed' && question.answerKey) {
+      fail(`${where}: source-backed iracHypo must not present an answerKey (hints only)`);
+    }
+    if (question.editorialStatus === 'source-backed' && question.explanation) {
+      fail(`${where}: source-backed iracHypo must not carry an explanation (hints only)`);
+    }
     const hintSections = Object.values(question.hints ?? {}).filter(Boolean);
     if (hintSections.length === 0) fail(`${where}: iracHypo must carry at least one source hint`);
   }
-  if (question.editorialStatus !== 'source-backed') {
-    fail(`${where}: questions must be source-backed (got ${question.editorialStatus})`);
+  if (!['source-backed', 'researched-draft', 'reviewed'].includes(question.editorialStatus)) {
+    fail(`${where}: bad editorialStatus ${question.editorialStatus}`);
+  }
+  // Explanations are authored analysis: allowed only on non-source-backed items.
+  if (question.explanation && question.editorialStatus === 'source-backed') {
+    fail(`${where}: source-backed questions must stay verbatim-pure (no explanation)`);
+  }
+  if (question.editorialStatus === 'researched-draft' && question.kind === 'selfTest' && !question.explanation) {
+    fail(`${where}: researched selfTest must explain the correct answer`);
   }
   if (!question.prompt) fail(`${where}: prompt is required`);
   checkSourceRefs(question.sourceRefs, where, sourceIds);
@@ -310,6 +384,9 @@ for (const question of questions ?? []) {
 for (const card of flashcards ?? []) {
   const where = `flashcard ${card?.id ?? '(no id)'}`;
   if (!card?.front || !card?.back) fail(`${where}: front and back are required`);
+  if (!['term', 'provision', 'doctrine', 'comparison', 'qa'].includes(card?.kind)) {
+    fail(`${where}: bad kind ${card?.kind}`);
+  }
   if (!['authored-draft', 'reviewed'].includes(card?.editorialStatus)) {
     fail(`${where}: editorialStatus must be authored-draft or reviewed (got ${card?.editorialStatus})`);
   }

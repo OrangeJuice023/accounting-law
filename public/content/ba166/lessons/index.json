@@ -68,6 +68,22 @@
     "les.procurement.disclosure-sanctions",
     "les.procurement.modes",
     "les.procurement.policy-scope",
-    "les.procurement.procedure"
+    "les.procurement.procedure",
+    "les.labor.conditions",
+    "les.labor.leaves",
+    "les.labor.special-workers",
+    "les.labor.wages",
+    "les.pdic.insured-deposits",
+    "les.pdic.policy",
+    "les.pdic.powers",
+    "les.secrecy.coverage",
+    "les.secrecy.exceptions",
+    "les.secrecy.foreign-currency",
+    "les.sss.benefits",
+    "les.sss.contributions",
+    "les.sss.coverage",
+    "les.truth-in-lending.non-compliance",
+    "les.truth-in-lending.obligations",
+    "les.truth-in-lending.purpose"
   ]
 }

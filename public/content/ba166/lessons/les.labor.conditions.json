@@ -1,0 +1,472 @@
+{
+  "id": "les.labor.conditions",
+  "topicId": "ba166.labor.conditions",
+  "title": "Conditions of Employment: Hours, Rest, Holidays, Service Charges",
+  "description": "Title I labor standards in syllabus order: hours-of-work coverage and exemptions, compensable time, normal hours and CWW, night and overtime work, weekly rest, holidays and holiday pay, and service charges — with Penaranda and David as the exemption jurisprudence.",
+  "coverage": "COVERED",
+  "provenance": "research-backed",
+  "kind": "lesson",
+  "blocks": [
+    {
+      "anchorId": "objectives",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Conditions of employment — objectives: apply the Art. 82 exemptions, classify compensable time, compute OT/holiday/rest-day premiums, run the holiday-pay and absences rules, and distribute service charges under RA 11360.",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 82-96" }]
+    },
+    {
+      "anchorId": "scope-and-numbering",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "This lesson covers **Title I of Book III (Arts. 82-96)** exactly as the syllabus lists it: hours of work, rest periods, holidays, and service charges. Two orientation points. **First, numbering**: this module uses the **renumbered** Labor Code (DOLE Department Advisory No. 01-2015; 2022 edition). For every article in THIS lesson the renumbered number equals the original number — no brackets needed — but the wages lesson will flag Arts. 133 and 259 where renumbering moved things. **Second, coverage**: Art. 82's exemptions govern this whole Title, and each Rule restates them with its own qualifier — read every benefit (OT, holiday pay, SIL) through the exemption lens first.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 82-96" },
+        { "sourceId": "src.law.labor-code-2016", "section": "Renumbering advisory, pp. 1-5" }
+      ]
+    },
+    {
+      "anchorId": "hours-coverage",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Hours of work: coverage and exemptions (Art. 82)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Art. 82" }]
+    },
+    {
+      "anchorId": "art82",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Memorize the **closed list of seven** exclusions, then master the two defined terms — **managerial employees** and **field personnel** — because every exemption dispute in this Title turns on them.",
+      "provisionId": "prov.lc-art82-coverage",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 82" },
+        { "sourceId": "src.law.pd442", "section": "Article 82" }
+      ]
+    },
+    {
+      "anchorId": "art82-explained",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Think of Art. 82 as a **gate with seven exits**. Everyone in every establishment — profit or not — is inside Title I unless they pass through one of the seven exits: government employees, managerial employees, field personnel, dependent family members, domestic helpers, persons in personal service, and Secretary-defined workers paid by results. **Payroll angle**: misclassification is the most expensive error in this Title — labeling a covered worker 'field personnel' or 'supervisor' wipes OT, holiday, and SIL liabilities off the books, and DOLE assessments plus David/Auto Bus-style litigation put them back with interest in exposure. **Remember**: 'paid by results' is not a blanket exit — the Rules qualify it, and task/commission workers keep holiday and SIL pay unless they are field personnel.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 82" },
+        { "sourceId": "src.law.david-macasio-195466", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "rule1-sec2",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The regulation Art. 82 points to. Master the **3-part managerial-employee test vs the 4-part managerial-staff test** — Penaranda failed the first and met the second, and either one exempts.",
+      "provisionId": "prov.rule1-sec2-exemptions",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule I, Sec. 2" }]
+    },
+    {
+      "anchorId": "managerial-tests",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Line the two tests up. **Managerial employee** (Sec. 2(b)): (1) primary duty is managing the establishment/department, (2) customarily directs 2+ employees, (3) hire/fire authority or recommendations given particular weight — **all three required**. **Managerial staff** (Sec. 2(c)): (1) work directly related to management policies, (2) discretion and independent judgment, (3) assist-a-manager OR specialized/technical work OR special assignments, (4) **no more than 20%** of weekly hours on unrelated work. **Field personnel** (Sec. 2(f)): away from principal/branch office **plus** hours not determinable with reasonable certainty — **both required**, so supervised, scheduled, logged field work fails the test. Job titles prove nothing; courts test actual duties.",
+      "sourceRefs": [
+        { "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule I, Sec. 2" },
+        { "sourceId": "src.law.penaranda-159577", "section": "Decision" }
+      ]
+    },
+    {
+      "anchorId": "case-penaranda",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.penaranda-baganga-159577",
+      "sourceRefs": [{ "sourceId": "src.law.penaranda-159577", "section": "Decision" }]
+    },
+    {
+      "anchorId": "case-david-field",
+      "keyed": false,
+      "kind": "caseDigest",
+      "caseId": "case.david-macasio-195466",
+      "sourceRefs": [{ "sourceId": "src.law.david-macasio-195466", "section": "Decision" }]
+    },
+    {
+      "anchorId": "normal-hours",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Normal hours, hours worked, and compensable time (Arts. 83-85)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 83-85" }]
+    },
+    {
+      "anchorId": "art83",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **8-hour day** anchors every premium computation in this Title. Note the special **40-hour week for health personnel** in big cities/facilities, with +30% for exigency sixth-day work.",
+      "provisionId": "prov.lc-art83-normal-hours",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 83" },
+        { "sourceId": "src.law.pd442", "section": "Article 83" }
+      ]
+    },
+    {
+      "anchorId": "cww",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The syllabus 'But see' made concrete: CWW is the **only lawful way to schedule 10-12-hour days without OT premium** — voluntary majority agreement + OSHS certification where hazardous + DOLE notice, and never past 12 hours/day or 48 hours/week.",
+      "provisionId": "prov.cww-2004",
+      "sourceRefs": [{ "sourceId": "src.law.cww-2004", "section": "Parts III-IV" }]
+    },
+    {
+      "anchorId": "cww-application",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Payroll application**: a valid 4x12 schedule pays straight time for all 48 hours; a 13th hour in a day, or a 49th hour in a week, reverts to Art. 87 OT rates. Without proof of voluntary agreement the employer owes OT **as if the CWW did not exist**. Meals stay at 60 minutes, existing benefits cannot diminish — and reverting to 8 hours is **not** diminution. Construction, health services, heavy manual labor, and OSHS-exceeding exposures cannot adopt CWW. **Flag**: the broader flexible-work advisories (DA 02-2009, DA 04-2010) could not be retrieved from DOLE — know them by title; CWW is the examined mechanism.",
+      "sourceRefs": [
+        { "sourceId": "src.law.cww-2004", "section": "Parts III-IV" },
+        { "sourceId": "src.law.labor-code-2016", "section": "Footnote 72 (advisory titles)" }
+      ]
+    },
+    {
+      "anchorId": "art84",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Two alternative tests — **required presence OR suffered/permitted work** — plus the rule that **short rest periods count**. If either test is met, the time is compensable.",
+      "provisionId": "prov.lc-art84-hours-worked",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 84" },
+        { "sourceId": "src.law.pd442", "section": "Article 84" }
+      ]
+    },
+    {
+      "anchorId": "rule1-time",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The rule behind nearly every compensable/non-compensable exam item: **Sec. 4 principles, waiting/on-call, lectures, and meal/rest periods**. Read Sec. 4(d) (interruptions) and Sec. 6 (all-three-conditions) with extreme care.",
+      "provisionId": "prov.rule1-secs3-7-time",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule I, Secs. 3-7" }]
+    },
+    {
+      "anchorId": "compensable-map",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Map the syllabus list onto the Rules. **Power interruptions and idle time**: Sec. 4(d) — compensable **if** presence is required for imminent resumption **or** the interval is too brief to use gainfully; sent-home-and-free workers are not paid. So the syllabus's blanket 'non-compensable' label needs the rule's two qualifications. **Waiting**: compensable when integral to the work or the worker is engaged to wait. **On-call**: compensable when confined to/near the premises (pager-at-home with no leave-word requirement is not). **Lectures/meetings/training**: excluded **only if** outside hours **and** truly voluntary **and** no productive work — fail any one and the time counts. **Travel**: ordinary home-to-work commuting is not required presence; employer-required travel as part of the work is. **Necessary after-hours work** with the supervisor's knowledge counts (Sec. 4(c)) — unauthorized-but-known overtime is paid, and disciplined separately.",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule I, Secs. 3-7" }]
+    },
+    {
+      "anchorId": "art85",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The employer's **duty** to give a genuine 60-minute meal break — the paradigmatic non-compensable period — and the four cases where a **shortened but compensable** 20-minute meal is allowed.",
+      "provisionId": "prov.lc-art85-meal",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 85" },
+        { "sourceId": "src.law.omnibus-b3", "section": "Rule I, Sec. 7" }
+      ]
+    },
+    {
+      "anchorId": "night-and-ot",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Night work and overtime (Arts. 86-90)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 86-90" }]
+    },
+    {
+      "anchorId": "art86",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**10-to-6, plus-10%**: at least +10% of the regular wage for **each hour** worked between 10 p.m. and 6 a.m. It stacks with OT and holiday premiums on their own bases.",
+      "provisionId": "prov.lc-art86-nightdiff",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 86" },
+        { "sourceId": "src.law.pd442", "section": "Article 86" }
+      ]
+    },
+    {
+      "anchorId": "art87",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Two OT formulas: **ordinary day = hourly rate x 125%**; **holiday/rest day = first-8-hours rate x 130%** (compounding on the holiday base). Consent is the default; compulsion needs Art. 89 grounds.",
+      "provisionId": "prov.lc-art87-overtime",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 87" },
+        { "sourceId": "src.law.pd442", "section": "Article 87" }
+      ]
+    },
+    {
+      "anchorId": "art88",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **anti-averaging rule**: undertime on one day never offsets OT on another, and offsetting leave never erases earned OT premium. Each day's premium stands alone.",
+      "provisionId": "prov.lc-art88-undertime",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 88" },
+        { "sourceId": "src.law.pd442", "section": "Article 88" }
+      ]
+    },
+    {
+      "anchorId": "art89",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **five closed grounds** for compulsory overtime — war/emergency, loss of life/property, urgent machine work, perishables, and completion of pre-8th-hour work — with premiums always preserved.",
+      "provisionId": "prov.lc-art89-emergency-ot",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 89" },
+        { "sourceId": "src.law.pd442", "section": "Article 89" }
+      ]
+    },
+    {
+      "anchorId": "rule1-ot",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The payroll companion: restates the rates, **covers public-utility and non-profit employees expressly**, adds the **sixth compulsory ground (favorable weather)**, and shields workers from involuntary OT outside the six grounds.",
+      "provisionId": "prov.rule1-secs8-10-ot",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule I, Secs. 8-10" }]
+    },
+    {
+      "anchorId": "art90",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "OT and premium bases use **cash wage only** — facilities are neither added nor deducted. Compute OT on the cash daily wage, never on wage-plus-meals.",
+      "provisionId": "prov.lc-art90-computation",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 90" },
+        { "sourceId": "src.law.pd442", "section": "Article 90" }
+      ]
+    },
+    {
+      "anchorId": "ot-computation",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Worked computation** (daily wage P800, 8-hour day, 10 hours on a regular holiday falling on a rest day): first 8 hours at **260%** (Rule IV Sec. 4: 200% + 30% of 200%) = P2,080; 2 OT hours at the first-8-hours hourly rate x 130% = (P2,080 / 8) x 1.3 x 2 = **P676**; total **P2,756**. Generalize: derive the hourly rate from the regular (cash) wage, apply the day's base (100/130/150/200/260%), then x125% (ordinary OT) or x130% (holiday/rest OT) for excess hours. **Traps**: (1) netting Monday undertime against Tuesday OT violates Art. 88; (2) 'flexi-offset' leave in lieu of earned OT premium is void; (3) CWW hours up to 12/day are not OT at all.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 87-88, 90" },
+        { "sourceId": "src.law.omnibus-b3", "section": "Rule IV, Secs. 4-5" }
+      ]
+    },
+    {
+      "anchorId": "weekly-rest",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Weekly rest days (Arts. 91-93)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Arts. 91-93" }]
+    },
+    {
+      "anchorId": "art91",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **6+1 rhythm**: 24 consecutive rest hours after every 6 consecutive normal workdays. The employer schedules the rest day — **except** religious-ground preferences must be respected.",
+      "provisionId": "prov.lc-art91-rest-day",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 91" },
+        { "sourceId": "src.law.pd442", "section": "Article 91" }
+      ]
+    },
+    {
+      "anchorId": "art92",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **six closed grounds** for compulsory rest-day work — note the two distinctive ones: **abnormal pressure of work** (c) and **continuous operations** (e). Outside these, rest-day work needs consent.",
+      "provisionId": "prov.lc-art92-compulsory-rest",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 92" },
+        { "sourceId": "src.law.pd442", "section": "Article 92" }
+      ]
+    },
+    {
+      "anchorId": "art93",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The premium ladder: **rest day 130%**; **Sunday 130% only if the established rest day**; no-fixed-schedule workers 130% on Sundays and holidays; **special holiday 130%, rising to 150% on a rest day**; CBA/contract rates only raise the floor.",
+      "provisionId": "prov.lc-art93-restday-pay",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 93" },
+        { "sourceId": "src.law.pd442", "section": "Article 93" }
+      ]
+    },
+    {
+      "anchorId": "sunday-trap",
+      "keyed": false,
+      "kind": "note",
+      "markdown": "**Exam trap — Sunday**: Sunday work earns **no premium by default**. The 130% attaches only when Sunday is the employee's **established** rest day (Art. 93(a)), or when the worker has no schedulable rest days at all (Art. 93(b)). A Tuesday-rest employee working Sunday gets straight pay. The **150%** in Art. 93(c) is the Code's only 50%-premium — special holiday coinciding with the scheduled rest day.",
+      "severity": "trap",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Art. 93" }]
+    },
+    {
+      "anchorId": "holidays",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Holidays and holiday pay (Art. 94, EO 292 as amended, Rule IV)",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Art. 94" }]
+    },
+    {
+      "anchorId": "art94",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**100% even when unworked** (except retail/service with <10 workers); **200% when worked**. Read paragraph (c)'s list as a historical artifact — the current calendar is EO 292 Sec. 26 as amended.",
+      "provisionId": "prov.lc-art94-holiday-pay",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 94" },
+        { "sourceId": "src.law.pd442", "section": "Article 94" }
+      ]
+    },
+    {
+      "anchorId": "stale-list-warning",
+      "keyed": false,
+      "kind": "note",
+      "markdown": "**Currency warning**: Art. 94(c) still lists **July 4th** and omits the Eids; Rule IV Sec. 3 still lists the **last Sunday of August**. Both lists are **inoperative**. The current holiday calendar is **EO 292 Sec. 26 as amended by RA 9492 and RA 9849**, plus RA 10966 (December 8). Quoting the Code's printed list as current law is the classic holiday-exam error.",
+      "severity": "exam",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Art. 94" },
+        { "sourceId": "src.law.ra9492", "section": "Sec. 1" },
+        { "sourceId": "src.law.ra9849", "section": "Secs. 1-2" }
+      ]
+    },
+    {
+      "anchorId": "rule4-rates",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The computation manual: **200% worked regular holiday, 260% on a rest day, OT at the first-8-hours rate x 130%** — plus monthly-paid status (already paid for unworked holidays) and the David ejusdem generis reading of the task exclusion.",
+      "provisionId": "prov.rule4-secs1-5",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule IV, Secs. 1-5" }]
+    },
+    {
+      "anchorId": "rule4-absences",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "The **Absences** item: unworked-holiday pay turns on the **day immediately preceding** the holiday (present/paid-leave = paid; unpaid absence = may withhold) — but a **worked** holiday always pays regardless of prior absence.",
+      "provisionId": "prov.rule4-sec6-absences",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule IV, Sec. 6" }]
+    },
+    {
+      "anchorId": "rule4-edge",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Edge cases: **piece-rate holiday pay = 7-day average**; teachers (semestral vs Christmas); **successive-holiday forfeiture** (Maundy Thursday/Good Friday); Sunday-holiday Monday observance; and the no-cutting-better-benefits rule.",
+      "provisionId": "prov.rule4-secs7-11",
+      "sourceRefs": [{ "sourceId": "src.law.omnibus-b3", "section": "Book III, Rule IV, Secs. 7-11" }]
+    },
+    {
+      "anchorId": "ra9492",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**Holiday economics**: Monday-nearest observance, Wednesday-to-Monday and Sunday-to-Monday shifts, and the movable-holiday proclamation rule. The observed Monday — not the calendar date — triggers holiday pay.",
+      "provisionId": "prov.ra9492-sec1-holidays",
+      "sourceRefs": [{ "sourceId": "src.law.ra9492", "section": "Sec. 1" }]
+    },
+    {
+      "anchorId": "ra9849",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**Eidul Adha becomes a national regular holiday** (movable date), joining Eidul Fitr — superseding RA 9492's ARMM-only treatment. The Sec. 2 restatement confirms the current 12-holiday roster.",
+      "provisionId": "prov.ra9849-eidul-adha",
+      "sourceRefs": [{ "sourceId": "src.law.ra9849", "section": "Secs. 1-2" }]
+    },
+    {
+      "anchorId": "ra10966",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**December 8 yearly = nationwide special day** (130% when worked, 150% on a rest day; no-work-no-pay when unworked). Regular holidays pay unworked; special days pay a premium only when worked.",
+      "provisionId": "prov.ra10966-dec8",
+      "sourceRefs": [{ "sourceId": "src.law.ra10966", "section": "Sec. 1" }]
+    },
+    {
+      "anchorId": "pd1083-holidays",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "Trap defused: **'(169-172)' is the Code of Muslim Personal Laws**, not the Labor Code. Five legal Muslim holidays, officially observed in listed Mindanao areas, with private-sector excusal only upon proclamation.",
+      "provisionId": "prov.pd1083-muslim-holidays",
+      "sourceRefs": [{ "sourceId": "src.law.pd1083", "section": "Arts. 169-172" }]
+    },
+    {
+      "anchorId": "holiday-synthesis",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "Synthesize the calendar in three layers. **Layer 1 — regular holidays** (EO 292 Sec. 26 as amended: New Year, Holy Week, both Eids, Kagitingan, Labor, Independence, Heroes, Bonifacio, Christmas, Rizal): unworked = 100% (retail/service <10 excepted); worked = 200% (260% on rest day); OT compounds. **Layer 2 — nationwide special days** (Ninoy Aquino, All Saints, year-end, December 8): worked = 130% (150% on rest day); unworked = unpaid. **Layer 3 — Muslim holidays** (PD 1083): five legal holidays observed in listed areas; government Muslims elsewhere excused; private Muslims excused without pay loss only by proclamation — but Fitr and Adha are already Layer-1 holidays nationwide, so their pay treatment follows Layer 1 everywhere.",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra9492", "section": "Sec. 1" },
+        { "sourceId": "src.law.ra9849", "section": "Secs. 1-2" },
+        { "sourceId": "src.law.ra10966", "section": "Sec. 1" },
+        { "sourceId": "src.law.pd1083", "section": "Arts. 169-172" }
+      ]
+    },
+    {
+      "anchorId": "service-charges",
+      "keyed": false,
+      "kind": "heading",
+      "markdown": "Service charges (Art. 96 as amended by RA 11360)",
+      "sourceRefs": [{ "sourceId": "src.law.ra11360", "section": "Sec. 1" }]
+    },
+    {
+      "anchorId": "art96",
+      "keyed": false,
+      "kind": "provision",
+      "markdown": "**100% to covered workers except managerial employees** — management is fully cut out. Service charges can **never** be credited toward minimum-wage compliance. Disputes: grievance mechanism, then DOLE conciliation.",
+      "provisionId": "prov.lc-art96-service-charge",
+      "sourceRefs": [
+        { "sourceId": "src.law.ra11360", "section": "Sec. 1 (amending Art. 96)" },
+        { "sourceId": "src.law.labor-code", "section": "Art. 96" }
+      ]
+    },
+    {
+      "anchorId": "art96-application",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Compliance application**: keep two separate payroll streams — (1) minimum-wage compliance computed on basic pay alone, and (2) service-charge distribution (complete and equal among covered workers). Any 85/15 split, any management retention, or any crediting of shares against a wage-order increase violates Art. 96. The enrolled text carries two famous typos — 'by law **of** wage order' and 'minimum **age**' — read them as 'or' and 'wage'. **Remember**: any pre-2019 material citing the 85/15 split states repealed law.",
+      "sourceRefs": [{ "sourceId": "src.law.ra11360", "section": "Sec. 1" }]
+    },
+    {
+      "anchorId": "premium-ladder",
+      "keyed": false,
+      "kind": "comparisonTable",
+      "table": {
+        "caption": "Premium-pay ladder: first-8-hours rates and OT treatment",
+        "columns": ["Day type", "First 8 hours", "OT beyond 8 hours"],
+        "rows": [
+          ["Ordinary day", "100% (regular wage)", "Hourly rate x 125% (Art. 87)"],
+          ["Rest day / special holiday", "130% (Art. 93(a)(c))", "First-8-hours rate x 130%"],
+          ["Special holiday on rest day", "150% (Art. 93(c))", "First-8-hours rate x 130%"],
+          ["Regular holiday", "200% (Art. 94(b); Rule IV Sec. 4)", "First-8-hours rate x 130%"],
+          ["Regular holiday on rest day", "260% (Rule IV Sec. 4)", "260% rate x 130% = 338%"],
+          ["Any day, 10 p.m.-6 a.m. hours", "+10% night differential per hour (Art. 86)", "Stacks with the OT rate"]
+        ]
+      },
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 86-87, 93-94" },
+        { "sourceId": "src.law.omnibus-b3", "section": "Rule IV, Secs. 4-5" }
+      ]
+    },
+    {
+      "anchorId": "exam-traps",
+      "keyed": false,
+      "kind": "note",
+      "markdown": "**Top traps for this topic**: (1) quoting Art. 94(c)'s July-4th list as current; (2) Sunday premium without an established rest day; (3) treating task/commission pay as a blanket exemption (David/Auto Bus: holiday + SIL survive); (4) netting undertime against OT (Art. 88); (5) the 85/15 service-charge split (repealed by RA 11360); (6) reading '(169-172)' as Labor Code articles (it is PD 1083); (7) forgetting Rule I Sec. 10(f) favorable weather as the sixth compulsory-OT ground.",
+      "severity": "exam",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 82, 88, 93-94" },
+        { "sourceId": "src.law.ra11360", "section": "Sec. 1" },
+        { "sourceId": "src.law.pd1083", "section": "Arts. 169-172" }
+      ]
+    },
+    {
+      "anchorId": "selfcheck-exemptions",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I recite the seven Art. 82 exclusions, the 3-test vs 4-test managerial distinction, and the two field-personnel elements — and apply Penaranda and David to a new fact pattern?",
+      "sourceRefs": [{ "sourceId": "src.law.labor-code", "section": "Art. 82" }]
+    },
+    {
+      "anchorId": "selfcheck-computation",
+      "keyed": false,
+      "kind": "selfCheck",
+      "markdown": "Can I compute pay for 10 hours on a regular-holiday rest day, state the successive-holiday forfeiture rule, and distribute a service charge under RA 11360 without touching minimum-wage compliance?",
+      "sourceRefs": [
+        { "sourceId": "src.law.omnibus-b3", "section": "Rule IV, Secs. 4-10" },
+        { "sourceId": "src.law.ra11360", "section": "Sec. 1" }
+      ]
+    },
+    {
+      "anchorId": "takeaways",
+      "keyed": false,
+      "kind": "explanation",
+      "markdown": "**Takeaways**: (1) Exemptions are tested by **duties, not titles** — Penaranda (staff test) and David/Auto Bus (field-personnel test) decide them. (2) Time is compensable when **required or suffered** — run every brownout, waiting, on-call, and training question through Rule I Secs. 4-6. (3) Premiums **compound downward**: 100 -> 130 -> 150 / 200 -> 260 -> 338%, with NSD stacking per night hour. (4) The holiday calendar is **EO 292 as amended**, never the Code's printed list. (5) Service charges are **100% workers' money**, firewalled from minimum wage. Next: the wages lesson converts these hours into pay — minimum wage, payment rules, prohibitions, and 13th-month pay.",
+      "sourceRefs": [
+        { "sourceId": "src.law.labor-code", "section": "Arts. 82-96" },
+        { "sourceId": "src.law.ra11360", "section": "Sec. 1" }
+      ]
+    }
+  ]
+}

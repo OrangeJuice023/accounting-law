@@ -71,7 +71,8 @@ export function Shell() {
             The Review Room · {course.code} — {course.title} · {course.institution} · {course.academicYear}
           </p>
           <p className="mt-1">
-            Lessons are converted from the course reviewers; every section cites its source file and page.
+            Lessons draw on the supplied course reviewers and, where no reviewer was provided, supplemental legal
+            research — every section cites its applicable source.
           </p>
         </footer>
       </div>

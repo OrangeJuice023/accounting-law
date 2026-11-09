@@ -3,6 +3,37 @@
 Living log of implementation-level decisions. Product decisions from Phase 1
 stand; nothing here overrides them. Entries newest-first.
 
+## 2026-11-09 — Phase 2D research-backed modules
+
+- **Legal-source schema + provenance.** `sourceDocument` gains `role:
+  'legalSource'`, `origin: 'course-file' | 'legal-source'` (default
+  course-file), and `format: 'web'` (`src/content/schema.ts`); modules,
+  topics, and lessons gain `provenance: 'course-reviewer' |
+  'research-backed'` (default course-reviewer). The validator requires every
+  research-backed module to name ≥1 legal-source primary and every lesson's
+  provenance to match the origin of its cited sources. UI: `ProvenanceBadge`
+  + explainer notice on research-backed module/lesson pages; the citation
+  dialog labels legal sources ("Official legal source · links out, not a
+  course file") and shows Source instead of File. All 74 legal sources are
+  `available: false` (attributed, not distributed), same as reviewers.
+- **Block coverage is derived, never hand-set.** At the end of every merge,
+  `merge-fragments.mjs` recomputes each block: any NEEDS_VERIFICATION module
+  → NEEDS_VERIFICATION; all COVERED → COVERED; all SYLLABUS_ONLY →
+  SYLLABUS_ONLY; else PARTIAL. Post-2D all 6 blocks derive COVERED.
+- **Merge `--only` flag.** `merge-fragments.mjs [--check]
+  [--only=a.json,b.json]` merges just the listed fragments so older
+  already-merged fragments stay on disk as an audit trail; `--check` is a
+  dry run; an `--only` name with no matching file fails the merge.
+- **Researched-hypo reference analyses.** Source-backed hypos stay
+  hints-only (validator forbids them `answerKey`/`explanation`);
+  `researched-draft` hypos may carry an `answerKey` labeled "Reference
+  analysis", and researched self-tests must carry `explanation`. The Case
+  Analysis page gates "Reveal reference analysis" behind revealing all hints
+  in IRAC order, with a permanent "not an official solution" disclaimer.
+  4 of the 10 new hypos ship one (PDIC 2, SSS 2); secrecy/TILA/labor hypos
+  remain hints-only. (Incidental: the 2 labor hypos carry an `explanation`
+  field the hypo page does not render — hints + reference analysis only.)
+
 ## 2026-11-09 — Phase 2C production QA
 
 - **Root cause 1 (blank/crashing pages): reserved `ref` prop.** `CitationChip`
