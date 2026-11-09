@@ -60,7 +60,10 @@ export function Dashboard() {
       {/* Welcome + course */}
       <section>
         <p className="font-mono text-xs uppercase tracking-wider text-gold-deep">BA 166 · Review Room</p>
-        <h1 className="mt-1 font-serif text-3xl font-semibold text-ink sm:text-4xl">Good to see you back at the reading desk.</h1>
+        <h1 className="mt-1 font-serif text-3xl font-semibold text-ink sm:text-4xl">Hi, Mary Joy Caparida!</h1>
+        <p className="mt-2 max-w-xl font-serif text-lg italic leading-relaxed text-ink-soft">
+          “Use this space to review for your Accounting Law course. Happy studying!”
+        </p>
         <div className="mt-4 rounded-xl border border-line bg-paper p-5">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <h2 className="font-serif text-xl font-semibold text-ink">
