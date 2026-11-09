@@ -71,6 +71,16 @@ export function slugOf(id: string): string {
   return dot >= 0 ? id.slice(dot + 1) : id;
 }
 
+/**
+ * Block slug ("block-a") back to its lowercase code ("a"). React Router v6
+ * does not match partial-segment params like `block-:code`, so routes capture
+ * the whole segment and pages decode it here. Returns null when malformed.
+ */
+export function blockCodeFromSlug(slug: string): string | null {
+  const match = /^block-(.+)$/i.exec(slug.trim());
+  return match ? match[1].toLowerCase() : null;
+}
+
 export function topicRoute(blockCode: string, moduleSlug: string, topic: Topic): string {
   return `/review/block-${blockCode}/${moduleSlug}/topic/${slugOf(topic.id)}`;
 }

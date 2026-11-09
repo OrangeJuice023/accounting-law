@@ -3,6 +3,32 @@
 Living log of implementation-level decisions. Product decisions from Phase 1
 stand; nothing here overrides them. Entries newest-first.
 
+## 2026-11-09 — Phase 2C production QA
+
+- **Root cause 1 (blank/crashing pages): reserved `ref` prop.** `CitationChip`
+  destructured `{ ref }`, which React 18 strips from function-component props,
+  so every citation render threw `TypeError: reading 'sourceId'` and blanked
+  any page with citations (all lessons, self-tests, hypos, flashcard backs).
+  Renamed to `sourceRef`. Found via a console-capture probe; covered forever
+  by the Playwright suite (24 tests × desktop/mobile against `dist/`).
+- **Root cause 2 (block/module/lesson 404s): invalid v6 route pattern.**
+  `review/block-:blockCode` never matches in React Router v6 (params must
+  follow `/`), so every syllabus deep link rendered NotFound. Routes now
+  capture `:blockSlug` (`block-a`) and pages decode via
+  `blockCodeFromSlug()`; public URLs unchanged.
+- **FlashcardPlayer gained an h1** (deck title) for a11y and testability; the
+  Practice index links to Flashcards so mobile users (no Flashcards tab) can
+  reach decks from Practice, per the blueprint IA.
+- **NotFound copy** no longer mentions P1/prototype; stale-text absence is
+  asserted by the suite.
+- **Suite runs against `dist/`** via `scripts/serve-spa.mjs` (static + SPA
+  fallback, mirroring Pages) or against production with `LIVE_URL=...`
+  (retries enabled for edge flakiness; local runs strict).
+- **Production is a Worker** (`workers.dev`), not Pages, and this environment
+  has no wrangler credentials — redeploying production requires the owner's
+  auth (`wrangler login` is interactive OAuth). Pushing to main does not
+  update the Worker.
+
 ## 2026-11-09 — Phase 2B full ingestion
 
 - **Fragment-merge ingestion.** Converters worked create-only (new lesson files

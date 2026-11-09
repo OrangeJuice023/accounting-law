@@ -1,13 +1,14 @@
 import { Link, Navigate, useParams } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
-import { slugOf, useContent } from '../content/loader';
+import { blockCodeFromSlug, slugOf, useContent } from '../content/loader';
 import { moduleStats } from '../content/stats';
 import { progressStore } from '../store/progress';
 import { CoverageBadge } from '../components/common/CoverageBadge';
 import { Breadcrumbs } from '../components/shell/Breadcrumbs';
 
 export function BlockPage() {
-  const { blockCode = '' } = useParams();
+  const { blockSlug = '' } = useParams();
+  const blockCode = blockCodeFromSlug(blockSlug) ?? '';
   const index = useContent();
   const progress = progressStore.useValue();
   const block = index.blocks.find((b) => b.code.toLowerCase() === blockCode.toLowerCase());

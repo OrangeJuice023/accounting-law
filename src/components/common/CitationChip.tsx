@@ -6,11 +6,11 @@ import { citationLabel, refLocator, shortSourceName } from '../../content/citati
 import type { SourceRef } from '../../content/schema';
 
 /** Compact citation pill. Opens a panel with the full reference + library link. */
-export function CitationChip({ ref }: { ref: SourceRef }) {
+export function CitationChip({ sourceRef }: { sourceRef: SourceRef }) {
   const { byId } = useContent();
   const [open, setOpen] = useState(false);
   const panelId = useId();
-  const source = byId.source.get(ref.sourceId);
+  const source = byId.source.get(sourceRef.sourceId);
 
   useEffect(() => {
     if (!open) return;
@@ -34,7 +34,7 @@ export function CitationChip({ ref }: { ref: SourceRef }) {
         className="inline-flex items-center gap-1.5 rounded-full border border-line bg-paper px-2.5 py-1 font-mono text-[11px] text-ink-soft transition-colors hover:border-gold hover:text-ink"
       >
         <BookOpenText className="h-3.5 w-3.5 text-gold-deep" aria-hidden />
-        {citationLabel(source, ref)}
+        {citationLabel(source, sourceRef)}
       </button>
       {open ? (
         <div className="fixed inset-0 z-50 flex items-end justify-center bg-ink/40 p-4 sm:items-center" role="presentation" onClick={() => setOpen(false)}>
@@ -42,7 +42,7 @@ export function CitationChip({ ref }: { ref: SourceRef }) {
             id={panelId}
             role="dialog"
             aria-modal="true"
-            aria-label={`Source reference: ${citationLabel(source, ref)}`}
+            aria-label={`Source reference: ${citationLabel(source, sourceRef)}`}
             className="w-full max-w-md rounded-xl bg-paper p-6 shadow-xl"
             onClick={(event) => event.stopPropagation()}
           >
@@ -65,18 +65,18 @@ export function CitationChip({ ref }: { ref: SourceRef }) {
               </div>
               <div className="flex gap-2">
                 <dt className="w-24 shrink-0 text-ink-faint">Locator</dt>
-                <dd className="text-ink">{refLocator(ref)}</dd>
+                <dd className="text-ink">{refLocator(sourceRef)}</dd>
               </div>
-              {ref.section ? (
+              {sourceRef.section ? (
                 <div className="flex gap-2">
                   <dt className="w-24 shrink-0 text-ink-faint">Section</dt>
-                  <dd className="text-ink">{ref.section}</dd>
+                  <dd className="text-ink">{sourceRef.section}</dd>
                 </div>
               ) : null}
-              {ref.excerptHint ? (
+              {sourceRef.excerptHint ? (
                 <div className="flex gap-2">
                   <dt className="w-24 shrink-0 text-ink-faint">Excerpt</dt>
-                  <dd className="text-ink">{ref.excerptHint}</dd>
+                  <dd className="text-ink">{sourceRef.excerptHint}</dd>
                 </div>
               ) : null}
             </dl>
@@ -108,7 +108,10 @@ export function CitationRow({ refs }: { refs: SourceRef[] }) {
   return (
     <div className="flex flex-wrap gap-2">
       {refs.map((ref, i) => (
-        <CitationChip key={`${ref.sourceId}-${ref.page ?? ''}-${ref.section ?? ''}-${i}`} ref={ref} />
+        <CitationChip
+          key={`${ref.sourceId}-${ref.page ?? ''}-${ref.section ?? ''}-${i}`}
+          sourceRef={ref}
+        />
       ))}
     </div>
   );

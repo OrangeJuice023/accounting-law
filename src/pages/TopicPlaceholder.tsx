@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { Link, Navigate, useParams } from 'react-router-dom';
 import { Check, FileText } from 'lucide-react';
-import { lessonRoute, slugOf, useContent } from '../content/loader';
+import { blockCodeFromSlug, lessonRoute, slugOf, useContent } from '../content/loader';
 import { progressStore } from '../store/progress';
 import { CoverageBadge } from '../components/common/CoverageBadge';
 import { Breadcrumbs } from '../components/shell/Breadcrumbs';
@@ -12,7 +12,8 @@ import { Breadcrumbs } from '../components/shell/Breadcrumbs';
  * acknowledge control for syllabus-only topics.
  */
 export function TopicPlaceholder() {
-  const { blockCode = '', moduleSlug = '', topicSlug = '' } = useParams();
+  const { blockSlug = '', moduleSlug = '', topicSlug = '' } = useParams();
+  const blockCode = blockCodeFromSlug(blockSlug) ?? '';
   const index = useContent();
   const progress = progressStore.useValue();
 

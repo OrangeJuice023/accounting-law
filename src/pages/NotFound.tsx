@@ -6,7 +6,7 @@ export function NotFound() {
       <p className="font-mono text-sm uppercase tracking-wider text-gold-deep">404</p>
       <h1 className="mt-2 font-serif text-3xl font-semibold text-ink">This shelf is empty.</h1>
       <p className="mt-2 text-[15px] text-ink-soft">
-        The page you asked for does not exist in this prototype. Practice routes arrive with P1.
+        The page you asked for doesn&apos;t exist or may have moved. Try the Review Center or the search instead.
       </p>
       <div className="mt-6 flex justify-center gap-3">
         <Link to="/" className="rounded-lg bg-forest px-4 py-2 text-sm font-medium text-white hover:bg-forest-deep">

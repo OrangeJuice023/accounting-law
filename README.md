@@ -17,6 +17,14 @@ npm install
 npm run dev      # http://localhost:5173
 ```
 
+## Tests
+
+```bash
+npm run build          # suite runs against dist/
+npm run test:e2e       # 24 Playwright tests × desktop/mobile
+LIVE_URL=https://<production-host> npx playwright test --project=chromium
+```
+
 ## Build (Cloudflare Pages)
 
 ```bash

@@ -22,14 +22,14 @@ export function AppRoutes() {
       <Route element={<Shell />}>
         <Route index element={<Dashboard />} />
         <Route path="review" element={<ReviewIndex />} />
-        <Route path="review/block-:blockCode" element={<BlockPage />} />
-        <Route path="review/block-:blockCode/:moduleSlug" element={<ModulePage />} />
-        <Route path="review/block-:blockCode/:moduleSlug/topic/:topicSlug" element={<TopicPlaceholder />} />
+        <Route path="review/:blockSlug" element={<BlockPage />} />
+        <Route path="review/:blockSlug/:moduleSlug" element={<ModulePage />} />
+        <Route path="review/:blockSlug/:moduleSlug/topic/:topicSlug" element={<TopicPlaceholder />} />
         <Route
-          path="review/block-:blockCode/:moduleSlug/topic/:topicSlug/lesson/:lessonSlug"
+          path="review/:blockSlug/:moduleSlug/topic/:topicSlug/lesson/:lessonSlug"
           element={<LessonPage />}
         />
-        <Route path="review/block-:blockCode/:moduleSlug/appendix/:appendixSlug" element={<LessonPage />} />
+        <Route path="review/:blockSlug/:moduleSlug/appendix/:appendixSlug" element={<LessonPage />} />
         <Route path="practice" element={<PracticeIndex />} />
         <Route path="practice/self-tests" element={<SelfTests />} />
         <Route path="practice/case-analysis" element={<CaseAnalysis />} />

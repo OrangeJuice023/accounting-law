@@ -4,5 +4,10 @@ dist/
 *.local
 *.tsbuildinfo
 
+# playwright
+test-results/
+playwright-report/
+.playwright/
+
 # generated extraction scratch (never source-adjacent output)
 scripts/ingest/.extract-*

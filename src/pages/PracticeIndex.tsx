@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, FileQuestion, Scale, TimerOff } from 'lucide-react';
+import { ArrowRight, FileQuestion, Layers, Scale, TimerOff } from 'lucide-react';
 import { useContent } from '../content/loader';
 import { attemptStore } from '../store/attempts';
 import { Breadcrumbs } from '../components/shell/Breadcrumbs';
@@ -74,6 +74,20 @@ export function PracticeIndex() {
           </li>
         ))}
       </ul>
+      <section className="rounded-xl border border-line bg-paper p-5">
+        <Link to="/flashcards" className="group flex items-center gap-3">
+          <Layers className="h-5 w-5 shrink-0 text-forest" aria-hidden />
+          <span className="min-w-0 flex-1">
+            <span className="block font-serif text-lg font-semibold text-ink group-hover:text-forest group-hover:underline">
+              Flashcards
+            </span>
+            <span className="block text-[13px] text-ink-faint">
+              {index.flashcards.length} cards drafted from the converted lessons
+            </span>
+          </span>
+          <ArrowRight className="h-4 w-4 shrink-0 text-ink-faint group-hover:text-forest" aria-hidden />
+        </Link>
+      </section>
     </div>
   );
 }

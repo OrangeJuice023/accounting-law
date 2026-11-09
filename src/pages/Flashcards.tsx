@@ -158,6 +158,7 @@ export function FlashcardPlayer() {
           { label: deck.title },
         ]}
       />
+      <h1 className="font-serif text-3xl font-semibold text-ink">{deck.title}</h1>
       <div className="flex flex-wrap items-center justify-between gap-2">
         <p className="text-sm text-ink-faint">
           Card {position + 1} of {deck.cards.length} · {known} known · {unsure} unsure

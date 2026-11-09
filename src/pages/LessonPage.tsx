@@ -1,7 +1,7 @@
 import { useEffect, useMemo } from 'react';
 import { Link, Navigate, useLocation, useParams } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Bookmark as BookmarkIcon, Check, ListTree } from 'lucide-react';
-import { lessonRoute, slugOf, topicRoute, useContent } from '../content/loader';
+import { blockCodeFromSlug, lessonRoute, slugOf, topicRoute, useContent } from '../content/loader';
 import { bookmarkStore } from '../store/bookmarks';
 import { progressStore } from '../store/progress';
 import { CoverageBadge } from '../components/common/CoverageBadge';
@@ -10,7 +10,8 @@ import { LessonReader } from '../components/lesson/LessonReader';
 import { NotesPanel } from '../components/lesson/NotesPanel';
 
 export function LessonPage() {
-  const { blockCode = '', moduleSlug = '', topicSlug = '', lessonSlug = '', appendixSlug = '' } = useParams();
+  const { blockSlug = '', moduleSlug = '', topicSlug = '', lessonSlug = '', appendixSlug = '' } = useParams();
+  const blockCode = blockCodeFromSlug(blockSlug) ?? '';
   const location = useLocation();
   const index = useContent();
   const progress = progressStore.useValue();
