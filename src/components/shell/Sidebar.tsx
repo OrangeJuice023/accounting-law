@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
-import { BookOpen, ChevronDown, House, Library, Search, TrendingUp } from 'lucide-react';
+import { BookOpen, ChevronDown, House, Layers, Library, Search, Target, TrendingUp } from 'lucide-react';
 import { useContent } from '../../content/loader';
 
 const DOT: Record<string, string> = {
@@ -105,6 +105,16 @@ export function SidebarNav({ onOpenSearch }: { onOpenSearch: () => void }) {
           </NavLink>
         </li>
         <li>
+          <NavLink to="/practice" className={linkClass}>
+            <Target className="h-4 w-4" aria-hidden /> Practice Center
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to="/flashcards" className={linkClass}>
+            <Layers className="h-4 w-4" aria-hidden /> Flashcards
+          </NavLink>
+        </li>
+        <li>
           <NavLink to="/progress" className={linkClass}>
             <TrendingUp className="h-4 w-4" aria-hidden /> My Progress
           </NavLink>
@@ -124,7 +134,7 @@ export function SidebarNav({ onOpenSearch }: { onOpenSearch: () => void }) {
       </ul>
 
       <p className="border-t border-line px-3 pb-1 pt-3 text-xs leading-relaxed text-ink-faint">
-        Practice Center and flashcards arrive in P1. This prototype covers the Sales module end to end.
+        Twelve of seventeen modules converted. Five syllabus-only modules have no reviewer in sources.
       </p>
     </nav>
   );

@@ -5,7 +5,9 @@
     "syllabusNumber": "I.1",
     "title": "Introduction",
     "summary": "How to study the Law on Sales volume: the doctrine-first method and source discipline.",
-    "lessonIds": ["les.sales.introduction"],
+    "lessonIds": [
+      "les.sales.introduction"
+    ],
     "provisionIds": [],
     "caseIds": [],
     "coverage": "COVERED"
@@ -16,8 +18,13 @@
     "syllabusNumber": "I.2",
     "title": "Concept of the contract of sale",
     "summary": "Definition, requisites, characteristics, stages, sale as title, and distinctions from related contracts.",
-    "lessonIds": ["les.sales.concept"],
-    "provisionIds": ["prov.ncc-1458", "prov.ncc-1475"],
+    "lessonIds": [
+      "les.sales.concept"
+    ],
+    "provisionIds": [
+      "prov.ncc-1458",
+      "prov.ncc-1475"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -27,7 +34,9 @@
     "syllabusNumber": "I.3",
     "title": "Parties: capacity and disqualification",
     "summary": "Capacity to consent, minors, spouses, disqualified buyers, and age or sickness.",
-    "lessonIds": ["les.sales.parties"],
+    "lessonIds": [
+      "les.sales.parties"
+    ],
     "provisionIds": [],
     "caseIds": [],
     "coverage": "COVERED"
@@ -38,9 +47,20 @@
     "syllabusNumber": "I.4",
     "title": "Formation: offers, options, formalities",
     "summary": "Offer and acceptance, options, perfection settings, and statutory formalities.",
-    "lessonIds": ["les.sales.formation"],
-    "provisionIds": ["prov.ncc-1319", "prov.ncc-1479-option", "prov.ncc-1403-sf"],
-    "caseIds": ["case.villonco", "case.sanchez-rigos", "case.tanay", "case.umcpab"],
+    "lessonIds": [
+      "les.sales.formation"
+    ],
+    "provisionIds": [
+      "prov.ncc-1319",
+      "prov.ncc-1479-option",
+      "prov.ncc-1403-sf"
+    ],
+    "caseIds": [
+      "case.villonco",
+      "case.sanchez-rigos",
+      "case.tanay",
+      "case.umcpab"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -49,8 +69,12 @@
     "syllabusNumber": "I.5",
     "title": "Subject matter",
     "summary": "Determinate, licit, possible objects; future goods; emptio rei speratae and emptio spei.",
-    "lessonIds": ["les.sales.subject-matter"],
-    "provisionIds": ["prov.ncc-1461"],
+    "lessonIds": [
+      "les.sales.subject-matter"
+    ],
+    "provisionIds": [
+      "prov.ncc-1461"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -60,8 +84,12 @@
     "syllabusNumber": "I.6",
     "title": "Cause and price",
     "summary": "Certain or ascertainable price, adequacy, simulation, and money or its equivalent.",
-    "lessonIds": ["les.sales.price-cause"],
-    "provisionIds": ["prov.ncc-1468"],
+    "lessonIds": [
+      "les.sales.price-cause"
+    ],
+    "provisionIds": [
+      "prov.ncc-1468"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -71,8 +99,14 @@
     "syllabusNumber": "I.7",
     "title": "Seller obligations",
     "summary": "Care, transfer of ownership, non-owner sales, delivery kinds, and incidents of delivery.",
-    "lessonIds": ["les.sales.seller-obligations"],
-    "provisionIds": ["prov.ncc-1478", "prov.ncc-1497-delivery", "prov.ncc-1502"],
+    "lessonIds": [
+      "les.sales.seller-obligations"
+    ],
+    "provisionIds": [
+      "prov.ncc-1478",
+      "prov.ncc-1497-delivery",
+      "prov.ncc-1502"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -82,8 +116,12 @@
     "syllabusNumber": "I.8",
     "title": "Buyer obligations",
     "summary": "Payment, acceptance, interest, suspension of payment, and expenses.",
-    "lessonIds": ["les.sales.buyer-obligations"],
-    "provisionIds": ["prov.ncc-1590"],
+    "lessonIds": [
+      "les.sales.buyer-obligations"
+    ],
+    "provisionIds": [
+      "prov.ncc-1590"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -93,9 +131,16 @@
     "syllabusNumber": "I.9",
     "title": "Double sale (Art. 1544)",
     "summary": "Requisites, the priority ladder for movables and immovables, and good faith.",
-    "lessonIds": ["les.sales.double-sale"],
-    "provisionIds": ["prov.ncc-1544"],
-    "caseIds": ["case.cheng-genato", "case.paylago"],
+    "lessonIds": [
+      "les.sales.double-sale"
+    ],
+    "provisionIds": [
+      "prov.ncc-1544"
+    ],
+    "caseIds": [
+      "case.cheng-genato",
+      "case.paylago"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -104,8 +149,15 @@
     "syllabusNumber": "I.10",
     "title": "Representations and warranties",
     "summary": "Express and implied warranties: title and eviction, hidden defects, and quality.",
-    "lessonIds": ["les.sales.warranties"],
-    "provisionIds": ["prov.ncc-1546", "prov.ncc-1548", "prov.ncc-1561", "prov.ncc-1571"],
+    "lessonIds": [
+      "les.sales.warranties"
+    ],
+    "provisionIds": [
+      "prov.ncc-1546",
+      "prov.ncc-1548",
+      "prov.ncc-1561",
+      "prov.ncc-1571"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -115,8 +167,12 @@
     "syllabusNumber": "I.11",
     "title": "Risk of loss or deterioration",
     "summary": "Risk allocation before and after perfection and delivery, fault, and special transactions.",
-    "lessonIds": ["les.sales.risk-of-loss"],
-    "provisionIds": ["prov.ncc-1504"],
+    "lessonIds": [
+      "les.sales.risk-of-loss"
+    ],
+    "provisionIds": [
+      "prov.ncc-1504"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -126,8 +182,14 @@
     "syllabusNumber": "I.12",
     "title": "Breach, actions and remedies",
     "summary": "Seller and buyer remedies, the Recto Law, the Maceda Law, and PD 957.",
-    "lessonIds": ["les.sales.breach-remedies"],
-    "provisionIds": ["prov.ncc-1484", "prov.ra-6552", "prov.pd-957"],
+    "lessonIds": [
+      "les.sales.breach-remedies"
+    ],
+    "provisionIds": [
+      "prov.ncc-1484",
+      "prov.ra-6552",
+      "prov.pd-957"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -137,8 +199,13 @@
     "syllabusNumber": "I.13",
     "title": "Extinguishment and redemption",
     "summary": "Conventional redemption, equitable mortgage, and legal redemption.",
-    "lessonIds": ["les.sales.extinguishment"],
-    "provisionIds": ["prov.ncc-1601", "prov.ncc-1620"],
+    "lessonIds": [
+      "les.sales.extinguishment"
+    ],
+    "provisionIds": [
+      "prov.ncc-1601",
+      "prov.ncc-1620"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -147,8 +214,13 @@
     "moduleId": "ba166.consumer",
     "title": "Purpose, policy, and coverage",
     "summary": "Consumer Act policy and scope (syllabus outline; lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.consumer.coverage"
+    ],
+    "provisionIds": [
+      "prov.ra7394-policy",
+      "prov.ra7394-definitions"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -157,8 +229,20 @@
     "moduleId": "ba166.consumer",
     "title": "Product quality and safety",
     "summary": "Standards, injurious products, regulated goods, and prohibited acts (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.consumer.quality-safety"
+    ],
+    "provisionIds": [
+      "prov.ra7394-art5",
+      "prov.ra7394-arts7-9",
+      "prov.ra7394-arts10-11",
+      "prov.ra7394-arts12-16",
+      "prov.ra7394-food",
+      "prov.ra7394-drugs",
+      "prov.ra7394-cosmetics",
+      "prov.ra7394-hazardous",
+      "prov.ra7394-prohibited-safety"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -167,9 +251,21 @@
     "moduleId": "ba166.consumer",
     "title": "Deceptive, unfair, and unconscionable acts",
     "summary": "Weights, measures, advertising, and promotion (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.consumer.deceptive-acts"
+    ],
+    "provisionIds": [
+      "prov.ra7394-arts48-51",
+      "prov.ra7394-art52",
+      "prov.ra7394-arts53-59",
+      "prov.ra7394-arts62-65",
+      "prov.ra7394-arts110-115",
+      "prov.ra7394-arts116-121"
+    ],
+    "caseIds": [
+      "case.aowa-electronics-dti",
+      "case.doh-philip-morris"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -177,8 +273,15 @@
     "moduleId": "ba166.consumer",
     "title": "Labeling, packaging, and price tags",
     "summary": "Fair packaging and price-tag rules (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.consumer.labeling"
+    ],
+    "provisionIds": [
+      "prov.ra7394-arts74-79",
+      "prov.ra7394-arts80-94",
+      "prov.ra7394-arts81-83",
+      "prov.ra7394-art95"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -187,9 +290,20 @@
     "moduleId": "ba166.consumer",
     "title": "Product service and warranties",
     "summary": "Defective products and services and their remedies (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.consumer.warranties"
+    ],
+    "provisionIds": [
+      "prov.ncc-1546",
+      "prov.ncc-1548",
+      "prov.ncc-1561",
+      "prov.ra7394-arts68-71",
+      "prov.ra7394-arts72-73",
+      "prov.ra7394-arts97-107"
+    ],
+    "caseIds": [
+      "case.deguzman-toyota-cubao"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -197,8 +311,17 @@
     "moduleId": "ba166.consumer",
     "title": "Price Act (RA 7581)",
     "summary": "Price freeze and ceiling, hoarding, profiteering, cartel, and panic buying (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.consumer.price-act"
+    ],
+    "provisionIds": [
+      "prov.ra7581-sec6",
+      "prov.ra7581-secs7-8",
+      "prov.ra7581-hoarding",
+      "prov.ra7581-profiteering",
+      "prov.ra7581-cartel",
+      "prov.ra7581-sec10-4"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -207,8 +330,15 @@
     "moduleId": "ba166.consumer",
     "title": "Lemon Law (RA 10642)",
     "summary": "Repair rule, notice, dispute settlement, and resale (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.consumer.lemon-law"
+    ],
+    "provisionIds": [
+      "prov.ra10642-coverage",
+      "prov.ra10642-rights-period",
+      "prov.ra10642-repair-rule",
+      "prov.ra10642-notice-procedure"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -217,8 +347,14 @@
     "moduleId": "ba166.procurement",
     "title": "Policy, principles, and scope",
     "summary": "RA 12009 policy and coverage (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.procurement.policy-scope"
+    ],
+    "provisionIds": [
+      "prov.ra12009-secs2-3",
+      "prov.ra12009-sec4",
+      "prov.ra12009-sec5"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -227,8 +363,22 @@
     "moduleId": "ba166.procurement",
     "title": "Modes of procurement",
     "summary": "The eleven procurement modes (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.procurement.modes"
+    ],
+    "provisionIds": [
+      "prov.ra12009-sec27",
+      "prov.ra12009-sec28",
+      "prov.ra12009-sec29",
+      "prov.ra12009-sec30",
+      "prov.ra12009-sec31",
+      "prov.ra12009-sec32",
+      "prov.ra12009-sec33",
+      "prov.ra12009-sec34",
+      "prov.ra12009-sec35",
+      "prov.ra12009-sec36",
+      "prov.ra12009-sec37"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -237,8 +387,23 @@
     "moduleId": "ba166.procurement",
     "title": "Procurement procedure",
     "summary": "From BAC and bidding documents to award, implementation, and termination (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.procurement.procedure"
+    ],
+    "provisionIds": [
+      "prov.ra12009-secs7-19",
+      "prov.ra12009-secs20-25",
+      "prov.ra12009-secs47-48",
+      "prov.ra12009-secs49-51",
+      "prov.ra12009-secs52-58",
+      "prov.ra12009-secs59-62",
+      "prov.ra12009-secs63-65",
+      "prov.ra12009-secs66-71",
+      "prov.ra12009-bac",
+      "prov.ra12009-sec39",
+      "prov.ra12009-secs38-72-77",
+      "prov.ra12009-secs78-79-89-90"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -247,8 +412,13 @@
     "moduleId": "ba166.procurement",
     "title": "Disclosure and sanctions",
     "summary": "Relationship disclosure, suspension, and blacklisting (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.procurement.disclosure-sanctions"
+    ],
+    "provisionIds": [
+      "prov.ra12009-secs81-82",
+      "prov.ra12009-suspension-blacklisting"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -257,8 +427,17 @@
     "moduleId": "ba166.ecommerce",
     "title": "Electronic documents and recognition",
     "summary": "E-document rules, presumption, confidentiality, and lawful access (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.ecommerce.e-documents"
+    ],
+    "provisionIds": [
+      "prov.ra8792-secs1-5",
+      "prov.ra8792-sec6",
+      "prov.ra8792-sec7",
+      "prov.ra8792-sec8",
+      "prov.ra8792-sec9",
+      "prov.ra8792-secs31-32"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -267,8 +446,15 @@
     "moduleId": "ba166.ecommerce",
     "title": "Communication, carriage, government use, penalties",
     "summary": "Remaining RA 8792 topics (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.ecommerce.communication-carriage-penalties"
+    ],
+    "provisionIds": [
+      "prov.ra8792-secs16-24",
+      "prov.ra8792-secs25-26",
+      "prov.ra8792-secs17-29-govt",
+      "prov.ra8792-sec33"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -277,8 +463,13 @@
     "moduleId": "ba166.eodb",
     "title": "Policy, agencies, and citizen's charter",
     "summary": "Red-tape policy, covered agencies, re-engineering, and zero contact (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.eodb.policy-charter"
+    ],
+    "provisionIds": [
+      "prov.ra11032-secs3-4",
+      "prov.ra11032-secs5-8"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -287,8 +478,14 @@
     "moduleId": "ba166.eodb",
     "title": "Access procedure",
     "summary": "Processing times, automatic approval, and denial (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.eodb.access-procedure"
+    ],
+    "provisionIds": [
+      "prov.ra11032-sec9",
+      "prov.ra11032-sec10",
+      "prov.ra11032-denial-notice"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -297,8 +494,14 @@
     "moduleId": "ba166.eodb",
     "title": "Licensing, oversight, and violations",
     "summary": "Local licensing and BOSS, permits, oversight bodies, and penalties (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.eodb.licensing-oversight-violations"
+    ],
+    "provisionIds": [
+      "prov.ra11032-secs11-15",
+      "prov.ra11032-secs16-19",
+      "prov.ra11032-secs21-23-25"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -308,9 +511,18 @@
     "syllabusNumber": "1",
     "title": "Pledge and mortgage in general",
     "summary": "Concepts, secured obligations, indivisibility, pactum commissorium, and equitable mortgage (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.credit.general"
+    ],
+    "provisionIds": [
+      "prov.ncc2-2085-common",
+      "prov.ncc2-2089-indivisibility",
+      "prov.ncc2-2088-pactum",
+      "prov.ncc-1601"
+    ],
+    "caseIds": [
+      "case.ong-roban"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -319,9 +531,20 @@
     "syllabusNumber": "2",
     "title": "Real estate mortgage",
     "summary": "Form, dragnet clause, object, and judicial and extrajudicial foreclosure (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.credit.rem"
+    ],
+    "provisionIds": [
+      "prov.ncc2-2124-rem",
+      "prov.ncc2-rule68-judicial",
+      "prov.ncc2-act3135-extrajudicial"
+    ],
+    "caseIds": [
+      "case.prudential-alviar",
+      "case.peoplesbank-dahican",
+      "case.huerta-alba",
+      "case.suico-pnb"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -330,8 +553,15 @@
     "syllabusNumber": "3",
     "title": "Pledge",
     "summary": "Constitution, possession, third-party pledgors, and foreclosure (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.credit.pledge"
+    ],
+    "provisionIds": [
+      "prov.ncc2-2093-pledge",
+      "prov.ncc2-2098-pledgee-rights",
+      "prov.ncc2-2112-pledge-foreclosure",
+      "prov.ncc2-2121-legal-pledge"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -341,8 +571,15 @@
     "syllabusNumber": "4",
     "title": "Chattel mortgage",
     "summary": "Form, description rule, and foreclosure without right of redemption (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.credit.chattel"
+    ],
+    "provisionIds": [
+      "prov.ncc2-act1508-form",
+      "prov.ncc2-act1508-foreclosure",
+      "prov.ncc2-rpc319-chattel",
+      "prov.ncc-1484"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -441,9 +678,13 @@
     "moduleId": "ba166.bp22",
     "title": "Constitutionality",
     "summary": "The settled validity of BP 22 (lesson conversion pending).",
-    "lessonIds": [],
+    "lessonIds": [
+      "les.bp22.constitutionality"
+    ],
     "provisionIds": [],
-    "caseIds": [],
+    "caseIds": [
+      "case.lozano-martinez"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -451,9 +692,16 @@
     "moduleId": "ba166.bp22",
     "title": "Issuance for value",
     "summary": "First element, including guarantee checks (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.bp22.issuance"
+    ],
+    "provisionIds": [
+      "prov.bp22-sec1"
+    ],
+    "caseIds": [
+      "case.idos-ca",
+      "case.que-people"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -461,9 +709,17 @@
     "moduleId": "ba166.bp22",
     "title": "Knowledge of insufficiency",
     "summary": "Second element and its presumptions (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.bp22.knowledge"
+    ],
+    "provisionIds": [
+      "prov.bp22-sec1",
+      "prov.bp22-sec2",
+      "prov.bp22-sec4"
+    ],
+    "caseIds": [
+      "case.lim-lao-ca"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -471,9 +727,17 @@
     "moduleId": "ba166.bp22",
     "title": "Dishonor",
     "summary": "Third element and presentment (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.bp22.dishonor"
+    ],
+    "provisionIds": [
+      "prov.bp22-sec1",
+      "prov.bp22-sec2",
+      "prov.bp22-sec3"
+    ],
+    "caseIds": [
+      "case.cabrera-people"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -481,9 +745,17 @@
     "moduleId": "ba166.bp22",
     "title": "Penalties and estafa relation",
     "summary": "BP 22 penalties and RPC Art. 315(2) (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.bp22.penalties"
+    ],
+    "provisionIds": [
+      "prov.bp22-sec1",
+      "prov.bp22-sec5",
+      "prov.rpc315-2d"
+    ],
+    "caseIds": [
+      "case.nierras-dacuycuy"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -491,8 +763,12 @@
     "moduleId": "ba166.amla",
     "title": "Policy",
     "summary": "State policy against money laundering (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.policy"
+    ],
+    "provisionIds": [
+      "prov.ra9160-sec2"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -501,8 +777,15 @@
     "moduleId": "ba166.amla",
     "title": "Covered persons and obligations",
     "summary": "Who is covered; identification, record-keeping, and reporting (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.covered-persons"
+    ],
+    "provisionIds": [
+      "prov.ra9160-sec3a",
+      "prov.ra9160-sec9a",
+      "prov.ra9160-sec9b",
+      "prov.ra9160-sec9c"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -511,8 +794,13 @@
     "moduleId": "ba166.amla",
     "title": "Covered transactions",
     "summary": "Thresholds and reportable transactions (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.covered-transactions"
+    ],
+    "provisionIds": [
+      "prov.ra9160-sec3b",
+      "prov.ra9160-sec3-defs"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -521,9 +809,16 @@
     "moduleId": "ba166.amla",
     "title": "Suspicious transactions",
     "summary": "Suspicious-transaction indicators and reporting (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.amla.suspicious"
+    ],
+    "provisionIds": [
+      "prov.ra9160-sec3b1"
+    ],
+    "caseIds": [
+      "case.republic-ongpin",
+      "case.republic-sandiganbayan-2021"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -531,8 +826,13 @@
     "moduleId": "ba166.amla",
     "title": "Beneficial ownership",
     "summary": "2018 IRR beneficial-ownership rules (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.beneficial-ownership"
+    ],
+    "provisionIds": [
+      "prov.ra9160-irr-rule23",
+      "prov.ra9160-irr-rule24"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -541,8 +841,13 @@
     "moduleId": "ba166.amla",
     "title": "Preventive measures",
     "summary": "Prohibited accounts and customer due diligence (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.preventive"
+    ],
+    "provisionIds": [
+      "prov.ra9160-irr-rule17",
+      "prov.ra9160-irr-rule18"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -551,8 +856,14 @@
     "moduleId": "ba166.amla",
     "title": "Money laundering and predicate crimes",
     "summary": "The offense and its predicates (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.ml-predicates"
+    ],
+    "provisionIds": [
+      "prov.ra9160-sec4",
+      "prov.ra9160-sec3-defs",
+      "prov.ra9160-sec3i"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -561,9 +872,19 @@
     "moduleId": "ba166.amla",
     "title": "The AMLC",
     "summary": "Freezing, bank inquiry, and foreign assistance (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.amla.amlc"
+    ],
+    "provisionIds": [
+      "prov.ra9160-sec7",
+      "prov.ra9160-sec10",
+      "prov.ra9160-sec11",
+      "prov.ra9160-sec13"
+    ],
+    "caseIds": [
+      "case.republic-ongpin",
+      "case.republic-eugenio"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -571,8 +892,12 @@
     "moduleId": "ba166.amla",
     "title": "Safe harbor",
     "summary": "Protection for compliant reporting (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.safe-harbor"
+    ],
+    "provisionIds": [
+      "prov.ra9160-irr-rule22"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -581,8 +906,12 @@
     "moduleId": "ba166.amla",
     "title": "Penalties",
     "summary": "Criminal and administrative sanctions (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.penalties"
+    ],
+    "provisionIds": [
+      "prov.ra9160-sec14"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -591,8 +920,19 @@
     "moduleId": "ba166.amla",
     "title": "Terrorism financing (RA 10168)",
     "summary": "Financing prohibitions and designations (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.amla.tf"
+    ],
+    "provisionIds": [
+      "prov.ra10168-sec3abc",
+      "prov.ra10168-sec3de",
+      "prov.ra10168-sec3hij",
+      "prov.ra10168-sec4",
+      "prov.ra10168-sec5-9",
+      "prov.ra10168-sec10",
+      "prov.ra10168-sec11",
+      "prov.ra10168-sec12-13-19"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -602,9 +942,18 @@
     "syllabusNumber": "1",
     "title": "Definitions",
     "summary": "The contract of insurance, its elements, and doing insurance business (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.insurance.definitions"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec2a",
+      "prov.ra10607-sec3",
+      "prov.ra10607-sec51",
+      "prov.ra10607-sec2b"
+    ],
+    "caseIds": [
+      "case.philamcare-ca"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -613,8 +962,29 @@
     "syllabusNumber": "2",
     "title": "Classification",
     "summary": "Life and non-life lines, microinsurance, and bancassurance (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.insurance.classification"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec181",
+      "prov.ra10607-sec182",
+      "prov.ra10607-sec183",
+      "prov.ra10607-sec184",
+      "prov.ra10607-sec185",
+      "prov.ra10607-sec186",
+      "prov.ra10607-sec234",
+      "prov.ra10607-sec235",
+      "prov.ra10607-sec101a",
+      "prov.ra10607-sec101b",
+      "prov.ra10607-sec169",
+      "prov.ra10607-sec176",
+      "prov.ra10607-sec177",
+      "prov.ra10607-sec178",
+      "prov.ra10607-sec187",
+      "prov.ra10607-sec188",
+      "prov.ra10607-sec375",
+      "prov.ra10607-sec376"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -624,9 +994,33 @@
     "syllabusNumber": "3",
     "title": "Insurable interest",
     "summary": "Life, health, and property interest; double and over insurance (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.insurance.interest"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec25",
+      "prov.ra10607-sec10",
+      "prov.ra10607-sec13",
+      "prov.ra10607-sec14",
+      "prov.ra10607-sec15",
+      "prov.ra10607-sec16",
+      "prov.ra10607-sec17",
+      "prov.ra10607-sec18",
+      "prov.ra10607-sec19",
+      "prov.ra10607-sec20",
+      "prov.ra10607-sec21",
+      "prov.ra10607-sec22",
+      "prov.ra10607-sec23",
+      "prov.ra10607-sec24",
+      "prov.ra10607-sec95",
+      "prov.ra10607-sec96",
+      "prov.ra10607-sec83",
+      "prov.ra10607-sec8",
+      "prov.ra10607-sec9"
+    ],
+    "caseIds": [
+      "case.filipino-merchants-ca"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -635,8 +1029,27 @@
     "syllabusNumber": "4",
     "title": "Perfection",
     "summary": "Offer, acceptance, premium payment, and reinstatement (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.insurance.perfection"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec83",
+      "prov.ra10607-sec77",
+      "prov.ra10607-sec78",
+      "prov.ra10607-sec79",
+      "prov.ra10607-sec64",
+      "prov.ra10607-sec65",
+      "prov.ra10607-sec66",
+      "prov.ra10607-sec84",
+      "prov.ra10607-sec315",
+      "prov.ra10607-sec233f",
+      "prov.ra10607-sec233g",
+      "prov.ra10607-sec233h",
+      "prov.ra10607-sec233j",
+      "prov.ra10607-sec80",
+      "prov.ra10607-sec81",
+      "prov.ra10607-sec82"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -646,8 +1059,40 @@
     "syllabusNumber": "5",
     "title": "The policy",
     "summary": "Policy content, riders, cover notes, parties, and beneficiaries (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.insurance.policy"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec51",
+      "prov.ra10607-sec184",
+      "prov.ra10607-sec185",
+      "prov.ra10607-sec233f",
+      "prov.ra10607-sec233g",
+      "prov.ra10607-sec233h",
+      "prov.ra10607-sec233j",
+      "prov.ra10607-sec49",
+      "prov.ra10607-sec50",
+      "prov.ra10607-sec232",
+      "prov.ra10607-sec52",
+      "prov.ra10607-sec59",
+      "prov.ra10607-sec60",
+      "prov.ra10607-sec61",
+      "prov.ra10607-sec62",
+      "prov.ra10607-sec6",
+      "prov.ra10607-sec190",
+      "prov.ra10607-sec309",
+      "prov.ra10607-sec310",
+      "prov.ra10607-sec7",
+      "prov.ra10607-sec54",
+      "prov.ra10607-sec55",
+      "prov.ra10607-sec56",
+      "prov.ra10607-sec57",
+      "prov.ra10607-sec233e",
+      "prov.ra10607-sec11",
+      "prov.ncc-2012",
+      "prov.ncc-739",
+      "prov.ra10607-sec12"
+    ],
     "caseIds": [],
     "coverage": "COVERED",
     "verificationNotes": "Reviewer coverage of this topic straddles both Insurance files; boundary to be deduped at conversion (D-02)."
@@ -658,9 +1103,58 @@
     "syllabusNumber": "6",
     "title": "Rescission",
     "summary": "Concealment, misrepresentation, incontestability, and warranties (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.insurance.rescission"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec169",
+      "prov.ra10607-sec64",
+      "prov.ra10607-sec65",
+      "prov.ra10607-sec26",
+      "prov.ra10607-sec27",
+      "prov.ra10607-sec28",
+      "prov.ra10607-sec29",
+      "prov.ra10607-sec30",
+      "prov.ra10607-sec31",
+      "prov.ra10607-sec32",
+      "prov.ra10607-sec33",
+      "prov.ra10607-sec34",
+      "prov.ra10607-sec35",
+      "prov.ra10607-sec36",
+      "prov.ra10607-sec37",
+      "prov.ra10607-sec38",
+      "prov.ra10607-sec39",
+      "prov.ra10607-sec40",
+      "prov.ra10607-sec41",
+      "prov.ra10607-sec42",
+      "prov.ra10607-sec43",
+      "prov.ra10607-sec44",
+      "prov.ra10607-sec45",
+      "prov.ra10607-sec46",
+      "prov.ra10607-sec47",
+      "prov.ra10607-sec233d",
+      "prov.ra10607-sec48",
+      "prov.ra10607-sec233b",
+      "prov.ra10607-sec67",
+      "prov.ra10607-sec68",
+      "prov.ra10607-sec69",
+      "prov.ra10607-sec70",
+      "prov.ra10607-sec71",
+      "prov.ra10607-sec72",
+      "prov.ra10607-sec73",
+      "prov.ra10607-sec74",
+      "prov.ra10607-sec75",
+      "prov.ra10607-sec76",
+      "prov.ra10607-sec170",
+      "prov.ra10607-sec171",
+      "prov.ra10607-sec172",
+      "prov.ra10607-sec63",
+      "prov.ra10607-sec393"
+    ],
+    "caseIds": [
+      "case.canilang-ca",
+      "case.manila-bankers-aban"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -669,8 +1163,16 @@
     "syllabusNumber": "7",
     "title": "Variable contracts",
     "summary": "Variable life and investment-linked rules (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.insurance.variable"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec238",
+      "prov.ra10607-sec239",
+      "prov.ra10607-sec240",
+      "prov.ra10607-sec241",
+      "prov.ra10607-sec242"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -680,8 +1182,26 @@
     "syllabusNumber": "8",
     "title": "Claims and subrogation",
     "summary": "Notice and proof of loss, claims guidelines, prescription, and subrogation (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.insurance.claims"
+    ],
+    "provisionIds": [
+      "prov.ra10607-sec90",
+      "prov.ra10607-sec91",
+      "prov.ra10607-sec92",
+      "prov.ra10607-sec93",
+      "prov.ra10607-sec94",
+      "prov.ra10607-sec247",
+      "prov.ra10607-sec248",
+      "prov.ra10607-sec249",
+      "prov.ra10607-sec250",
+      "prov.ra10607-sec251",
+      "prov.ra10607-sec397",
+      "prov.ra10607-sec439",
+      "prov.ncc-1144",
+      "prov.ncc-1236",
+      "prov.ncc-2207"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -690,8 +1210,14 @@
     "moduleId": "ba166.data-privacy",
     "title": "The National Privacy Commission",
     "summary": "NPC organization and powers (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.dpa.npc"
+    ],
+    "provisionIds": [
+      "prov.ra10173-sec9",
+      "prov.ra10173-sec10",
+      "prov.ra10173-sec7"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -700,8 +1226,15 @@
     "moduleId": "ba166.data-privacy",
     "title": "Coverage",
     "summary": "Scope of the Data Privacy Act (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.dpa.coverage"
+    ],
+    "provisionIds": [
+      "prov.ra10173-sec3-defs",
+      "prov.ra10173-sec4",
+      "prov.ra10173-sec5",
+      "prov.ra10173-sec6"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -710,8 +1243,16 @@
     "moduleId": "ba166.data-privacy",
     "title": "Processing of personal information",
     "summary": "Lawful processing criteria (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.dpa.processing"
+    ],
+    "provisionIds": [
+      "prov.ra10173-sec11",
+      "prov.ra10173-sec12",
+      "prov.ra10173-sec13",
+      "prov.ra10173-sec14",
+      "prov.ra10173-sec15"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -720,8 +1261,15 @@
     "moduleId": "ba166.data-privacy",
     "title": "Rights of data subjects",
     "summary": "Access, correction, and related rights (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.dpa.rights"
+    ],
+    "provisionIds": [
+      "prov.ra10173-sec16",
+      "prov.ra10173-sec17",
+      "prov.ra10173-sec18",
+      "prov.ra10173-sec19"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -730,8 +1278,13 @@
     "moduleId": "ba166.data-privacy",
     "title": "Security and accountability",
     "summary": "Security measures and transfer accountability (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.dpa.security"
+    ],
+    "provisionIds": [
+      "prov.ra10173-sec20",
+      "prov.ra10173-sec21"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -740,8 +1293,14 @@
     "moduleId": "ba166.data-privacy",
     "title": "Government sensitive information",
     "summary": "Public-sector data rules (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.dpa.govt-info"
+    ],
+    "provisionIds": [
+      "prov.ra10173-sec22",
+      "prov.ra10173-sec23",
+      "prov.ra10173-sec24"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -750,8 +1309,24 @@
     "moduleId": "ba166.data-privacy",
     "title": "Penalties",
     "summary": "Criminal offenses and sanctions (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
+    "lessonIds": [
+      "les.dpa.penalties"
+    ],
+    "provisionIds": [
+      "prov.ra10173-sec25",
+      "prov.ra10173-sec26",
+      "prov.ra10173-sec27",
+      "prov.ra10173-sec28",
+      "prov.ra10173-sec29",
+      "prov.ra10173-sec30",
+      "prov.ra10173-sec31",
+      "prov.ra10173-sec32",
+      "prov.ra10173-sec33",
+      "prov.ra10173-sec34",
+      "prov.ra10173-sec35",
+      "prov.ra10173-sec36",
+      "prov.ra10173-sec37"
+    ],
     "caseIds": [],
     "coverage": "COVERED"
   },
@@ -760,9 +1335,32 @@
     "moduleId": "ba166.ip-code",
     "title": "Trademark",
     "summary": "Acquisition, registrability, rights, infringement, and unfair competition (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.ip.trademark"
+    ],
+    "provisionIds": [
+      "prov.ip-sec121-1",
+      "prov.ip-sec122",
+      "prov.ip-sec123-1",
+      "prov.ip-sec124",
+      "prov.ip-sec136",
+      "prov.ip-sec138",
+      "prov.ip-sec145",
+      "prov.ip-sec146",
+      "prov.ip-sec151",
+      "prov.ip-sec152",
+      "prov.ip-sec147",
+      "prov.ip-sec155",
+      "prov.ip-sec156",
+      "prov.ip-sec168"
+    ],
+    "caseIds": [
+      "case.mang-inasal-ifp",
+      "case.ufc-barrio-fiesta",
+      "case.kolin-kolin",
+      "case.dy-philips",
+      "case.san-miguel-foodsphere"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -770,20 +1368,71 @@
     "moduleId": "ba166.ip-code",
     "title": "Tradename",
     "summary": "Tradename rights and infringement (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.ip.tradename"
+    ],
+    "provisionIds": [
+      "prov.ip-sec121-2",
+      "prov.ip-sec121-3",
+      "prov.ip-sec165-1",
+      "prov.ip-sec165-2-4"
+    ],
+    "caseIds": [
+      "case.lyceum-ca"
+    ],
     "coverage": "NEEDS_VERIFICATION",
-    "verificationNotes": "Syllabus cites the tradename definition as §121.2; the revised reviewer flags that provision as actually the collective-mark definition (D-01). Resolve at conversion."
+    "verificationNotes": "D-01: the syllabus cites the trade-name definition as IP Code Sec. 121.2, but the reviewer flags Sec. 121.2 as the collective-mark definition and Sec. 121.3 as the actual trade-name definition. Both provisions are preserved (prov.ip-sec121-2, prov.ip-sec121-3) with a NEEDS VERIFICATION trap note in les.ip.tradename; verify against RA 8293 before reciting."
   },
   {
     "id": "ba166.ip.patent",
     "moduleId": "ba166.ip-code",
     "title": "Patent",
     "summary": "Patentability, requisites, ownership, rights, licensing, and infringement (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.ip.patent"
+    ],
+    "provisionIds": [
+      "prov.ip-sec21",
+      "prov.ip-sec22",
+      "prov.ip-sec109-1",
+      "prov.ip-sec112",
+      "prov.ip-sec113",
+      "prov.ip-sec23",
+      "prov.ip-sec24",
+      "prov.ip-sec25",
+      "prov.ip-sec26",
+      "prov.ip-sec27",
+      "prov.ip-sec28",
+      "prov.ip-sec29",
+      "prov.ip-sec30",
+      "prov.ip-sec31",
+      "prov.ip-sec67-68",
+      "prov.ip-sec32",
+      "prov.ip-sec40",
+      "prov.ip-sec50-51",
+      "prov.ip-sec54",
+      "prov.ip-sec61",
+      "prov.ip-sec109-3-4",
+      "prov.ip-sec118-120",
+      "prov.ip-sec71",
+      "prov.ip-sec72-1",
+      "prov.ip-sec72-2-5",
+      "prov.ip-sec73",
+      "prov.ip-sec74",
+      "prov.ip-sec85",
+      "prov.ip-sec89",
+      "prov.ip-sec90",
+      "prov.ip-sec93",
+      "prov.ip-sec100",
+      "prov.ip-sec103-104",
+      "prov.ip-sec76",
+      "prov.ip-sec84"
+    ],
+    "caseIds": [
+      "case.bilski-kappos",
+      "case.alice-cls-bank",
+      "case.ksr-teleflex"
+    ],
     "coverage": "COVERED"
   },
   {
@@ -791,9 +1440,42 @@
     "moduleId": "ba166.ip-code",
     "title": "Copyright",
     "summary": "Subsistence, ownership, limitations, enforcement, and related rights (lesson conversion pending).",
-    "lessonIds": [],
-    "provisionIds": [],
-    "caseIds": [],
+    "lessonIds": [
+      "les.ip.copyright"
+    ],
+    "provisionIds": [
+      "prov.ip-sec172",
+      "prov.ip-sec177",
+      "prov.ip-sec172-2",
+      "prov.ip-sec173-174",
+      "prov.ip-sec175",
+      "prov.ip-sec176",
+      "prov.ip-sec171-1",
+      "prov.ip-sec178",
+      "prov.ip-sec179",
+      "prov.ip-sec213-214",
+      "prov.ip-sec191",
+      "prov.ip-sec192",
+      "prov.ip-sec180-183",
+      "prov.ip-sec184",
+      "prov.ip-sec185",
+      "prov.ip-sec186",
+      "prov.ip-sec187",
+      "prov.ip-sec188",
+      "prov.ip-sec216",
+      "prov.ip-sec217",
+      "prov.ip-sec221-224",
+      "prov.ip-sec193",
+      "prov.ip-sec194-198",
+      "prov.ip-sec203-207",
+      "prov.ip-sec208-210",
+      "prov.ip-sec211",
+      "prov.ip-sec212"
+    ],
+    "caseIds": [
+      "case.muller-arrows",
+      "case.microsoft-manansala"
+    ],
     "coverage": "COVERED"
   },
   {

@@ -118,6 +118,10 @@ for (const mod of modules) {
   if (mod.coverage === 'NEEDS_VERIFICATION' && !mod.verificationNotes) {
     fail(`module ${mod.id}: NEEDS_VERIFICATION requires verificationNotes`);
   }
+  // Phase 2B: a module with no source reviewer must never claim coverage.
+  if ((mod.primarySourceIds ?? []).length === 0 && mod.coverage !== 'SYLLABUS_ONLY') {
+    fail(`module ${mod.id}: no primary sources but coverage is ${mod.coverage} (must be SYLLABUS_ONLY)`);
+  }
 }
 
 // Slug collisions within a module (routes would clash).
@@ -141,6 +145,15 @@ for (const topic of topics) {
   }
   for (const id of topic.caseIds ?? []) {
     if (!caseIds.has(id)) fail(`topic ${topic.id}: dangling case ${id}`);
+  }
+  // Phase 2B: syllabus-only topics must have no lessons; covered topics must
+  // have at least one converted lesson (all covered modules are converted).
+  const lessonCount = (topic.lessonIds ?? []).length;
+  if (topic.coverage === 'SYLLABUS_ONLY' && lessonCount > 0) {
+    fail(`topic ${topic.id}: SYLLABUS_ONLY but lists ${lessonCount} lesson(s)`);
+  }
+  if (topic.coverage === 'COVERED' && lessonCount === 0) {
+    fail(`topic ${topic.id}: COVERED but has no converted lesson`);
   }
 }
 
@@ -264,29 +277,78 @@ for (const digest of cases) {
 }
 
 // ---------- questions / flashcards integrity ----------
-// 2A rule: the MCQ bank is not open and no model solutions exist in sources.
+// Phase 2B rules: the MCQ bank is not open; self-tests must carry their
+// source keys; hypos carry hints only (never keys or model solutions).
 for (const question of questions ?? []) {
   const where = `question ${question?.id ?? '(no id)'}`;
   if (!['selfTest', 'iracHypo', 'mcq'].includes(question?.kind)) {
     fail(`${where}: bad kind ${question?.kind}`);
     continue;
   }
-  if (question.kind === 'mcq') fail(`${where}: MCQ bank is not open in this slice (P2 editorial work)`);
-  if (question.modelSolution) fail(`${where}: model solutions are not permitted in this slice`);
-  if (question.answerKey && question.kind !== 'selfTest') {
-    fail(`${where}: answerKey only permitted on selfTest items`);
+  if (question.kind === 'mcq') fail(`${where}: MCQ bank is not open (no MCQs exist in sources)`);
+  if (question.modelSolution) fail(`${where}: model solutions are not permitted (none exist in sources)`);
+  if (question.choices) fail(`${where}: choices are not permitted outside the MCQ bank`);
+  if (question.kind === 'selfTest') {
+    if (!question.answerKey) fail(`${where}: selfTest must preserve its source answerKey`);
+    if (question.hints) fail(`${where}: selfTest must not carry hints (keys only)`);
   }
+  if (question.kind === 'iracHypo') {
+    if (question.answerKey) fail(`${where}: iracHypo must not present an answerKey (hints only)`);
+    const hintSections = Object.values(question.hints ?? {}).filter(Boolean);
+    if (hintSections.length === 0) fail(`${where}: iracHypo must carry at least one source hint`);
+  }
+  if (question.editorialStatus !== 'source-backed') {
+    fail(`${where}: questions must be source-backed (got ${question.editorialStatus})`);
+  }
+  if (!question.prompt) fail(`${where}: prompt is required`);
   checkSourceRefs(question.sourceRefs, where, sourceIds);
+  if ((question.topicIds ?? []).length === 0) fail(`${where}: at least one topicId is required`);
   for (const id of question.topicIds ?? []) {
     if (!topicIds.has(id)) fail(`${where}: dangling topic ${id}`);
   }
 }
 for (const card of flashcards ?? []) {
   const where = `flashcard ${card?.id ?? '(no id)'}`;
+  if (!card?.front || !card?.back) fail(`${where}: front and back are required`);
+  if (!['authored-draft', 'reviewed'].includes(card?.editorialStatus)) {
+    fail(`${where}: editorialStatus must be authored-draft or reviewed (got ${card?.editorialStatus})`);
+  }
   checkSourceRefs(card?.sourceRefs, where, sourceIds);
+  if ((card?.topicIds ?? []).length === 0) fail(`${where}: at least one topicId is required`);
   for (const id of card?.topicIds ?? []) {
     if (!topicIds.has(id)) fail(`${where}: dangling topic ${id}`);
   }
+}
+
+// ---------- fragment coverage audit (informational) ----------
+// Every headed source section must be accounted for as converted, partial,
+// or unconverted. Unconverted entries are legitimate only for non-substantive
+// apparatus — they are listed here so no gap can hide.
+{
+  const fragDir = join(ROOT, COURSE, 'fragments');
+  const fragFiles = readdirSync(fragDir).filter((f) => f.endsWith('.json'));
+  const unconverted = [];
+  let converted = 0;
+  let partial = 0;
+  for (const file of fragFiles) {
+    const frag = readJson(`${COURSE}/fragments/${file}`);
+    if (!frag) continue;
+    for (const entry of frag.coverage ?? []) {
+      if (!['converted', 'partial', 'unconverted'].includes(entry?.status)) {
+        fail(`${file}: coverage entry has bad status ${JSON.stringify(entry?.status)}`);
+      } else if (entry.status === 'converted') {
+        converted += 1;
+      } else if (entry.status === 'partial') {
+        partial += 1;
+      } else {
+        unconverted.push(`${file}: ${entry.sourceSection} (${entry.locator}) — ${entry.note ?? 'no reason given'}`);
+      }
+    }
+  }
+  console.log(
+    `coverage audit: ${converted} converted, ${partial} partial, ${unconverted.length} unconverted fragment entries.`,
+  );
+  for (const line of unconverted) console.log(`  · unconverted: ${line}`);
 }
 
 // ---------- report ----------

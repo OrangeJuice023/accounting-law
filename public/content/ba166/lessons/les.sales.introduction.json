@@ -9,7 +9,7 @@
     {
       "anchorId": "study-sequence",
       "kind": "explanation",
-      "markdown": "This volume follows the syllabus sequence for Law on Sales. Study each issue in four steps:\n\n1. **Read the plain-language box** so you understand the problem.\n2. **Memorize the technical rule**, article or section, and elements.\n3. **Drill the case facts and doctrine separately.**\n4. **Practice issue-spotting**: classification → rule → elements → application → remedy.",
+      "markdown": "This volume follows the syllabus sequence for Law on Sales. Each major issue begins with a plain-language rule, then gives the technical legal formulation, key Civil Code provisions, case doctrine, and likely exam traps. Article references follow Republic Act No. 386 (Civil Code), unless otherwise stated. Study each issue in four steps:\n\n1. **Read the plain-language box** so you understand the problem.\n2. **Memorize the technical rule**, article or section, and elements.\n3. **Drill the case facts and doctrine separately.**\n4. **Practice issue-spotting**: classification → rule → elements → application → remedy.",
       "keyed": false,
       "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 1", "section": "How to study this volume" }]
     },

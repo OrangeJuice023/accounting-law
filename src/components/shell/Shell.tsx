@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link, NavLink, Outlet } from 'react-router-dom';
-import { BookOpen, House, Library, Search, TrendingUp } from 'lucide-react';
+import { BookOpen, House, Library, Search, Target, TrendingUp } from 'lucide-react';
 import { useContent } from '../../content/loader';
 import { SidebarNav } from './Sidebar';
 import { SearchPalette } from './SearchPalette';
@@ -80,6 +80,7 @@ export function Shell() {
       <nav aria-label="Primary" className="fixed inset-x-0 bottom-0 z-30 flex border-t border-line bg-paper/95 backdrop-blur lg:hidden">
         <MobileTab to="/" icon={<House className="h-5 w-5" aria-hidden />} label="Home" />
         <MobileTab to="/review" icon={<BookOpen className="h-5 w-5" aria-hidden />} label="Review" />
+        <MobileTab to="/practice" icon={<Target className="h-5 w-5" aria-hidden />} label="Practice" />
         <MobileTab to="/progress" icon={<TrendingUp className="h-5 w-5" aria-hidden />} label="Progress" />
         <MobileTab to="/sources" icon={<Library className="h-5 w-5" aria-hidden />} label="Sources" />
       </nav>

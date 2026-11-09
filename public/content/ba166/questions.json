@@ -1,1 +1,638 @@
-[]
+[
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Identify the specific requirement, technical justification, available suppliers, and whether the restriction is necessary or artificially exclusionary.",
+      "conclusion": "Explain the procedural remedy or corrective step supported by the facts.",
+      "issue": "Do the specifications violate competitiveness/proportionality?",
+      "rule": "Requirements must be justified by the actual need and the Act/IRR."
+    },
+    "id": "q.hypo.proc.a",
+    "kind": "iracHypo",
+    "prompt": "**Hypo A: tailored technical specifications.**\n\nA bidder challenges the procuring entity's technical specifications as tailored to favor a particular supplier. Analyze the challenge under the NGPA.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo A",
+        "page": "p. 4",
+        "section": "Sec. 8",
+        "sourceId": "src.r03"
+      }
+    ],
+    "topicIds": [
+      "ba166.procurement.procedure"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Examine timing, related goods/services, known overall need, budget, planning and intent.",
+      "conclusion": "Identify the compliance/accountability consequence in the Act/IRR.",
+      "issue": "Is there prohibited splitting under Sec. 39?",
+      "rule": "Look to the substantive procurement need and statutory prohibition, not merely formal labels."
+    },
+    "id": "q.hypo.proc.b",
+    "kind": "iracHypo",
+    "prompt": "**Hypo B: purchase orders split to remain below a threshold.**\n\nA procuring entity issues several purchase orders for related goods or services, each kept below an approval or competition threshold. Analyze under the NGPA.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo B",
+        "page": "p. 4",
+        "section": "Sec. 8",
+        "sourceId": "src.r03"
+      }
+    ],
+    "topicIds": [
+      "ba166.procurement.procedure"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Match evidence to the relevant statutory ground; 'urgent' or 'convenient' by itself may be insufficient unless a specific legal ground is satisfied.",
+      "conclusion": "State whether the mode is justified on the facts and what record/approval is required.",
+      "issue": "Is the modality legally authorized?",
+      "rule": "An enumerated mode has its own trigger and procedure."
+    },
+    "id": "q.hypo.proc.c",
+    "kind": "iracHypo",
+    "prompt": "**Hypo C: agency uses a noncompetitive mode for speed.**\n\nA procuring entity selects a noncompetitive procurement mode, citing urgency and convenience. Analyze under the NGPA.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo C",
+        "page": "p. 5",
+        "section": "Sec. 8",
+        "sourceId": "src.r03"
+      }
+    ],
+    "topicIds": [
+      "ba166.procurement.modes"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Identify the prior pledge/mortgage and whether the agreement itself automatically transfers ownership on nonpayment.",
+      "conclusion": "Automatic-appropriation stipulation is void; creditor must use legal enforcement. If a new, voluntary conveyance occurred after default, assess its independence rather than judging by label alone.",
+      "issue": "Pactum commissorium.",
+      "rule": "Two elements under Art. 2088."
+    },
+    "id": "q.hypo.credit.a",
+    "kind": "iracHypo",
+    "prompt": "**Hypo A: creditor keeps the collateral upon default.**\n\nA creditor keeps (appropriates) the collateral upon the debtor's default. Analyze whether the arrangement is a prohibited pactum commissorium under Art. 2088.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo A: creditor keeps the collateral upon default",
+        "page": "p. 6",
+        "section": "Sec. 7",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.general"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Compare later notes, separate collateral, dates, and lender's reliance.",
+      "conclusion": "State which loans are secured and how surplus/deficiency is calculated only after determining scope.",
+      "issue": "Scope of dragnet clause.",
+      "rule": "Strictly construe the instrument; future advances can be covered if intent is clear."
+    },
+    "id": "q.hypo.credit.b",
+    "kind": "iracHypo",
+    "prompt": "**Hypo B: mortgage secures several later loans.**\n\nA mortgage is invoked to secure several later loans. Analyze which loans fall within the dragnet clause and how that scope determines surplus or deficiency.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo B: mortgage secures several later loans",
+        "page": "p. 6",
+        "section": "Sec. 7",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Calculate the secured obligation, allowed charges, junior liens and contract scope.",
+      "conclusion": "Return the balance; determine interest separately under current jurisprudence.",
+      "issue": "Surplus.",
+      "rule": "Apply proceeds to debt and authorized expenses/charges; surplus belongs to the person entitled to it."
+    },
+    "id": "q.hypo.credit.c",
+    "kind": "iracHypo",
+    "prompt": "**Hypo C: foreclosure proceeds exceed the debt.**\n\nForeclosure proceeds exceed the debt. Analyze how the proceeds are applied and who is entitled to the surplus.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo C: foreclosure proceeds exceed the debt",
+        "page": "p. 6",
+        "section": "Sec. 7",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Identify the version of the terms presented, affirmative act, attribution of click, notice/accessibility, authority, object and price.",
+      "conclusion": "State whether consent and other requisites are proved; separately address proof/authenticity.",
+      "issue": "Was a binding agreement formed?",
+      "rule": "Electronic form alone cannot defeat legal effect, but ordinary contract requisites remain."
+    },
+    "id": "q.hypo.ecom.a",
+    "kind": "iracHypo",
+    "prompt": "**Hypo A: buyer clicks “I agree.”**\n\nA buyer clicks “I agree” on electronically presented terms to conclude a transaction.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo A: buyer clicks “I agree”",
+        "page": "p. 4",
+        "section": "Sec. 7",
+        "sourceId": "src.r04"
+      }
+    ],
+    "topicIds": [
+      "ba166.ecommerce.communication-carriage-penalties"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "System designated, server logs, technical failure, receipt acknowledgement and contractual rule.",
+      "conclusion": "State the legally relevant time and consequence for any deadline or acceptance.",
+      "issue": "When was the data message received?",
+      "rule": "Apply the Act's dispatch/receipt provisions and the designated information system."
+    },
+    "id": "q.hypo.ecom.b",
+    "kind": "iracHypo",
+    "prompt": "**Hypo B: one party says an email was never received.**\n\nAfter a data message is sent by email in the course of a transaction, one party says it was never received, and a deadline or acceptance turns on when receipt occurred.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo B: email never received",
+        "page": "p. 4",
+        "section": "Sec. 7",
+        "sourceId": "src.r04"
+      }
+    ],
+    "topicIds": [
+      "ba166.ecommerce.communication-carriage-penalties"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Source device, account ownership, original data, metadata, chain of custody, reliability and corroboration.",
+      "conclusion": "Explain whether it can be received and what weight it deserves.",
+      "issue": "Legal recognition versus authentication/admissibility.",
+      "rule": "An electronic document is not denied effect solely because of form, but its origin, integrity and authenticity must be established under the evidence rules."
+    },
+    "id": "q.hypo.ecom.c",
+    "kind": "iracHypo",
+    "prompt": "**Hypo C: a screenshot is offered as proof.**\n\nA party offers a screenshot of an electronic record as proof in a dispute.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo C: screenshot as proof",
+        "page": "p. 4",
+        "section": "Sec. 7",
+        "sourceId": "src.r04"
+      }
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Covered agency/service, complete documents and fees, deadline computation, special-law exception, proof of filing and any lawful extension.",
+      "conclusion": "State whether deemed approval appears available and what proof/steps remain.",
+      "issue": "Does deemed approval apply?",
+      "rule": "Sec. 9 deadline and Sec. 10 automatic-approval conditions."
+    },
+    "id": "q.hypo.eodb.a",
+    "kind": "iracHypo",
+    "prompt": "**Hypo A: complete permit application receives no action.**\n\nA complete permit application, with required documents and fees submitted to a covered agency, receives no action within the prescribed period.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo A: no action on complete application",
+        "page": "p. 4",
+        "section": "Sec. 8",
+        "sourceId": "src.r05"
+      }
+    ],
+    "topicIds": [
+      "ba166.eodb.access-procedure"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Compare the demand to the Charter and statute, including any valid amendment or statutory prerequisite.",
+      "conclusion": "Identify an appropriate complaint/redress channel and responsible office.",
+      "issue": "Improper additional requirement/red tape.",
+      "rule": "Secs. 6 and 9 and the published Charter govern requirements/process, alongside any directly applicable law."
+    },
+    "id": "q.hypo.eodb.b",
+    "kind": "iracHypo",
+    "prompt": "**Hypo B: a clerk demands a new document not in the Citizen’s Charter.**\n\nIn processing an application, a clerk demands a document that does not appear in the office’s published Citizen’s Charter.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo B: demand beyond the Charter",
+        "page": "p. 4",
+        "section": "Sec. 8",
+        "sourceId": "src.r05"
+      }
+    ],
+    "topicIds": [
+      "ba166.eodb.policy-charter"
+    ]
+  },
+  {
+    "editorialStatus": "source-backed",
+    "hints": {
+      "application": "Count from complete filing, subtract nonworking days, check notices and statutory exceptions.",
+      "conclusion": "State whether the deadline was exceeded and what legal consequence follows.",
+      "issue": "Violation of processing timeline.",
+      "rule": "Classify as simple, complex or highly technical; compare with 3/7/20 working-day defaults and valid extension/special-law rules."
+    },
+    "id": "q.hypo.eodb.c",
+    "kind": "iracHypo",
+    "prompt": "**Hypo C: processing takes 12 working days.**\n\nProcessing of an application takes 12 working days from filing.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Hypo C: 12 working days",
+        "page": "p. 4",
+        "section": "Sec. 8",
+        "sourceId": "src.r05"
+      }
+    ],
+    "topicIds": [
+      "ba166.eodb.access-procedure"
+    ]
+  },
+  {
+    "id": "q.instest.1.01",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.definitions"
+    ],
+    "prompt": "1. Why does Section 51 not equal the usual doctrinal list of contract elements?",
+    "answerKey": "Section 51 lists required information in the written policy; the doctrinal elements are explained from the definition and general contract law.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 229",
+        "excerptHint": "01"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 238",
+        "excerptHint": "Key 01"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.1.02",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.classification"
+    ],
+    "prompt": "2. What distinguishes first-party coverage from third-party liability coverage?",
+    "answerKey": "First-party: the insured’s own covered loss. Third-party: the insured’s covered liability to another person.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 230",
+        "excerptHint": "02"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 239",
+        "excerptHint": "Key 02"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.1.03",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.interest"
+    ],
+    "prompt": "3. When must the insured have an insurable interest in property? How does this differ from life insurance?",
+    "answerKey": "Property: when insurance begins and when the loss occurs. Life/health: when insurance takes effect.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 231",
+        "excerptHint": "03"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 240",
+        "excerptHint": "Key 03"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.1.04",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.interest"
+    ],
+    "prompt": "4. Under an all-risks marine policy, what must the insured initially prove, and what burden then shifts to the insurer?",
+    "answerKey": "The insured initially shows cargo was sound when coverage attached and damaged at unloading; the insurer then must prove that an exclusion applies.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 232",
+        "excerptHint": "04"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 241",
+        "excerptHint": "Key 04"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.1.05",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.interest"
+    ],
+    "prompt": "5. What is the difference between double insurance and overinsurance?",
+    "answerKey": "Double insurance concerns the arrangement of multiple policies; overinsurance concerns coverage exceeding insurable value.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 233",
+        "excerptHint": "05"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 242",
+        "excerptHint": "Key 05"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.1.06",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.perfection"
+    ],
+    "prompt": "6. What are the general rule and statutory exceptions on premium payment under Section 77?",
+    "answerKey": "General rule: premium paid before binding, subject to exceptions including qualifying life/industrial-life grace periods and a broker/agency 90-day extension. Section 79 also gives effect to the policy or receipt’s acknowledgment of premium payment.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 234",
+        "excerptHint": "06"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 243",
+        "excerptHint": "Key 06"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.1.07",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.perfection"
+    ],
+    "prompt": "7. What conditions must be met to reinstate an individual life policy under Section 233(j)?",
+    "answerKey": "Within three years of premium default (unless the stated exception applies), satisfactory evidence of insurability, overdue premiums, policy indebtedness, and permitted interest.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 235",
+        "excerptHint": "07"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 244",
+        "excerptHint": "Key 07"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.1.08",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.perfection"
+    ],
+    "prompt": "8. Why may an insurer cancel a non-life policy under Section 64 but not simply cancel for any reason?",
+    "answerKey": "The Code lists allowable grounds and requires prior written notice with the statutory details; cancellation is not at-large discretion.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins1",
+        "section": "Fast self-test",
+        "paras": "paras 236",
+        "excerptHint": "08"
+      },
+      {
+        "sourceId": "src.ins1",
+        "section": "Short answer key",
+        "paras": "paras 245",
+        "excerptHint": "Key 08"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.2.01",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.rescission"
+    ],
+    "prompt": "1. An applicant does not disclose two doctor consultations shortly before applying for life insurance. What sections govern disclosure, materiality, and the case most directly on point?",
+    "answerKey": "1. Sections 26–31 and 36–46; materiality is tested under Section 31; Vda. de Canilang v. CA is the assigned case.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins2",
+        "section": "Quick self-test",
+        "paras": "paras 364",
+        "excerptHint": "01"
+      },
+      {
+        "sourceId": "src.ins2",
+        "section": "Answer key",
+        "paras": "paras 372",
+        "excerptHint": "Key 01"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.2.02",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.policy"
+    ],
+    "prompt": "2. A rider is added after issuance without the insured’s application or countersignature. What statutory formalities should be checked?",
+    "answerKey": "2. Sections 50 and 232: rider identification in the policy, countersignature if not applied for by the insured/owner, and prior Commission approval of the form.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins2",
+        "section": "Quick self-test",
+        "paras": "paras 365",
+        "excerptHint": "02"
+      },
+      {
+        "sourceId": "src.ins2",
+        "section": "Answer key",
+        "paras": "paras 373",
+        "excerptHint": "Key 02"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.2.03",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.rescission"
+    ],
+    "prompt": "3. A non-life insurer wants to cancel a policy because it discovers another policy that causes overinsurance. Which sections govern the ground and notice?",
+    "answerKey": "3. Sections 64(f) and 65: discovered other insurance causing total insurance to exceed property value is a statutory ground, and written notice with the required statements is necessary.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins2",
+        "section": "Quick self-test",
+        "paras": "paras 366",
+        "excerptHint": "03"
+      },
+      {
+        "sourceId": "src.ins2",
+        "section": "Answer key",
+        "paras": "paras 374",
+        "excerptHint": "Key 03"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.2.04",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.rescission"
+    ],
+    "prompt": "4. A life policy has been in force during the insured’s lifetime for more than two years. What kind of concealment/misrepresentation defense is limited by Section 48?",
+    "answerKey": "4. The statutory two-year rule in Section 48 and the required clause in Section 233(b), subject to the exact policy type and stated exceptions.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins2",
+        "section": "Quick self-test",
+        "paras": "paras 367",
+        "excerptHint": "04"
+      },
+      {
+        "sourceId": "src.ins2",
+        "section": "Answer key",
+        "paras": "paras 375",
+        "excerptHint": "Key 04"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.2.05",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.policy"
+    ],
+    "prompt": "5. What is the difference between a policy’s open, valued, and running forms?",
+    "answerKey": "5. Sections 59–62: open = value established at loss; valued = specific agreed value; running = successive insurance defined over time.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins2",
+        "section": "Quick self-test",
+        "paras": "paras 368",
+        "excerptHint": "05"
+      },
+      {
+        "sourceId": "src.ins2",
+        "section": "Answer key",
+        "paras": "paras 376",
+        "excerptHint": "Key 05"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.2.06",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.claims"
+    ],
+    "prompt": "6. An insurer pays for property damage caused by a negligent third party. What is the basis for the insurer’s recovery from that third party?",
+    "answerKey": "6. Civil Code Article 2207: subrogation after the insurer pays indemnity for the insured property loss.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins2",
+        "section": "Quick self-test",
+        "paras": "paras 369",
+        "excerptHint": "06"
+      },
+      {
+        "sourceId": "src.ins2",
+        "section": "Answer key",
+        "paras": "paras 377",
+        "excerptHint": "Key 06"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  },
+  {
+    "id": "q.instest.2.07",
+    "kind": "selfTest",
+    "topicIds": [
+      "ba166.insurance.claims"
+    ],
+    "prompt": "7. What are the notice and action deadlines for a claim under the compulsory motor-vehicle insurance chapter?",
+    "answerKey": "7. Section 397: written notice within six months from the accident; action within one year from denial of claim, otherwise the special statutory consequences apply.",
+    "sourceRefs": [
+      {
+        "sourceId": "src.ins2",
+        "section": "Quick self-test",
+        "paras": "paras 370",
+        "excerptHint": "07"
+      },
+      {
+        "sourceId": "src.ins2",
+        "section": "Answer key",
+        "paras": "paras 378",
+        "excerptHint": "Key 07"
+      }
+    ],
+    "editorialStatus": "source-backed"
+  }
+]

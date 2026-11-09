@@ -5,7 +5,7 @@ import {
   type ContentIndex,
 } from '../content/loader';
 
-export type SearchKind = 'subject' | 'topic' | 'provision' | 'case' | 'definition' | 'concept';
+export type SearchKind = 'subject' | 'topic' | 'provision' | 'case' | 'definition' | 'concept' | 'practice';
 
 export interface SearchDoc {
   id: string;
@@ -23,7 +23,7 @@ export interface SearchGroup {
   docs: SearchDoc[];
 }
 
-const KIND_ORDER: SearchKind[] = ['subject', 'topic', 'provision', 'case', 'definition', 'concept'];
+const KIND_ORDER: SearchKind[] = ['subject', 'topic', 'provision', 'case', 'definition', 'concept', 'practice'];
 
 const KIND_LABELS: Record<SearchKind, string> = {
   subject: 'Subjects',
@@ -32,6 +32,7 @@ const KIND_LABELS: Record<SearchKind, string> = {
   case: 'Cases',
   definition: 'Definitions',
   concept: 'Concepts',
+  practice: 'Practice questions',
 };
 
 function blockCodeForTopic(index: ContentIndex, topicId: string): { code: string; moduleSlug: string } | null {
@@ -119,6 +120,19 @@ export function buildSearchDocs(index: ContentIndex): SearchDoc[] {
       snippet: firstSentence(digest.doctrine),
       route: lesson ? lessonRoute(loc.code, loc.moduleSlug, topic, lesson) : topicRoute(loc.code, loc.moduleSlug, topic),
       breadcrumb: `${topic.title}${digest.citation ? ` · ${digest.citation}` : ''}`,
+    });
+  }
+
+  for (const question of index.questions) {
+    const topic = question.topicIds.map((id) => index.byId.topic.get(id)).find(Boolean);
+    docs.push({
+      id: `practice:${question.id}`,
+      kind: 'practice',
+      title: `${question.kind === 'iracHypo' ? 'Hypothetical' : 'Self-test'} ${question.id}`,
+      snippet: firstSentence(question.prompt, 200),
+      route: question.kind === 'iracHypo' ? '/practice/case-analysis' : '/practice/self-tests',
+      anchorId: question.id,
+      breadcrumb: topic?.title ?? 'Practice Center',
     });
   }
 

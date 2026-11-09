@@ -11,6 +11,7 @@ const KIND_LABELS: Record<SearchDoc['kind'], string> = {
   case: 'Cases',
   definition: 'Definitions',
   concept: 'Concepts',
+  practice: 'Practice questions',
 };
 
 /** Global ⌘K / Ctrl+K search palette. */

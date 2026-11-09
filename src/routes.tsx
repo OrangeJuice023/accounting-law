@@ -6,6 +6,11 @@ import { BlockPage } from './pages/BlockPage';
 import { ModulePage } from './pages/ModulePage';
 import { TopicPlaceholder } from './pages/TopicPlaceholder';
 import { LessonPage } from './pages/LessonPage';
+import { PracticeIndex } from './pages/PracticeIndex';
+import { SelfTests } from './pages/SelfTests';
+import { CaseAnalysis } from './pages/CaseAnalysis';
+import { ExamBank } from './pages/ExamBank';
+import { FlashcardDecks, FlashcardPlayer } from './pages/Flashcards';
 import { ProgressPage } from './pages/ProgressPage';
 import { SearchPage } from './pages/SearchPage';
 import { SourceLibrary } from './pages/SourceLibrary';
@@ -25,6 +30,12 @@ export function AppRoutes() {
           element={<LessonPage />}
         />
         <Route path="review/block-:blockCode/:moduleSlug/appendix/:appendixSlug" element={<LessonPage />} />
+        <Route path="practice" element={<PracticeIndex />} />
+        <Route path="practice/self-tests" element={<SelfTests />} />
+        <Route path="practice/case-analysis" element={<CaseAnalysis />} />
+        <Route path="practice/exam-bank" element={<ExamBank />} />
+        <Route path="flashcards" element={<FlashcardDecks />} />
+        <Route path="flashcards/:deckId" element={<FlashcardPlayer />} />
         <Route path="progress" element={<ProgressPage />} />
         <Route path="search" element={<SearchPage />} />
         <Route path="sources" element={<SourceLibrary />} />

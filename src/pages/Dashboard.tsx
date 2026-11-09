@@ -227,14 +227,42 @@ export function Dashboard() {
         </div>
       </section>
 
-      {/* Practice teaser (honest) */}
-      <section className="rounded-xl border border-dashed border-line bg-paper p-5">
-        <h2 className="flex items-center gap-2 font-serif text-lg font-semibold text-ink">
-          <BookOpen className="h-4 w-4 text-gold-deep" aria-hidden /> Practice materials
-        </h2>
-        <p className="mt-1 text-sm leading-relaxed text-ink-soft">
-          The sources hold 15 Insurance self-tests with short keys and 12 IRAC hypotheticals with hints — and zero
-          multiple-choice questions. The Practice Center and flashcards ship in P1; nothing here will pretend otherwise.
+      {/* Practice quick access (data-driven counts) */}
+      <section className="rounded-xl border border-line bg-paper p-5">
+        <div className="flex items-baseline justify-between">
+          <h2 className="flex items-center gap-2 font-serif text-lg font-semibold text-ink">
+            <BookOpen className="h-4 w-4 text-gold-deep" aria-hidden /> Practice materials
+          </h2>
+          <Link to="/practice" className="inline-flex items-center gap-1 text-sm text-forest hover:underline">
+            Practice Center <ArrowRight className="h-4 w-4" aria-hidden />
+          </Link>
+        </div>
+        <ul className="mt-3 grid gap-2 sm:grid-cols-3">
+          <li>
+            <Link to="/practice/self-tests" className="block rounded-lg bg-ivory p-3 hover:bg-gold-soft/50">
+              <span className="font-serif text-2xl font-semibold text-ink">
+                {index.questions.filter((q) => q.kind === 'selfTest').length}
+              </span>
+              <span className="block text-[13px] text-ink-soft">Self-tests with original keys</span>
+            </Link>
+          </li>
+          <li>
+            <Link to="/practice/case-analysis" className="block rounded-lg bg-ivory p-3 hover:bg-gold-soft/50">
+              <span className="font-serif text-2xl font-semibold text-ink">
+                {index.questions.filter((q) => q.kind === 'iracHypo').length}
+              </span>
+              <span className="block text-[13px] text-ink-soft">IRAC hypotheticals, hints only</span>
+            </Link>
+          </li>
+          <li>
+            <Link to="/flashcards" className="block rounded-lg bg-ivory p-3 hover:bg-gold-soft/50">
+              <span className="font-serif text-2xl font-semibold text-ink">{index.flashcards.length}</span>
+              <span className="block text-[13px] text-ink-soft">Flashcards from lessons</span>
+            </Link>
+          </li>
+        </ul>
+        <p className="mt-2 text-[13px] text-ink-faint">
+          Zero multiple-choice questions exist in the sources — nothing here pretends otherwise.
         </p>
       </section>
     </div>

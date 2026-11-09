@@ -1,1 +1,3030 @@
-[]
+[
+  {
+    "back": "Transact; convert/transfer/dispose/move/acquire/possess/use; conceal/disguise; attempt/conspire; aid/abet/assist/counsel; or facilitate by act or omission — all with knowledge the property represents, involves, or relates to proceeds of unlawful activity.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "AMLA Sec. 4: in how many ways can money laundering be committed?",
+    "id": "fc.amla.01",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 86-87",
+        "section": "7. Money laundering; how committed (Sections 4 and 3(c), (e), (f), (h))",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "section-4",
+      "modes"
+    ],
+    "topicIds": [
+      "ba166.amla.ml-predicates"
+    ]
+  },
+  {
+    "back": "General: cash/equivalent over ₱500,000 in one banking day. Casino single cash: over ₱5,000,000. Real-estate single cash: over ₱7,500,000. Jewelry/precious-metal/stone dealers: over ₱1,000,000.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Covered-transaction thresholds for general, casino, real-estate, and jewelry covered persons?",
+    "id": "fc.amla.02",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 44-46",
+        "section": "3. Covered transactions (Section 3(b); “transaction” definition)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "thresholds",
+      "section-3b"
+    ],
+    "topicIds": [
+      "ba166.amla.covered-transactions"
+    ]
+  },
+  {
+    "back": "No minimum amount. Any of 7 red flags: no legal purpose; unidentified client; incommensurate amount; structuring; profile deviation; link to unlawful activity; or similar transactions.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Suspicious transaction: minimum amount and controlling test?",
+    "id": "fc.amla.03",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 50-52",
+        "section": "4. Suspicious transactions (Section 3(b-1); DBP/AMLC case reference)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "suspicious",
+      "red-flags"
+    ],
+    "topicIds": [
+      "ba166.amla.suspicious"
+    ]
+  },
+  {
+    "back": "BSP/IC/SEC-supervised financial sectors plus jewelry dealers, company service providers, client-asset managers, real-estate developers/brokers, and offshore gaming operators. Duties: customer ID, record keeping, reporting.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Who are covered persons, and what are their three central duties?",
+    "id": "fc.amla.04",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 27-33",
+        "section": "2. Covered persons (Section 3(a))",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "covered-persons",
+      "section-9"
+    ],
+    "topicIds": [
+      "ba166.amla.covered-persons"
+    ]
+  },
+  {
+    "back": "Within 5 working days from occurrence (supervising authority may allow up to 10). A both-covered-and-suspicious transaction is reported as suspicious. Good-faith reporters are immune; tipping off is prohibited.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "CTR/STR reporting deadline and dual-nature rule?",
+    "id": "fc.amla.05",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 40-43",
+        "section": "2(a)(iii). Reporting covered and suspicious transactions",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "reporting",
+      "ctr-str"
+    ],
+    "topicIds": [
+      "ba166.amla.covered-persons"
+    ]
+  },
+  {
+    "back": "The natural person who ultimately owns or controls the customer or on whose behalf the transaction is done — even behind a corporation, nominee, agent, or trust.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Who is the beneficial owner?",
+    "id": "fc.amla.06",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 68-69",
+        "section": "5. Beneficial ownership (2018 AMLA IRR, Rules 23 and 24)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "beneficial-owner"
+    ],
+    "topicIds": [
+      "ba166.amla.beneficial-ownership"
+    ]
+  },
+  {
+    "back": "Covered = threshold-centred (reportable, not automatically criminal). Suspicious = circumstance-centred, any amount, one or more red flags.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Covered vs. suspicious transaction?",
+    "id": "fc.amla.07",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 138-140",
+        "section": "Fast comparison for exam questions",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "covered",
+      "suspicious"
+    ],
+    "topicIds": [
+      "ba166.amla.covered-transactions",
+      "ba166.amla.suspicious"
+    ]
+  },
+  {
+    "back": "Customer identification; customer verification; agent identification/verification; beneficial-ownership verification; purpose determination; ongoing monitoring — plus EDD for higher risk and refuse/terminate + STR when CDD fails.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "The six CDD measures under IRR Rule 18?",
+    "id": "fc.amla.08",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 80-84",
+        "section": "6(b). Customer Due Diligence (Rule 18)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "cdd",
+      "rule-18"
+    ],
+    "topicIds": [
+      "ba166.amla.preventive"
+    ]
+  },
+  {
+    "back": "Freeze orders need a probable link between each specific account/property and unlawful activity; the burden of proving probable cause always rests with AMLC, never the account owners.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Republic v. Ongpin (2022): freeze-order doctrine?",
+    "id": "fc.amla.09",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 55-60",
+        "section": "Case digest — Republic v. Ongpin, G.R. No. 207078 (June 20, 2022)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "freeze",
+      "probable-cause"
+    ],
+    "topicIds": [
+      "ba166.amla.suspicious",
+      "ba166.amla.amlc"
+    ]
+  },
+  {
+    "back": "On AMLC's verified ex parte petition and probable-cause finding, the Court of Appeals issues it — effective immediately for 20 days, summary hearing with notice, total cap 6 months. Preservation only, not guilt or forfeiture.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "AMLA Sec. 10 freeze order: who issues, how long?",
+    "id": "fc.amla.10",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 97-100",
+        "section": "8(a). Freezing of monetary instrument or property (Section 10)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "freeze",
+      "section-10"
+    ],
+    "topicIds": [
+      "ba166.amla.amlc"
+    ]
+  },
+  {
+    "back": "Yes, when court-authorized under the AMLA: bank secrecy yields to express statutory exceptions, and advance notice could let funds or evidence be moved. Not a blanket license over all accounts.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Republic v. Eugenio (2008): is ex parte bank inquiry valid?",
+    "id": "fc.amla.11",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 106-110",
+        "section": "Case digest — Republic v. Eugenio, Jr., G.R. No. 174629 (February 14, 2008)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "bank-inquiry",
+      "section-11"
+    ],
+    "topicIds": [
+      "ba166.amla.amlc"
+    ]
+  },
+  {
+    "back": "No proceedings lie against good-faith CTR/STR reporting in regular duty performance, even without prosecution. It does not protect bad-faith false reporting. (Amended IRR: safe harbor is Rule 22 Sec. 6; Sec. 7 is confidentiality.)",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Safe harbor: what is protected?",
+    "id": "fc.amla.12",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 115-117",
+        "section": "9. Safe Harbor Provision (2018 AMLA IRR, Rule 22)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "safe-harbor",
+      "rule-22"
+    ],
+    "topicIds": [
+      "ba166.amla.safe-harbor"
+    ]
+  },
+  {
+    "back": "Sec. 4(a)-(d): 7-14 years + ≥₱3M to ≤2x value. Sec. 4(e)-(f): 4-7 years + ₱1.5M-₱3M. Last paragraph of Sec. 4: 6 months-4 years or ₱100k-₱500k or both. Check current amendments before applying.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "AMLA Sec. 14 penalty tiers?",
+    "id": "fc.amla.13",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 119-121",
+        "section": "10. Penalties (AMLA Section 14)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "penalties",
+      "section-14"
+    ],
+    "topicIds": [
+      "ba166.amla.penalties"
+    ]
+  },
+  {
+    "back": "AMLA Sec. 10: the Court of Appeals issues the freeze on AMLC petition. RA 10168 Sec. 11: AMLC itself issues ex parte freeze-without-delay orders (own initiative or ATC request). Always identify the authorizing statute.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Who freezes under AMLA vs. RA 10168?",
+    "id": "fc.amla.14",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 133-137",
+        "section": "11(b). Power of AMLC (RA 10168, Sections 10–13)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "tags": [
+      "freeze",
+      "ra10168"
+    ],
+    "topicIds": [
+      "ba166.amla.amlc",
+      "ba166.amla.tf"
+    ]
+  },
+  {
+    "back": "No: BP 22 punishes making and issuing a worthless check — a public-welfare police-power offense — not mere debt non-payment. Gravamen: the act of making and issuing a worthless check.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Lozano v. Martinez: does BP 22 imprison for debt?",
+    "id": "fc.bp22.01",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 27-33",
+        "section": "Case Digest: Lozano v. Martinez",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "constitutionality",
+      "lozano"
+    ],
+    "topicIds": [
+      "ba166.bp22.constitutionality"
+    ]
+  },
+  {
+    "back": "(1) Issuance to apply on account or for value; (2) knowledge at issuance of insufficient funds/credit; (3) subsequent dishonor for the statutory reason. All proved beyond reasonable doubt.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "The three BP 22 Sec. 1 elements?",
+    "id": "fc.bp22.02",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 35-36",
+        "section": "2. Elements",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "elements"
+    ],
+    "topicIds": [
+      "ba166.bp22.issuance"
+    ]
+  },
+  {
+    "back": "No. BP 22 applies even to checks issued merely as a deposit or guarantee; purpose of issuance creates no exemption. All elements must still be proved.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Que v. People: are guarantee checks exempt?",
+    "id": "fc.bp22.03",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 52-58",
+        "section": "Case Digest: Que v. People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "guarantee",
+      "que"
+    ],
+    "topicIds": [
+      "ba166.bp22.issuance"
+    ]
+  },
+  {
+    "back": "Acquitted: the check merely evidenced a future partnership share with no present debt or account, plus unproved knowledge and notice. Evidence-specific — not a blanket guarantee-check rule.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Idos v. CA: why did the first element fail?",
+    "id": "fc.bp22.04",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 42-48",
+        "section": "Case Digest: Idos v. Court of Appeals and People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "issuance",
+      "idos"
+    ],
+    "topicIds": [
+      "ba166.bp22.issuance"
+    ]
+  },
+  {
+    "back": "Check presented within 90 days + dishonored for insufficiency + drawer, after notice, fails to pay/arrange full payment within 5 banking days. Prima facie and rebuttable only.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Sec. 2 presumption of knowledge: conditions?",
+    "id": "fc.bp22.05",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 59-62",
+        "section": "2(b). Knowledge of insufficiency of funds — Sections 1, 2 and 4; Lim Lao v. Court of Appeals",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "section-2"
+    ],
+    "topicIds": [
+      "ba166.bp22.knowledge"
+    ]
+  },
+  {
+    "back": "An arrangement or understanding with the drawee bank for payment of the check — not a general third-party promise.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Sec. 4: what does credit mean?",
+    "id": "fc.bp22.06",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 63-65",
+        "section": "2(b). Knowledge of insufficiency of funds — Sections 1, 2 and 4; Lim Lao v. Court of Appeals",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "credit",
+      "section-4"
+    ],
+    "topicIds": [
+      "ba166.bp22.knowledge"
+    ]
+  },
+  {
+    "back": "No: knowledge is essential and proved beyond reasonable doubt; the presumption is rebuttable; her marketing role showed no treasury control and corporate notice was not personal notice to her.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Lim Lao: can a signatory be convicted on the bounced check alone?",
+    "id": "fc.bp22.07",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 66-72",
+        "section": "Case Digest: Lim Lao v. Court of Appeals and People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "notice"
+    ],
+    "topicIds": [
+      "ba166.bp22.knowledge"
+    ]
+  },
+  {
+    "back": "The drawee must note the dishonor reason on/attached to the check (always stating insufficiency explicitly). The noted check is prima facie evidence of issuance, presentment, dishonor, and proper dishonor — but not of knowledge.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Sec. 3: bank's duty and evidentiary effect?",
+    "id": "fc.bp22.08",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 74-77",
+        "section": "2(c). Dishonor — Section 3; Cabrera v. People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "dishonor",
+      "section-3"
+    ],
+    "topicIds": [
+      "ba166.bp22.dishonor"
+    ]
+  },
+  {
+    "back": "BP 22: issuance of worthless check; 5-banking-day cure; pre-existing debt still covered. Estafa 315(2)(d): deceit + damage, inducement to part with property; 3-day deceit presumption. Same check can support both (Nierras; Sec. 5).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "BP 22 vs. estafa by check?",
+    "id": "fc.bp22.09",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "excerptHint": "Table 13",
+        "paras": "paras 105-106",
+        "section": "Quick comparison: B.P. Blg. 22 vs. estafa by check",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "estafa",
+      "comparison"
+    ],
+    "topicIds": [
+      "ba166.bp22.penalties"
+    ]
+  },
+  {
+    "back": "Imprisonment 30 days to 1 year, or a fine up to double the check capped at ₱200,000, or both — at the court's discretion, under the controlling version and jurisprudence.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "BP 22 Sec. 1 penalties?",
+    "id": "fc.bp22.10",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "excerptHint": "Table 10",
+        "paras": "paras 87-89",
+        "section": "B.P. Blg. 22, Section 1 — penalty clause (verbatim repeated for penalties topic)",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "tags": [
+      "penalties",
+      "section-1"
+    ],
+    "topicIds": [
+      "ba166.bp22.penalties"
+    ]
+  },
+  {
+    "back": "A purchase for personal, family, household or similar consumer use — analytically different from an acquisition for resale or use in production. Check the statutory definition and exclusions.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Consumer Act: what use makes a purchase a consumer transaction?",
+    "id": "fc.cons.01",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "coverage",
+      "definitions"
+    ],
+    "topicIds": [
+      "ba166.consumer.coverage"
+    ]
+  },
+  {
+    "back": "The product/service, the actor, the kind of practice, and the relevant title/article — before asserting jurisdiction or remedy.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Name the four identifiers in the Consumer Act sectoral method.",
+    "id": "fc.cons.02",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "method"
+    ],
+    "topicIds": [
+      "ba166.consumer.coverage"
+    ]
+  },
+  {
+    "back": "1. Name statute + article range. 2. Establish coverage + actor. 3. State each element. 4. Apply facts per element. 5. Regulator/procedure + remedy only as supported. 6. Tie named cases to their actual full-decision facts.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Recite the 6-step Consumer Act answer formula.",
+    "id": "fc.cons.03",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 5",
+        "section": "Sec. 9",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "answer-formula",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.consumer.coverage"
+    ]
+  },
+  {
+    "back": "(1) Consumer product within the law? (2) Mandatory standard/technical regulation? (3) Unsafe, injurious, dangerous, noncompliant? (4) Agency/notice/recall procedure? (5) Prohibited act or penalty?",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Recite the 5-step product safety exam sequence.",
+    "id": "fc.cons.04",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "method",
+      "safety"
+    ],
+    "topicIds": [
+      "ba166.consumer.quality-safety"
+    ]
+  },
+  {
+    "back": "Art. 5: policy framework. Arts. 7–9: standards + regulatory mechanisms. Arts. 10–11: injurious/dangerous/unsafe products. Arts. 12–16: new, imported and export products.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Map each Arts. 5–16 cluster to its subject.",
+    "id": "fc.cons.05",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "safety",
+      "articles"
+    ],
+    "topicIds": [
+      "ba166.consumer.quality-safety"
+    ]
+  },
+  {
+    "back": "Food: Arts. 23–27. Drugs/antibiotics: Arts. 29–34. Cosmetics: Art. 35. Hazardous substances: Arts. 44–45 + definitions. Prohibited acts: Arts. 18–19, 40–41, 46–47.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Give the article range for each special product group.",
+    "id": "fc.cons.06",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "safety",
+      "articles"
+    ],
+    "topicIds": [
+      "ba166.consumer.quality-safety"
+    ]
+  },
+  {
+    "back": "Conduct taking unfair advantage of a consumer's inability reasonably to protect their interests (cannot understand the transaction, ignorance, illiteracy, cannot meet essential needs, other vulnerability) + statutory circumstances. Weigh vulnerability, seller conduct/knowledge, terms/price, overall statutory fairness.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the Art. 52 unfair/unconscionable test.",
+    "id": "fc.cons.07",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "art-52",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.consumer.deceptive-acts"
+    ]
+  },
+  {
+    "back": "Deception = misleading representations/omissions. Unconscionability = unfair exploitation + transaction context. One pattern can implicate both, but analyze each separately.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Deceptive vs. unconscionable: what is the core difference?",
+    "id": "fc.cons.08",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "trap",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.consumer.deceptive-acts"
+    ]
+  },
+  {
+    "back": "Ads (Arts. 110–115): regulated claims/communications — identify claim, substantiation, misleading impression. Promotions (Arts. 116–121): contests, raffles, premiums, discounts, prizes — check permit, disclosure, mechanics, duration, fulfillment.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Advertising vs. sales promotion: how do you analyze each?",
+    "id": "fc.cons.09",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "advertising",
+      "promotion"
+    ],
+    "topicIds": [
+      "ba166.consumer.deceptive-acts"
+    ]
+  },
+  {
+    "back": "The syllabus names it under Art. 52 with no facts or holding. Identify the challenged practice from the assigned decision and apply the statutory test (vulnerability, seller conduct, terms, Art. 52). Never invent a quotation or procedural history.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Aowa Electronics v. DTI: how should you use this case?",
+    "id": "fc.cons.10",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "case",
+      "art-52"
+    ],
+    "topicIds": [
+      "ba166.consumer.deceptive-acts"
+    ]
+  },
+  {
+    "back": "Establish item coverage → list required label information → apply category rules (food, drugs, cosmetics, hazardous substances, cigarettes) → test for a prohibited act (Art. 95). Art. 77 = minimum; Art. 79 = additional when authorized.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Recite the labeling analysis sequence.",
+    "id": "fc.cons.11",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 4",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "labeling",
+      "method"
+    ],
+    "topicIds": [
+      "ba166.consumer.labeling"
+    ]
+  },
+  {
+    "back": "A tag discloses the seller's offered price (Arts. 81–83: displayed price, coverage, sale at tagged price, exceptions). A ceiling/freeze is a statutory price control under RA 7581. Different statutes, different violations.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Price tag vs. price ceiling: why must they not be confused?",
+    "id": "fc.cons.12",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "pp. 3, 5",
+        "section": "Sec. 4; Sec. 8",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "trap",
+      "price-tag"
+    ],
+    "topicIds": [
+      "ba166.consumer.labeling",
+      "ba166.consumer.price-act"
+    ]
+  },
+  {
+    "back": "Arts. 68–71: additional warranties incl. required terms + service warranties (subject to exceptions). Arts. 72–73: prohibited warranty acts. Ask: promise? writing? duration/parts/labor? standard breached? notice/repair? authorized remedy?",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the Arts. 68–73 warranty framework.",
+    "id": "fc.cons.13",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 5",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "warranties",
+      "articles"
+    ],
+    "topicIds": [
+      "ba166.consumer.warranties"
+    ]
+  },
+  {
+    "back": "General sale warranty rules do not replace the Lemon Law's narrow vehicle coverage and procedure. Also: a written warranty's duration/scope differs from the statute's separate defective-goods/services process (Arts. 97–107).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Civil Code warranty vs. Lemon Law: what is the trap?",
+    "id": "fc.cons.14",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "pp. 4–5",
+        "section": "Sec. 5; Sec. 8",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "trap",
+      "warranties"
+    ],
+    "topicIds": [
+      "ba166.consumer.warranties",
+      "ba166.consumer.lemon-law"
+    ]
+  },
+  {
+    "back": "Freeze (Sec. 6): automatic/temporary hold at prescribed/pre-event level on a covered trigger (e.g., declared calamity/emergency), for the statutory period. Ceiling (Secs. 7–8): a legally imposed maximum price. Check exact trigger/duration in the current statute.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Price freeze vs. price ceiling under RA 7581.",
+    "id": "fc.cons.15",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 6",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "price-act",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.consumer.price-act"
+    ]
+  },
+  {
+    "back": "Hoarding: accumulation beyond reasonable/normal inventory (or vs. statutory standards) + intent/effect. Profiteering: excessive price / exploiting shortage. Cartel: concerted supply/price manipulation. Panic buying: apply the actual Sec. 10(4) elements.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Distinguish hoarding, profiteering, cartel, and panic buying.",
+    "id": "fc.cons.16",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 6",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "price-act"
+    ],
+    "topicIds": [
+      "ba166.consumer.price-act"
+    ]
+  },
+  {
+    "back": "12 months from original delivery or 20,000 km, whichever first. Then: 4x-repair rule counts attempts for the SAME defect affecting conformity/value/safe use (+ cumulative out-of-service days); written notice + inspection opportunity; DTI mediation → arbitration → adjudication; test every requirement before replacement/refund.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the Lemon Law rights period and repair rule.",
+    "id": "fc.cons.17",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 4–5",
+        "section": "Sec. 7",
+        "sourceId": "src.r02"
+      }
+    ],
+    "tags": [
+      "lemon-law",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.consumer.lemon-law"
+    ]
+  },
+  {
+    "back": "Transparency, competitiveness, efficiency, proportionality, accountability, participatory/public monitoring, sustainability, professionalism — plus value for money in the policy statement. Quote the Act's exact terms.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Recite the NGPA governing principles.",
+    "id": "fc.proc.01",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "principles",
+      "recitation"
+    ],
+    "topicIds": [
+      "ba166.procurement.policy-scope"
+    ]
+  },
+  {
+    "back": "Read Sec. 4 (entity coverage incl. SUCs, GOCCs, GFIs, LGUs) and Sec. 5 definitions — syllabus flags Sec. 5(i), (l), (o), (w) — before deciding a transaction falls within the Act.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Which NGPA sections control scope, and which defined terms does the syllabus flag?",
+    "id": "fc.proc.02",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "scope",
+      "definitions"
+    ],
+    "topicIds": [
+      "ba166.procurement.policy-scope"
+    ]
+  },
+  {
+    "back": "Entity + fund source/nature; classify as goods, infrastructure, or consulting services; check for another statute/treaty/financing agreement/exception. Never infer an exclusion from corporate form or an unusual deal.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Recite the NGPA scope checklist.",
+    "id": "fc.proc.03",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "scope",
+      "method"
+    ],
+    "topicIds": [
+      "ba166.procurement.policy-scope"
+    ]
+  },
+  {
+    "back": "Competitive bidding 27 (baseline); limited source 28; competitive dialogue 29; unsolicited + bid matching 30; direct contracting 31; direct acquisition 32; repeat order 33; small value 34; negotiated 35; direct sales 36; STI 37. Know the name AND the reason each can be used.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Name all eleven NGPA modes with section numbers.",
+    "id": "fc.proc.04",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "pp. 2–3",
+        "section": "Sec. 3",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "modes",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.procurement.modes"
+    ]
+  },
+  {
+    "back": "Direct contracting (Sec. 31): only on prescribed grounds (e.g., proprietary/specialized supply). Direct acquisition (Sec. 32): a distinct statutory mode with its own separate conditions — never collapse the two.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Direct contracting vs. direct acquisition: what is the trap?",
+    "id": "fc.proc.05",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "trap",
+      "modes"
+    ],
+    "topicIds": [
+      "ba166.procurement.modes"
+    ]
+  },
+  {
+    "back": "Name is not authority: a noncompetitive mode needs a statutory ground + supporting record + approvals/notice + limits. Speed or preference alone never justifies it; take thresholds from the current NGPA IRR, not RA 9184 notes.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the 'name is not authority' exam trap.",
+    "id": "fc.proc.06",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "trap",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.procurement.modes"
+    ]
+  },
+  {
+    "back": "Planning (7–19) → electronic means (20–25) → bidding docs (47–48) → invitation (49–51) → receipt/opening (52–58) → evaluation (59–62) → post-qualification (63–65) → award/implementation/termination (66–71). A defect at one stage can affect validity, eligibility, protest, or accountability.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Recite the procurement procedural chain with section clusters.",
+    "id": "fc.proc.07",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 4",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "procedure",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.procurement.procedure"
+    ]
+  },
+  {
+    "back": "BAC (Secs. 41–46; Sec. 3(f)) has defined functions only. Also take from the Act/IRR the roles of the head of the procuring entity, TWG, end-user/unit, procurement professional, and approving authority.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Who decides in procurement besides the BAC?",
+    "id": "fc.proc.08",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 5",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "bac",
+      "roles"
+    ],
+    "topicIds": [
+      "ba166.procurement.procedure"
+    ]
+  },
+  {
+    "back": "Sec. 39 bars artificially dividing procurement to avoid thresholds, competition, or approval rules. Analyze substance + intent of related purchases, not just the number of purchase orders.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the Sec. 39 splitting prohibition and how to test it.",
+    "id": "fc.proc.09",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 5",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "splitting",
+      "integrity"
+    ],
+    "topicIds": [
+      "ba166.procurement.procedure"
+    ]
+  },
+  {
+    "back": "BAC and roles; splitting; disclosure of relationships; electronic procurement; blacklisting/suspension; domestic/foreign procurement; sustainability; price/warranty requirements.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "List the procurement integrity hooks.",
+    "id": "fc.proc.10",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 5",
+        "section": "Sec. 9",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "integrity",
+      "recall"
+    ],
+    "topicIds": [
+      "ba166.procurement.procedure",
+      "ba166.procurement.disclosure-sanctions"
+    ]
+  },
+  {
+    "back": "Secs. 81–82: who must disclose, what relationship is covered, when disclosure is made, and the consequence under the statute/IRR — to keep relevant relationships transparent.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What four questions does a Secs. 81–82 disclosure scenario ask?",
+    "id": "fc.proc.11",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 6",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "disclosure"
+    ],
+    "topicIds": [
+      "ba166.procurement.disclosure-sanctions"
+    ]
+  },
+  {
+    "back": "A protest is stage-specific: specify stage, administrative mechanism, deadline, prerequisites — never a generic anytime objection. It is distinct from (but can coexist with) judicial review, civil liability, administrative discipline, and criminal liability.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "How is a procurement protest different from judicial review and the liabilities?",
+    "id": "fc.proc.12",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 6",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "protest",
+      "trap"
+    ],
+    "topicIds": [
+      "ba166.procurement.disclosure-sanctions"
+    ]
+  },
+  {
+    "back": "Disqualification hits one procurement; suspension/blacklisting affect future opportunities. Also separate administrative consequences from penalties under other laws, and always tie grounds to evidence + the statutory category.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Disqualification vs. suspension vs. blacklisting.",
+    "id": "fc.proc.13",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 7",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "sanctions",
+      "trap"
+    ],
+    "topicIds": [
+      "ba166.procurement.disclosure-sanctions"
+    ]
+  },
+  {
+    "back": "NGPA + 2025 IRR replaced/revised the RA 9184 framework. Never mix a remembered RA 9184 rule/modality into an NGPA question without checking applicability + transition; verify thresholds, forms, and transitional rules in the current IRR.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the RA 9184 → NGPA update caution.",
+    "id": "fc.proc.14",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "pp. 2, 5",
+        "section": "Scope; Sec. 9",
+        "sourceId": "src.r03"
+      }
+    ],
+    "tags": [
+      "update-caution",
+      "exam"
+    ],
+    "topicIds": [
+      "ba166.procurement.policy-scope"
+    ]
+  },
+  {
+    "back": "To secure fulfillment of a principal obligation — not to transfer ownership to the creditor. The security generally follows the obligation and is extinguished with it.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Pledge/mortgage: what is the purpose of an accessory security contract?",
+    "id": "fc.credit.01",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "accessory",
+      "requisites"
+    ],
+    "topicIds": [
+      "ba166.credit.general"
+    ]
+  },
+  {
+    "back": "Generally indivisible: the whole collateral may remain liable for the unpaid portion until full satisfaction; part payment releases no proportional part absent law or agreement.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Art. 2089: what does indivisibility of pledge/mortgage mean?",
+    "id": "fc.credit.02",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "indivisibility"
+    ],
+    "topicIds": [
+      "ba166.credit.general"
+    ]
+  },
+  {
+    "back": "(1) Property pledged/mortgaged for a principal obligation; (2) stipulation letting the creditor automatically appropriate the collateral on nonpayment. The stipulation is void; the security contract itself is not necessarily void entirely.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Art. 2088: recite the two elements of pactum commissorium.",
+    "id": "fc.credit.03",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "pactum-commissorium"
+    ],
+    "topicIds": [
+      "ba166.credit.general"
+    ]
+  },
+  {
+    "back": "Substance prevails over the label “dacion en pago”: the MOA and Dacion in Payment were held void as pactum commissorium. Ask whether a post-default transfer was truly voluntary and independent or prearranged automatic appropriation.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Ong v. Roban: what defeats a “dacion en pago” label?",
+    "id": "fc.credit.04",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "pactum-commissorium",
+      "dacion"
+    ],
+    "topicIds": [
+      "ba166.credit.general"
+    ]
+  },
+  {
+    "back": "Art. 1602 presumptive circumstances (e.g., grossly inadequate price, vendor in possession, extended redemption, retained price, seller pays taxes); Art. 1603 resolves doubt in favor of equitable mortgage. Label not conclusive — intent and circumstances control.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "When is a “sale with right to repurchase” treated as an equitable mortgage?",
+    "id": "fc.credit.05",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 1",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "equitable-mortgage"
+    ],
+    "topicIds": [
+      "ba166.credit.general"
+    ]
+  },
+  {
+    "back": "Capable of securing future advances but strictly construed — intent must be gathered from the instrument. Reliance-on-the-security test (Prudential Bank v. Alviar): was the later loan granted in reliance on the old mortgage, or on separate new security?",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Dragnet clause: construction rule and the reliance test?",
+    "id": "fc.credit.06",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 2",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "dragnet",
+      "scope"
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "back": "Only in its specific context: assets acquired as additions/replacements in the business and expressly made subject to the lien. It is NOT a rule that every after-acquired movable becomes real property.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Dahican: what is the limit of the after-acquired property holding?",
+    "id": "fc.credit.07",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 2",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "after-acquired"
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "back": "Judicial: court action under Rule 68; equity of redemption before confirmation; generally no post-confirmation redemption. Extrajudicial: special power of sale + Act 3135 procedure; typically a one-year statutory right of redemption from registration of the certificate of sale.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Contrast judicial vs. extrajudicial foreclosure on authority and redemption.",
+    "id": "fc.credit.08",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 3",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "foreclosure",
+      "redemption"
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "back": "Equity of redemption: pay to stop judicial foreclosure before confirmation. Right of redemption: statutory post-sale right, generally tied to extrajudicial foreclosure (Huerta Alba). Never use the terms interchangeably; banking-law exceptions and assignment issues may apply.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Equity of redemption vs. right of redemption?",
+    "id": "fc.credit.09",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 3",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "redemption"
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "back": "Surplus belongs to the mortgagor (or persons entitled) after the secured obligation and lawful charges; the mortgagee may not divert it to unrelated unsecured debts. Non-return is not necessarily a loan/forbearance; interest follows obligations/damages rules (Suico).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Foreclosure surplus: who gets it, and what about interest?",
+    "id": "fc.credit.10",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 3",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "surplus",
+      "deficiency"
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "back": "Delivery to the creditor or an agreed third person is constitutive (Art. 2093); ownership stays with the pledgor. Against third persons, the pledge needs the required public instrument/description and Art. 2096 conditions.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Pledge: delivery rule and effect against third persons?",
+    "id": "fc.credit.11",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 5",
+        "section": "Sec. 4",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "pledge",
+      "delivery"
+    ],
+    "topicIds": [
+      "ba166.credit.pledge"
+    ]
+  },
+  {
+    "back": "Public auction under Arts. 2112–2119 (notice, sale, application of proceeds). The pledgee cannot take ownership automatically — the auction is part of the anti-pactum-commissorium safeguard.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "How is a pledge foreclosed, and why an auction?",
+    "id": "fc.credit.12",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 5",
+        "section": "Sec. 4",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "pledge",
+      "foreclosure"
+    ],
+    "topicIds": [
+      "ba166.credit.pledge"
+    ]
+  },
+  {
+    "back": "First identify the statutory relationship (e.g., Arts. 1944, 1951, 1994, 2004, 546, 1731 — deposit, lease, repair, work), then apply the Arts. 2121–2122 retention/foreclosure rule.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Legal pledge: what is the exam method?",
+    "id": "fc.credit.13",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 5",
+        "section": "Sec. 4",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "legal-pledge"
+    ],
+    "topicIds": [
+      "ba166.credit.pledge"
+    ]
+  },
+  {
+    "back": "Sec. 7 reasonable-description rule: the instrument must describe the property sufficiently to identify it, plus affidavit of good faith and registration for effect against third persons. A vague catch-all may fail to identify collateral or bind third parties.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Chattel mortgage: what does Act No. 1508 require for third-person effect?",
+    "id": "fc.credit.14",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 5",
+        "section": "Sec. 5",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "chattel",
+      "description"
+    ],
+    "topicIds": [
+      "ba166.credit.chattel"
+    ]
+  },
+  {
+    "back": "Pledge: possession delivered to pledgee/third person. REM and chattel mortgage: possession usually remains with the mortgagor. Automatic appropriation on default is prohibited (Art. 2088) in all three.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Pledge vs. REM vs. chattel mortgage: who holds the collateral?",
+    "id": "fc.credit.15",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 6",
+        "section": "Sec. 6",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "possession",
+      "comparison"
+    ],
+    "topicIds": [
+      "ba166.credit.general",
+      "ba166.credit.pledge",
+      "ba166.credit.rem",
+      "ba166.credit.chattel"
+    ]
+  },
+  {
+    "back": "Chattel foreclosure follows Act 1508: equity of redemption under the law, but no right of redemption after a completed sale (subject to special rules). Art. 1484's no-deficiency bar applies when the seller elects foreclosure in covered Recto installment sales — not to every ordinary loan chattel mortgage.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Chattel mortgage: redemption rule and the Recto deficiency bar?",
+    "id": "fc.credit.16",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 6",
+        "section": "Sec. 5",
+        "sourceId": "src.r06"
+      }
+    ],
+    "tags": [
+      "chattel",
+      "redemption",
+      "recto"
+    ],
+    "topicIds": [
+      "ba166.credit.chattel"
+    ]
+  },
+  {
+    "back": "When it remains accessible for subsequent reference with appropriate integrity safeguards; information is not denied legal effect solely for being in electronic form.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "RA 8792 Sec. 6: when does an electronic document satisfy a “writing” requirement?",
+    "id": "fc.ecom.01",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "functional-equivalence",
+      "writing"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "back": "When the statutory requirements are met so it identifies the person and indicates approval; assess reliability, intent, attribution, and the transaction — a typed name or login is not automatically sufficient.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "RA 8792 Sec. 7: when is an electronic signature legally recognized?",
+    "id": "fc.ecom.02",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "signatures"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "back": "The information remains accessible for later reference in the required form, with origin/destination/time information retained where applicable.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "RA 8792 Sec. 8: how is a retention requirement met electronically?",
+    "id": "fc.ecom.03",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "retention"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "back": "The statute and the reliability context; authenticity can still be challenged.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "RA 8792 Sec. 9: what determines evidentiary weight?",
+    "id": "fc.ecom.04",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "evidence"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "back": "The document is the record; the signature is the identify-and-approve function. Each has its own functional-equivalence rule (Secs. 6 vs. 7).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Electronic document vs. electronic signature — why keep them distinct?",
+    "id": "fc.ecom.05",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 8",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "distinctions"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "back": "(1) Is it legally recognized? (2) Are its contents admissible/authentic? (3) Was accessing, disclosing, or using it lawful (Secs. 31–32)? Recognition is not a presumption of truth.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "An e-record exists. What three questions must still be separated?",
+    "id": "fc.ecom.06",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "pp. 2–3",
+        "section": "Sec. 3",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "evidence",
+      "confidentiality"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "back": "Authenticity, integrity, source, custody, and reliability under the Rules on Electronic Evidence — a record is not self-proving.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What must the proponent of an electronic record establish?",
+    "id": "fc.ecom.07",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "pp. 2–3",
+        "section": "Sec. 3",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "evidence"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.e-documents"
+    ]
+  },
+  {
+    "back": "Statutory or contractual receipt — not technical delivery to a server, and not when a human opened the message. Check whether the addressee designated a system and the place-of-business rules.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Dispatch vs. receipt vs. reading: what controls contract formation?",
+    "id": "fc.ecom.08",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 4",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "communication",
+      "formation"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.communication-carriage-penalties"
+    ]
+  },
+  {
+    "back": "Not necessarily. Establish the offer, an unequivocal reply, when acceptance became effective, and the sender's authority; apply Civil Code Arts. 1318–1326.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "“Email sent” — is the offer accepted?",
+    "id": "fc.ecom.09",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 4",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "formation",
+      "exam-trap"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.communication-carriage-penalties"
+    ]
+  },
+  {
+    "back": "Whether the electronic method performs the paper function (goods information, instructions, delivery, receipt, transfer of rights) under functional equivalence; for government transactions, agency rules, standards, identity checks, deadlines, and formalities still apply.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "RA 8792 Secs. 25–26 and government use: what is the test?",
+    "id": "fc.ecom.10",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 5",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "carriage",
+      "government-use"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.communication-carriage-penalties"
+    ]
+  },
+  {
+    "back": "Identify the prohibited act in exact statutory language, the actor, mental state, penalty, and related liability. Distinguish authentication failure from hacking, and contract breach from a criminal act.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "RA 8792 Sec. 33: how do you analyze an unlawful-act problem?",
+    "id": "fc.ecom.11",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 6",
+        "sourceId": "src.r04"
+      }
+    ],
+    "tags": [
+      "penalties"
+    ],
+    "topicIds": [
+      "ba166.ecommerce.communication-carriage-penalties"
+    ]
+  },
+  {
+    "back": "Simple: ministerial action or inconsequential issues. Complex: evaluation of complicated issues. Highly technical: requires technical knowledge, specialized skill, or training.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Simple vs. complex vs. highly technical — give the Sec. 4 tests.",
+    "id": "fc.eodb.01",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "definitions"
+    ],
+    "topicIds": [
+      "ba166.eodb.policy-charter"
+    ]
+  },
+  {
+    "back": "On receipt of a complete application with required documents and payment; the clock generally does not run while required items are missing.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "When does processing time start to run?",
+    "id": "fc.eodb.02",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "definitions",
+      "processing-time"
+    ],
+    "topicIds": [
+      "ba166.eodb.policy-charter"
+    ]
+  },
+  {
+    "back": "Simple: 3 working days. Complex: 7. Highly technical: 20. Working days, not calendar days; subject to other laws, holidays, and lawful extensions with notice.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Sec. 9(b)(1): what are the general deadlines?",
+    "id": "fc.eodb.03",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 2–3",
+        "section": "Sec. 3",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "deadlines"
+    ],
+    "topicIds": [
+      "ba166.eodb.access-procedure"
+    ]
+  },
+  {
+    "back": "Requirements checklist, procedure, responsible person/office, processing time, fees, filing/payment modes, and complaint/redress mechanism. It is an operating commitment; the office may not demand beyond it or the law.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What must a Citizen’s Charter contain?",
+    "id": "fc.eodb.04",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "charter"
+    ],
+    "topicIds": [
+      "ba166.eodb.policy-charter"
+    ]
+  },
+  {
+    "back": "The head bears principal responsibility for compliance; the processing officer has individual duties; ARTA has oversight. Identify the actor before assigning liability.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Office head vs. processing officer vs. ARTA — who answers for what?",
+    "id": "fc.eodb.05",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 2",
+        "section": "Sec. 2",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "liability",
+      "oversight"
+    ],
+    "topicIds": [
+      "ba166.eodb.policy-charter"
+    ]
+  },
+  {
+    "back": "Covered application, complete submissions plus fees, expired deadline, qualifying kind of application, no controlling exception — plus a separate automatic-extension concept for qualifying renewals. Silence alone is not approval.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Sec. 10 automatic approval: what are the predicates?",
+    "id": "fc.eodb.06",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 4",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "deemed-approval"
+    ],
+    "topicIds": [
+      "ba166.eodb.access-procedure"
+    ]
+  },
+  {
+    "back": "A valid denial is written and reasoned under Sec. 4(a), communicated within the period; vague oral discouragement is not automatically a statutory denial.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Valid denial vs. inaction — how do you tell them apart?",
+    "id": "fc.eodb.07",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 4",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "denial"
+    ],
+    "topicIds": [
+      "ba166.eodb.access-procedure"
+    ]
+  },
+  {
+    "back": "A single common site or portal where the LGU receives/processes applications and payments and issues approvals. City/municipality and barangay applications follow separate process rules.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What is a BOSS, and what rides on barangay vs. city classification?",
+    "id": "fc.eodb.08",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "Sec. 5",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "boss",
+      "licensing"
+    ],
+    "topicIds": [
+      "ba166.eodb.licensing-oversight-violations"
+    ]
+  },
+  {
+    "back": "Name the exact prohibited act (refusing complete applications, missing timelines, extra requirements, no receipt, fixer collusion); separate administrative, civil, and criminal consequences with person, mental state, penalty, and proceeding. Delay alone is not proof of crime.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Secs. 21–23: how do you analyze a violation?",
+    "id": "fc.eodb.09",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 7",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "violations",
+      "fixers"
+    ],
+    "topicIds": [
+      "ba166.eodb.licensing-oversight-violations"
+    ]
+  },
+  {
+    "back": "CSC anti-red-tape work, the Anti-Red Tape Authority (ARTA), and the EODB/Anti-Red Tape Advisory Council. A complaint route is distinct from a private action challenging a permit denial.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Secs. 16–19: what are the oversight roles?",
+    "id": "fc.eodb.10",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 4",
+        "section": "Sec. 6",
+        "sourceId": "src.r05"
+      }
+    ],
+    "tags": [
+      "oversight",
+      "arta"
+    ],
+    "topicIds": [
+      "ba166.eodb.licensing-oversight-violations"
+    ]
+  },
+  {
+    "back": "An agreement whereby one undertakes for a consideration to indemnify another against loss, damage or liability arising from an unknown or contingent event (Sec. 2(a)).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Define a contract of insurance.",
+    "id": "fc.ins.01",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 26-28",
+        "section": "a. Contract of insurance (Sections 2(a), 3)",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "definition",
+      "elements"
+    ],
+    "topicIds": [
+      "ba166.insurance.definitions"
+    ]
+  },
+  {
+    "back": "Making/proposing insurance contracts as insurer; suretyship as a vocation; reinsurance and other business the Code recognizes as insurance; or doing the substance equivalent to evade the Code — even with no profit or separate consideration (Sec. 2(b)).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What counts as “doing an insurance business” under Section 2(b)?",
+    "id": "fc.ins.02",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 56-58",
+        "section": "b. Doing an insurance business (Section 2(b))",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "definition",
+      "regulator"
+    ],
+    "topicIds": [
+      "ba166.insurance.definitions"
+    ]
+  },
+  {
+    "back": "Section 51 lists required policy contents (parties, amount, premium, property/life, interest, risks, period). The doctrinal elements are: insurable interest, risk/peril, insurer's undertaking, consideration, and meeting of minds.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Contrast Section 51 with the doctrinal elements of an insurance contract.",
+    "id": "fc.ins.03",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 31-40",
+        "section": "i. Elements of a contract of insurance",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "elements",
+      "section-51"
+    ],
+    "topicIds": [
+      "ba166.insurance.definitions"
+    ]
+  },
+  {
+    "back": "The sum fixed in the policy — life benefits are the agreed amount, not a calculation of the person's economic value (Sec. 186).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What is the measure of indemnity under a life/health policy?",
+    "id": "fc.ins.04",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 74-75",
+        "section": "i. Individual life (Sections 181–186)",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "life",
+      "indemnity"
+    ],
+    "topicIds": [
+      "ba166.insurance.classification"
+    ]
+  },
+  {
+    "back": "Individual: one person under a personal policy. Group: members under one master policy (certificates; Sec. 234 rules). Industrial: frequent premiums, face cap tied to the Manila minimum daily wage, “industrial policy” label (Sec. 235).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Distinguish individual, group, and industrial life insurance.",
+    "id": "fc.ins.05",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 63-83",
+        "section": "a. Life insurance",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "life",
+      "classification"
+    ],
+    "topicIds": [
+      "ba166.insurance.classification"
+    ]
+  },
+  {
+    "back": "Marine: navigation/transit/transportation risks, cargo and related liabilities (Sec. 101). Fire: fire plus allied perils only if covered by extension or separate policy (Sec. 169). Casualty: accident/mishap loss or liability not exclusively in another class (Sec. 176).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Distinguish marine, fire, and casualty insurance.",
+    "id": "fc.ins.06",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 84-95",
+        "section": "b. Non-life insurance",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "non-life",
+      "classification"
+    ],
+    "topicIds": [
+      "ba166.insurance.classification"
+    ]
+  },
+  {
+    "back": "Principal/obligor (must perform), obligee (owed performance), surety (guarantees performance). Liability is joint and several with the obligor, capped at the bond amount (Secs. 177–178).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Name the three suretyship roles and the cap on the surety's liability.",
+    "id": "fc.ins.07",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 96-100",
+        "section": "iv. Suretyship (Sections 177–178)",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "suretyship",
+      "non-life"
+    ],
+    "topicIds": [
+      "ba166.insurance.classification"
+    ]
+  },
+  {
+    "back": "Property: when the insurance takes effect AND when the loss occurs. Life/health: when the insurance takes effect (need not exist later or at loss) (Sec. 19).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "When must insurable interest exist for property vs. life/health insurance?",
+    "id": "fc.ins.08",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 140-141",
+        "section": "ii. Property (Sections 13–19)",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "insurable-interest",
+      "timing"
+    ],
+    "topicIds": [
+      "ba166.insurance.interest"
+    ]
+  },
+  {
+    "back": "Double insurance = the arrangement (same person, same subject and interest, several insurers — Sec. 95). Overinsurance = coverage exceeding insurable value (claim limits in Sec. 96; premium return in Sec. 83).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Contrast double insurance with overinsurance.",
+    "id": "fc.ins.09",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 160-167",
+        "section": "d. Double insurance / overinsurance (Sections 95, 96, and 83)",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "double-insurance",
+      "overinsurance"
+    ],
+    "topicIds": [
+      "ba166.insurance.interest"
+    ]
+  },
+  {
+    "back": "(1) Cargo sound when coverage attached; (2) damaged/short at unloading; then (3) the insurer must prove an exclusion applies. The consignee's perfected sale gave an equitable insurable interest.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the all-risks cargo proof sequence from Filipino Merchants.",
+    "id": "fc.ins.10",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 142-148",
+        "section": "Case digest: Filipino Merchants Insurance Co., Inc. v. Court of Appeals",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "all-risks",
+      "burden-of-proof"
+    ],
+    "topicIds": [
+      "ba166.insurance.interest"
+    ]
+  },
+  {
+    "back": "General rule: no policy is valid and binding until the premium is paid. Exceptions: life/industrial-life grace periods, and up to a 90-day credit extension to licensed intermediaries under broker/agency agreements (Sec. 77).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the Section 77 premium-payment rule and its exceptions.",
+    "id": "fc.ins.11",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 178-180",
+        "section": "b. Premium payment (Sections 77–79, 64, 66, 83–84, and 315)",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "premium",
+      "perfection"
+    ],
+    "topicIds": [
+      "ba166.insurance.perfection"
+    ]
+  },
+  {
+    "back": "Cancellation (Secs. 64–65): non-life only, listed post-effective ground + prior written notice identifying the ground. Renewal (Sec. 66): without 45 days' advance notice of non-renewal/reduction, the insured may renew on paying the premium.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Contrast cancellation under Sections 64–65 with renewal under Section 66.",
+    "id": "fc.ins.12",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 185-190",
+        "section": "b. Premium payment (Sections 77–79, 64, 66, 83–84, and 315)",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "cancellation",
+      "renewal"
+    ],
+    "topicIds": [
+      "ba166.insurance.perfection"
+    ]
+  },
+  {
+    "back": "Within 3 years from premium default (unless cash value paid or extension expired): satisfactory evidence of insurability + all overdue premiums + policy indebtedness + permitted interest (Sec. 233(j)).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What does reinstatement of a lapsed life policy require?",
+    "id": "fc.ins.13",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 202-204",
+        "section": "d. Reinstatement of a lapsed life policy (Section 233(j))",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "tags": [
+      "reinstatement",
+      "lapse"
+    ],
+    "topicIds": [
+      "ba166.insurance.perfection"
+    ]
+  },
+  {
+    "back": "Open: value set at loss; policy states only maximum liability (Sec. 60). Valued: specific agreed value on the policy face (Sec. 61). Running: successive insurances defined over time by statements/endorsements (Sec. 62).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Distinguish open, valued, and running policies.",
+    "id": "fc.ins.14",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "paras": "paras 37-49",
+        "section": "b. Types of non-life policies (Sections 59–62)",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "policy-types",
+      "non-life"
+    ],
+    "topicIds": [
+      "ba166.insurance.policy"
+    ]
+  },
+  {
+    "back": "Three checks: (1) rider form approved by the Commissioner (Sec. 232); (2) descriptive title written on the policy's blank spaces (Sec. 50); (3) if added after issuance without the insured/owner's application, countersigned by the insured/owner (Sec. 50).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What formalities make a rider bind the insured?",
+    "id": "fc.ins.15",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 21-32",
+        "section": "a. Content and form (Sections 50–51)",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "riders",
+      "formalities"
+    ],
+    "topicIds": [
+      "ba166.insurance.policy"
+    ]
+  },
+  {
+    "back": "An agent solicits or negotiates insurance on behalf of the insurer (Sec. 309; independent contractor). A broker acts on behalf of the insured in soliciting, negotiating, or procuring insurance (Sec. 310).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Who does an insurance agent represent, and how does a broker differ?",
+    "id": "fc.ins.16",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "paras": "paras 59-65",
+        "section": "1. Agents (Sections 309–310; see also licensing requirements)",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "agent",
+      "broker"
+    ],
+    "topicIds": [
+      "ba166.insurance.policy"
+    ]
+  },
+  {
+    "back": "A beneficiary who is a principal, accomplice, or accessory in willfully causing the insured's death forfeits the interest; the share passes to the other beneficiaries (unless disqualified), else per the policy, else to the insured's estate (Sec. 12).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What happens to the share of a beneficiary who willfully causes the insured's death?",
+    "id": "fc.ins.17",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "paras": "paras 117-120",
+        "section": "3. Forfeiture (Section 12)",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "beneficiary",
+      "forfeiture"
+    ],
+    "topicIds": [
+      "ba166.insurance.policy"
+    ]
+  },
+  {
+    "back": "Written notice without unnecessary delay, given by the insured or a person entitled to benefit; otherwise the insurer is exonerated (Sec. 90). For other non-life lines, the Commissioner may specify the period.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What notice does a fire-loss claim require, and what happens without it?",
+    "id": "fc.ins.18",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "paras": "paras 308-311",
+        "section": "a. Notice and proof of loss (Sections 90–94)",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "notice",
+      "fire"
+    ],
+    "topicIds": [
+      "ba166.insurance.claims"
+    ]
+  },
+  {
+    "back": "Not by the event, but solely by the probable and reasonable influence of the facts on the party owed communication — in estimating the disadvantages of the proposed contract or in making inquiries (Sec. 31; Canilang).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "How is materiality tested for concealment and representation?",
+    "id": "fc.ins.19",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "paras": "paras 141-143",
+        "section": "b. Concealment",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "materiality",
+      "concealment"
+    ],
+    "topicIds": [
+      "ba166.insurance.rescission"
+    ]
+  },
+  {
+    "back": "After a life policy payable on death has been in force during the insured's lifetime for 2 years from issue or last reinstatement, the insurer cannot prove it void ab initio or rescindable for fraudulent concealment/misrepresentation (Sec. 48; clause required by Sec. 233(b)).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "State the two-year incontestability rule and its limits.",
+    "id": "fc.ins.20",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "paras": "paras 216-222",
+        "section": "d. Incontestable clause in life insurance policies (Sections 48 and 233(b))",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "incontestability",
+      "rescission"
+    ],
+    "topicIds": [
+      "ba166.insurance.rescission"
+    ]
+  },
+  {
+    "back": "A policy (group or individual) whose benefits, payments, or values vary with investment results of a segregated portfolio or separate account; the insurer needs prior Commissioner authorization (Sec. 238).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "What is a variable contract?",
+    "id": "fc.ins.21",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "paras": "paras 288-292",
+        "section": "7. Variable Contracts (Sections 238–242)",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "variable",
+      "definition"
+    ],
+    "topicIds": [
+      "ba166.insurance.variable"
+    ]
+  },
+  {
+    "back": "Life proceeds maturing by death: within 60 days after claim presentation and proof of death (Sec. 248). Non-life: within 30 days after proof of loss plus ascertainment, or within 90 days after proof of loss if unascertained within 60 days (Sec. 249). Delay earns double-ceiling interest unless the claim is fraudulent.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Within what time must life and non-life proceeds be paid?",
+    "id": "fc.ins.22",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "paras": "paras 328-335",
+        "section": "i. Unfair claims",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "tags": [
+      "payment-period",
+      "claims"
+    ],
+    "topicIds": [
+      "ba166.insurance.claims"
+    ]
+  },
+  {
+    "back": "Transparency, legitimate purpose, and proportionality - cumulative under Sec. 11.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 11: the three general data privacy principles?",
+    "id": "fc.dpa.01",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 4, 22",
+        "section": "DPA Sec. 3; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "principles",
+      "section-11"
+    ],
+    "topicIds": [
+      "ba166.dpa.processing"
+    ]
+  },
+  {
+    "back": "Consent, contract necessity, legal obligation, vital interests, emergency/public authority, or legitimate interests (unless overridden by constitutional rights).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 12: the six lawful-processing bases?",
+    "id": "fc.dpa.02",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 5, 22",
+        "section": "DPA Sec. 3; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "lawful-basis",
+      "section-12"
+    ],
+    "topicIds": [
+      "ba166.dpa.processing"
+    ]
+  },
+  {
+    "back": "Prohibited by default; allowed only under a Sec. 13 exception (specific consent, law, life/health, public-organization, medical, legal claims/government).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA: default rule for sensitive/privileged information?",
+    "id": "fc.dpa.03",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 5, 22",
+        "section": "DPA Sec. 3; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "spi",
+      "section-13"
+    ],
+    "topicIds": [
+      "ba166.dpa.processing"
+    ]
+  },
+  {
+    "back": "The PIC controls or directs processing; the PIP processes outsourced data for the PIC. Outsourcing never erases PIC accountability.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "PIC vs PIP: who controls, who processes?",
+    "id": "fc.dpa.04",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "pp. 3, 22",
+        "section": "DPA Sec. 2; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "pic",
+      "pip"
+    ],
+    "topicIds": [
+      "ba166.dpa.coverage"
+    ]
+  },
+  {
+    "back": "(1) Race, ethnicity, civil status, age, color, affiliations; (2) health, education, genetic/sexual life, offense proceedings; (3) government-issued identifiers; (4) EO/statute-classified data.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 3(l): the four SPI categories?",
+    "id": "fc.dpa.05",
+    "kind": "term",
+    "sourceRefs": [
+      {
+        "page": "p. 3",
+        "section": "DPA Sec. 2",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "spi",
+      "definitions"
+    ],
+    "topicIds": [
+      "ba166.dpa.coverage"
+    ]
+  },
+  {
+    "back": "Be informed; be furnished details; access; correction; blocking/removal/destruction; indemnification. Portability sits separately in Sec. 18.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 16: the six data-subject rights?",
+    "id": "fc.dpa.06",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 5, 22",
+        "section": "DPA Sec. 4; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "rights",
+      "section-16"
+    ],
+    "topicIds": [
+      "ba166.dpa.rights"
+    ]
+  },
+  {
+    "back": "Electronic processing in a structured, commonly used format - the subject gets a reusable copy; NPC sets formats and procedures.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 18: when does data portability apply?",
+    "id": "fc.dpa.07",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 6",
+        "section": "DPA Sec. 4",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "portability",
+      "section-18"
+    ],
+    "topicIds": [
+      "ba166.dpa.rights"
+    ]
+  },
+  {
+    "back": "Reasonably believed unauthorized acquisition of SPI or identity-fraud-enabling data with likely real risk of serious harm - notify NPC and subjects promptly.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 20(f): the breach-notification trigger?",
+    "id": "fc.dpa.08",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 6",
+        "section": "DPA Sec. 5",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "breach",
+      "section-20"
+    ],
+    "topicIds": [
+      "ba166.dpa.security"
+    ]
+  },
+  {
+    "back": "Prior agency-head approval, decision in two business days (silence is denial), max 1,000 records, most secure NPC-recognized encryption.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 23: the off-site SPI access checklist?",
+    "id": "fc.dpa.09",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 7, 22",
+        "section": "DPA Sec. 6; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "government",
+      "section-23"
+    ],
+    "topicIds": [
+      "ba166.dpa.govt-info"
+    ]
+  },
+  {
+    "back": "Sec. 25 punishes unauthorized processing; Sec. 26 punishes negligently giving access. Both scale PI (1-3 years) vs SPI (3-6 years).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 25 vs Sec. 26: processing vs negligent access?",
+    "id": "fc.dpa.10",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 7",
+        "section": "DPA Sec. 7",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "penalties",
+      "section-25",
+      "section-26"
+    ],
+    "topicIds": [
+      "ba166.dpa.penalties"
+    ]
+  },
+  {
+    "back": "PI of at least 100 persons harmed, affected or involved - maximum of the scale applies.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 35: the large-scale threshold?",
+    "id": "fc.dpa.11",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 8",
+        "section": "DPA Sec. 7",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "penalties",
+      "large-scale"
+    ],
+    "topicIds": [
+      "ba166.dpa.penalties"
+    ]
+  },
+  {
+    "back": "Sec. 31 needs malice/bad faith plus unwarranted or false information; Sec. 32 is consent-less disclosure to a third party outside Sec. 31.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "DPA Sec. 31 vs Sec. 32: malicious vs unauthorized disclosure?",
+    "id": "fc.dpa.12",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 7",
+        "section": "DPA Sec. 7",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "penalties",
+      "disclosure"
+    ],
+    "topicIds": [
+      "ba166.dpa.penalties"
+    ]
+  },
+  {
+    "back": "A trademark (Sec. 121.1) identifies goods or services; a trade name (Sec. 121.3) identifies the enterprise itself.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Trademark vs trade name: what does each identify?",
+    "id": "fc.ip.01",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "pp. 9, 13, 22",
+        "section": "TM Sec. 1; Tradename Sec. 1; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "trademark",
+      "trade-name"
+    ],
+    "topicIds": [
+      "ba166.ip.trademark",
+      "ba166.ip.tradename"
+    ]
+  },
+  {
+    "back": "Sec. 121.2 defines collective mark; Sec. 121.3 defines trade name. The syllabus's 121.2-under-Trade-Name citation is flagged D-01: NEEDS VERIFICATION.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "D-01: which section defines collective mark vs trade name?",
+    "id": "fc.ip.02",
+    "kind": "qa",
+    "sourceRefs": [
+      {
+        "page": "pp. 1, 13, 22",
+        "section": "Use note; Tradename Sec. 1; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "d-01",
+      "trade-name"
+    ],
+    "topicIds": [
+      "ba166.ip.tradename"
+    ]
+  },
+  {
+    "back": "Dominancy test - Kolin (En Banc, 2021) abandoned the holistic test for resemblance under the IP Code.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Current Philippine trademark similarity test?",
+    "id": "fc.ip.03",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "pp. 10, 22",
+        "section": "TM Sec. 3; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "dominancy",
+      "kolin"
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "back": "Confusion of goods (buys A thinking it is B) vs confusion of business/source (believes different goods share a source or sponsor).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "The two types of trademark confusion?",
+    "id": "fc.ip.04",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 9",
+        "section": "TM Sec. 3",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "confusion",
+      "section-123"
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "back": "Knowledge among the relevant sector of the public, including promotion-derived knowledge - not the public at large (Dy v. Philips).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Well-known marks: whose knowledge counts?",
+    "id": "fc.ip.05",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 10",
+        "section": "TM Sec. 3",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "well-known",
+      "dy"
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "back": "Confusing similarity in general appearance plus intent to deceive the public and defraud a competitor (inferable from circumstances).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Unfair competition: the two recurring elements?",
+    "id": "fc.ip.06",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "pp. 12, 22",
+        "section": "TM Sec. 7; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "unfair-competition",
+      "section-168"
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "back": "Novelty + inventive step + industrial applicability; utility models drop inventive step (Sec. 109.1).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Patentability elements vs utility-model conditions?",
+    "id": "fc.ip.07",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "pp. 14, 22",
+        "section": "Patent Sec. 1; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "patentability",
+      "utility-model"
+    ],
+    "topicIds": [
+      "ba166.ip.patent"
+    ]
+  },
+  {
+    "back": "Patent 20 years from filing; utility model 7 years no renewal; design 5 years renewable twice (max 15).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Patent / utility-model / design terms?",
+    "id": "fc.ip.08",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "p. 16",
+        "section": "Patent Sec. 4",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "term",
+      "patent"
+    ],
+    "topicIds": [
+      "ba166.ip.patent"
+    ]
+  },
+  {
+    "back": "The commissioner owns the work, but copyright stays with the creator absent a written stipulation otherwise (Sec. 178.4).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Commissioned work: who owns the work vs the copyright?",
+    "id": "fc.ip.09",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 19, 22",
+        "section": "Copyright Sec. 5; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "ownership",
+      "commissioned"
+    ],
+    "topicIds": [
+      "ba166.ip.copyright"
+    ]
+  },
+  {
+    "back": "Purpose/character, nature of the work, amount/substantiality, market or value effect - teaching is not automatic permission.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Fair use: the four Sec. 185 factors?",
+    "id": "fc.ip.10",
+    "kind": "provision",
+    "sourceRefs": [
+      {
+        "page": "pp. 20, 22",
+        "section": "Copyright Sec. 8; Quick-check",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "fair-use",
+      "section-185"
+    ],
+    "topicIds": [
+      "ba166.ip.copyright"
+    ]
+  },
+  {
+    "back": "Independent creation plus minimal creativity - not patent novelty (Muller, comparative).",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "Copyright originality standard?",
+    "id": "fc.ip.11",
+    "kind": "doctrine",
+    "sourceRefs": [
+      {
+        "page": "p. 18",
+        "section": "Copyright Sec. 2",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "originality",
+      "muller"
+    ],
+    "topicIds": [
+      "ba166.ip.copyright"
+    ]
+  },
+  {
+    "back": "Life plus 50 years for ordinary works; applied art takes only 25 years from making.",
+    "deckIds": [],
+    "editorialStatus": "authored-draft",
+    "front": "General copyright term vs applied-art term?",
+    "id": "fc.ip.12",
+    "kind": "comparison",
+    "sourceRefs": [
+      {
+        "page": "p. 19",
+        "section": "Copyright Sec. 6",
+        "sourceId": "src.rev"
+      }
+    ],
+    "tags": [
+      "duration",
+      "section-213"
+    ],
+    "topicIds": [
+      "ba166.ip.copyright"
+    ]
+  }
+]

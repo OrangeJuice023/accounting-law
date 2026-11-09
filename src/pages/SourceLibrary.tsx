@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
-import { Download, FileText, Image, BookOpenText } from 'lucide-react';
+import { FileText, Image, BookOpenText } from 'lucide-react';
 import { useContent } from '../content/loader';
 import { shortSourceName } from '../content/citations';
 import { Breadcrumbs } from '../components/shell/Breadcrumbs';
@@ -12,9 +12,9 @@ const ROLE_META = {
 } as const;
 
 /**
- * The 21 verified source files. In this prototype slice only the syllabus and
- * the Sales reviewer are downloadable; the rest are listed honestly with their
- * conversion status. Discrepancy log mirrors CONTENT_COVERAGE_MATRIX.md.
+ * The 21 verified source files with full metadata and attribution.
+ * Phase 2B policy: originals are attributed, never publicly distributed —
+ * no download links are exposed. Discrepancy log mirrors the coverage matrix.
  */
 export function SourceLibrary() {
   const { catalog } = useContent();
@@ -29,8 +29,8 @@ export function SourceLibrary() {
     }
   }, [location.hash]);
 
-  const available = catalog.sourceDocuments.filter((s) => s.available);
-  const pending = catalog.sourceDocuments.filter((s) => !s.available);
+  const reviewers = catalog.sourceDocuments.filter((s) => s.role !== 'outlineImage');
+  const images = catalog.sourceDocuments.filter((s) => s.role === 'outlineImage');
 
   return (
     <div className="mx-auto max-w-4xl space-y-10">
@@ -43,10 +43,16 @@ export function SourceLibrary() {
         </p>
       </div>
 
+      <div className="rounded-xl bg-gold-soft/50 px-5 py-3 text-sm leading-relaxed text-ink-soft">
+        Original source files are <strong className="font-semibold text-ink">attributed, not distributed</strong>:
+        every lesson section cites its file and page, but no originals are downloadable here. Distribution permission
+        has not been confirmed.
+      </div>
+
       <section>
-        <h2 className="font-serif text-xl font-semibold text-ink">Available in this prototype ({available.length})</h2>
+        <h2 className="font-serif text-xl font-semibold text-ink">Syllabus and reviewers ({reviewers.length})</h2>
         <ul className="mt-3 space-y-3">
-          {available.map((source) => {
+          {reviewers.map((source) => {
             const meta = ROLE_META[source.role];
             const Icon = meta.icon;
             return (
@@ -61,13 +67,6 @@ export function SourceLibrary() {
                       {source.pages ? ` · ${source.pages} pages` : ''}
                     </p>
                     {source.notes ? <p className="mt-1 text-[13px] text-ink-faint">{source.notes}</p> : null}
-                    <a
-                      href={encodeURI(source.downloadPath)}
-                      download={source.filename}
-                      className="mt-3 inline-flex items-center gap-1.5 rounded-lg bg-forest px-3.5 py-1.5 text-sm font-medium text-white hover:bg-forest-deep"
-                    >
-                      <Download className="h-4 w-4" aria-hidden /> Download original
-                    </a>
                   </div>
                 </div>
               </li>
@@ -77,12 +76,13 @@ export function SourceLibrary() {
       </section>
 
       <section>
-        <h2 className="font-serif text-xl font-semibold text-ink">Remaining sources ({pending.length})</h2>
+        <h2 className="font-serif text-xl font-semibold text-ink">Syllabus-outline images ({images.length})</h2>
         <p className="mt-1 text-sm text-ink-soft">
-          Registered for citation integrity. Downloads unlock as each reviewer is converted in later slices.
+          Supplementary captures that duplicate the canonical syllabus PDF. Compared, not duplicated into lessons;
+          transcription remains backlog.
         </p>
         <ul className="mt-3 divide-y divide-line rounded-xl border border-line bg-paper">
-          {pending.map((source) => {
+          {images.map((source) => {
             const meta = ROLE_META[source.role];
             return (
               <li key={source.id} id={source.id} className="scroll-mt-24 px-5 py-3">

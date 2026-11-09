@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import { attemptStore } from './attempts';
 import { bookmarkStore } from './bookmarks';
 import { noteStore } from './notes';
 import { progressStore } from './progress';
@@ -47,6 +48,19 @@ const backupSchema = z.object({
       updatedAt: z.string(),
     }),
   ),
+  attempts: z
+    .record(
+      z.string(),
+      z.object({
+        questionId: z.string(),
+        kind: z.enum(['selfTest', 'iracHypo', 'mcq']),
+        attemptedAt: z.string(),
+        revealedKey: z.boolean().optional(),
+        revealedHints: z.array(z.string()).optional(),
+        selfMarked: z.enum(['knew', 'unsure', 'missed']).optional(),
+      }),
+    )
+    .default({}),
 });
 
 export type Backup = z.infer<typeof backupSchema>;
@@ -59,6 +73,7 @@ export function buildBackup(): Backup {
     progress: progressStore.get(),
     bookmarks: bookmarkStore.get(),
     notes: noteStore.get(),
+    attempts: attemptStore.get(),
   };
 }
 
@@ -93,6 +108,7 @@ export function importBackupText(text: string): ImportResult {
   progressStore.set(backup.progress);
   bookmarkStore.set(backup.bookmarks);
   noteStore.set(backup.notes);
+  attemptStore.set(backup.attempts ?? {});
   return { ok: true };
 }
 
@@ -100,4 +116,5 @@ export function clearAllLocalData(): void {
   progressStore.reset();
   bookmarkStore.reset();
   noteStore.reset();
+  attemptStore.reset();
 }

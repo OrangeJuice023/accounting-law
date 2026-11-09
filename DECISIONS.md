@@ -1,8 +1,35 @@
 # DECISIONS — Phase 2A implementation log
 
-Living log of implementation-level decisions taken while building the first
-vertical slice. Product decisions from Phase 1 stand; nothing here overrides
-them. Entries newest-first.
+Living log of implementation-level decisions. Product decisions from Phase 1
+stand; nothing here overrides them. Entries newest-first.
+
+## 2026-11-09 — Phase 2B full ingestion
+
+- **Fragment-merge ingestion.** Converters worked create-only (new lesson files
+  + one `fragments/<doc>.json` each with registry additions, topic patches,
+  and a section coverage map); `scripts/merge-fragments.mjs` merged them
+  deterministically with duplicate detection and zero hand-edits to shared
+  files. Sales was audited in place instead (16 fidelity fixes, no rewrite).
+- **Attributed, not distributed.** Per the Phase 2B brief, the two 2A public
+  PDF copies were removed and all catalog entries set `available: false`.
+  The Source Library shows full metadata + the policy notice; citations still
+  reference exact filenames and locators.
+- **DOCX locators** use `section` (doc heading) + `paras N–M` from a stated
+  numbering scheme (0-based over document.paragraphs, empties counted) plus
+  `Table T` excerpt hints — recorded per fragment and in the matrix.
+- **D-01/D-02 dispositions.** Tradename: dual-cited with a trap badge and the
+  topic stays NEEDS_VERIFICATION. Insurance Topic 5: both files' material in
+  one lesson, kept separate per-file with dual-cited shared provisions.
+- **Practice integrity in UI.** Self-tests reveal verbatim keys with self-marks
+  (no auto-grade); hypos reveal hints progressively in IRAC order under a
+  permanent no-model-solution banner; the exam bank is an honest zero-MCQ
+  placeholder. Attempts persist locally and join the export blob.
+- **Flashcards are runtime decks** (per-module + all-cards) over
+  `flashcards.json`; every card shows its draft/reviewed status and source.
+- **Validator now audits coverage**: fragment entries must be
+  converted/partial/unconverted (unconverted listed in output), covered topics
+  must have lessons, syllabus-only topics must have none, sourceless modules
+  must be SYLLABUS_ONLY, and question/key/hint shapes are locked.
 
 ## 2026-11-09 — Slice bootstrap
 

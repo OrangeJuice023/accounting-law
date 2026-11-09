@@ -6,10 +6,66 @@ import { locateLesson, moduleStats } from '../content/stats';
 import { progressStore } from '../store/progress';
 import { bookmarkStore } from '../store/bookmarks';
 import { noteStore } from '../store/notes';
+import { attemptStore } from '../store/attempts';
 import { clearAllLocalData, downloadBackup, importBackupText } from '../store/backup';
 import { Breadcrumbs } from '../components/shell/Breadcrumbs';
 import { EmptyState } from '../components/common/EmptyState';
 import { DataNotice } from '../components/common/DataNotice';
+
+function PracticeHistory() {
+  const index = useContent();
+  const attempts = attemptStore.useValue();
+  const entries = Object.values(attempts).sort((a, b) => b.attemptedAt.localeCompare(a.attemptedAt));
+
+  const selfTests = index.questions.filter((q) => q.kind === 'selfTest');
+  const hypos = index.questions.filter((q) => q.kind === 'iracHypo');
+  const reviewedSelf = selfTests.filter((q) => attempts[q.id]?.revealedKey).length;
+  const attemptedHypos = hypos.filter((q) => (attempts[q.id]?.revealedHints?.length ?? 0) > 0).length;
+  const knew = selfTests.filter((q) => attempts[q.id]?.selfMarked === 'knew').length;
+
+  if (entries.length === 0) {
+    return (
+      <p className="mt-1 text-sm text-ink-soft">
+        No practice attempts yet. Self-tests live at <Link to="/practice/self-tests" className="text-forest hover:underline">Practice → Self-tests</Link> and
+        hypotheticals at <Link to="/practice/case-analysis" className="text-forest hover:underline">Practice → Case analysis</Link>.
+      </p>
+    );
+  }
+
+  return (
+    <div className="mt-2">
+      <p className="text-sm text-ink-soft">
+        {reviewedSelf} of {selfTests.length} self-tests reviewed ({knew} self-marked “knew”) · {attemptedHypos} of{' '}
+        {hypos.length} hypotheticals attempted. Self-reported only — this app does not auto-grade.
+      </p>
+      <ul className="mt-3 divide-y divide-line">
+        {entries.slice(0, 10).map((attempt) => {
+          const question = index.questions.find((q) => q.id === attempt.questionId);
+          const to =
+            attempt.kind === 'iracHypo'
+              ? `/practice/case-analysis#${attempt.questionId}`
+              : `/practice/self-tests#${attempt.questionId}`;
+          return (
+            <li key={attempt.questionId} className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5 py-2 text-sm">
+              <Link to={to} className="font-medium text-ink hover:text-forest hover:underline">
+                {attempt.kind === 'iracHypo' ? 'Hypothetical' : 'Self-test'} · {attempt.questionId}
+              </Link>
+              <span className="text-[13px] text-ink-faint">
+                {question ? question.topicIds.map((id) => index.byId.topic.get(id)?.title).filter(Boolean).join(' · ') : ''}
+              </span>
+              <span className="ml-auto text-[13px] text-ink-faint">
+                {attempt.selfMarked ? `self-marked ${attempt.selfMarked}` : attempt.revealedKey ? 'key revealed' : `${attempt.revealedHints?.length ?? 0} hint(s)`}
+                {' · '}
+                {new Date(attempt.attemptedAt).toLocaleString()}
+              </span>
+            </li>
+          );
+        })}
+      </ul>
+      {entries.length > 10 ? <p className="mt-2 text-[13px] text-ink-faint">Showing the 10 most recent of {entries.length}.</p> : null}
+    </div>
+  );
+}
 
 export function ProgressPage() {
   const index = useContent();
@@ -187,13 +243,10 @@ export function ProgressPage() {
         )}
       </section>
 
-      {/* Practice history placeholder (honest) */}
-      <section className="rounded-xl border border-dashed border-line bg-paper p-5">
+      {/* Practice history */}
+      <section className="rounded-xl border border-line bg-paper p-5">
         <h2 className="font-serif text-lg font-semibold text-ink">Practice history</h2>
-        <p className="mt-1 text-sm text-ink-soft">
-          No practice history yet — the Practice Center ships in P1 with the source-backed self-tests and IRAC
-          hypotheticals.
-        </p>
+        <PracticeHistory />
       </section>
 
       {/* Data controls */}

@@ -6,10 +6,21 @@
     "facts": "During negotiations for land, the parties exchanged written proposals, discussed terms, and part of the price was paid. The seller argued no sale was perfected because the acceptance allegedly qualified the offer.",
     "issue": "Was there a meeting of minds on the thing and price, or was the acceptance a counteroffer?",
     "doctrine": "The Court examined the substance of the exchange and found the essential terms agreed upon. Under Arts. 1319 and 1475, acceptance must be absolute; a clarification or non-material request does not necessarily destroy acceptance if the response remains positive and unequivocal.",
-    "examUse": "Identify the alleged deviation and decide whether it changes an essential term. Cite the rule first, then compare the actual offer and acceptance.",
-    "topicIds": ["ba166.sales.formation"],
-    "provisionIds": ["prov.ncc-1319"],
-    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "examUse": "Identify the alleged deviation and decide whether it changes an essential term. Cite the rule first, then compare the actual offer and acceptance. Do not mechanically label every requested clarification a counteroffer.",
+    "topicIds": [
+      "ba166.sales.formation"
+    ],
+    "provisionIds": [
+      "prov.ncc-1319"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.r01",
+        "page": "p. 5",
+        "section": "Sec. 3",
+        "excerptHint": "Case digest"
+      }
+    ],
     "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
   },
   {
@@ -18,11 +29,22 @@
     "citation": "G.R. No. L-25494, June 14, 1972",
     "facts": "Rigos signed an instrument entitled Option to Purchase land for a fixed price within a stated period. Sanchez attempted to exercise it by tendering the price; Rigos refused.",
     "issue": "Can an accepted unilateral promise be kept irrevocable even without consideration distinct from the price?",
-    "doctrine": "Under Art. 1479 read with Art. 1324, a unilateral promise unsupported by distinct option consideration may be withdrawn before acceptance is communicated. But while it remains unwithdrawn, it can operate as an offer; timely acceptance before communicated withdrawal can result in a binding sale.",
-    "examUse": "Separate the validity of the option as a preparatory contract from the offer's ability to become a sale when accepted before withdrawal.",
-    "topicIds": ["ba166.sales.formation"],
-    "provisionIds": ["prov.ncc-1479-option"],
-    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "doctrine": "Under Art. 1479 read with Art. 1324, a unilateral promise unsupported by distinct option consideration may be withdrawn before acceptance is communicated. But while it remains unwithdrawn, it can operate as an offer; timely acceptance before communicated withdrawal can result in a binding sale. The later en banc rule in Sanchez controls over inconsistent earlier doctrine.",
+    "examUse": "Separate the validity of the option as a preparatory contract from the offer's ability to become a sale when accepted before withdrawal. Do not say \"no separate consideration means no contract can ever arise.\"",
+    "topicIds": [
+      "ba166.sales.formation"
+    ],
+    "provisionIds": [
+      "prov.ncc-1479-option"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.r01",
+        "page": "p. 5",
+        "section": "Sec. 3",
+        "excerptHint": "Case digest"
+      }
+    ],
     "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
   },
   {
@@ -32,10 +54,19 @@
     "facts": "A lease included a priority right to purchase if the lessor decided to sell. The property was transferred without first giving the lessee the promised priority.",
     "issue": "What is the effect of a right of first refusal incorporated into another contract?",
     "doctrine": "The right of first refusal is a contractual right obliging the owner, upon deciding to sell, to make the first offer to the holder on the terms contemplated by the clause. Where integrated into a lease, it may be an indivisible term supported by the lease consideration.",
-    "examUse": "Ask whether the owner had decided to sell, whether the right-holder received a genuine first offer, and whether the terms were sufficiently ascertainable.",
-    "topicIds": ["ba166.sales.formation"],
+    "examUse": "Ask whether the owner had decided to sell, whether the right-holder received a genuine first offer, and whether the terms were sufficiently ascertainable. It is not automatically identical to an option at a pre-fixed price.",
+    "topicIds": [
+      "ba166.sales.formation"
+    ],
     "provisionIds": [],
-    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 5", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "sourceRefs": [
+      {
+        "sourceId": "src.r01",
+        "page": "p. 5",
+        "section": "Sec. 3",
+        "excerptHint": "Case digest"
+      }
+    ],
     "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
   },
   {
@@ -44,11 +75,23 @@
     "citation": "G.R. No. 179653, July 31, 2009",
     "facts": "A landowner issued a letter stating an intention to sell a parcel to an association that needed financing. The acquisition depended on raising funds; the association failed to acquire another portion within an extension, and the owner sold to a third party.",
     "issue": "Did the letters of intent create a reciprocal, enforceable promise to sell and buy under Art. 1479?",
-    "doctrine": "The Court treated the letters as expressions of intention — not a sale, option, or binding bilateral promise. They lacked a definite commitment to sell exclusively to the association and were part of preliminary financing steps. The case also explains why Art. 1544 does not simply apply to an unconsummated contract to sell.",
+    "doctrine": "The Court treated the letters as expressions of intention — not a sale, option, or binding bilateral promise. They lacked a definite commitment to sell exclusively to the association and were part of preliminary financing steps. The case also explains the distinction between contract to sell and conditional sale and why Art. 1544 does not simply apply to an unconsummated contract to sell.",
     "examUse": "Read the whole instrument, not just the heading. Look for definite object and price, a present promise to be bound, exclusivity or title reservation, and a condition triggering conveyance.",
-    "topicIds": ["ba166.sales.formation", "ba166.sales.concept"],
-    "provisionIds": ["prov.ncc-1479-option"],
-    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 5–6", "section": "Sec. 3", "excerptHint": "Case digest" }],
+    "topicIds": [
+      "ba166.sales.formation",
+      "ba166.sales.concept"
+    ],
+    "provisionIds": [
+      "prov.ncc-1479-option"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.r01",
+        "page": "pp. 5–6",
+        "section": "Sec. 3",
+        "excerptHint": "Case digest"
+      }
+    ],
     "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
   },
   {
@@ -59,9 +102,20 @@
     "issue": "When does the Art. 1544 priority ladder apply?",
     "doctrine": "Art. 1544 applies only where: (1) at least two valid sales cover exactly the same subject matter; (2) the buyers' interests conflict; and (3) both acquired from the same seller. Good faith is a separate and decisive inquiry at the relevant point.",
     "examUse": "For immovables, write the ladder in order — good-faith registration first; only absent inscription do possession and then oldest title matter.",
-    "topicIds": ["ba166.sales.double-sale"],
-    "provisionIds": ["prov.ncc-1544"],
-    "sourceRefs": [{ "sourceId": "src.r01", "page": "pp. 8, 12", "section": "Sec. 7; Sec. 12", "excerptHint": "Cheng requisites; drill" }],
+    "topicIds": [
+      "ba166.sales.double-sale"
+    ],
+    "provisionIds": [
+      "prov.ncc-1544"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.r01",
+        "page": "pp. 8, 12",
+        "section": "Sec. 7; Sec. 12",
+        "excerptHint": "Cheng requisites; drill"
+      }
+    ],
     "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
   },
   {
@@ -71,10 +125,802 @@
     "facts": "Competing land claims arose from dealings involving hereditary and co-owner interests and a parcel with a history of earlier transfers.",
     "issue": "Can a party rely on a priority rule without proving the legally relevant title, authority, and good-faith facts?",
     "doctrine": "Resolving competing claims first requires determining what share the transferor could convey, the operative title, and the relevant facts concerning possession or registration. Do not jump directly to Art. 1544 without establishing its requisites.",
-    "examUse": "Check whether every buyer bought from the same seller and whether that seller had authority over the exact interest sold.",
-    "topicIds": ["ba166.sales.double-sale"],
-    "provisionIds": ["prov.ncc-1544"],
-    "sourceRefs": [{ "sourceId": "src.r01", "page": "p. 8", "section": "Sec. 7", "excerptHint": "Case digest" }],
+    "examUse": "For an immovable, write the priority ladder in order and separately analyze good faith. Check whether every buyer bought from the same seller and whether that seller had authority over the exact interest sold.",
+    "topicIds": [
+      "ba166.sales.double-sale"
+    ],
+    "provisionIds": [
+      "prov.ncc-1544"
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "src.r01",
+        "page": "p. 8",
+        "section": "Sec. 7",
+        "excerptHint": "Case digest"
+      }
+    ],
     "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+  },
+  {
+    "citation": "G.R. No. 207078, June 20, 2022",
+    "doctrine": "A freeze order requires facts showing a probable connection between the specific account/property and unlawful activity; a broad list of accounts or income-versus-transactions inference is not enough where the evidentiary link is missing. The burden of proving probable cause always rests with the AMLC, never with the account owners (though the burden of evidence may shift once AMLC makes a prima facie case).",
+    "examUse": "For freeze orders, analyze probable cause and the specific property-to-activity link; AMLC bears the burden. Quote: the burden of proving probable cause always rests with the AMLC.",
+    "facts": "AMLC investigated alleged anomalous DBP loan accommodations to Deltaventure Resources, Inc., transactions involving DBP's Philex shares, and related transfers/sales, and sought to freeze many bank accounts as related to unlawful activity and money laundering. The CA lifted the freeze over most accounts, keeping only a Bank of Commerce account of Boerstar Corporation linked by evidence to the transactions.",
+    "id": "case.republic-ongpin",
+    "issue": "Whether AMLC sufficiently established probable cause to keep the freeze orders over the unfrozen accounts, and whether the burden shifted to account holders to prove legitimacy.",
+    "name": "Republic v. Ongpin",
+    "provisionIds": [
+      "prov.ra9160-sec10"
+    ],
+    "ruling": "The Court denied the Republic's petition and affirmed lifting the freeze over all but the demonstrably linked account, stressing that freeze and bank-inquiry orders are extraordinary remedies.",
+    "sourceRefs": [
+      {
+        "paras": "paras 55-60",
+        "section": "Case digest — Republic v. Ongpin, G.R. No. 207078 (June 20, 2022)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "topicIds": [
+      "ba166.amla.suspicious",
+      "ba166.amla.amlc"
+    ]
+  },
+  {
+    "citation": "G.R. Nos. 232724–27, February 15, 2021",
+    "doctrine": "The Sec. 9(c) confidentiality/tipping-off rule does not automatically bar AMLC from participating in prosecutions or lawfully disclosing information in its investigative/prosecutorial functions. A CTR/STR as financial intelligence must be distinguished from bank records and evidence obtainable through lawful processes.",
+    "examUse": "Distinguish the covered person's tipping-off ban from AMLC's own investigative role: AMLC is not merely a repository of reports.",
+    "facts": "In a criminal case over second-hand helicopters represented as brand new, the prosecution sought AMLC records and testimony on covered/suspicious transaction reports for a bank account; AMLC invoked AMLA confidentiality against disclosure.",
+    "id": "case.republic-sandiganbayan-2021",
+    "issue": "Whether AMLA Sec. 9(c) prohibited AMLC itself from disclosing covered or suspicious transaction reports in criminal proceedings.",
+    "name": "Republic v. Sandiganbayan and Office of the Ombudsman",
+    "provisionIds": [
+      "prov.ra9160-sec9c"
+    ],
+    "ruling": "The Court rejected AMLC's blanket position: the Sec. 9(c) prohibition targets covered persons and their officers/employees to prevent tipping-off, while AMLC has separate statutory investigative and case-institution functions.",
+    "sourceRefs": [
+      {
+        "paras": "paras 62-67",
+        "section": "Case digest — Republic v. Sandiganbayan and Office of the Ombudsman, G.R. Nos. 232724–27 (February 15, 2021)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "topicIds": [
+      "ba166.amla.suspicious"
+    ]
+  },
+  {
+    "citation": "G.R. No. 174629, February 14, 2008",
+    "doctrine": "Bank secrecy yields to express statutory exceptions. An ex parte AMLA bank inquiry is valid when court-authorized because advance notice could defeat the investigation by allowing funds or evidence to be moved — but it is not a general license for unrestricted access to all accounts.",
+    "examUse": "For bank inquiry, identify the legal authority and the bank-secrecy exception; explain the ex parte rationale and its statutory safeguards.",
+    "facts": "The Republic, through AMLC, sought authority to inquire into a bank account during an anti-money-laundering investigation; the account holder challenged the bank-inquiry mechanism and ex parte (no prior notice) authorization as unconstitutional and violative of deposit confidentiality and due process.",
+    "id": "case.republic-eugenio",
+    "issue": "Whether the AMLA bank-inquiry provision and its ex parte procedure were unconstitutional or impermissibly intruded on confidentiality and due process.",
+    "name": "Republic v. Eugenio, Jr.",
+    "provisionIds": [
+      "prov.ra9160-sec11"
+    ],
+    "ruling": "The Court upheld the mechanism as an extraordinary provisional remedy aiding money-laundering investigation, reasoning that prior notice could frustrate the probe; the remedy must stay within statutory conditions and safeguards.",
+    "sourceRefs": [
+      {
+        "paras": "paras 106-110",
+        "section": "Case digest — Republic v. Eugenio, Jr., G.R. No. 174629 (February 14, 2008)",
+        "sourceId": "src.amla"
+      }
+    ],
+    "topicIds": [
+      "ba166.amla.amlc"
+    ]
+  },
+  {
+    "citation": "G.R. No. L-63419, December 18, 1986 (En Banc)",
+    "doctrine": "The constitutional ban on imprisonment for debt does not invalidate B.P. Blg. 22 because the offense is the issuance of a worthless check — a public-welfare offense under the police power — rather than non-payment alone.",
+    "examUse": "State the debt-versus-worthless-check distinction and cite police power. Court's key wording: The gravamen of the offense punished by BP 22 is the act of making and issuing a worthless check.",
+    "facts": "Several BP 22 accused challenged the law as violating the ban on imprisonment for debt, impairing freedom of contract, denying equal protection, and suffering enactment defects.",
+    "id": "case.lozano-martinez",
+    "issue": "Is B.P. Blg. 22 unconstitutional because it may impose imprisonment for a check connected with a debt?",
+    "name": "Lozano v. Martinez",
+    "provisionIds": [
+      "prov.bp22-sec1"
+    ],
+    "ruling": "No. The Court upheld the law: it penalizes issuing and circulating worthless checks, which affects public confidence in checks and banking — a valid police-power measure.",
+    "sourceRefs": [
+      {
+        "paras": "paras 27-33",
+        "section": "Case Digest: Lozano v. Martinez",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "topicIds": [
+      "ba166.bp22.constitutionality"
+    ]
+  },
+  {
+    "citation": "G.R. No. 110782, September 25, 1998 (En Banc)",
+    "doctrine": "An issuance falls outside B.P. Blg. 22 when the prosecution fails to establish the first element — that the check was issued to apply on account or for value. The exact transaction and evidence matter.",
+    "examUse": "Idos is evidence-specific, not a blanket guarantee-check exemption: the check merely evidenced a future partnership share with no present debt or account. Court's key wording: The check was not intended to apply on account or for value.",
+    "facts": "After dissolving their partnership, Idos issued postdated checks evidencing Alarilla's proportionate share, payable from future sale of goods and collection of receivables. One check was dishonored; Idos maintained it was assurance of an eventual share, not payment of a debt or existing account.",
+    "id": "case.idos-ca",
+    "issue": "Was the check issued to apply on account or for value under Sec. 1 of B.P. Blg. 22?",
+    "name": "Idos v. Court of Appeals and People",
+    "provisionIds": [
+      "prov.bp22-sec1"
+    ],
+    "ruling": "No. The record showed no present debt or account due and payable for the check; the Court also found insufficient proof of actual knowledge of insufficiency and no adequate proof of notice of dishonor. Acquitted.",
+    "sourceRefs": [
+      {
+        "paras": "paras 42-48",
+        "section": "Case Digest: Idos v. Court of Appeals and People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "topicIds": [
+      "ba166.bp22.issuance"
+    ]
+  },
+  {
+    "citation": "G.R. Nos. L-75217-18, September 21, 1987",
+    "doctrine": "A check issued as a guarantee or deposit is not for that reason alone outside B.P. Blg. 22; the purpose of issuance does not automatically create an exemption.",
+    "examUse": "Contrast with Idos: guarantee purpose alone never exempts, but the State must still prove every element. Court's key wording: Batas Pambansa Bilang 22 applies even in cases where dishonored checks are issued merely in the form of a deposit or a guarantee.",
+    "facts": "Victor Que, connected with Powerhouse Supply, Inc., argued his BP 22 checks merely guaranteed company purchases; the checks were dishonored and lower courts sustained conviction.",
+    "id": "case.que-people",
+    "issue": "Does issuance merely as a guarantee or security remove a check from B.P. Blg. 22?",
+    "name": "Que v. People",
+    "provisionIds": [
+      "prov.bp22-sec1"
+    ],
+    "ruling": "No. The law does not distinguish payment checks from guarantee checks; reconsideration denied, conviction stood.",
+    "sourceRefs": [
+      {
+        "paras": "paras 52-58",
+        "section": "Case Digest: Que v. People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "topicIds": [
+      "ba166.bp22.issuance"
+    ]
+  },
+  {
+    "citation": "G.R. No. 119178, June 20, 1997",
+    "doctrine": "A signatory is not automatically guilty because a signed check later bounces. Knowledge must be proved beyond reasonable doubt, and the Sec. 2 notice requirement must be satisfied before its presumption can apply.",
+    "examUse": "Test knowledge and notice separately: corporate role without treasury control plus no personal notice defeats the presumption. Court's key wording: The prosecution has a duty to prove all the elements of the crime, including the acts that give rise to the prima facie presumption.",
+    "facts": "Marketing employee Lina Lim Lao signed blank corporate checks as routine work; another person filled in payee and amounts. The checks bounced; she had no treasury/funding control, and the notice sent to the corporate main office was not shown personally received by her.",
+    "id": "case.lim-lao-ca",
+    "issue": "Can an employee be convicted without proof of actual knowledge of insufficiency or actual notice of dishonor?",
+    "name": "Lim Lao v. Court of Appeals and People",
+    "provisionIds": [
+      "prov.bp22-sec1",
+      "prov.bp22-sec2"
+    ],
+    "ruling": "No. Knowledge is essential, the presumption is only prima facie and rebuttable, and corporate notice was not personal notice to her. Acquitted.",
+    "sourceRefs": [
+      {
+        "paras": "paras 66-72",
+        "section": "Case Digest: Lim Lao v. Court of Appeals and People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "topicIds": [
+      "ba166.bp22.knowledge"
+    ]
+  },
+  {
+    "citation": "G.R. No. 150618, July 24, 2003",
+    "doctrine": "The prosecution must prove the evidentiary requirements for dishonor and the notice triggering the Sec. 2 presumption. Criminal acquittal does not erase the separate civil obligation to pay the debt the checks represent.",
+    "examUse": "Reading Secs. 2 and 3 together: written notice of dishonor plus the 5-banking-day opportunity is required. Court's key wording: Without the written notice of dishonor, there can be no basis for establishing the presence of actual knowledge of insufficiency of funds.",
+    "facts": "Evangeline Cabrera was convicted on three BP 22 counts for checks to Luis Go; on review she showed the demand letter was never formally offered and the evidence did not adequately prove actual written notice to her.",
+    "id": "case.cabrera-people",
+    "issue": "Could the convictions stand without adequate proof of written notice of dishonor and the statutory chance to pay or arrange payment?",
+    "name": "Cabrera v. People",
+    "provisionIds": [
+      "prov.bp22-sec2",
+      "prov.bp22-sec3"
+    ],
+    "ruling": "No. Convictions reversed and Cabrera acquitted for failure of proof beyond reasonable doubt; her civil obligation for the checks' face value was upheld.",
+    "sourceRefs": [
+      {
+        "paras": "paras 78-84",
+        "section": "Case Digest: Cabrera v. People",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "topicIds": [
+      "ba166.bp22.dishonor"
+    ]
+  },
+  {
+    "citation": "G.R. Nos. 59568-76, January 11, 1990 (En Banc)",
+    "doctrine": "B.P. Blg. 22 and estafa are separate offenses with different elements; no double jeopardy arises merely because the same act or check is involved, as long as each prosecution independently meets its legal requirements.",
+    "examUse": "Estafa needs deceit + damage; BP 22 does not. Sec. 5 preserves RPC liability. Court's key wording: A single criminal act may give rise to a multiplicity of offenses.",
+    "facts": "Peter Nierras bought oil products from Pilipinas Shell and issued nine checks on delivery; the account was closed and the checks bounced. He faced both BP 22 and Art. 315(2)(d) estafa cases and claimed the later estafa prosecutions were double jeopardy.",
+    "id": "case.nierras-dacuycuy",
+    "issue": "May a person be prosecuted under both B.P. Blg. 22 and Art. 315(2)(d) for the same bouncing checks?",
+    "name": "Nierras v. Dacuycuy",
+    "provisionIds": [
+      "prov.bp22-sec5",
+      "prov.rpc315-2d"
+    ],
+    "ruling": "Yes. The offenses are distinct; a single act may violate both laws when both element sets are satisfied, and Sec. 5 expressly preserves RPC liability. Petition dismissed (certiorari also held an improper remedy against denial of a motion to quash).",
+    "sourceRefs": [
+      {
+        "paras": "paras 98-104",
+        "section": "Case Digest: Nierras v. Dacuycuy",
+        "sourceId": "src.bp22"
+      }
+    ],
+    "topicIds": [
+      "ba166.bp22.penalties"
+    ]
+  },
+  {
+    "doctrine": "For doctrine recall, frame the answer around consumer vulnerability, the seller's conduct, the terms of the transaction and the statutory test under Art. 52. (Reviewer framing guidance; the reviewer states the syllabus supplies no facts or holding for this case.)",
+    "examUse": "Use the assigned case to identify the exact challenged practice and how the adjudicator applied the statutory unfair/unconscionable standard.",
+    "id": "case.aowa-electronics-dti",
+    "name": "Aowa Electronics v. DTI",
+    "note": "Reviewer paraphrase: the syllabus names this case under Art. 52 without facts or holding, and the reviewer invents no case-specific quotation or procedural history (per R02 p. 3). Confirm the holding in the class-assigned decision.",
+    "provisionIds": [
+      "prov.ra7394-art52"
+    ],
+    "sourceRefs": [
+      {
+        "excerptHint": "Case note: Aowa Electronics v. DTI",
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r02"
+      }
+    ],
+    "topicIds": [
+      "ba166.consumer.deceptive-acts"
+    ]
+  },
+  {
+    "doctrine": "Connect the facts of the assigned decision to the applicable Consumer Act articles and the relevant special statute/rule. (Reviewer framing guidance; the reviewer gives no facts or holding for this case.)",
+    "examUse": "Confirm the exact factual holding from the class-assigned decision. Do not extrapolate an unverified rule about every tobacco promotion from the case name alone.",
+    "id": "case.doh-philip-morris",
+    "name": "DOH v. Philip Morris",
+    "note": "Reviewer paraphrase: the syllabus names this case in connection with sales promotions without facts or holding (per R02 p. 3). Confirm the holding in the class-assigned decision.",
+    "provisionIds": [
+      "prov.ra7394-arts116-121"
+    ],
+    "sourceRefs": [
+      {
+        "excerptHint": "DOH v. Philip Morris note",
+        "page": "p. 3",
+        "section": "Sec. 3",
+        "sourceId": "src.r02"
+      }
+    ],
+    "topicIds": [
+      "ba166.consumer.deceptive-acts"
+    ]
+  },
+  {
+    "doctrine": "Build the statutory analysis around Civil Code Arts. 1546-1547 and the relevant Consumer Act provision, identifying which warranty was alleged and whether the pattern concerned a defect, a representation, or a promised service. (Reviewer framing guidance; the reviewer fabricates no precise holding.)",
+    "examUse": "Use the assigned decision to identify which warranty was alleged, whether the fact pattern concerned a defect, a representation, or a promised service, and the doctrine the professor expects.",
+    "id": "case.deguzman-toyota-cubao",
+    "name": "De Guzman v. Toyota Cubao",
+    "note": "Reviewer paraphrase: the syllabus lists this case at the Civil Code warranty cross-reference with only the case name (per R02 p. 4). Confirm the holding in the class-assigned decision.",
+    "provisionIds": [
+      "prov.ncc-1546",
+      "prov.ra7394-arts68-71"
+    ],
+    "sourceRefs": [
+      {
+        "excerptHint": "Case note: De Guzman v. Toyota Cubao",
+        "page": "p. 4",
+        "section": "Sec. 5",
+        "sourceId": "src.r02"
+      }
+    ],
+    "topicIds": [
+      "ba166.consumer.warranties"
+    ]
+  },
+  {
+    "citation": "G.R. No. 172592, July 11, 2008",
+    "doctrine": "The Court reiterated the two pactum commissorium elements — a pledge/mortgage securing a principal obligation and a stipulation for automatic appropriation by the creditor upon nonpayment — and held that the Memorandum of Agreement and Dacion in Payment constituted pactum commissorium and were void on that basis.",
+    "examUse": "Substance prevails over the label “dacion en pago”: ask whether the debtor truly made a later voluntary transfer independent of the security, or whether the transfer was prearranged to vest collateral automatically upon default.",
+    "facts": "Borrowers executed loan/security documents and later documents characterized as a dacion en pago after default. The creditor argued the arrangements were not an unlawful automatic appropriation.",
+    "id": "case.ong-roban",
+    "issue": "Did the documents constitute a prohibited pactum commissorium under Art. 2088?",
+    "name": "Ong v. Roban Lending Corporation",
+    "provisionIds": [
+      "prov.ncc2-2088-pactum"
+    ],
+    "ruling": "The Memorandum of Agreement and Dacion in Payment were held to constitute pactum commissorium and were declared void.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Ong v. Roban Lending Corporation",
+        "page": "p. 2",
+        "section": "Sec. 1",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.general"
+    ]
+  },
+  {
+    "citation": "G.R. No. 150197",
+    "doctrine": "Dragnet clauses are capable of securing future indebtedness but are subject to strict construction. The reliance-on-the-security test examines whether the later credit was granted in reliance on the original mortgage or was treated as supported by a separate security; a new security can be evidence against extending the old mortgage to that loan.",
+    "examUse": "Do not say every future debt is secured because a mortgage contains a broad clause. Compare the first mortgage, later promissory note, later collateral, wording and evidence of the lender's actual reliance.",
+    "facts": "A bank sought to apply an earlier real estate mortgage's blanket clause to later credit accommodations, while the later transaction had separate documentation/security.",
+    "id": "case.prudential-alviar",
+    "issue": "Does the dragnet clause cover the subsequent loan?",
+    "name": "Prudential Bank v. Alviar",
+    "provisionIds": [
+      "prov.ncc2-2124-rem"
+    ],
+    "ruling": "The Court applied strict construction and the reliance-on-the-security test to determine whether the later credit was covered by the original mortgage.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Prudential Bank v. Alviar",
+        "page": "p. 3",
+        "section": "Sec. 2",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "citation": "G.R. No. L-17500, May 16, 1967",
+    "doctrine": "The Court upheld the after-acquired clause in the specific context of property acquired as additions/replacements in the business and expressly made subject to the lien, discussing immobilization and the parties' express treatment of the assets as subject to the real estate mortgage. Do not generalize it into a rule that every after-acquired movable automatically becomes real property.",
+    "examUse": "State the exact clause; examine the nature/use of the asset, whether it replaces/adds to mortgaged property, the parties' intent, and whether third-party rights/registration issues arise.",
+    "facts": "A lumber company mortgaged land, improvements and property used in the business. The deeds expressly covered replacement and subsequently acquired assets used in connection with the concession.",
+    "id": "case.peoplesbank-dahican",
+    "issue": "Can after-acquired property be covered by the real estate mortgage?",
+    "name": "People's Bank and Trust Co. v. Dahican Lumber Co.",
+    "provisionIds": [
+      "prov.ncc2-2124-rem"
+    ],
+    "ruling": "The clause covering replacement and subsequently acquired business assets was upheld in its specific context.",
+    "sourceRefs": [
+      {
+        "excerptHint": "People's Bank v. Dahican Lumber",
+        "page": "p. 3",
+        "section": "Sec. 2",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "citation": "G.R. No. 128567, September 1, 2000",
+    "doctrine": "The Court distinguished equity of redemption from a right of redemption after a foreclosure sale. The general rule is that a post-sale right of redemption is associated with extrajudicial foreclosure; judicial foreclosure usually has no such post-confirmation redemption right unless a special statute grants it. Statutory bank-mortgage rights cannot be circumvented merely through assignment of the mortgage debt.",
+    "examUse": "Identify the foreclosure type, whether sale is confirmed/registered, the mortgagee's status and any banking-law exception. Never use “equity” and “right” of redemption interchangeably.",
+    "facts": "The dispute involved a mortgaged property and a claim to redeem after foreclosure, including the effect of assignment of the mortgage debt to an entity that was not itself a bank.",
+    "id": "case.huerta-alba",
+    "issue": "When does the right of redemption exist, and is it the same as equity of redemption?",
+    "name": "Huerta Alba Resort, Inc. v. Court of Appeals",
+    "provisionIds": [
+      "prov.ncc2-rule68-judicial",
+      "prov.ncc2-act3135-extrajudicial"
+    ],
+    "ruling": "Equity of redemption was distinguished from a post-sale right of redemption; assignment of the mortgage debt to a non-bank did not circumvent the statutory bank-mortgage redemption framework.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Huerta Alba Resort v. CA",
+        "page": "p. 4",
+        "section": "Sec. 3",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "doctrine": "Surplus from foreclosure must be returned to the mortgagor after applying the proceeds to the secured obligation and legally chargeable amounts. A failure to return the surplus is not necessarily a loan or forbearance of money; interest is governed by the applicable rules on obligations/damages and relevant jurisprudence.",
+    "examUse": "Confirm the exact factual holding on surplus and interest from the class-assigned decision.",
+    "id": "case.suico-pnb",
+    "name": "Spouses Suico v. Philippine National Bank",
+    "note": "Reviewer paraphrase: the syllabus names this case for surplus with only a central-doctrine summary and no facts, citation, or holding detail (per R06 p. 4). Confirm the holding in the class-assigned decision.",
+    "provisionIds": [
+      "prov.ncc2-rule68-judicial",
+      "prov.ncc2-act3135-extrajudicial"
+    ],
+    "sourceRefs": [
+      {
+        "excerptHint": "Spouses Suico v. PNB (surplus)",
+        "page": "p. 4",
+        "section": "Sec. 3",
+        "sourceId": "src.r06"
+      }
+    ],
+    "topicIds": [
+      "ba166.credit.rem"
+    ]
+  },
+  {
+    "doctrine": "A health-care agreement can be a contract of insurance when its substance is an undertaking, for consideration, to cover loss or expenses resulting from illness or hospitalization. The nature of the promise — not only the contract's label — matters.",
+    "examUse": "Do not automatically assume an HMO/health-care agreement falls outside insurance law because it is called a “health-care agreement.” Analyze the actual promise and the risk assumed.",
+    "facts": "Ernani Trinos obtained a health-care agreement from Philamcare and answered “no” to an application question asking whether he or family members had previously consulted or been treated for listed medical conditions. During the coverage period, he suffered a heart attack and was hospitalized. Philamcare denied the claim, alleging concealment of prior medical conditions. His wife paid the hospital expenses and pursued reimbursement.",
+    "id": "case.philamcare-ca",
+    "issue": "Was the health-care agreement a contract of insurance, and could Philamcare avoid coverage based on alleged concealment?",
+    "name": "Philamcare Health Systems, Inc. v. Court of Appeals",
+    "note": "Supreme Court E-Library: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/50579. The Court also applied the rule that health-care contracts should be read liberally in favor of subscribers and that exclusionary language of doubtful meaning is construed strictly against the provider.",
+    "provisionIds": [
+      "prov.ra10607-sec2a",
+      "prov.ra10607-sec2b"
+    ],
+    "ruling": "The Supreme Court denied Philamcare's petition and affirmed the Court of Appeals. It treated the agreement as insurance in substance because Philamcare, for a fee, undertook to cover specified medical and hospitalization expenses upon a covered event. The application answers did not justify the denial based merely on opinion/belief-type responses, and the relevant contestability periods had passed.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Philamcare digest",
+        "paras": "paras 49-55",
+        "section": "Case digest: Philamcare Health Systems, Inc. v. Court of Appeals",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "topicIds": [
+      "ba166.insurance.definitions"
+    ],
+    "citation": "G.R. No. 125678, March 18, 2002"
+  },
+  {
+    "doctrine": "A person need not always hold formal title or possession to have an insurable interest. A buyer/consignee may have one if the sale and related transaction mean the buyer would suffer loss if the goods were damaged. Under an all-risks cargo policy, proof of damage may shift the burden to the insurer to establish an exclusion.",
+    "examUse": "Memorize the sequence: (1) show cargo was in good condition when coverage attached; (2) show damage/loss on arrival; (3) the insurer must prove that an exclusion applies.",
+    "facts": "Choa Tiek Seng, the consignee/buyer of fishmeal shipped from Bangkok to Manila, insured the cargo under a marine “all risks” policy. When the cargo arrived, numerous bags were damaged and there was a shortage. The insurer refused to pay, arguing that no specific accidental cause had been proved and that the consignee lacked an insurable interest.",
+    "id": "case.filipino-merchants-ca",
+    "issue": "Was the cargo loss covered by the “all risks” policy, and did the consignee have an insurable interest in goods in transit?",
+    "name": "Filipino Merchants Insurance Co., Inc. v. Court of Appeals",
+    "note": "Lawphil: https://lawphil.net/judjuris/juri1989/nov1989/gr_85141_1989.html",
+    "provisionIds": [
+      "prov.ra10607-sec13",
+      "prov.ra10607-sec101a"
+    ],
+    "ruling": "The Supreme Court denied the insurer's petition and affirmed the award for the insured. It explained that an “all risks” policy covers loss from an accidental cause unless the insurer proves an applicable exclusion. The insured's initial burden was to show that the cargo was in good condition when coverage attached and that it was damaged upon unloading; the insurer then had to show that an excluded peril caused the loss. The consignee had an insurable interest because the perfected sale gave him an equitable interest in the goods in transit.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Filipino Merchants digest",
+        "paras": "paras 142-148",
+        "section": "Case digest: Filipino Merchants Insurance Co., Inc. v. Court of Appeals",
+        "sourceId": "src.ins1"
+      }
+    ],
+    "topicIds": [
+      "ba166.insurance.interest"
+    ],
+    "citation": "G.R. No. 85141, November 28, 1989"
+  },
+  {
+    "doctrine": "A material fact is judged by its probable and reasonable influence on the insurer's risk assessment. Failure to disclose recent medical consultations may be material even when the applicant believes the condition is minor; the non-medical nature of the policy makes truthful health disclosures especially important.",
+    "examUse": "Ask whether a reasonable insurer would probably be influenced by the fact when assessing the risk or deciding whether to inquire further — not whether the undisclosed fact caused the eventual loss.",
+    "facts": "Jaime Canilang applied for non-medical life insurance shortly after consulting a doctor twice. He was diagnosed with sinus tachycardia and acute bronchitis and had been prescribed medication, but his medical declaration stated that he had not received medical attention in the prior five years and had not been treated or consulted for listed conditions. He later died, and the insurer denied the beneficiary's claim because of nondisclosure.",
+    "id": "case.canilang-ca",
+    "issue": "Was the failure to disclose the recent medical consultations a material concealment allowing the insurer to rescind, even if the insured may have thought the ailments were minor?",
+    "name": "Vda. de Canilang v. Court of Appeals",
+    "note": "Court's key phrase: “probable and reasonable influence of the facts”. Full decision: https://lawyerly.ph/juris/view/c7a62",
+    "provisionIds": [
+      "prov.ra10607-sec27",
+      "prov.ra10607-sec28",
+      "prov.ra10607-sec31"
+    ],
+    "ruling": "Yes. The Supreme Court affirmed the Court of Appeals' decision denying recovery under the policy. The undisclosed doctor visits, diagnoses, and medication were material because they could have prompted further inquiries or affected whether the insurer issued a non-medical policy or charged a higher premium. Materiality did not depend on the insured's subjective belief or on whether the concealed condition was ultimately the cause of death.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Canilang digest",
+        "paras": "paras 156-162",
+        "section": "Case digest: Vda. de Canilang v. Court of Appeals",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "topicIds": [
+      "ba166.insurance.rescission"
+    ],
+    "citation": "G.R. No. 92492, June 17, 1993"
+  },
+  {
+    "doctrine": "The incontestability clause promotes stability and protects insured persons and beneficiaries from late repudiation. Insurers are expected to investigate policy issuance within the statutory period. The case involved a policy in force for more than two years before the insured died; the statutory text and the facts must be applied carefully when a question changes that timing.",
+    "examUse": "Section 48 gives the insurer two years, while the insured is alive, to investigate and establish the claimed defects. An insurer cannot continue collecting premiums and later deny liability through a belated challenge after the statutory period has passed.",
+    "facts": "Delia Sotero obtained a ₱100,000 life insurance policy issued on August 30, 1993 and named her niece, Cresencia Aban, as beneficiary. Sotero died on April 10, 1996, more than two years after issuance. After the claim, the insurer alleged that Sotero had not personally applied, was illiterate and sickly, and that Aban had effectively procured the policy and named herself beneficiary. The insurer denied the claim and later sued to annul or rescind the policy.",
+    "id": "case.manila-bankers-aban",
+    "issue": "Could the insurer still contest or rescind the policy on allegations of fraud, concealment, misrepresentation, or lack of insurable interest after the policy had been in force during the insured's lifetime for more than two years?",
+    "name": "Manila Bankers Life Insurance Corporation v. Aban",
+    "note": "Court's key phrase: “After two years, the defenses of concealment or misrepresentation, no matter how patent or well-founded, will no longer lie”. Supreme Court E-Library: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/18/56125",
+    "provisionIds": [
+      "prov.ra10607-sec48",
+      "prov.ra10607-sec233b"
+    ],
+    "ruling": "No. The Supreme Court denied the insurer's petition and affirmed the dismissal of its action. Section 48 gave the insurer two years, while the insured was alive, to investigate and establish the claimed defects.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Manila Bankers digest",
+        "paras": "paras 223-229",
+        "section": "Case digest: Manila Bankers Life Insurance Corporation v. Aban",
+        "sourceId": "src.ins2"
+      }
+    ],
+    "topicIds": [
+      "ba166.insurance.rescission"
+    ],
+    "citation": "G.R. No. 175666, July 29, 2013, 715 Phil. 404"
+  },
+  {
+    "citation": "G.R. No. 221717, June 19, 2017",
+    "doctrine": "The comparison is not restricted to identical goods. A mark may be refused where the signs are similar and the goods or services are related so that the public may infer a business connection.",
+    "examUse": "Spot Sec. 123.1(d)(iii): similar signs plus related goods or services can bar registration through likely confusion of business.",
+    "facts": "IFP applied to register OK Hotdog Inasal Cheese Hotdog Flavor Mark for snack products. Mang Inasal opposed based on its earlier registered MANG INASAL mark for restaurant services, known for chicken inasal.",
+    "id": "case.mang-inasal-ifp",
+    "issue": "Was the proposed snack mark similar to the earlier mark, with related goods and services, so that registration was barred by Sec. 123.1(d)(iii)?",
+    "keyPhrase": "likely to cause deception or confusion",
+    "name": "Mang Inasal Philippines, Inc. v. IFP Manufacturing Corp.",
+    "note": "Reviewer paraphrase: syllabus-relevant facts, issue, ruling and doctrine only.",
+    "provisionIds": [
+      "prov.ip-sec123-1"
+    ],
+    "ruling": "The Court granted Mang Inasal's petition, applied the dominancy test, found INASAL dominant, and treated the goods and services as related in the circumstances, creating likely confusion of business.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Mang Inasal digest",
+        "page": "p. 9",
+        "section": "TM Sec. 3",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "citation": "G.R. No. 198889, January 20, 2016",
+    "doctrine": "Likelihood of confusion may concern goods or business/source. The dominant feature, ordinary purchaser, relatedness of goods, and normal potential expansion of business matter; actual confusion is not required.",
+    "examUse": "Frame confusion two ways (goods and business); dominant feature plus related condiments plus business-expansion inference.",
+    "facts": "Barrio Fiesta applied to register PAPA BOY & DEVICE for lechon sauce. UFC opposed using its earlier PAPA and PAPA KETSARAP marks, including for catsup and related condiments.",
+    "id": "case.ufc-barrio-fiesta",
+    "issue": "Was PAPA BOY & DEVICE confusingly similar to UFC's earlier registered PAPA KETSARAP mark for related food products under Sec. 123.1(d)?",
+    "keyPhrase": "confusion of goods and of business may likely result",
+    "name": "UFC Philippines, Inc. v. Barrio Fiesta Manufacturing Corp.",
+    "note": "Reviewer paraphrase: syllabus-relevant facts, issue, ruling and doctrine only.",
+    "provisionIds": [
+      "prov.ip-sec123-1"
+    ],
+    "ruling": "The Court granted UFC's petition and reinstated the IPO rejection of PAPA BOY, finding PAPA dominant in both marks and catsup and lechon sauce closely related condiments; a purchaser could think PAPA BOY belonged to UFC's PAPA sauce family.",
+    "sourceRefs": [
+      {
+        "excerptHint": "UFC digest",
+        "page": "p. 10",
+        "section": "TM Sec. 3",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "citation": "G.R. No. 228165, February 9, 2021, En Banc",
+    "doctrine": "Use the dominancy test. The Court expressly abandoned the holistic test for resemblance of marks under the IP Code.",
+    "examUse": "Cite for the current test (dominancy) and the abandonment of the holistic test; compare visual, aural and connotative impressions of dominant features.",
+    "facts": "The parties asserted competing KOLIN marks over electronic/electrical goods, requiring the Court to settle the proper resemblance test under the IP Code.",
+    "id": "case.kolin-kolin",
+    "issue": "Did the holistic test remain a proper alternative to the dominancy test for trademark resemblance?",
+    "keyPhrase": "the use of the Holistic Test ... has been abandoned",
+    "name": "Kolin Electronics Co., Inc. v. Kolin Philippines International, Inc.",
+    "note": "Reviewer paraphrase: syllabus-relevant facts, issue, ruling and doctrine only.",
+    "provisionIds": [
+      "prov.ip-sec123-1"
+    ],
+    "ruling": "The En Banc Court held the holistic test abandoned and the dominancy test prescribed by the IP Code, comparing dominant features and visual, aural and connotative impressions.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Kolin digest",
+        "page": "p. 10",
+        "section": "TM Sec. 3",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "citation": "G.R. No. 186088, March 22, 2017",
+    "doctrine": "Sec. 123.1(e) looks to knowledge among the relevant sector of the public, including knowledge obtained through promotion; it is not limited to recognition by the public at large.",
+    "examUse": "Cite for well-known marks: relevant-sector knowledge, including promotion-derived knowledge, suffices.",
+    "facts": "Wilton Dy/Philites applied for PHILITES & LETTER P DEVICE for lighting products. Philips opposed, relying on its PHILIPS mark, recognized as registered and well-known in the Philippines.",
+    "id": "case.dy-philips",
+    "issue": "Was PHILITES & LETTER P DEVICE confusingly similar to PHILIPS, engaging well-known mark protection under Sec. 123?",
+    "keyPhrase": "relevant sector of the public",
+    "name": "Dy v. Koninklijke Philips Electronics N.V.",
+    "note": "Reviewer paraphrase: syllabus-relevant facts, issue, ruling and doctrine only.",
+    "provisionIds": [
+      "prov.ip-sec123-1"
+    ],
+    "ruling": "The Court denied the petition and dismissed the PHILITES application, recognizing PHILIPS as registered and well-known and finding the applied-for sign confusingly similar for the same lighting products.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Dy digest",
+        "page": "p. 10",
+        "section": "TM Sec. 3",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "citation": "G.R. Nos. 217781 and 217788, June 20, 2018",
+    "doctrine": "The recurring elements are confusing similarity in the general appearance of the goods and intent to deceive the public and defraud a competitor. Intent may be inferred from the circumstances.",
+    "examUse": "Cite for unfair competition: total commercial presentation plus circumstances showing calculation to deceive and ride on goodwill.",
+    "facts": "San Miguel Pure Foods sold PUREFOODS FIESTA HAM. Foodsphere sold CDO ham in packaging allegedly copying the earlier product's general appearance and layout.",
+    "id": "case.san-miguel-foodsphere",
+    "issue": "Did Foodsphere commit unfair competition by adopting likely misleading packaging, though the products bore different word marks?",
+    "keyPhrase": "intent to deceive the public and defraud a competitor",
+    "name": "San Miguel Pure Foods Co., Inc. v. Foodsphere, Inc.",
+    "note": "Reviewer paraphrase: syllabus-relevant facts, issue, ruling and doctrine only.",
+    "provisionIds": [
+      "prov.ip-sec168"
+    ],
+    "ruling": "The Court sustained the unfair-competition finding, focusing on the total commercial presentation and circumstances supporting a calculated deception riding on established goodwill.",
+    "sourceRefs": [
+      {
+        "excerptHint": "San Miguel digest",
+        "page": "p. 12",
+        "section": "TM Sec. 7",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.trademark"
+    ]
+  },
+  {
+    "citation": "G.R. No. 101897, March 5, 1993",
+    "doctrine": "A term generic or descriptive of a class of institutions is not exclusively appropriable unless secondary meaning is established by evidence.",
+    "examUse": "Cite for genericity/secondary meaning only; the decision arose in the corporate-name context, not as a direct modern Sec. 165 holding.",
+    "facts": "Lyceum of the Philippines sought to stop other educational institutions from using Lyceum in their corporate names.",
+    "id": "case.lyceum-ca",
+    "issue": "Did Lyceum exclusively own the generic/descriptive word through alleged secondary meaning?",
+    "keyPhrase": "Lyceum is generic in character",
+    "name": "Lyceum of the Philippines, Inc. v. Court of Appeals",
+    "note": "Reviewer paraphrase; decided in the corporate-name context - use for genericity/secondary meaning, not as a direct Sec. 165 holding.",
+    "provisionIds": [
+      "prov.ip-sec165-2-4"
+    ],
+    "ruling": "The Court denied the petition: Lyceum commonly denoted educational institutions, petitioner failed to prove sufficiently exclusive use signifying only its school, and the other names were not confusingly similar in their entirety.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Lyceum digest",
+        "page": "p. 13",
+        "section": "Tradename Sec. 3",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.tradename"
+    ]
+  },
+  {
+    "citation": "561 U.S. 593 (2010)",
+    "doctrine": "Comparative only. Use to discuss abstract business methods; Philippine analysis begins with RA 8293 Secs. 21-22.",
+    "facts": "Applicants sought a U.S. patent for a commodity-market risk-hedging method.",
+    "id": "case.bilski-kappos",
+    "issue": "Was the business method patent-eligible, and was machine-or-transformation the exclusive U.S. test?",
+    "keyPhrase": "machine-or-transformation test is not the exclusive test",
+    "name": "Bilski v. Kappos",
+    "note": "U.S. Supreme Court comparative authority; not binding Philippine doctrine.",
+    "provisionIds": [
+      "prov.ip-sec22"
+    ],
+    "ruling": "The U.S. Supreme Court held machine-or-transformation not exclusive, but the hedging claims abstract and ineligible under U.S. law.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Bilski digest",
+        "page": "p. 14",
+        "section": "Patent Sec. 1",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.patent"
+    ]
+  },
+  {
+    "citation": "573 U.S. 208 (2014)",
+    "doctrine": "Comparative only. Adding generic computing to an abstract business idea does not necessarily produce a technical invention under patent law.",
+    "facts": "Patents claimed intermediated settlement implemented on a generic computer.",
+    "id": "case.alice-cls-bank",
+    "issue": "Did generic computer implementation make the abstract settlement idea patent-eligible?",
+    "keyPhrase": "generic computer implementation",
+    "name": "Alice Corp. v. CLS Bank International",
+    "note": "U.S. Supreme Court comparative authority; not binding Philippine doctrine.",
+    "provisionIds": [
+      "prov.ip-sec22"
+    ],
+    "ruling": "The U.S. Supreme Court held the claims abstract; generic computer implementation supplied no sufficient inventive concept for eligibility.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Alice digest",
+        "page": "p. 14",
+        "section": "Patent Sec. 1",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.patent"
+    ]
+  },
+  {
+    "citation": "550 U.S. 398 (2007)",
+    "doctrine": "Comparative only. The Philippine statutory test remains Sec. 26 and Philippine doctrine.",
+    "facts": "The dispute concerned combining an adjustable automobile pedal with an electronic sensor in light of prior art.",
+    "id": "case.ksr-teleflex",
+    "issue": "Was the claimed combination obvious under U.S. patent law, and was the lower court's test overly rigid?",
+    "keyPhrase": "flexible approach to the obviousness question",
+    "name": "KSR International Co. v. Teleflex Inc.",
+    "note": "U.S. Supreme Court comparative authority; not binding Philippine doctrine.",
+    "provisionIds": [
+      "prov.ip-sec26"
+    ],
+    "ruling": "The U.S. Supreme Court rejected a rigid teaching-suggestion-motivation formula for a flexible obviousness inquiry; combining familiar elements by known methods may be obvious if yielding predictable results.",
+    "sourceRefs": [
+      {
+        "excerptHint": "KSR digest",
+        "page": "p. 15",
+        "section": "Patent Sec. 2",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.patent"
+    ]
+  },
+  {
+    "citation": "802 F.2d 989 (8th Cir. 1986)",
+    "doctrine": "Comparative only. Copyright originality is independent creation plus at least a minimal amount of creativity; it is not patent novelty.",
+    "facts": "The dispute concerned a soccer team logo of simple parallel angled lines forming an arrow plus the cursive word Arrows.",
+    "id": "case.muller-arrows",
+    "issue": "Did the logo show enough original creative authorship for U.S. copyright protection?",
+    "keyPhrase": "some creative authorship in its delineation or form",
+    "name": "Muller v. New York Arrows Soccer Team, Inc.",
+    "note": "U.S. Court of Appeals comparative authority; not binding Philippine doctrine.",
+    "provisionIds": [
+      "prov.ip-sec172"
+    ],
+    "ruling": "The court affirmed denial of copyright protection for lack of sufficient creative authorship in delineation or form.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Muller digest",
+        "page": "p. 18",
+        "section": "Copyright Sec. 2",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.copyright"
+    ]
+  },
+  {
+    "citation": "G.R. No. 166391, October 21, 2015",
+    "doctrine": "The decision construed PD 49, not the current RA 8293 wording, and addressed the charge-sufficiency/probable-cause stage. It does not eliminate the prosecution's trial burden.",
+    "examUse": "Limit carefully: PD 49 disjunctive-reading case at the charging stage; do not overstate as current-law doctrine.",
+    "facts": "Microsoft alleged Manansala distributed/sold unauthorized software copies; a test purchase and search yielded illicit copies. The criminal complaint was brought under Sec. 29 of then-applicable PD 49.",
+    "id": "case.microsoft-manansala",
+    "issue": "Could sale/distribution of pirated software support the criminal copyright charge without proof the seller personally reproduced the copies?",
+    "keyPhrase": "sale alone of pirated copies",
+    "name": "Microsoft Corporation v. Manansala",
+    "note": "Reviewer paraphrase: construed PD 49 at the charge/probable-cause stage; do not read as current RA 8293 wording.",
+    "provisionIds": [
+      "prov.ip-sec216"
+    ],
+    "ruling": "The Court reversed the dismissal: PD 49's listed acts were read disjunctively where a conjunctive reading would be absurd, so unauthorized sale/distribution could be an infringing act.",
+    "sourceRefs": [
+      {
+        "excerptHint": "Microsoft digest",
+        "page": "p. 21",
+        "section": "Copyright Sec. 9",
+        "sourceId": "src.rev"
+      }
+    ],
+    "topicIds": [
+      "ba166.ip.copyright"
+    ]
   }
 ]

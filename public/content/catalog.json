@@ -1,6 +1,8 @@
 {
   "version": "0.1.0",
-  "courses": ["ba166"],
+  "courses": [
+    "ba166"
+  ],
   "sourceDocuments": [
     {
       "id": "src.syllabus",
@@ -9,11 +11,20 @@
       "format": "pdf",
       "bytes": 363982,
       "pages": 28,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-a", "ba166.block-b", "ba166.block-c", "ba166.block-d", "ba166.block-e", "ba166.block-f"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-a",
+        "ba166.block-b",
+        "ba166.block-c",
+        "ba166.block-d",
+        "ba166.block-e",
+        "ba166.block-f"
+      ],
       "downloadPath": "/assets/sources/0. BA 166 WFZ AY26-27 - Syllabus (Romero-Aratea) (1).pdf",
-      "available": true,
-      "notes": "Canonical course outline. Browser duplicate-download suffix (1) preserved verbatim."
+      "available": false,
+      "notes": "Canonical course outline. Browser duplicate-download suffix (1) preserved verbatim. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.r01",
@@ -22,11 +33,15 @@
       "format": "pdf",
       "bytes": 111767,
       "pages": 13,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-a"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-a"
+      ],
       "downloadPath": "/assets/sources/BA166_Reviewer_01_Sales.pdf",
-      "available": true,
-      "notes": "Doctrine-first reviewer, Civil Code Arts. 1458-1637 and special laws."
+      "available": false,
+      "notes": "Doctrine-first reviewer, Civil Code Arts. 1458-1637 and special laws. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.r02",
@@ -35,11 +50,15 @@
       "format": "pdf",
       "bytes": 84169,
       "pages": 6,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-a"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-a"
+      ],
       "downloadPath": "/assets/sources/BA166_Reviewer_02_Consumer.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.r03",
@@ -48,11 +67,15 @@
       "format": "pdf",
       "bytes": 59798,
       "pages": 6,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-a"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-a"
+      ],
       "downloadPath": "/assets/sources/BA166_Reviewer_03_Procurement.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.r04",
@@ -61,11 +84,15 @@
       "format": "pdf",
       "bytes": 55655,
       "pages": 5,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-a"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-a"
+      ],
       "downloadPath": "/assets/sources/BA166_Reviewer_04_Ecommerce.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.r05",
@@ -74,11 +101,15 @@
       "format": "pdf",
       "bytes": 57866,
       "pages": 6,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-a"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-a"
+      ],
       "downloadPath": "/assets/sources/BA166_Reviewer_05_Eodb.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.r06",
@@ -87,11 +118,15 @@
       "format": "pdf",
       "bytes": 89566,
       "pages": 8,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-b"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-b"
+      ],
       "downloadPath": "/assets/sources/BA166_Reviewer_06_Credit.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.rev",
@@ -100,11 +135,15 @@
       "format": "pdf",
       "bytes": 109395,
       "pages": 22,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-e"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-e"
+      ],
       "downloadPath": "/assets/sources/BA166_Revised_Statute_and_Case_Reviewer.pdf",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.amla",
@@ -112,11 +151,15 @@
       "role": "reviewer",
       "format": "docx",
       "bytes": 56423,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-c"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
       "downloadPath": "/assets/sources/Anti_Money_Laundering_Act_Reviewer (2).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.bp22",
@@ -124,11 +167,15 @@
       "role": "reviewer",
       "format": "docx",
       "bytes": 48865,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-c"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
       "downloadPath": "/assets/sources/Bouncing_Checks_Law_Reviewer (1).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.ins1",
@@ -136,11 +183,15 @@
       "role": "reviewer",
       "format": "docx",
       "bytes": 61032,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-d"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-d"
+      ],
       "downloadPath": "/assets/sources/Insurance_Law_Reviewer (1).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.ins2",
@@ -148,11 +199,15 @@
       "role": "reviewer",
       "format": "docx",
       "bytes": 67278,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-d"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-d"
+      ],
       "downloadPath": "/assets/sources/Insurance_Law_Reviewer_Part_2 (1).docx",
       "available": false,
-      "notes": "Converted in a later slice; not yet in the prototype library."
+      "notes": "Converted in a later slice; not yet in the prototype library. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-amla",
@@ -160,11 +215,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 78054,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-c"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
       "downloadPath": "/assets/sources/0fd27c79-b7e0-4a22-9962-0cdcf09f655d.jpg",
       "available": false,
-      "notes": "Syllabus p. 17 AMLA outline capture; transcription backlog."
+      "notes": "Syllabus p. 17 AMLA outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-labor-hours",
@@ -172,11 +231,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 113604,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-f"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
       "downloadPath": "/assets/sources/0ff91243-5adf-4b64-97ae-b50e93844ece.jpg",
       "available": false,
-      "notes": "Labor hours-of-work outline capture; transcription backlog."
+      "notes": "Labor hours-of-work outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-labor-wages",
@@ -184,11 +247,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 144539,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-f"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
       "downloadPath": "/assets/sources/12c66c9a-284c-4a01-ac7a-b7be0423a7eb.jpg",
       "available": false,
-      "notes": "Labor holiday/wages/leaves outline capture; transcription backlog."
+      "notes": "Labor holiday/wages/leaves outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-labor-leaves",
@@ -196,11 +263,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 27758,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-f"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-f"
+      ],
       "downloadPath": "/assets/sources/25ca9d4e-d9c1-4771-becf-4841c8bf81ed.jpg",
       "available": false,
-      "notes": "Narrow strip: leaves/special workers; transcription backlog."
+      "notes": "Narrow strip: leaves/special workers; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-ins-2",
@@ -208,11 +279,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 69651,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-d"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-d"
+      ],
       "downloadPath": "/assets/sources/824ae853-8c15-4f1c-a745-a52ea4dff4d5.jpg",
       "available": false,
-      "notes": "Insurance rescission/claims outline capture; transcription backlog."
+      "notes": "Insurance rescission/claims outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-ins-1",
@@ -220,11 +295,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 63561,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-d"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-d"
+      ],
       "downloadPath": "/assets/sources/ac3d3dc8-ea2b-4f35-8b02-010796f5bccc.jpg",
       "available": false,
-      "notes": "Insurance items 1-5 outline capture; transcription backlog."
+      "notes": "Insurance items 1-5 outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-dpa",
@@ -232,11 +311,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 45988,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-e"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-e"
+      ],
       "downloadPath": "/assets/sources/db547204-6f14-465c-83b1-1e2cb9a6ebd3.jpg",
       "available": false,
-      "notes": "Data Privacy Act outline capture; transcription backlog."
+      "notes": "Data Privacy Act outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-tm",
@@ -244,11 +327,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 74877,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-e"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-e"
+      ],
       "downloadPath": "/assets/sources/dc278e4f-9768-4863-9b81-a1f57f99f4e4.jpg",
       "available": false,
-      "notes": "IP trademark outline capture; transcription backlog."
+      "notes": "IP trademark outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     },
     {
       "id": "src.jpg-bp22",
@@ -256,11 +343,15 @@
       "role": "outlineImage",
       "format": "jpg",
       "bytes": 38130,
-      "courseIds": ["ba166"],
-      "blockIds": ["ba166.block-c"],
+      "courseIds": [
+        "ba166"
+      ],
+      "blockIds": [
+        "ba166.block-c"
+      ],
       "downloadPath": "/assets/sources/fb5b8313-b516-40bc-b4aa-9bb7096a18de.jpg",
       "available": false,
-      "notes": "Syllabus p. 16 Bouncing Checks outline capture; transcription backlog."
+      "notes": "Syllabus p. 16 Bouncing Checks outline capture; transcription backlog. Originals are attributed, not publicly distributed (Phase 2B policy)."
     }
   ]
 }
