@@ -3,6 +3,53 @@
 Living log of implementation-level decisions. Product decisions from Phase 1
 stand; nothing here overrides them. Entries newest-first.
 
+## 2026-11-10 — Phase 2E verbatim + FIR-D retrofit
+
+- **Method: parallel research agents + deterministic merge.** 7 agents filled
+  disjoint provision/case sets from official online texts (LawPhil, Official
+  Gazette, SC E-Library; one instrument page fetched per instrument) into
+  patch files outside the repo; an 8th agent mechanically verified coverage
+  (235/235 provisions + 10/10 cases, every fill with a sources URL, no
+  overlaps, exact id-set match). The merger applied them with an
+  assert-before-write script (abort on any violation) after independently
+  corroborating the two citation fixes (Paylago/Cheng via LawPhil +
+  ChanRobles search) and spot-checking AMLA Sec. 4(f) (SC E-Library) and NCC
+  Art. 1458 (multiple sources). Result: 584/584 provisions with verbatim,
+  61/61 cases with full FIR-D.
+- **3 AMLA corrections accepted.** `prov.ra9160-sec3a` (condensed paraphrase
+  omitting the lawyers/accountants exclusion → full RA 10365 Sec. 1 text),
+  `prov.ra10168-sec4` (cut mid-sentence → completed with penalty clause +
+  paragraphs), `prov.ra9160-sec4` (truncated mid-word at "(d)...(a), (b) or
+  (" → completed (d)–(f); the (f) text corroborated against the E-Library).
+  `prov.ra9160-sec3i` got verbatim (RA 10365 items 1–34) plus a currency note
+  in `explanation` about RA 11521's restated items 33–36.
+- **2 case citations fixed (verified, not silent).** `case.paylago` "G.R. No.
+  38152, September 20, 1990" → "G.R. No. L-20046, March 27, 1968" (the stored
+  number belongs to Paylago v. Nicolas, a different case); `case.cheng-genato`
+  "G.R. No. 222530 (2019)..." → "G.R. No. 129760, December 29, 1998" (222530
+  is Manlan v. Beltran, which merely cites the Cheng Art. 1544 requisites).
+  Rulings taken from the correct decisions; patch sources record the URLs.
+- **Provenance committed.** `PHASE2E_VERBATIM_SOURCES.json` maps every filled
+  id → official URL. Audit trail only; not read by the app.
+- **Normalization policy.** `[Excerpt]` prefix for partial-section quotes,
+  `[...]` at internal omissions — new convention, none existed before.
+  Unambiguous digitization artifacts fixed only where the Gazette and LawPhil
+  copies share them and plain English is certain (10 in RA 10173); evident
+  single-source typos preserved verbatim and flagged for Gazette cross-check
+  (full lists in NEXT_UP §1).
+- **Opportunistic re-verification only.** 7 filled NCC verbatims + AMLA Secs.
+  2/3(b)/3(b)(1)/3(a)–(c)/3(d)–(e) checked against fetched pages (clean
+  modulo punctuation/case). Systematic re-verify of all pre-2E verbatims and
+  the accountancy-voice audit remain open (see NEXT_UP).
+- **Known content flags (recorded, not edited).**
+  `prov.ip-sec186` explanation/citation mismatch (official Sec. 186 is Work
+  of Architecture; explanation describes government translation rights);
+  RA 8792 sec7/sec8 explanation shift (sec7 explanation describes Sec. 8,
+  sec8 describes Sec. 13); `prov.ra9160-sec9c` explanation states the
+  superseded RA 9194 rule (correct text spans RA 9194 + RA 10365);
+  `prov.ra12009-suspension-blacklisting` cites "Sec. 3(j)" but RA 12009
+  Sec. 3 has only (a)–(h) (fill covers Sec. 5(g) + Secs. 98–105).
+
 ## 2026-11-09 — Phase 2D research-backed modules
 
 - **Legal-source schema + provenance.** `sourceDocument` gains `role:

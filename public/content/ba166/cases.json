@@ -21,7 +21,8 @@
         "excerptHint": "Case digest"
       }
     ],
-    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12).",
+    "ruling": "The Court modified the trial court's decision and granted specific performance: the Cervantes spouses were ordered to convey the three Buendia lots to Bormaheco, which was in turn ordered to execute a registerable deed of sale in favor of Villonco Realty at P400.00 per square meter (less the P100,000 already paid), with Villonco to pay the P1,300,000 balance upon execution; Bormaheco was also ordered to pay P20,000 attorney's fees to Villonco and P42,000 commission to broker Edith Perez de Tagle, with costs against the defendants-appellants."
   },
   {
     "id": "case.sanchez-rigos",
@@ -45,7 +46,8 @@
         "excerptHint": "Case digest"
       }
     ],
-    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12).",
+    "ruling": "The Court affirmed the judgment for Sanchez: Rigos was ordered to accept the judicially consigned P1,510 and execute the deed of conveyance, plus P200 attorney's fees and costs. The en banc Court reiterated the Atkins, Kroll doctrine - the offer remaining unwithdrawn when timely accepted ripens into a binding contract - and deemed the inconsistent Southwestern Sugar view abandoned or modified."
   },
   {
     "id": "case.tanay",
@@ -67,7 +69,8 @@
         "excerptHint": "Case digest"
       }
     ],
-    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12).",
+    "ruling": "The petition was PARTIALLY GRANTED: the 1990 sale to Pacunayen was deemed rescinded; Fausto's heirs were ordered to recognize TRCDC's priority right to purchase on reasonable terms (remanded to the RTC to fix them); TCT No. M-35468 stays with Pacunayen unless TRCDC completes the purchase; and respondents were ordered to pay P20,000 actual damages (6% interest from complaint filing, 12% after finality) plus P10,000 attorney's fees and costs."
   },
   {
     "id": "case.umcpab",
@@ -92,12 +95,13 @@
         "excerptHint": "Case digest"
       }
     ],
-    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12).",
+    "ruling": "The petition was DENIED and the CA and RTC decisions AFFIRMED: the letters of intent were mere expressions of intention - not a sale, option, or binding bilateral promise - and UMCUPAI's failure to raise funds for Lot No. 300-C before its sale to BRYC-V could not be blamed on SFC. Costs against petitioner."
   },
   {
     "id": "case.cheng-genato",
     "name": "Cheng v. Genato",
-    "citation": "G.R. No. 222530 (2019), citing the Art. 1544 discussion",
+    "citation": "G.R. No. 129760, December 29, 1998",
     "facts": "Cited in the reviewer for the requisites of the double-sale rule rather than through a full fact pattern.",
     "issue": "When does the Art. 1544 priority ladder apply?",
     "doctrine": "Art. 1544 applies only where: (1) at least two valid sales cover exactly the same subject matter; (2) the buyers' interests conflict; and (3) both acquired from the same seller. Good faith is a separate and decisive inquiry at the relevant point.",
@@ -116,12 +120,13 @@
         "excerptHint": "Cheng requisites; drill"
       }
     ],
-    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12).",
+    "ruling": "The petition was DENIED and the CA decision AFFIRMED en toto: Cheng's complaint was dismissed, the annotations on Genato's titles cancelled, the Da Jose spouses (holders of the annotated contract to sell, first in good faith) were ordered to pay the balance with Genato ordered to execute the deed of absolute sale in their favor, Genato was ordered to return Cheng's P50,000, and Cheng was ordered to pay moral/exemplary damages and attorney's fees - the Court finding Cheng in bad faith for pursuing the deal with knowledge of the Da Jose agreement."
   },
   {
     "id": "case.paylago",
     "name": "Paylago v. Jarabe",
-    "citation": "G.R. No. 38152, September 20, 1990",
+    "citation": "G.R. No. L-20046, March 27, 1968",
     "facts": "Competing land claims arose from dealings involving hereditary and co-owner interests and a parcel with a history of earlier transfers.",
     "issue": "Can a party rely on a priority rule without proving the legally relevant title, authority, and good-faith facts?",
     "doctrine": "Resolving competing claims first requires determining what share the transferor could convey, the operative title, and the relevant facts concerning possession or registration. Do not jump directly to Art. 1544 without establishing its requisites.",
@@ -140,7 +145,8 @@
         "excerptHint": "Case digest"
       }
     ],
-    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12)."
+    "note": "Reviewer paraphrase of doctrine, not a verbatim quotation (per R01 pp. 2, 12).",
+    "ruling": "The appealed decision was AFFIRMED, with costs against the Paylago spouses: the Court sustained the finding that they were not purchasers in good faith - they knew and admitted in a lease that Jarabe had possessed the half-hectare since 1945 - so their later registered title could not prevail over Jarabe, the prior purchaser in continuous possession since 1938; registration without good faith is not enough under Art. 1544."
   },
   {
     "citation": "G.R. No. 207078, June 20, 2022",
@@ -372,7 +378,10 @@
     ],
     "topicIds": [
       "ba166.consumer.deceptive-acts"
-    ]
+    ],
+    "facts": "DTI-NCR records showed at least 273 consumer complaints (2001-2007) against Aowa sharing a common pattern: mall customers were lured with \"gifts\" or raffle/contest prizes that could be claimed only upon buying allegedly high-quality but substantially priced products; the purchase condition was disclosed only after customers were inside the store surrounded (\"ganged up on\") by sales representatives; customers short of cash were pressed to use credit cards, withdraw from ATMs, or were even accompanied home to produce payment. DTI-NCR filed a Formal Charge for violation of Consumer Act Arts. 50 and 52; the Adjudication Officer (April 10, 2008) declared Aowa liable - ordering permanent nationwide cease-and-desist, cancellation of business-name registrations, and withholding of new registrations - and the DTI Appeals Committee and the CA (June 23, 2009) affirmed.",
+    "issue": "Did the CA commit reversible error in affirming the DTI finding that Aowa's sales scheme violated Consumer Act Arts. 50 and 52?",
+    "ruling": "No. The Court denied the petition and affirmed the CA: Aowa's scheme - concealment of the purchase condition, \"ganging up\" on customers, and high-pressure collection tactics - was a deceptive act under Art. 50 and an unfair/unconscionable practice under Art. 52, and the DTI acted within its mandate to protect consumers. Costs against Aowa."
   },
   {
     "doctrine": "Connect the facts of the assigned decision to the applicable Consumer Act articles and the relevant special statute/rule. (Reviewer framing guidance; the reviewer gives no facts or holding for this case.)",
@@ -393,7 +402,10 @@
     ],
     "topicIds": [
       "ba166.consumer.deceptive-acts"
-    ]
+    ],
+    "facts": "In November 2008 PMPMI applied through advertising agencies for BFAD sales-promotion permits under Consumer Act Art. 116 for its \"Gear Up\" and \"Golden Stick\" tobacco promos. BFAD inaction and verbal invocation of a DOH memorandum banning tobacco promotions followed; on January 5, 2009 BFAD formally denied the Gear Up application, ruling that as of July 1, 2008 all tobacco promotions, advertisements and sponsorships were already prohibited under RA 9211. PMPMI's administrative appeal failed, but the CA (August 26, 2011) found grave abuse of discretion, holding RA 9211 merely restricts (not bans) promotions and that jurisdiction over tobacco promotions belongs to the IAC-Tobacco.",
+    "issue": "Did the CA err in holding that RA 9211 impliedly repealed DOH/BFAD's Art. 116 authority over tobacco sales promotions in favor of the IAC-Tobacco, and in finding grave abuse of discretion in DOH's total ban on tobacco promotions?",
+    "ruling": "No. The Court denied DOH's petition: RA 9211 impliedly repealed DOH's Art. 116 authority over tobacco sales promotions, giving the IAC-Tobacco primary jurisdiction; DOH's construction that RA 9211 completely banned promotions was declared null and void; the CA was affirmed with the modification that PMPMI's applications were remanded to the IAC-Tobacco for appropriate action."
   },
   {
     "doctrine": "Build the statutory analysis around Civil Code Arts. 1546-1547 and the relevant Consumer Act provision, identifying which warranty was alleged and whether the pattern concerned a defect, a representation, or a promised service. (Reviewer framing guidance; the reviewer fabricates no precise holding.)",
@@ -415,7 +427,10 @@
     ],
     "topicIds": [
       "ba166.consumer.warranties"
-    ]
+    ],
+    "facts": "On November 27, 1997 De Guzman bought a brand-new Toyota Hi-Lux (1996 model) from Toyota Cubao for P508,000 (P152,400 down, P355,600 balance payable in 36 months at 54% interest); the vehicle was delivered two days later. On October 18, 1998 he demanded a new replacement engine after it developed a crack traversing Marcos Highway during heavy rain, invoking implied warranty; Toyota Cubao denied coverage. He sued for damages on April 20, 1999 - about 17 months after delivery - and the RTC dismissed the complaint on prescription.",
+    "issue": "Was the implied-warranty action already barred by prescription when filed about 17 months after delivery?",
+    "ruling": "Yes. The Court denied the petition for violating the hierarchy of courts and, in any event, for lack of merit: the redhibitory action under Civil Code Art. 1571 prescribes in six months from delivery, and even under RA 7394 the implied warranty for new consumer products endures at most one year - both periods had lapsed when the April 1999 complaint was filed."
   },
   {
     "citation": "G.R. No. 172592, July 11, 2008",
@@ -534,7 +549,10 @@
     ],
     "topicIds": [
       "ba166.credit.rem"
-    ]
+    ],
+    "facts": "The Suico spouses mortgaged Mandaue City properties to PNB; on default PNB extrajudicially foreclosed (EJF Case No. 92-5-15), with the notice of sale stating an obligation of P1,991,770.38 as of March 10, 1992. At the October 30, 1992 auction PNB, the lone bidder, bid P8,511,000 but never delivered the bid price or the surplus to the sheriff. The RTC nullified the foreclosure over the notice discrepancy; the CA reversed, upholding the sale's validity and (on reconsideration) merely ordering PNB to pay the filing-fee deficiency.",
+    "issue": "Did the notice-of-sale amount discrepancy and PNB's failure to deliver the bid price or surplus nullify the extrajudicial foreclosure sale?",
+    "ruling": "No as to validity, but PNB must disgorge the surplus. The Court modified the CA: the sale stands - the amount discrepancy did not mislead bidders or sacrifice the property, and retaining the surplus does not invalidate the sale but gives the mortgagor a cause of action to recover it, the mortgagee being deemed trustee of the unconsumed balance - and directed PNB to return P2,101,185.08 to the Suicos with 6% interest from complaint filing (12% after finality until paid), costs against PNB."
   },
   {
     "doctrine": "A health-care agreement can be a contract of insurance when its substance is an undertaking, for consideration, to cover loss or expenses resulting from illness or hospitalization. The nature of the promise — not only the contract's label — matters.",
